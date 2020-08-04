@@ -17,7 +17,20 @@ To be filled in
 
 ## Book Clubs
 
-## Printers
+## Interneet, Printing and Computers
+
+## Available skills?
+
+* Sewing machine
+* Knitting, crochet or tapestry
+* Bookkeeping
+* Personal assistant
+* Hair styling
+* Graphics, photgraphy
+* Selling on Ebay
+* Wrting, editing, blogging
+* Law, insurance, beneefits
+
 
 
 
