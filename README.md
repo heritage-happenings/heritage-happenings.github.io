@@ -3,7 +3,7 @@ an unofficial presence for Heritage on the Marina
 
 To be filled in
 
-## Phamacy
+## Pharmacy
 
 ## Personal Laundry
 
