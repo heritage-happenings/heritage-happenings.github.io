@@ -1,8 +1,6 @@
 # heritage-marina.github.io
-an unofficial presence for Heritage on the Marina
+an unofficial presence for [Heritage on the Marina]( https://heritageonthemarina.org/ )
 
-* Mary Coughland
-* Maya Hovey
 
 To be filled in
 
