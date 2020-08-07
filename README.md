@@ -1,13 +1,14 @@
 # heritage-marina.github.io
 an unofficial presence for Heritage on the Marina
 
-Mary Coughland
+* Mary Coughland
+* Maya Hovey
 
 To be filled in
 
 ## Pharmacy
 
-* Safeway = noe delivery
+* Safeway ~ no delivery?
 * Han - prescription pick service
 * Walgreen online
 
@@ -38,9 +39,9 @@ To be filled in
 
 ## Outdoor restaurants
 
-Balboa
-Perry's
-Roast beef - buch * chest
+* Cafe Balboa
+* Perry's
+* Roast beef - buch * chest
 
 
 ## Book Clubs
