@@ -1,23 +1,55 @@
 # heritage-marina.github.io
 an unofficial presence for Heritage on the Marina
 
+Mary Coughland
+
 To be filled in
 
 ## Pharmacy
 
+* Safeway = noe delivery
+* Han - prescription pick service
+* Walgreen online
+
 ## Personal Laundry
+
+* Marina laubdrt
+* Eileen
 
 ## Hair Dresser
 
-## Food deliivery
+* downstairs Jonathan
+
+
+
+## Food delivery
+
+* shipt ~ tip 
+* Instacart
 
 ## Outdoor WiFi
 
+
+
 ## Outdoor Coffee
+
+* La mareee
+
+
+## Outdoor restaurants
+
+Balboa
+Perry's
+Roast beef - buch * chest
+
 
 ## Book Clubs
 
-## Interneet, Printing and Computers
+
+
+## Internet, Printing and Computers
+
+
 
 ## Available skills?
 
