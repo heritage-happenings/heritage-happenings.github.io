@@ -1,11 +1,30 @@
 # Theo first impressions
 
-
+* Night owl cure: good breakfast
+* Scheduled meals ~ helps scheduling
+* Outside walking
+* One flight of stairs
+* People to talk to
+* Staff have time to talk
+* People to answer questions
+* Garden
+* Things to look at
+* Places to sit
+* Fast web
+* Food is fun
+* Food is healthy
+* Portions are good
+* Lots of info
+* Activities exist
+* Helpful personal maintenance
+* Bathroom feels safe
+* Calm
+* Social Distance
 
 ## Walking
 
 * entrances on three sides of the property enable multiple walking routes right from the start
-* Select walk ambiance: urban ( Chestnust Street), sporty ( the play ground), seaside ( Marina Green ) 
+* Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green ) 
 * Acceptable social distancing
 * flat for walkers
 
@@ -24,11 +43,13 @@
 
 * the staff are friendly
 
-## Activities
+## Social Services / Activities
 
+* Activities
 
 ## Maintenance
 
+* Competant 
 
 ## Facilities
 
