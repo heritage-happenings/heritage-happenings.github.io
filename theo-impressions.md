@@ -18,8 +18,10 @@
 * Activities exist
 * Helpful personal maintenance
 * Bathroom feels safe
-* Calm
+* Calm and quiet
 * Social Distance
+* Emergency button works
+
 
 ## Walking
 
