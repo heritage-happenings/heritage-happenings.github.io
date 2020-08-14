@@ -1,6 +1,6 @@
 # Theo first impressions
 
-the staff are friendly
+
 
 ## Walking
 
@@ -18,8 +18,11 @@ the staff are friendly
 
 ## Residents
 
+
+
 ## Staff
 
+* the staff are friendly
 
 ## Activities
 
@@ -29,9 +32,10 @@ the staff are friendly
 
 ## Facilities
 
+
 ## Apartments
 
 
 
-## Pandemiic Tracking
+## Pandemic Tracking
 
