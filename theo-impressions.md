@@ -21,7 +21,7 @@
 * Calm and quiet
 * Social Distance
 * Emergency button works
-
+* Laundry
 
 ## Walking
 
