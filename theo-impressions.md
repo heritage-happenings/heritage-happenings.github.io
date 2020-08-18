@@ -18,6 +18,7 @@
 * Connect to the Internet from everywhere
 
 ## Beauty
+
 * Julia Morgan lives
 * Garden ~ see beauty every day
 * Calm and quiet and serenity rules
