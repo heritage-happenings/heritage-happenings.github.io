@@ -1,4 +1,5 @@
 # heritage-marina.github.io
+
 an unofficial presence for [Heritage on the Marina]( https://heritageonthemarina.org/ )
 
 
@@ -12,7 +13,7 @@ To be filled in
 
 ## Personal Laundry
 
-* Marina laubdrt
+* Marina laundry
 * Eileen
 
 ## Hair Dresser
@@ -23,7 +24,7 @@ To be filled in
 
 ## Food delivery
 
-* shipt ~ tip 
+* shipt ~ tip
 * Instacart
 
 ## Outdoor WiFi
@@ -57,10 +58,10 @@ To be filled in
 * Bookkeeping
 * Personal assistant
 * Hair styling
-* Graphics, photgraphy
+* Graphics, photography
 * Selling on Ebay
-* Wrting, editing, blogging
-* Law, insurance, beneefits
+* Writing, editing, blogging
+* Law, insurance, benefits
 
 
 
