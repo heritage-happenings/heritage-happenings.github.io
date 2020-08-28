@@ -30,17 +30,16 @@ To be filled in
 ## Outdoor WiFi
 
 
-
 ## Outdoor Coffee
 
-* La mareee
+* La Marée
 
 
 ## Outdoor restaurants
 
 * Cafe Balboa
 * Perry's
-* Roast beef - buch * chest
+* Roast beef - buchanan & chestnut
 
 
 ## Book Clubs

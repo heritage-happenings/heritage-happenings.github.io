@@ -3,16 +3,20 @@
 ## Location
 
 * [‘There are three things that matter in property: location, location, location.’]( https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html )  -  the Heritage has all three
-* [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
+* Very highe: [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
 * https://en.wikipedia.org/wiki/Walkability
 * Outside walking
-
-
+* Clean air
+* Can hear the seals ( and fog horns )
+* Nature
+* Trendy
+* Flat
+* Village street nearby
 
 ## Social
 
 * 100 residents to talk to
-* 100 Staff have time to talk
+* 100 staff have time to talk
 * People to answer questions
 * Lots of info ~ web, TV and paper
 * Connect to the Internet from everywhere
@@ -24,6 +28,7 @@
 * Calm and quiet and serenity rules
 * Things to look at
 * Places to sit
+* Nature
 
 ## Nourishment
 
@@ -46,6 +51,7 @@
 * Emergency button works
 
 ## Premises
+
 * Smells
 * Sounds
 * Big elevators
@@ -56,12 +62,21 @@
 * Helpful personal maintenance
 * Disabled friendly
 * Bathroom feels safe
+
+## Cleanliness
+
 * Laundry - clean towels, clean apartments, premises
 
+## Security
 
-
-
-
+* People on duty 24/7
+	* No need to lock and unlock apartment door
+* Buttons above bed and next to toilet
+* Life call pendent
+* Door check
+* Twice daily pandemic check
+* Three meals check
+* Comcast? Internet security ~ HIPAA certified
 
 ***
 
@@ -89,9 +104,14 @@
 ## Food
 
 * complex recipes - gumbo, vindaloo, lamb, porcini burgers, fishes galore
-* ten, twenty, thirty ingredients per meal - excellent supply of vitamins, micro-nutrients and amin acids
-* Small portion size
+* Ten, twenty, thirty ingredients per meal - excellent supply of vitamins, micro-nutrients and amin acids
+* Moderate and reasonable portion sizes
 * Times define a schedule
+* Wine
+* Choose your own
+* Fridge with drinks
+* Free coffee & tea
+* Yoghurts and milk
 
 ## Residents
 
@@ -100,6 +120,8 @@
 ## Staff
 
 * the staff are friendly
+* V good HR ~ 401K Health plans
+
 
 ## Social Services / Activities
 
@@ -108,6 +130,8 @@
 ## Maintenance
 
 * Competent
+* Cleanliness
+* Ticketing system
 
 ## Facilities
 
@@ -115,6 +139,7 @@
 ## Apartments
 
 
-
 ## Pandemic Tracking
+
+## Sustainability
 

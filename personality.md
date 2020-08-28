@@ -1,12 +1,13 @@
 # Personality Types
 
+
 ## http://www.personality-project.org/
 
 
 ## https://personalitypage.com
 
 * A high-level look at Psychological Type | Information About Personality Type
-* Key words: MBTI mbti personality relationship career myers briggs meyers briggs psychology mind test questionnaire jung bsm consulting
+* Key words: MBTI personality relationship career myers briggs meyers briggs psychology mind test questionnaire jung bsm consulting
 
 The theory of Personality Types, as it stand today, contends that:
 
@@ -22,13 +23,12 @@ The theory of Personality Types, as it stand today, contends that:
 ## https://truecolorsintl.com/
 
 
-## https://implicit.harvard.edu/implicit/selectatest.html
-
-
 ## https://www.goodlifeproject.com/
 
 * Theo: https://my-personality-test.com/results/3444759974157229867/true-colours
 
+
+## https://implicit.harvard.edu/implicit/selectatest.html
 
 
 ## Links of Interest
@@ -55,7 +55,6 @@ Portals
 * http://www.humanmetrics.com/
 
 
-
 About
 
 * https://www.scientificamerican.com/article/how-accurate-are-personality-tests/
@@ -69,3 +68,30 @@ More
 * https://www.psychologytoday.com/us/articles/200011/be-your-own-shrink
 * https://www.psychologytoday.com/us/articles/201511/think-shrink
 * https://prezi.com/ucl7cftp4ags/compare-and-contrast-various-forms-of-personality-tests/
+
+Books
+
+* https://www.amazon.com/Yourself-Unfair-Advantage-William-Murray/dp/1878287028
+
+
+## Notes: Give yourself an unfair advantage
+
+### Attitude
+
+* Extravert: the outer world of people, places and things
+* Introvert: our inner world of ideas, concepts and images
+
+### Perceiving
+
+* Senser: using our 5 senses (sight, hearing, touch, smell, tasten) To give us the present facts about the world. we know, because we can see it here it, touch it etc
+* iNtuitive: a "sixth sense" that uses instant mental interconnections to show us the meanings of things. we know, we don't know how we know it; it's a hunch we can rely on
+
+### Judging
+
+* Thinking: Deciding objectively, using the laws of logic as the criteria. A rational process.
+* Feeling: Starting subjectively, using personal values as the criteria. also a rational process, but the criteria are different
+
+### Life styles
+
+* Perceiving: Getting more and more information, delaying decisions
+* Judging: Deciding as quickly as possible, shutting off information flow as soon as it's feasible to decide and move on
