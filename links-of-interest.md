@@ -1,6 +1,8 @@
 # Links of Interest
 
-## Government gencies
+Web sites that may be of onterest to the elderly
+
+## Government Agencies
 
 * https://acl.gov/programs/aging-and-disability-networks
 * https://www.nia.nih.gov/
@@ -28,6 +30,7 @@ With Agendas
 
 News
 
+* https://www.mcknights.com/
 * https://www.nextavenue.org/
 * https://www.theseniorlist.com/
 
