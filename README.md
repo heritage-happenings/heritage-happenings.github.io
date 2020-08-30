@@ -1,67 +1,10 @@
-# heritagesf.github.io
+# Unofficial Heritage on the Marina
 
-an unofficial presence for [Heritage on the Marina]( https://heritageonthemarina.org/ )
+An unofficial web presence presence for residents and staff of the [Heritage on the Marina]( https://heritageonthemarina.org/ )
 
+## [Links of Interest]( #links-of-interest )
 
-To be filled in
+## [Theo's first impressions]( #theo-first-impressions.md )
 
-## Pharmacy
-
-* Safeway ~ no delivery?
-* Han - prescription pick service
-* Walgreen online
-
-## Personal Laundry
-
-* Marina laundry
-* Eileen
-
-## Hair Dresser
-
-* downstairs Jonathan
-
-
-
-## Food delivery
-
-* shipt ~ tip
-* Instacart
-
-## Outdoor WiFi
-
-
-## Outdoor Coffee
-
-* La Marée
-
-
-## Outdoor restaurants
-
-* Cafe Balboa
-* Perry's
-* Roast beef - buchanan & chestnut
-
-
-## Book Clubs
-
-
-
-## Internet, Printing and Computers
-
-
-
-## Available skills?
-
-* Sewing machine
-* Knitting, crochet or tapestry
-* Bookkeeping
-* Personal assistant
-* Hair styling
-* Graphics, photography
-* Selling on Ebay
-* Writing, editing, blogging
-* Law, insurance, benefits
-
-
-
+***
 
