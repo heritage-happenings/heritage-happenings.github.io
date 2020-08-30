@@ -1,4 +1,4 @@
-# heritage-marina.github.io
+# heritagesf.github.io
 
 an unofficial presence for [Heritage on the Marina]( https://heritageonthemarina.org/ )
 
