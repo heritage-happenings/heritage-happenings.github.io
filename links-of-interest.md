@@ -1,8 +1,41 @@
 # Links of Interest
 
-## Agencies
+## Government gencies
 
 * https://acl.gov/programs/aging-and-disability-networks
+* https://www.nia.nih.gov/
+
+San Francisco
+
+* https://www.sfhsa.org/services
+
+
+## Organizations
+
+* https://www.asaging.org/
+* https://www.aginglifecare.org/
+* https://www.ncoa.org/
+* https://www.ioaging.org/
+* https://www.buckinstitute.org/
+
+With Agendas
+
+* https://www.aarp.org/
+* http://www.canhr.org/
+
+
+## Websites for elders
+
+News
+
+* https://www.nextavenue.org/
+* https://www.theseniorlist.com/
+
+Forums
+
+* http://www.seniorsonly.club/
+* https://www.silversurfers.com/silversurfers-forum/
+
 
 ## Factors for choosing a community
 
@@ -13,4 +46,8 @@
 * https://www.seniorliving.org/independent-living/
 * https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf
 
+
+## Books
+
+* https://www.amazon.com/Successful-Aging-Neuroscientist-Explores-Potential/dp/1524744182
 
