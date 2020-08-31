@@ -51,6 +51,9 @@ perhaps a better title for this document might be "Theo's endless impressions"
 	* Dieticuian designed
 	* Published nuttrician data
 * Portions are right sized
+* always have choices
+* always choose alternatives
+* Always dietary restrictions
 * Peets coffee, yoghurt and more
 
 ## Community
@@ -146,6 +149,8 @@ perhaps a better title for this document might be "Theo's endless impressions"
 
 ## Residents
 
+* Age 60s-103
+
 
 
 ## Staff
@@ -179,6 +184,15 @@ perhaps a better title for this document might be "Theo's endless impressions"
 
 ## Facilities
 
+* Gethering places
+* Two pianos
+* Organ
+* Two libraries
+* Chapel
+* Art room with supplies
+* Computers and printers
+* Exercise facility
+
 
 ## Apartments
 
@@ -191,6 +205,14 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Occasional swab tests
 * All food to apartments
 
+## Events
+
+*  FROM
+
+## Transportation
+
+* Bus
+* Taxi fares
 
 
 ## Sustainability
