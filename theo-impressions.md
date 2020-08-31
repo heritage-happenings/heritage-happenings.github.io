@@ -85,8 +85,19 @@ perhaps a better title for this document might be "Theo's endless impressions"
 
 * Nurse on duty 24/7
 
+## Security of person
 
-## Security
+## Emotional Security
+
+
+## Security Financial
+
+* Endowment
+* Insurance
+* 901
+* Licenses
+
+## Security Hazards /  Accidents / Illness
 
 * Security on duty 24/7
 	* No need to lock and unlock apartment door
@@ -98,6 +109,8 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Three meals check
 * Comcast? Internet security ~ HIPAA certified
 
+## Security Rights & Liberties
+
 
 ## Walking
 
@@ -105,6 +118,19 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green )
 * Acceptable social distancing
 * flat for walkers
+* Long inside walks
+* City views from fourth floor
+* Terraces
+* Gardens
+
+## Handicap access
+
+* Handrails both sides
+	* All stairs
+	* All public residential area walls
+* large wheelchair elevators
+* All halls allow for wheel chairs passing
+
 
 ## Food
 
@@ -163,6 +189,9 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Data updated frequently and updated on web site
 * Twice daily tests for residents and staff
 * Occasional swab tests
+* All food to apartments
+
+
 
 ## Sustainability
 
