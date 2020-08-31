@@ -7,4 +7,3 @@ An unofficial web presence presence for residents and staff of the [Heritage on 
 ## [Theo's first impressions]( #theo-impressions.md )
 
 ***
-
