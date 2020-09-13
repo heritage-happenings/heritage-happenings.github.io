@@ -4,12 +4,23 @@
 
 soon after I moved in I decided I wanted to write down my first impressions of the heritage. I thought that making a list of 21 items would be good.
 
-the list keeps getting longer and longer. I just thought it would be a good thing to put the items into categories. so I started looking into the different refuse to recommend Independent Living centers. 
+the list keeps getting longer and longer. I just thought it would be a good thing to put the items into categories. so I started looking into the different refuse to recommend Independent Living centers.
 
 the new categories added more items to my impressions list.
 
 perhaps a better title for this document might be "Theo's endless impressions"
 
+
+Categories
+
+* Social environment
+* Health Services
+* Lifestyle amenities
+* Individual apartments
+* Dining services
+* Staffing and training
+
+## Physical features
 
 ## Location
 
@@ -22,16 +33,7 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Nature
 * Trendy
 * Flat, sloping and steep
-* Village street nearby
-
-
-## Social
-
-* 100 residents to talk to
-* 100 staff have time to talk
-* People to answer questions
-* Lots of info ~ web, TV and paper
-* Connect to the Internet from everywhere
+* Excellent shopping streets nearby within walking distance
 
 ## Beauty
 
@@ -42,30 +44,19 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Places to sit
 * Nature
 
-## Nourishment
 
-* Scheduled meals ~ helps scheduling
-* Night owl cure: good breakfast
-* Food is fun
-* Food is healthy
-	* Dieticuian designed
-	* Published nuttrician data
-* Portions are right sized
-* always have choices
-* always choose alternatives
-* Always dietary restrictions
-* Peets coffee, yoghurt and more
 
-## Community
+## Walking
 
-* Community involvement
-* Activities exist
-* Library
+* Entrances on three sides of the property enable multiple walking routes right from the start
+* Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green )
+* Acceptable social distancing
+* Flat for walkers
+* Long inside walks
+* City views from fourth floor
+* Terraces
+* Gardens
 
-## Health
-
-* Social distance, pandemic-aware
-* Emergency button works
 
 ## Premises
 
@@ -74,21 +65,203 @@ perhaps a better title for this document might be "Theo's endless impressions"
 * Big elevators
 * One flight of stairs
 
+
+
+## Common Spaces Facilities
+
+* Gathering places
+* Two pianos
+* Organ
+* Two libraries
+* Chapel
+* Art room with supplies
+* Computers and printers
+* Exercise facility
+* Lounges and kitchens everywhere
+* Balcony terraces
+* Board room
+* Library
+* Cottage
+* Storage
+* Parking lot
+
+## Living Spaces
+
+* Heating individually controlled by room
+* Lighting
+* Blinds
+* Fire alarms and smoke detectors
+* Multiple cable outlets
+* Emergency buzzers by be abd by toilet
+* Reasonable with Container Store "Elfa" fittings
+
+## Handicap access
+
+* Handrails both sides
+	* All stairs
+	* All public residential area walls
+* Large wheelchair elevators
+* All halls allow for wheel chairs passing
+
+
+***
+
+## Social
+
+* 100 residents to talk to
+* 100 staff have time to talk
+* People to answer questions
+* Lots of info ~ web, TV and paper
+* Connect to the Internet from everywhere
+
+
+## Residents
+
+* Age 60s-103
+
+
+
+## Staff
+
+* the staff are friendly
+* V good HR ~ 401K Health plans
+* Staff call residents by name
+
+## Community
+
+* Community involvement
+* Activities exist
+* Many events
+
+
+
+***
+
+## Services
+
+## Social Services / Activities
+
+* Activities
+
+## Events
+
+*  FROM
+
+## Nourishment
+
+* Scheduled meals ~ helps scheduling
+* Night owl cure: good breakfast
+* Food is fun
+* Food is healthy
+	* Dietician designed
+	* Published nutrition data
+* Portions are right sized
+* always have choices
+* always choose alternatives
+* Always dietary restrictions
+* Peet's coffee, yoghurt and more
+
+
+## Food
+
+* complex recipes - gumbo, vindaloo, lamb, porcini burgers, fishes galore
+* Ten, twenty, thirty ingredients per meal - excellent supply of vitamins, micro-nutrients and amin acids
+* Moderate and reasonable portion sizes
+* Times define a schedule
+* Wine
+* Choose your own
+* Fridge with drinks
+* Free coffee & tea
+* Yoghurts and milk
+
+
+
+
+## Transportation
+
+* Bus
+* Taxi fares
+
+## Communication
+
+* Intercom
+* WiFi
+* Cable
+* Phone
+* TV channel
+* Web site
+* Daily sheet
+* Monthly resident sheet
+* CEO report
+
+
+## Maintenance
+
+* Competent
+* Cleanliness
+* Ticketing system
+
+
+## Cleanliness
+
+* Laundry
+* clean towels and sheets
+* clean apartments
+* premises
+* Soap
+* Toilet paper & tissues
+* Trash bags
+* Lightbulbs
+
+## Billing and accounting
+
+
+***
+
+
+# Care models
+
+* Independent
+* Assisted living
+* Skilled nursing
+* Dementia
+
+## Health Services
+
+## PT & OT
+
+
+
+## Health
+
+* Social distance, pandemic-aware
+* Emergency button works
+
+***
+
+## Safety & Security
+
+* Nurse on duty 24/7
+
+## Pandemic Tracking
+
+* Strict rules in place ~ following state and local guidelines
+* Data updated frequently and updated on web site
+* Twice daily tests for residents and staff
+* Occasional swab tests
+* All food to apartments
+
 ## Shelter
 
 * Helpful personal maintenance
 * Disabled friendly
 * Bathroom feels safe
 
-## Cleanliness
-
-* Laundry - clean towels, clean apartments, premises
-
-## Safety
-
-* Nurse on duty 24/7
-
 ## Security of person
+
+* Smoke detectors
+* four fire escapes
+* No sprinkler system
 
 ## Emotional Security
 
@@ -114,105 +287,8 @@ perhaps a better title for this document might be "Theo's endless impressions"
 
 ## Security Rights & Liberties
 
-
-## Walking
-
-* entrances on three sides of the property enable multiple walking routes right from the start
-* Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green )
-* Acceptable social distancing
-* flat for walkers
-* Long inside walks
-* City views from fourth floor
-* Terraces
-* Gardens
-
-## Handicap access
-
-* Handrails both sides
-	* All stairs
-	* All public residential area walls
-* large wheelchair elevators
-* All halls allow for wheel chairs passing
-
-
-## Food
-
-* complex recipes - gumbo, vindaloo, lamb, porcini burgers, fishes galore
-* Ten, twenty, thirty ingredients per meal - excellent supply of vitamins, micro-nutrients and amin acids
-* Moderate and reasonable portion sizes
-* Times define a schedule
-* Wine
-* Choose your own
-* Fridge with drinks
-* Free coffee & tea
-* Yoghurts and milk
-
-## Residents
-
-* Age 60s-103
-
-
-
-## Staff
-
-* the staff are friendly
-* V good HR ~ 401K Health plans
-
-
-## Social Services / Activities
-
-* Activities
-
-## Communication
-
-* Intercom
-* WiFi
-* Cable
-* Phone
-* TV channel
-* Web site
-* Daily sheet
-* Monthly resident sheet
-* CEO report
-
-
-## Maintenance
-
-* Competent
-* Cleanliness
-* Ticketing system
-
-## Facilities
-
-* Gethering places
-* Two pianos
-* Organ
-* Two libraries
-* Chapel
-* Art room with supplies
-* Computers and printers
-* Exercise facility
-
-
-## Apartments
-
-
-## Pandemic Tracking
-
-* Strict rules in place ~ following state and local guidelines
-* Data updated frequently and updated on web site
-* Twice daily tests for residents and staff
-* Occasional swab tests
-* All food to apartments
-
-## Events
-
-*  FROM
-
-## Transportation
-
-* Bus
-* Taxi fares
+* Residents council
+* Dispute resolution guidelines
 
 
 ## Sustainability
