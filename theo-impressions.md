@@ -20,9 +20,13 @@ Categories
 * Dining services
 * Staffing and training
 
-## Physical features
+Features and Benefits
 
-## Location
+Premises ~ Community ~ Support & Services
+
+## Premises ~ Physical features ~ Perceive ~ Know ~ have evidence
+
+### Location
 
 * [‘There are three things that matter in property: location, location, location.’]( https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html )  -  the Heritage has all three
 * Very high: [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
@@ -35,7 +39,7 @@ Categories
 * Flat, sloping and steep
 * Excellent shopping streets nearby within walking distance
 
-## Beauty
+### Beauty
 
 * Julia Morgan lives
 * Garden ~ see beauty every day
@@ -46,7 +50,8 @@ Categories
 
 
 
-## Walking
+
+### Neighborhood & Walking
 
 * Entrances on three sides of the property enable multiple walking routes right from the start
 * Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green )
@@ -58,16 +63,8 @@ Categories
 * Gardens
 
 
-## Premises
 
-* Smells
-* Sounds
-* Big elevators
-* One flight of stairs
-
-
-
-## Common Spaces Facilities
+### Common Spaces and Facilities
 
 * Gathering places
 * Two pianos
@@ -85,7 +82,7 @@ Categories
 * Storage
 * Parking lot
 
-## Living Spaces
+### Living Spaces
 
 * Heating individually controlled by room
 * Lighting
@@ -95,7 +92,15 @@ Categories
 * Emergency buzzers by be abd by toilet
 * Reasonable with Container Store "Elfa" fittings
 
-## Handicap access
+### Circulation
+
+* Smells
+* Sounds
+* Big elevators
+* One flight of stairs
+
+
+### Handicap access
 
 * Handrails both sides
 	* All stairs
@@ -106,7 +111,33 @@ Categories
 
 ***
 
-## Social
+
+### Security of Shelter
+
+* Helpful personal maintenance
+* Disabled friendly
+* Bathroom feels safe
+
+### Security of Person
+
+* Smoke detectors
+* Four fire escapes
+* No sprinkler system
+
+
+### Security Hazards / Accidents / Illness
+
+* Security on duty 24/7
+	* No need to lock and unlock apartment door
+* Emergency buttons at bedside and bathroom
+* Fire alarms and smoke detectors in every room
+* Life call pendent
+* Door check
+* Twice daily pandemic check
+* Three meals check
+* Comcast? Internet security ~ HIPAA certified
+
+## Social Community ~ Be ~ Judge
 
 * 100 residents to talk to
 * 100 staff have time to talk
@@ -115,39 +146,73 @@ Categories
 * Connect to the Internet from everywhere
 
 
-## Residents
+### Residents
 
 * Age 60s-103
 
+### Staff
 
-
-## Staff
-
-* the staff are friendly
-* V good HR ~ 401K Health plans
+* Staff are friendly
+* Very good HR ~ 401K Health plans
 * Staff call residents by name
 
-## Community
+### Community
 
 * Community involvement
+
+
+### Emotional Security
+
+* Always have friends
+
+### Security Rights & Liberties
+
+* Residents council
+* Dispute resolution guidelines
+
+
+
+## Support & Services ~ Do ~ Act
+
+### Care models
+
+* Independent
+* Assisted living
+* Skilled nursing
+* Dementia
+
+### Health
+
+* Social distance, pandemic-aware
+* Emergency button works
+
+
+### Pandemic Tracking
+
+* Strict rules in place ~ following state and local guidelines
+* Data updated frequently and updated on web site
+* Twice daily tests for residents and staff
+* Occasional swab tests
+* All food to apartments
+
+### Health Services
+
+* Nurse on duty 24/7
+
+### PT & OT
+
+
+### Social Services / Activities
+
+* Activities
 * Activities exist
 * Many events
 
-
-
-***
-
-## Services
-
-## Social Services / Activities
-
-* Activities
-
-## Events
+### Events
 
 *  FROM
 
-## Nourishment
+### Nourishment
 
 * Scheduled meals ~ helps scheduling
 * Night owl cure: good breakfast
@@ -156,13 +221,13 @@ Categories
 	* Dietician designed
 	* Published nutrition data
 * Portions are right sized
-* always have choices
-* always choose alternatives
+* Always have choices
+* Always choose alternatives
 * Always dietary restrictions
 * Peet's coffee, yoghurt and more
 
 
-## Food
+### Food
 
 * complex recipes - gumbo, vindaloo, lamb, porcini burgers, fishes galore
 * Ten, twenty, thirty ingredients per meal - excellent supply of vitamins, micro-nutrients and amin acids
@@ -175,14 +240,12 @@ Categories
 * Yoghurts and milk
 
 
-
-
-## Transportation
+### Transportation
 
 * Bus
 * Taxi fares
 
-## Communication
+### Communication
 
 * Intercom
 * WiFi
@@ -195,14 +258,14 @@ Categories
 * CEO report
 
 
-## Maintenance
+### Maintenance
 
 * Competent
 * Cleanliness
 * Ticketing system
 
 
-## Cleanliness
+### Housekeeping
 
 * Laundry
 * clean towels and sheets
@@ -213,83 +276,26 @@ Categories
 * Trash bags
 * Lightbulbs
 
-## Billing and accounting
+### Admin
 
-
-***
-
-
-# Care models
-
-* Independent
-* Assisted living
-* Skilled nursing
-* Dementia
-
-## Health Services
-
-## PT & OT
+### Billing and accounting
 
 
 
-## Health
-
-* Social distance, pandemic-aware
-* Emergency button works
-
-***
-
-## Safety & Security
-
-* Nurse on duty 24/7
-
-## Pandemic Tracking
-
-* Strict rules in place ~ following state and local guidelines
-* Data updated frequently and updated on web site
-* Twice daily tests for residents and staff
-* Occasional swab tests
-* All food to apartments
-
-## Shelter
-
-* Helpful personal maintenance
-* Disabled friendly
-* Bathroom feels safe
-
-## Security of person
-
-* Smoke detectors
-* four fire escapes
-* No sprinkler system
-
-## Emotional Security
 
 
-## Security Financial
+### Security Financial
 
 * Endowment
 * Insurance
 * 901
 * Licenses
 
-## Security Hazards /  Accidents / Illness
-
-* Security on duty 24/7
-	* No need to lock and unlock apartment door
-* Emergency buttons at bedside and bathroom
-* Fire alarms and smoke detectors in every room
-* Life call pendent
-* Door check
-* Twice daily pandemic check
-* Three meals check
-* Comcast? Internet security ~ HIPAA certified
-
-## Security Rights & Liberties
-
-* Residents council
-* Dispute resolution guidelines
 
 
-## Sustainability
+### Sustainability
+
+
+
+
 

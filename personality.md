@@ -83,7 +83,7 @@ Books
 
 ### Perceiving
 
-* Senser: using our 5 senses (sight, hearing, touch, smell, tasten) To give us the present facts about the world. we know, because we can see it here it, touch it etc
+* Senser: using our 5 senses (sight, hearing, touch, smell, taste) To give us the present facts about the world. we know, because we can see it here it, touch it etc
 * iNtuitive: a "sixth sense" that uses instant mental interconnections to show us the meanings of things. we know, we don't know how we know it; it's a hunch we can rely on
 
 ### Judging
