@@ -11,5 +11,5 @@ An unofficial web presence presence for residents and staff of the [Heritage on 
 <img src=images/cottage-cropped.jpg width=30% style=margin:1%;><img src=images/marina-sunset.jpg width=30% style=margin:1%;>  <img src=images/people.jpg width=30% style=margin:1%;>
 
 ***
-\
+
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=font-size:2ch;text-decoration:none; > ❦ </a></center>
