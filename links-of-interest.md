@@ -1,6 +1,7 @@
 # Links of Interest
 
-Web sites that may be of onterest to the elderly
+Web sites that may be of interest to residents
+
 
 ## Government Agencies
 
@@ -20,7 +21,7 @@ San Francisco
 * https://www.ioaging.org/
 * https://www.buckinstitute.org/
 
-With Agendas
+With agendas
 
 * https://www.aarp.org/
 * http://www.canhr.org/
@@ -30,6 +31,7 @@ With Agendas
 
 News
 
+* https://seniorbeats.com
 * https://www.mcknights.com/
 * https://www.nextavenue.org/
 * https://www.theseniorlist.com/
