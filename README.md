@@ -1,4 +1,4 @@
-# Residents of the Heritage on the Marina
+# Residents @ Heritage on the Marina
 
 An unofficial web presence presence for residents and staff of the [Heritage on the Marina]( https://heritageonthemarina.org/ )
 
