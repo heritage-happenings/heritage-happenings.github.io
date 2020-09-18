@@ -20,11 +20,15 @@ San Francisco
 * https://www.ncoa.org/
 * https://www.ioaging.org/
 * https://www.buckinstitute.org/
+* Generation United ~ https://www.gu.org/
+* https://encore.org/
+* http://longevity.stanford.edu/
 
 With agendas
 
 * https://www.aarp.org/
 * http://www.canhr.org/
+* Singapore ~ https://www.imda.gov.sg/for-community/Seniors-Go-Digital
 
 
 ## Websites for elders
