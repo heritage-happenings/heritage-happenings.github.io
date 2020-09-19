@@ -60,7 +60,7 @@
 
 			<div id=divNavLog></div>
 
-			<details id=detFile>
+			<!-- <details id=detFile>
 
 				<summary class="summary-primary gmd-1" title="Open files on your device: ">file menu</summary>
 
@@ -79,10 +79,15 @@
 			</details>
 
 			<details open>
-				<!-- 'open' triggers a run on load -->
+				<!-- 'open' triggers a run on load
 
 				<summary class="summary-primary gmd-1" title="View selected items">repository files
 
+				</summary>
+
+			</details>
+
+				-->
 
 
 				<span class="info">
@@ -90,7 +95,6 @@
 					<span id="spnGRV" class="infoTooltip gmd-5">
 						test <button onclick=GRV.test() >view all files in this repository</button>
 					</span></span>
-				</summary>
 
 				<div class=divNavResize>
 
@@ -102,7 +106,6 @@
 
 				</div>
 
-			</details>
 
 			<hr>
 
@@ -150,9 +153,10 @@
 
 			divPopUp.hidden = true;
 
+			onHashChange();
+
 			window.addEventListener( "hashchange", onHashChange, false );
 
-			onHashChange();
 
 			if ( window.innerWidth < 640 || window.innerHeight < 500 ) {
 
@@ -169,12 +173,13 @@
 				window.history.pushState( "", "", "./" );
 
 			}
-			//https://github.com/heritage/tootoo-2020/tree/master/lib
+
+
 			GRV.urlApi = "https://api.github.com/repos/heritagesf/heritagesf.github.io/git/trees/master?recursive=1";
 			GRV.urlSource = "https://github.com/heritagesf/heritagesf.github.io/";
 			GRV.urlViewer = "https://heritagesf.github.io/";
 
-			GRV.ignoreFolders = [ "archive", "images", "js", "lib", "src", "templates" ];
+			GRV.ignoreFolders = [ "archive", "js", "lib", "src", "templates" ];
 			//GRV.ignoreFolders = [ "archive", "images", "js", "src", "templates" ];
 
 			GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/icons/octicon.svg">`;
@@ -187,25 +192,7 @@
 
 		function onHashChange() {
 
-			const path = "./";
-
-			if ( !location.hash ) {
-
-				ifr.src = path + "readme.html";
-
-				return;
-
-			}
-
-			if ( location.hash.toLowerCase().endsWith( ".md" ) ) {
-
-				ifr.src = path + "readme.html" + location.hash;
-
-				return;
-
-			}
-
-			ifr.src = path + location.hash.slice( 1 );
+			ifr.src = "./readme.html" + location.hash;
 
 		}
 
