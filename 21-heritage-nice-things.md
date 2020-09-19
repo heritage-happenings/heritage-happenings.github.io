@@ -13,6 +13,7 @@ security safety Handrails
 
 Live outside
 
+Aesthetics
 
 ## Community
 
@@ -64,7 +65,8 @@ Selected results:
 As you get older and older more and more of your friends and family die. It's not always easy for oldsters to make new friends. Living at the Heritage means you always have a hundred or so friends. As the older ones go their places are taken by fresh new ones.
 
 ### Every walk of life ~ get outside of your bubble
-As you get older and older you get out and travel around less. The people you see are increasingly of a small bubble of people with similar backgrounds. Living at the Heritage means you are always in contact with a hundred of so people of widely different backgrounds, abilities and ethnicity
+* As you get older and older you get out and travel around less. The people you see are increasingly of a small bubble of people with similar backgrounds. Living at the Heritage means you are always in contact with a hundred of so people of widely different backgrounds, abilities and ethnicity
+* They know you name
 
 ### local admin with community values
 * People making the long term decisions work in the building
