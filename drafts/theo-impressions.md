@@ -210,7 +210,7 @@ Premises ~ Community ~ Support & Services
 
 ### Events
 
-*  FROM
+* FROM
 
 ### Nourishment
 
