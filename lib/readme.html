@@ -44,7 +44,9 @@
 
 			if ( !location.hash ) { location.hash = defaultFile; }
 
-			location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash;
+			//location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash;
+
+			onHashChange();
 
 			window.addEventListener( "hashchange", onHashChange, false );
 
@@ -53,6 +55,17 @@
 		function onHashChange() {
 
 			const url = location.hash.slice( 1 );
+
+			console.log( "url", url );
+
+			if ( !url.endsWith( ".md" )){
+
+				divContent.innerHTML = `<iframe src="${ url }" width=100% ></iframe>`;
+
+				return;
+
+			}
+
 			document.title = url.split( "/" ).pop();
 			const options = { excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true, openLinksInNewWindow: true };
 

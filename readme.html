@@ -19,8 +19,6 @@
 				--main-hue: 120; /* 0 to 360 0=red 120=green 240=blue */
 			}
 
-			/* img, iframe, #ifr { width:20rem; } */
-
 		</style>
 	</head>
 	<body>
@@ -46,11 +44,9 @@
 
 			if ( !location.hash ) { location.hash = defaultFile; }
 
-			console.log( "hash", location.hash );
+			//location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash;
 
-			//location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash.slice( 1 );
-
-			//onHashChange();
+			onHashChange();
 
 			window.addEventListener( "hashchange", onHashChange, false );
 
@@ -60,15 +56,13 @@
 
 			const url = location.hash.slice( 1 );
 
-			if ( !location.hash.endsWith( ".md" ) ) {
+			if ( !url.endsWith( ".md" )){
 
-				divContent.innerHTML = `<iframe src="${ url }" height=${window.innerHeight } width=100%></iframe>`;
+				divContent.innerHTML = `<iframe src="${ url }" height=${ window.innerHeight } width=100% ></iframe>`;
 
 				return;
+
 			}
-
-
-			console.log( "bb", 23 );
 
 			document.title = url.split( "/" ).pop();
 			const options = { excludeTrailingPunctuationFromURLs: true, ghMention: true, parseImgDimensions: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true, openLinksInNewWindow: true };

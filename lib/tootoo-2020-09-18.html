@@ -83,9 +83,7 @@
 
 				<summary class="summary-primary gmd-1" title="View selected items">repository files
 
-
-
-				<span class="info">
+					<span class="info">
 					<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
 					<span id="spnGRV" class="infoTooltip gmd-5">
 						test <button onclick=GRV.test() >view all files in this repository</button>
@@ -187,25 +185,25 @@
 
 		function onHashChange() {
 
-			const path = "../";
+			// const path = "../";
 
-			if ( !location.hash ) {
+			// if ( !location.hash ) {
 
-				ifr.src = path + "readme.html";
+			// 	ifr.src = path + "readme.html";
 
-				return;
+			// 	return;
 
-			}
+			// }
 
-			if ( location.hash.toLowerCase().endsWith( ".md" ) ) {
+			// if ( location.hash.toLowerCase().endsWith( ".md" ) ) {
 
-				ifr.src = path + "readme.html" + location.hash;
+			// 	ifr.src = path + "readme.html" + location.hash;
 
-				return;
+			// 	return;
 
-			}
+			// }
 
-			ifr.src = path + location.hash.slice( 1 );
+			ifr.src = "../readme.html" + location.hash;
 
 		}
 
