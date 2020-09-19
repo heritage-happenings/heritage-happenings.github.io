@@ -19,7 +19,6 @@ _GRV GitHub Repo Tree View_
 
 ## To Do / Wish List
 
-* 2020-09-18 ~ add search
 
 ## Issues
 
@@ -30,10 +29,8 @@ _GRV GitHub Repo Tree View_
 ## Change Log
 
 
-### 2020-09-18
+### 2020-07-06
 
-* Rename to TooToo
-* Get GRV test working
 * First commit this readme
 
 

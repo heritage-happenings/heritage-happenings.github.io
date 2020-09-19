@@ -1,6 +1,6 @@
 const GRV = {};
 
-// if ( location.pathname.includes( "spider") ) {
+// if ( location.hash.includes( "spider") ) {
 
 // 	GRV.urlApi = "https://api.github.com/repos/ladybug-tools/spider-2020/git/trees/master?recursive=1";
 // 	GRV.urlSource = "https://github.com/ladybug-tools/spider-2020/tree/master/";
@@ -14,16 +14,16 @@ const GRV = {};
 
 // }
 
-GRV.urlApi = "https://api.github.com/repos/evereverland/evereverland.github.io/git/trees/master?recursive=1";
-GRV.urlSource = "https://github.com/evereverland/evereverland.github.io";
-GRV.urlViewer = "https://evereverland.github.io/";
+GRV.urlApi = "https://api.github.com/repos/heritagesf/heritagesf.github.io/git/trees/master?recursive=1";
+GRV.urlSource = "https://github.com/heritagesf/heritagesf.github.io";
+GRV.urlViewer = "https://heritagesf.github.io/";
 
 
-GRV.ignoreFolders = [ "archive", "images", "js", "lib", "src","templates" ];
 
-GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/octicon.svg">`;
 
-GRV.link = `<img width=14 src="${ GRV.urlViewer }lib/icon-link-external.svg">`;
+GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }images/octicon.svg">`;
+
+GRV.link = `<img width=14 src="${ GRV.urlViewer }images/icon-link-external.svg">`;
 
 
 GRV.init = function () {
@@ -51,10 +51,7 @@ GRV.onLoadTree = function ( json ) {
 
 	const tree = json.tree.slice();
 
-	//const subtrees = tree.filter( obj => obj.type === "tree" )
-
-	const subtrees = tree.filter( item => item.type === "tree" && !GRV.ignoreFolders.includes( item.path ) )
-		.map( subtree => subtree.path.split( "/" ) );
+	const subtrees = tree.filter( obj => obj.type === "tree" ).map( subtree => subtree.path.split( "/" ) );
 	//console.log( "subtrees", subtrees );
 
 	const files = tree.filter( obj => obj.type === "blob" ).map( subtree => subtree.path );
@@ -68,7 +65,6 @@ GRV.onLoadTree = function ( json ) {
 
 	const filesRoot = files
 		.filter( file => !file.includes( "/" ) )
-		.filter( file => file.endsWith( ".md" ) )
 		.map( ( item, i ) => `
 		<div class=GRVdiv >
 			<a href="${ GRV.urlSource }${ item }"  title="Source code on GitHub. Edit me!" >
@@ -186,10 +182,10 @@ GRV.subtreesToDetails = function ( subtrees, files ) {
 		const filesHtm = GRV.getFiles( subtree, files );
 
 		return `
-		${ closer }
+		${closer }
 		<details id=GRVdet${ index } class="GRVdet" >
-			<summary class="GRVsum" >${ subtreeTitle }</summary>
-			${ filesHtm.join( "" ) }
+			<summary class="GRVsum" >${subtreeTitle }</summary>
+			${filesHtm.join( "" ) }
 		`;
 	} );
 
@@ -204,12 +200,11 @@ GRV.getFiles = function ( subtree, files ) {
 
 	const filtered = files
 		.filter( file => file.slice( 0, file.lastIndexOf( "/" ) ) === str )
-		.filter( file => file.endsWith( ".md" ) )
 		.map( item => `
 		<div>
-			<a href="${ GRV.urlSource }${ item }" title="Source code on GitHub" >
-			${ GRV.iconOctoCat }</a>
-			<a href="#${ item }" title="">${ item.split( "/" ).pop() }</a>
+			<a href="${ GRV.urlSource }${item }" title="Source code on GitHub" >
+      ${ GRV.iconOctoCat }</a>
+			<a href="#${item }" title="">${ item.split( "/" ).pop() }</a>
 			<a href="${ GRV.urlViewer }${ item }" title="Open file in new tab"  target="_blank" >
 			${ GRV.link }</a>
 		</div>`);
