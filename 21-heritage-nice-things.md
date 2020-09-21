@@ -1,82 +1,29 @@
 # 21 Nice Things About the Heritage
 
-* Premises, community & services: seven bullet points each
-* Theo's law: there's always another way of doing it
-* Theo's law: there's always a longer, more complex, more nuanced, more eventful, more wonderful way of getting there
+I am an architect, designer and software programmer. I observe, decide and tabulate many aspects of my life.
 
+Over the past decade I have considered the issues of being an aging, disabled single person.
 
-## First Principles
+The following is a short summary of observations gathered since I moved to the Heritage on August 5, 2020
 
-When you are looking at something first time and you want to understand what you are seeing.
-
-A good place to start is at the beginning.
-
-A good first question is: where does it begin?
-
-* https://en.wikipedia.org/wiki/First_principle
-* https://fs.blog/2018/04/first-principles/
-* https://neilkakkar.com/A-framework-for-First-Principles-Thinking.html
-* https://en.wikipedia.org/wiki/Unmoved_mover
-
-Finding that first answer can take until the end of time.
-
-So let's establish a trick or three.
-
-We are going to search all over the place for likely answers as "Where is the beginning?", "What is going on here?"
-
-There must be more than one likely candidate as where to begin. If not we would alread to be there.
-
-If there are just two places then we have to start dividing them up to see which is the best. If there are many places then we  have to start combing them in order to see where to start.
-
-Therefore always assume there are three ⛬ 3 good places to start.
-
-## Famous triads
-
-It turns out that dividing a topic into three is quite common.
-
-* https://en.wikipedia.org/wiki/Triad
-* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
-* https://en.wikipedia.org/wiki/Three-way_comparison << threeway comparison mey be easier
-
-
-* A commonly used triad is: doing, knowing and being
-* Or: acting, judging, knowing
-* Our triad here: services, community, premises
-* Services: the staff do things, there are activities
-* Community: people judging, liking each other
-* Premises: people knowing their way around, things you can see, evidence
-
+There are three sections: Premises, community, support & services - with seven bullet points each
 
 ## Premises
 
-### Notes
-* Remember Vitruvius on Architecture: Firmness, Commodity, and Delight"
-* https://en.wikipedia.org/wiki/De_architectura
-
-
-The text for the public begins here
+### Introduction
 
 ### 1. "Location location location"
 
 * [‘There are three things that matter in property: location, location, location.’]( https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html )
 * Guess what? the Heritage has all three!
 	1. Very high [walkability( https://en.wikipedia.org/wiki/Walkability ): [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
-	2. A nearby apple store
-	3. ??
-
-The third could be any of the following
-
-* Outside walking
-* Clean air
-* Can hear the seals ( and fog horns )
-* Nature
-* Trendy 'hood
-* Flat, sloping and steep walking terrain
-* Excellent shopping streets nearby within walking distance
+	2. A nearby apple store ~ Apple picks locations judiciously, just three in SF
+	3. All age-groups, ethnicities, rich  and not so rich live in the neighborhood
 
 
-### 2. "My house has many mansions"
-* Many old people live in small places without much. And as good number live in large abodes but use only a tiny portion. And others, whatever the size, lack things they would like. Life at the Heritage means you have access to living rooms, kitchens, pianos, art studios, treatment rooms and salons. It's a huge place and you decide the parts you want to use
+### 2. "My Father's house has many mansions" - John 14:2 KJV
+
+* Many old people live in small places without much. And a good number live in large abodes but use only a small portion. And others, whatever the size, lack amenities they would like. Life at the Heritage provides access to living rooms, kitchens, pianos, art studios, treatment rooms and salons. It's a huge place, with a many facilities and you get to decide the parts you want to use.
 
 ### 3. "How does your garden grow?" ~ Gardens and Landscaping
 
@@ -86,7 +33,7 @@ Remember
 * Gardens and landscaping in all sides of the premises
 * Gardens on every terrace on every floor
 
-* Many people live in places surrounded by fences and parking lots, paving stones and manhole covers occasionally accented by rectangles of grass and some bushes. Life at the Marina is to be living surrounded on three sides by gardens, playing fields and parks - with views of the Bay, mountains and hundreds of trees - all in middle of the city.
+* Many people live in places surrounded by fences and parking lots, paving stones and manhole covers - all occasionally accented by rectangles of grass and some bushes. Life at the Marina is to live surrounded on three sides by seven flower gardens and terraces, playing fields and a national park - with views of the Bay, mountains and hundreds of trees - all in middle of the city noted for its beauty.
 
 ### 4. Neighborhood & Walking
 
@@ -104,7 +51,7 @@ Remember
 * Becoming old is often about sitting in a chair with papers or devices and just looking at them. Life  at the Heritage is about going outside, being in the garden, taking walks, seeing and being seen
 
 
-### 6. Living Spaces
+### 5. Living Spaces
 
 * Heating individually controlled by room
 * Lighting
@@ -113,23 +60,16 @@ Remember
 * Multiple cable outlets
 * Emergency buzzers by be abd by toilet
 * Reasonable with Container Store "Elfa" fittings
+* Fall risk protection
 
 ### 6. "Walk in beauty" ~ Aesthetics
 
-<details>
-
-<summary>quotes</summary>
-
-* “Any great art work … revives and readapts time and space, and the measure of its success is the extent to which it makes you an inhabitant of that world - the extent to which it invites you in and lets you breathe its strange, special air.” ― Leonard Bernstein
-* When love and skill work together expect a masterpiece. (John Ruskin)
-
-</details>
-
-* Many old people live in places they have lived in for a long time and those places have age with them. The beauty of the place has become commonplace. Life in the Heritage is living in a place that has reinvented itself continuously since 1853. From technologies like emergency buttons and WiFi to outsourced catering and earthquake retro-fitting the Heritage is a living, self-improving creation. And one of the Great reinventions was asking Julia Morgan to design the premises on Laguna Street. Life at the Heritage means you walk in beauty every day.
+* Many old people live in places they have lived in for a long time and those places have age with them. The beauty of the place has become commonplace.
+* Life in the Heritage is living in a place that has reinvented itself continuously since 1853. From technologies like emergency buttons and WiFi to outsourced catering and earthquake retro-fitting the Heritage is a living, self-improving creation. And one of the Great reinventions was asking Julia Morgan to design the premises on Laguna Street. Life at the Heritage means you walk in beauty every day.
 
 ### 7. Security of place ~
 
-* Old people die from accidents. Old people die because living means putting up with too many pains
+* Old people die from accidents. Accidents caused by being fall risks, by being hoarders, by being easily distracted, by living alone.
 * Life at the Heritage means that there are handrails on both sides of the stairs, that everywhere is wheelchair accessible, that there's always an emergency button with reach. security and medical staff can be by your side in seconds
 
 ***
@@ -137,65 +77,19 @@ Remember
 
 ## Community
 
-<details>
-
-<summary>Background</summary>
-
-Search query: [what are the characteristics of a great community?]( https://www.google.com/search?q=what+are+the+characteristics+of+a+great+community%3F )
-
-Selected results:
-
-* [10 Traits That Make a Good Community]( https://positivepsychology.com/10-traits-positive-community/ )
-	1. Work Together Toward a Common Goal
-	2. Allow for Freedom of Expression
-	3. Promote Fairness
-	4. Set Clear Policies and Obligations
-	5. Maintain Sensitivity Towards Members
-	6. Celebrate Community Heritage
-	7. Promote Interaction Among Members
-	8. Elect Leaders that Stand by Community Values
-	9. Prioritize Effective Communication
-	10. Make Smart Decisions
-* [13 Most Important Characteristics or Elements of Community]( https://www.yourarticlelibrary.com/society/13-most-important-characteristics-or-elements-of-community/6231 )
-	(1) A group of people
-	(2) A definite locality
-	(3) Community Sentiment
-	(4) Naturality
-	(5) Permanence
-	(6) Similarity
-	(7) Wider Ends
-	(8) Total organized social life:
-	(9) A Particular Name
-	(11) Size of Community
-	(12) Concrete Nature
-	(13) Distinguishable structure
-* [What Makes the 'Good Community'?]( https://extension.psu.edu/what-makes-the-good-community )
-	* Study 1: four factors consistently show up as community attributes we all look for in a good community.
-		* Membership - that feeling that part of us is invested in the community, that we have a right to belong and feel welcome
-		* Influence - that sense that we have some say in the community issues that affect us and that our perspectives are appreciated and respected
-		* Integration and fulfillment of needs - based on the notion that the community has numerous opportunities for both individual and social fulfillment including basic needs, recreation, and social interaction. Some scholars have referred to this as the meeting the needs of 'whole person' in all our roles, (e.g. goods, services, recreation, desirable social interaction activities etc.)
-	* Study 2: The 10 community characteristics that most influenced community attachment:
-		* social offerings, openness, aesthetics, education, and basic services.
-		* Other important factors: leadership, economy, safety, social capital, and civic involvement.
-* [5 Important Characteristics of a Healthy Community]( https://vistancia.com/5-important-characteristics-of-a-healthy-community/ )
-	1. Access to quality education
-	2. The community naturally blends into its environment
-	3. Health care and preventive health services
-	4. Access to healthy food
-	5. Fitness and wellness opportunities
-
-</details>
-
 
 ### 1. Your 100 best friends - always
-* As you get older and older more and more of your friends and family die. It's not always easy for oldsters to make new friends. Life at the Heritage means you always have a hundred or so friends. As the older ones go their places are taken by fresh new ones.
+* As you get older and older more and more of your friends and family die. It's not always easy for oldsters to make new friends.
+* Life at the Heritage means you always have a hundred or so friends. As the older ones go their places are taken by fresh new ones.
 
 
 ### 2. Every walk of life ~ get outside of your bubble
-* As you get older and older you get out and travel around less. The people you see are increasingly of a small bubble of people with similar backgrounds. Life at the Heritage means you are always in contact with a hundred of so people of widely different backgrounds, abilities and ethnicity
-* Staff know your name
+
+* As you get older and older you get out and travel around less. The people you see are increasingly of a small bubble of people with similar backgrounds.
+* Life at the Heritage means you are always in contact with a staff of hundred of so people of widely different backgrounds, abilities and ethnicity. Many staff members know know your name as well all your abilities and disabilities
 
 ### 3. local administration with community values
+* Landlords, homeowners associations and all the organizations associated with living in a neighborhood are there primarily to protect, promote and profit the premises
 * People making the long term decisions work in the building
 
 ### 4. Easy gatherings ~ anti-loneliness
@@ -211,7 +105,7 @@ Selected results:
 ### 7. "Safety in numbers" ~ Security of person
 * Old people can be preyed upon, victimized, hit upon and more. Life at the Heritage provides a safety net. People are there to help you with the right to life, liberty and happiness. You have your dignity, respect and agency.
 
-
+***
 
 ## Support and Services
 
@@ -229,7 +123,7 @@ For many old people good health is a variable, They are fine some times and need
 * Washing floors, picking up after spills, fixing broken things are not much fun even when you are young. They can be a pain when you are old. Life at the Heritage means always living in a clean apartment with freshly laundered lines. The soap dispenser always has soap. The ceiling lights always work and the taps never leak. The garbage is always taken out. The grass is always green. All of this happens because there are competent and dedicated staff to make this happen
 
 
-### 4? Talking about communicating ~ IT
+### 4. Talking about communicating ~ IT
 * "My Internet is down", "The fire alarm did not sound", "He lay on the floor of the bathroom for three days before help arrived". Information technology (IT) support is an essential ingredient of modern life. Life at the Heritage means there is secure, high-speed Internet available via WiFi through the premises and gardens, fire alarms and smoke detectors are tested frequently, emergency buttons and intercoms enable staff and residents to communicate with a click of button.
 
 
@@ -243,4 +137,6 @@ For many old people good health is a variable, They are fine some times and need
 
 ### 7. "Surprise!!" ~ "Who ya going to call?" ~ Pandemic management
 * Taking care of the elderly requires steadfast management that ensure a high level of care day after day. Letting the ball drop even for a day or two can mean death or injury. At the same time natural calamities occur, politics change and sxxx his the fan. Life at the Heritage means that since the beginning of the pandemic one resident and two staff were taken ill and all have recovered. This means that residents, staff and especially management were able to cope with a huge surprise.
+
+***
 
