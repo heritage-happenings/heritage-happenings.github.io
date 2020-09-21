@@ -48,7 +48,8 @@ Remember
 
 ### 4. "[Friluftsliv]( https://www.bbc.com/worklife/article/20171211-friluftsliv-the-nordic-concept-of-getting-outdoors )" ~ getting outdoors ~ Live outside
 
-* Becoming old is often about sitting in a chair with papers or devices and just looking at them. Life  at the Heritage is about going outside, being in the garden, taking walks, seeing and being seen
+* Becoming old is often about sitting in a chair with papers or devices and just looking at them.
+* Life  at the Heritage is about going outside, being in the garden, taking walks, seeing and being seen
 
 
 ### 5. Living Spaces
