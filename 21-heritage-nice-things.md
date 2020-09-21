@@ -30,7 +30,7 @@ There must be more than one likely candidate as where to begin. If not we would 
 
 If there are just two places then we have to start dividing them up to see which is the best. If there are many places then we  have to start combing them in order to see where to start.  
 
-Therefore always assume there are three good places to start.
+Therefore always assume there are three &triad; 3 good places to start.
 
 ## Famous triads
 
