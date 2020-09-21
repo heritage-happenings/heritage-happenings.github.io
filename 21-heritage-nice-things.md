@@ -7,6 +7,40 @@
 
 * "Architecture: Firm, commodious and delightful
 
+## First Principles
+
+When you are looking at something first time and you want to understand what you are seeing.
+
+A good place to start is at the beginning.
+
+A good first question is: where does it begin?
+
+* https://en.wikipedia.org/wiki/First_principle
+* https://fs.blog/2018/04/first-principles/
+* https://neilkakkar.com/A-framework-for-First-Principles-Thinking.html
+* https://en.wikipedia.org/wiki/Unmoved_mover
+
+Finding that first answer can take until the end of time.
+
+So let's establish a trick or three.
+
+We are going to search all over the place for likely answers as "Where is the beginning?", "What is going on here?"
+
+There must be more than one likely candidate as where to begin. If not we would alread to be there.
+
+If there are just two places then we have to start dividing them up to see which is the best. If there are many places then we  have to start combing them in order to see where to start.  
+
+Therefore always assume there are three good places to start.
+
+## Famous triads
+
+* https://en.wikipedia.org/wiki/Triad
+* https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
+* https://en.wikipedia.org/wiki/Three-way_comparison << threeway comparisin mey be easier
+
+
+
+
 ### 1. "Location location location"
 * [‘There are three things that matter in property: location, location, location.’]( https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html )  -  the Heritage has all three
 * Very high: [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
