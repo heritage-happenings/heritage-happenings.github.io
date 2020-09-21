@@ -54,7 +54,10 @@ It turns out that dividing a topic into three is quite common.
 * https://en.wikipedia.org/wiki/De_architectura
 
 
-### 1. "Location location location"
+### 1. "Location location location" ~ region and city
+
+San Francisco is a top tourist destination ~https://en.wikipedia.org/wiki/Tourist_attractions_in_the_United_States
+* Best place to live: https://www.cnbc.com/2019/04/15/us-news-world-report-best-places-to-live-in-the-us-in-2019.html
 
 The third could be any of the following
 
@@ -65,6 +68,17 @@ The third could be any of the following
 * Trendy 'hood
 * Flat, sloping and steep walking terrain
 * Excellent shopping streets nearby within walking distance
+
+### 2. Neighborhood
+
+* The point of cities is multiplicity of choice. Jane Jacobs
+* In our American cities, we need all kinds of diversity. Jane Jacobs
+* By its nature, the metropolis provides what otherwise could be given only by traveling; namely, the strange. Jane Jacobs
+* The more successfully a city mingles everyday diversity of uses and users in its everyday streets, the more successfully, casually (and economically) its people thereby enliven and support well-located parks that can thus give back grace and delight to their neighborhoods instead of vacuity. Jane Jacobs
+
+A Beautiful Day in the Neighborhood. Mr Rogers
+
+* Architecture, services, landscape, geography, demographics, social studies, planning, infrastructure
 
 
 ### 6. "Walk in beauty" ~ Aesthetics
