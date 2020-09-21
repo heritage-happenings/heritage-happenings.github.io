@@ -1,11 +1,9 @@
 # 21 Nice Things About the Heritage
 
 * Premises, community & services: seven bullet points each
-* Theo's law: there's always a longer, more complex, more nuanced, more eventful way of getting there
+* Theo's law: there's always another way of doing it
+* Theo's law: there's always a longer, more complex, more nuanced, more eventful, more wonderful way of getting there
 
-## Premises
-
-* "Architecture: Firm, commodious and delightful
 
 ## First Principles
 
@@ -28,68 +26,93 @@ We are going to search all over the place for likely answers as "Where is the be
 
 There must be more than one likely candidate as where to begin. If not we would alread to be there.
 
-If there are just two places then we have to start dividing them up to see which is the best. If there are many places then we  have to start combing them in order to see where to start.  
+If there are just two places then we have to start dividing them up to see which is the best. If there are many places then we  have to start combing them in order to see where to start.
 
 Therefore always assume there are three ⛬ 3 good places to start.
 
 ## Famous triads
 
+It turns out that dividing a topic into three is quite common.
+
 * https://en.wikipedia.org/wiki/Triad
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
-* https://en.wikipedia.org/wiki/Three-way_comparison << threeway comparisin mey be easier
+* https://en.wikipedia.org/wiki/Three-way_comparison << threeway comparison mey be easier
 
 
+* A commonly used triad is: doing, knowing and being
+* Or: acting, judging, knowing
+* Our triad here: services, community, premises
+* Services: the staff do things, there are activities
+* Community: people judging, liking each other
+* Premises: people knowing their way around, things you can see, evidence
 
+
+## Premises
+
+### Notes
+* Remember Vitruvius on Architecture: Firmness, Commodity, and Delight"
+* https://en.wikipedia.org/wiki/De_architectura
+
+
+The text for the public begins here
 
 ### 1. "Location location location"
-* [‘There are three things that matter in property: location, location, location.’]( https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html )  -  the Heritage has all three
-* Very high: [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
-* https://en.wikipedia.org/wiki/Walkability
+
+* [‘There are three things that matter in property: location, location, location.’]( https://www.nytimes.com/2009/06/28/magazine/28FOB-onlanguage-t.html )
+* Guess what? the Heritage has all three!
+	1. Very high [walkability( https://en.wikipedia.org/wiki/Walkability ): [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
+	2. A nearby apple store
+	3. ??
+
+The third could be any of the following
+
 * Outside walking
 * Clean air
 * Can hear the seals ( and fog horns )
 * Nature
-* Trendy
-* Flat, sloping and steep
+* Trendy 'hood
+* Flat, sloping and steep walking terrain
 * Excellent shopping streets nearby within walking distance
 
 
 ### 2. "My house has many mansions"
-* Many old people live in small places without much. And as good number live in large abodes but use only a tiny portion. And others, whatever the size, lack things they would like. Living at the Heritage meand you have access to living rooms, kitchens, pianos, art studios, treatment rooms and salons. It's a huge place and you decide the parts you want to use
+* Many old people live in small places without much. And as good number live in large abodes but use only a tiny portion. And others, whatever the size, lack things they would like. Life at the Heritage means you have access to living rooms, kitchens, pianos, art studios, treatment rooms and salons. It's a huge place and you decide the parts you want to use
 
 ### 3. "How does your garden grow?" ~ Gardens and Landscaping
 
+Remember
 * Multiple entrances on three sides of the property
 * Flowers at your fingertips
 * Gardens and landscaping in all sides of the premises
 * Gardens on every terrace on every floor
 
-Many people live in places surrounded by fences and parking lots, paving stones and manhole covers occasionally accented by rectangles of grass and some bushes.
-
-Living at the Marina is to be living surrounded on three sides by gardens, playing fields and parks - with views of the Bay, mountains and hundreds of trees - all in middle of the city.
+* Many people live in places surrounded by fences and parking lots, paving stones and manhole covers occasionally accented by rectangles of grass and some bushes. Life at the Marina is to be living surrounded on three sides by gardens, playing fields and parks - with views of the Bay, mountains and hundreds of trees - all in middle of the city.
 
 ### 4. Neighborhood & Walking
-Entrances on three sides of the property enable multiple walking routes right from the start
-Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green )
-Acceptable social distancing
-Flat for walkers
-Long inside walks
-City views from fourth floor
-Terraces
-Gardens
 
-### 4. "Friluftsliv" ~ getting outdoors ~ Live outside
-* Becoming old is often about sitting in a chair with papers or devices and just looking at them. Living at the Heritage is about going outside, being in the Garden, taking walks, seeing and being seen
+* Entrances on three sides of the property enable multiple walking routes right from the start
+* Select walk ambiance: urban ( Chestnut Street), sporty ( the play ground), seaside ( Marina Green )
+* Acceptable social distancing
+* Flat for walkers
+* Long inside walks
+* City views from fourth floor
+* Terraces
+* Gardens
+
+### 4. "[Friluftsliv]( https://www.bbc.com/worklife/article/20171211-friluftsliv-the-nordic-concept-of-getting-outdoors )" ~ getting outdoors ~ Live outside
+
+* Becoming old is often about sitting in a chair with papers or devices and just looking at them. Life  at the Heritage is about going outside, being in the garden, taking walks, seeing and being seen
 
 
 ### 6. Living Spaces
-Heating individually controlled by room
-Lighting
-Blinds
-Fire alarms and smoke detectors
-Multiple cable outlets
-Emergency buzzers by be abd by toilet
-Reasonable with Container Store "Elfa" fittings
+
+* Heating individually controlled by room
+* Lighting
+* Blinds
+* Fire alarms and smoke detectors
+* Multiple cable outlets
+* Emergency buzzers by be abd by toilet
+* Reasonable with Container Store "Elfa" fittings
 
 ### 6. "Walk in beauty" ~ Aesthetics
 
@@ -99,14 +122,15 @@ Reasonable with Container Store "Elfa" fittings
 
 * “Any great art work … revives and readapts time and space, and the measure of its success is the extent to which it makes you an inhabitant of that world - the extent to which it invites you in and lets you breathe its strange, special air.” ― Leonard Bernstein
 * When love and skill work together expect a masterpiece. (John Ruskin)
+
 </details>
 
-* Many old people live in places they have lived in for a long time and those places have aged with them. The beauty of the place has become commonplace. Living in thr Heritage is living in a place that has reinvented itself continuously since 1853. From technologies like emergency buttons and WiFi to outsourced catering and earthquake retro-fitting the Heritage is a living, self-improving creation. And one of the Great reinventions was asking Julia Morgan to design the premises on Laguna Street. Life at the Heritage means you walk in beauty every day.
+* Many old people live in places they have lived in for a long time and those places have age with them. The beauty of the place has become commonplace. Life in the Heritage is living in a place that has reinvented itself continuously since 1853. From technologies like emergency buttons and WiFi to outsourced catering and earthquake retro-fitting the Heritage is a living, self-improving creation. And one of the Great reinventions was asking Julia Morgan to design the premises on Laguna Street. Life at the Heritage means you walk in beauty every day.
 
 ### 7. Security of place ~
 
 * Old people die from accidents. Old people die because living means putting up with too many pains
-* Living at the Heritage means that there are handrails on both sides of the stairs, that everywhere is wheelchair accessible, that there's always an emergency button with reach. security and medical staff can be by your side in seconds
+* Life at the Heritage means that there are handrails on both sides of the stairs, that everywhere is wheelchair accessible, that there's always an emergency button with reach. security and medical staff can be by your side in seconds
 
 ***
 
@@ -164,11 +188,11 @@ Selected results:
 
 
 ### 1. Your 100 best friends - always
-* As you get older and older more and more of your friends and family die. It's not always easy for oldsters to make new friends. Living at the Heritage means you always have a hundred or so friends. As the older ones go their places are taken by fresh new ones.
+* As you get older and older more and more of your friends and family die. It's not always easy for oldsters to make new friends. Life at the Heritage means you always have a hundred or so friends. As the older ones go their places are taken by fresh new ones.
 
 
 ### 2. Every walk of life ~ get outside of your bubble
-* As you get older and older you get out and travel around less. The people you see are increasingly of a small bubble of people with similar backgrounds. Living at the Heritage means you are always in contact with a hundred of so people of widely different backgrounds, abilities and ethnicity
+* As you get older and older you get out and travel around less. The people you see are increasingly of a small bubble of people with similar backgrounds. Life at the Heritage means you are always in contact with a hundred of so people of widely different backgrounds, abilities and ethnicity
 * Staff know your name
 
 ### 3. local administration with community values
@@ -176,16 +200,16 @@ Selected results:
 
 ### 4. Easy gatherings ~ anti-loneliness
 
-* As you get older it gets more difficult to encounter people. Living at the Heritage means encountering people at meals, in hallway, the gardens and out shopping
+* As you get older it gets more difficult to encounter people. Life at the Heritage means encountering your friends at meals, in hallway, the gardens and out shopping
 
 ### 5. care-free aging ~ Not having to worry
-* Having to look after elderly relatives can disrupt the career path and family life of young people. Living at the Heritage manus not having to worry about being a burden on others.
+* Having to look after elderly relatives can disrupt the career path and family life of young people. Life at the Heritage means you not having to worry about being a burden on others.
 
 ### 6. "You heard it through the grapevine" ~ communication via all channels
-* Living old and alone may mean having to rely on commercial TV and newspapers as your news source. Living at the Heritage means that you have access to a range of gossip, scuttlebutt, rumors via tv, chatting, ~ paper ~ internet.
+* Living old and alone may mean having to rely on commercial TV and newspapers as your news source. Life at the Heritage means that you have access to a range of gossip, scuttlebutt, rumors via tv, chatting, frequent handouts and the Internet.
 
 ### 7. "Safety in numbers" ~ Security of person
-* Old people can be preyed upon, victimized, hit upon and more. Living at the Heritage provides a safety net. People are there to help you with the right to life, liberty and happiness. You have your dignity, respect and agency.
+* Old people can be preyed upon, victimized, hit upon and more. Life at the Heritage provides a safety net. People are there to help you with the right to life, liberty and happiness. You have your dignity, respect and agency.
 
 
 
@@ -194,7 +218,7 @@ Selected results:
 ### 1. Varying needs ~ flexible care model
 
 * Independent living, assisted living, dementia care and skilled nursing
-For many old people good health is a variable, They are fine some times and need a hip replaced other times. Therefore the level of assistance they may need is equally variable. Managing these needs becomes a complex issue in itself. Living at the Heritage means that there are staff competent in a wide variety of issues who can pitch in as and when needed.
+For many old people good health is a variable, They are fine some times and need a hip replaced other times. Therefore the level of assistance they may need is equally variable. Managing these needs becomes a complex issue in itself. Life at the Heritage means that there are staff competent in a wide variety of issues who can pitch in as and when needed.
 
 
 ### 2. You are what you eat ~ Balance diet
