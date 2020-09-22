@@ -11,40 +11,33 @@
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
 	<meta name="version" content="2020-09-18">
 
-		<link rel="stylesheet" href="./lib/style/style-2020-09-17.css" />
+	<link rel="stylesheet" href="./lib/style/style-2020-09-17.css" />
 
-		<style>
+	<style>
+		:root {
+			--main-hue: 120;
+			/* 0 to 360 0=red 120=green 240=blue */
+		}
+	</style>
+</head>
 
-			:root {
-				--main-hue: 120; /* 0 to 360 0=red 120=green 240=blue */
-			}
+<body>
 
-		</style>
-	</head>
-	<body>
+	<!-- https://github.com/showdownjs/showdown -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
 
-		<!-- https://github.com/showdownjs/showdown -->
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
-
-	<div id=divContent class=divContent ></div>
+	<div id=divContent class=divContent></div>
 
 	<script>
 
 
 		defaultFile = "README.md";
 
-		//location.hash = "../assets/markdown-help.md"; // test
-		//location.hash = "../assets/style.css"
-
 		init();
 
 		function init() {
 
-			showdown.setFlavor( "github" );
-
 			if ( !location.hash ) { location.hash = defaultFile; }
-
-			//location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash;
 
 			onHashChange();
 
@@ -55,26 +48,43 @@
 		function onHashChange() {
 
 			const url = location.hash.slice( 1 );
+			const title = url.split( "/" ).pop();
+			const extension = title.toLowerCase().split( '.' ).pop();
 
-			if ( !url.endsWith( ".md" )){
+			document.title = title;
 
-				divContent.innerHTML = `<iframe src="${ url }" height=${ window.innerHeight } width=100% ></iframe>`;
+
+
+			if ( extension === "md" ) {
+
+				showdown.setFlavor( "github" );
+
+				const options = { excludeTrailingPunctuationFromURLs: true, ghMention: true, parseImgDimensions: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true, openLinksInNewWindow: true };
+
+				const xhr = new XMLHttpRequest();
+				xhr.open( "get", url, true );
+				xhr.onload = () => {
+					const txt = xhr.responseText.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
+					divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
+					window.scrollTo( 0, 0 );
+				};
+				xhr.send( null );
+
+				//console.log( "", 23 );
 
 				return;
 
 			}
 
-			document.title = url.split( "/" ).pop();
-			const options = { excludeTrailingPunctuationFromURLs: true, ghMention: true, parseImgDimensions: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true, openLinksInNewWindow: true };
+			if ( [ "gif", "jpg", "png", "svg" ].includes( extension ) ) {
 
-			const xhr = new XMLHttpRequest();
-			xhr.open( "get", url, true );
-			xhr.onload = () => {
-				const txt = xhr.responseText.replace( /\<!--@@@/, "" ).replace( /\@@@-->/, "" );
-				divContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
-				window.scrollTo( 0, 0 );
-			};
-			xhr.send( null );
+				divContent.innerHTML = `<img src="${ url }" style=max-width:100% >`;
+
+				return;
+
+			}
+
+			divContent.innerHTML = `<iframe src="${ url }" height=${ window.innerHeight } width=100% ></iframe>`;
 
 		}
 
