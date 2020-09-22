@@ -37,7 +37,7 @@ It turns out that dividing a topic into three is quite common.
 * https://en.wikipedia.org/wiki/Triad
 * https://en.wikipedia.org/wiki/Trichotomy_(philosophy)
 * https://en.wikipedia.org/wiki/Three-way_comparison << threeway comparison mey be easier
-
+* https://en.wikipedia.org/wiki/Self-determination_theory << competence, autonomy, and relatedness.
 
 * A commonly used triad is: doing, knowing and being
 * Or: acting, judging, knowing
@@ -46,10 +46,25 @@ It turns out that dividing a topic into three is quite common.
 * Community: people judging, liking each other
 * Premises: people knowing their way around, things you can see, evidence
 
+## Needs
+
+Security
+
+* https://en.wikipedia.org/wiki/Human_security
+* https://en.wikipedia.org/wiki/Happiness
+* https://en.wikipedia.org/wiki/Positive_psychology
+
+Beauty
+
+* https://www.nytimes.com/2019/01/09/magazine/beauty-evolution-animal.html
+* https://www.nytimes.com/2017/09/18/books/review/evolution-of-beauty-richard-prum-charles-darwin.html
+* https://en.wikipedia.org/wiki/The_Evolution_of_Beauty
+
 
 ## Premises
 
 ### Notes
+
 * Remember Vitruvius on Architecture: Firmness, Commodity, and Delight"
 * https://en.wikipedia.org/wiki/De_architectura
 
@@ -83,15 +98,31 @@ A Beautiful Day in the Neighborhood. Mr Rogers
 
 ### 6. "Walk in beauty" ~ Aesthetics
 
-<details>
 
-<summary>quotes</summary>
+
+* My buildings will be my legacy... they will speak for me long after I'm gone. Jilia Morgan
+* https://en.wikipedia.org/wiki/Julia_Morgan
 
 * “Any great art work … revives and readapts time and space, and the measure of its success is the extent to which it makes you an inhabitant of that world - the extent to which it invites you in and lets you breathe its strange, special air.” ― Leonard Bernstein
 * When love and skill work together expect a masterpiece. (John Ruskin)
 
-</details>
 
+### 7. security
+
+* It's not going to fall down
+* It's not going to leak
+* When it leaks, freezes, burns, bed bugs attack, the drains get clogged, the fire alarm goes off you do not have to deal with it
+* Mildew, rot, termites, rats, ants, skunks
+* Washing windows, cleaning carpets, painting walls, hanging pictures
+* It does it's best to keep you safe
+* It's not going to injure you
+* It will be here tomorrow
+* It will bring joy today and tomorrow
+* It will keep you "connected"
+* Given fire, earthquake, pestilence whatever your protection will be second to none
+* All you have to do is pull down the shades, shot off the water and turn off the lights
+* the developers are not going to tear it down
+* It's unlikely to be condemned, burned down or flooded - much less likely than a private home
 
 
 ## Community
