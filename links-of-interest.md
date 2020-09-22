@@ -1,5 +1,7 @@
 # Links of Interest
 
+_Work-in-progress. Many more links to be added as well as explanatory text._
+
 Web sites that may be of interest to residents
 
 

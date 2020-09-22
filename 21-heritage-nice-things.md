@@ -1,5 +1,7 @@
 # 21 Nice Things About the Heritage
 
+_Theo Armour's first impressions of the Heritage._
+
 ## Introduction
 
 I am an architect, designer and software programmer. I observe, decide and tabulate many aspects of my life.
@@ -12,7 +14,7 @@ There are three sections: Premises, community, support & services - with seven b
 
 The first five bullet points are things that give happiness. The last two bullet points in each section deal with beauty and security.
 
-Each bullet pint has two parts
+Each bullet point has two parts
 
 1. Choices and circumstances I was facing prior to moving here
 2. Outcomes or results arising from the move to the Heritage
