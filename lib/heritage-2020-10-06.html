@@ -39,8 +39,8 @@
 
 				<h2>
 
-					<a id=aGithub href="https://github.com/heritagesf/heritagesf.github.io/"
-						target="_top" title="Source code on GitHub">
+					<a id=aGithub href="https://github.com/heritagesf/heritagesf.github.io/" target="_top"
+						title="Source code on GitHub">
 						<img src="../lib/icons/octicon.svg">
 					</a>
 
@@ -52,7 +52,8 @@
 						<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
 						<span id="divDescription" class="infoTooltip gmd-5">
 
-						</span></span>
+						</span>
+					</span>
 
 				</h2>
 
@@ -90,21 +91,21 @@
 				-->
 
 
-				<span class="info">
-					<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
-					<span id="spnGRV" class="infoTooltip gmd-5">
-						test <button onclick=GRV.test() >view all files in this repository</button>
-					</span></span>
+			<span class="info">
+				<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
+				<span id="spnGRV" class="infoTooltip gmd-5">
+					test <button onclick=GRV.test()>view all files in this repository</button>
+				</span></span>
 
-				<div class=divNavResize>
+			<div class=divNavResize>
 
-					<p>Files you can load, view and experiment with:</p>
+				<p>Files you can load, view and experiment with:</p>
 
-					<div id=GRVdivGitHubRepoTreeView></div>
+				<div id=GRVdivGitHubRepoTreeView></div>
 
-					<br>
+				<br>
 
-				</div>
+			</div>
 
 
 			<hr>
@@ -169,7 +170,7 @@
 
 			if ( !location.hash && location.protocol === "https:" ) {
 
-				window.history.pushState( "", "", "./" );
+				window.history.pushState( "", "", "../" );
 
 				GRV.ignoreFolders = [ "archive", "drafts", "js", "lib", "src", "templates" ];
 

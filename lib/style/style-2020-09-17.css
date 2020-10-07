@@ -6,7 +6,7 @@
 	font-size: 100%;
 	font-family: "Lato", sans-serif;
 
-	--mnu-width: 25rem;
+	--mnu-width: 20rem;
 	--main-hue: 206; /* 0 to 360 0=red 120=green 240=blue */
 
 	--saturation: 89%;
@@ -159,7 +159,7 @@ pre {
 .divContent {
 	border: 0 solid red;
 	margin: 0 auto;
-	width: 50rem;
+	width: 40rem;
 }
 .divResize {
 	border-right: 1px solid teal;
