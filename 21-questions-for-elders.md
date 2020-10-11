@@ -1,6 +1,6 @@
 # 21 questions for elders
 
-_This is the umpteenth draft of a work-in-progress. And It's only he first half. The second half will be my answers to these questions from my perspective of a resident at the Heritage on the Marina and from my perspective as a resident of The Gateway apartments._
+_This is the umpteenth draft of a work-in-progress. And it's only he first half. The second half will be my answers to these questions from my perspective as a resident at the Heritage on the Marina and from my perspective as a (former) resident of The Gateway apartments._
 
 One day you look in the mirror and say to yourself "Wow! I look just like the old people!".
 
