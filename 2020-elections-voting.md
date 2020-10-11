@@ -9,13 +9,13 @@
 
 ### Cal Matters
 
-* Very balanecd overview of all propositions
+Balanced overview of all propositions
 
 * https://calmatters.org/election-2020-guide/
 
 ### San Francisco Bay Guardian
 
-Very progressive agenda
+Progressive agenda
 
 * http://www.sfbg.com/2020/10/01/endorsements-fall-2020/
 
@@ -27,12 +27,12 @@ Middle of the road agenda
 
 ### San Francisco Republican Party
 
-Very consrvative agenda
+Conservative agenda
 
 * http://www.sfgop.org/
 
 
-### Tracking your ballot
+### Track your ballot
 
 * https://california.ballottrax.net/voter/
 
@@ -70,14 +70,19 @@ Wednesday: The presidential election isn’t the only thing on the ballot.
 
 * https://www.nytimes.com/search?query=california+today
 
-
-Not San Francisco
+## Voters Choice Act
 
 * https://www.sos.ca.gov/elections/voters-choice-act
 
 The California Voter’s Choice Act is a new law (PDF) passed in 2016 that will modernize elections in California by allowing counties to conduct elections under a new model which provides greater flexibility and convenience for voters.
 This new election model allows voters to choose how, when, and where to cast their ballot by:
 
+* Not San Francisco - yet
 * Mailing every voter a ballot
 * Expanding in-person early voting
 * Allowing voters to cast a ballot at any vote center within their county
+
+
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>

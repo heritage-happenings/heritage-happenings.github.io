@@ -73,3 +73,7 @@ _The wording of each question needs further definition and clarifying of the mea
 7. Do you feel secure with the organization?
 	* Even in the case of a natural disaster you will be taken care of
 
+
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>

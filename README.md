@@ -12,4 +12,4 @@ An unofficial web presence presence for residents and staff of the [Heritage on 
 
 ***
 
-<center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=font-size:2ch;text-decoration:none; > ❦ </a></center>
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
