@@ -1,8 +1,10 @@
 # 21 questions for elders
 
+_This is the umpteenth draft of a work-in-progress. And It's only he first half. The second half will be my answers to these questions from my perspective of a resident at the Heritage on the Marina and from my perspective as a resident of The Gateway apartments._
+
 One day you look in the mirror and say to yourself "Wow! I look just like the old people!".
 
-When thoughts like these start to happen, it is a good time consider
+When thoughts like these start to happen, it is a good time to as question like these:
 
 * "Is where I live now where I want to be from now on?"
 * "Will I want to live here in my nineties and beyond"
@@ -10,10 +12,11 @@ When thoughts like these start to happen, it is a good time consider
 * "Will I be lonely, become a hoarder or retreat into unhealthy habits if I stay here"
 * "Wil I become a burden on my friends and family, will I disrupt the career plans of others so that they mat look after me, will the time spent fussing over me take time away from being with children?"
 
-The following is a series of questions intended to help you gather the input needed to help you and your team agree a decision about your future life.
+The following is checklist of a series of questions intended to help you gather the input needed to help you and your team agree a decision about your future life.
 
 You may use this checklist in order to help you decide whether you should live in place or move somewhere else. If you are a stay-at-home, you will still need to find good responses to all the items.
 
+_The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmentin and completing._
 
 ## Location, Place, Premises, the physical, the what's there
 
