@@ -40,7 +40,7 @@ Location, neighborhood, premises, facilities, apartment, beauty & security
 	* Ambiance: You can select: urban ( Chestnut Street), sporty ( the play ground), bayside ( Marina Green )
 	* [Walkability]( https://en.wikipedia.org/wiki/Walkability ): [Walk score]( https://www.walkscore.com/score/3400-laguna-st-san-francisco-ca-94123 )
 	* Commerce: Apple picks locations judiciously - just three stores in San Francisco - Marina store is just a short walk - because the shops, restaurants and services a magnet
-	* Demographics: all age-groups, ethnicities, rich and not so rich live in the neighborhood
+	* Demographics: all age-groups, diversity, rich and not so rich live in the neighborhood
 	* Geography: No day is too hot or too cold. Walkers can choose flat or hills
 	* Safety: crime and disease statistics are low. Acceptable social distancing
 <mark>
