@@ -6,7 +6,7 @@ An unofficial web presence presence for residents and friends of the [Heritage o
 
 ## [2020 Elections & Voting]( https://heritagesf.github.io#2020-elections-voting.md )
 
-Links to voter guides, endorsements (left, right and center) and FAQs
+* Links to voter guides, endorsements (left, right and center) and FAQs
 
 ## [Links of Interest for Elders]( https://heritagesf.github.io#links-of-interest-for=elders.md )
 
