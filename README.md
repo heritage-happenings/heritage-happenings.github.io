@@ -35,7 +35,7 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 ***
 
-<img src=images/cottage-cropped.jpg width=30% style=margin:1%;><img src=images/marina-sunset.jpg width=30% style=margin:1%;>  <img src=images/people.jpg width=30% style=margin:1%;>
+<a href="https://heritagesf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=images/cottage-cropped.jpg width=30% style=margin:1%;></a><img src=images/marina-sunset.jpg width=30% style=margin:1%;>  <img src=images/people.jpg width=30% style=margin:1%;>
 
 ***
 

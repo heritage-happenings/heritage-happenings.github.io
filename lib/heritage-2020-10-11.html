@@ -172,7 +172,7 @@
 
 			if ( location.protocol === "https:" ) {
 
-				window.history.pushState( "", "", "../" );
+				window.history.pushState( "", "", "../" + location.hash );
 
 				GRV.ignoreFolders = [ "archive", "drafts", "images", "js", "lib", "src", "templates" ];
 
