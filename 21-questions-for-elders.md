@@ -2,39 +2,39 @@
 
 _This is the umpteenth draft of a work-in-progress. And it's only he first half. The second half will be my answers to these questions from my perspective as a resident at the Heritage on the Marina and from my perspective as a (former) resident of The Gateway apartments._
 
-One day you look in the mirror and say to yourself "Wow! I look just like the old people!".
+One day you look in the mirror and say to yourself "Wow! I look just like the old people!"
 
-When thoughts like these start to happen, it is a good time to as question like these:
+When thoughts like these start to happen, it is a good time to ask question such as these:
 
 * "Is where I live now where I want to be from now on?"
 * "Will I want to live here in my nineties and beyond"
 * "Will my friends and family want me here when I am a fall risk, have dementia or have had a stroke?"
-* "Will I be lonely, become a hoarder or retreat into unhealthy habits if I stay here"
-* "Wil I become a burden on my friends and family, will I disrupt the career plans of others so that they mat look after me, will the time spent fussing over me take time away from being with children?"
+* "Will I be lonely, become a hoarder or retreat into unhealthy habits if I stay here?"
+* "Will I become a burden on my friends and family; will I disrupt the career plans of others so that they may look after me; will the time spent fussing over me take time away from being with grandchildren?"
 
-The following is checklist of a series of questions intended to help you gather the input needed to help you and your team agree a decision about your future life.
+The following is checklist of a series of questions intended to help you gather the input needed to help you and your elder care team agree a decision about your future life.
 
 You may use this checklist in order to help you decide whether you should live in place or move somewhere else. If you are a stay-at-home, you will still need to find good responses to all the items.
 
-_The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmentin and completing._
+_The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmenting and completing._
 
-## Location, Place, Premises, the physical, the what's there
+## Location, Place, Premise ~ the physical, the what's there
 
 1. Do you like the country, state and municipality?
 	* Consider the culture, politics, infrastructure, friends and family
 2. Do you like the neighborhood?
 	* Walkability, diversity, urbanity & people watching and nature
 3. Do you like the opportunities to be outdoors, be in nature?
-	* "[Friluftsliv]( https://www.bbc.com/worklife/article/20171211-friluftsliv-the-nordic-concept-of-getting-outdoors )" ~ Not have to walk across a parking lot to be in a nice place
+	* "[Friluftsliv]( https://www.bbc.com/worklife/article/20171211-friluftsliv-the-nordic-concept-of-getting-outdoors "Nordic concept of being outdoors" )" ~ Not have to walk across a parking lot to be in a nice place
 4. Do you like facilities, the public spaces?
-	* Is there enough to do
+	* Art, fitness, media, education, events, gardens, terraces
 5. Do you like the apartments?
-	* Convenience, safety and design
+	* Convenience, safety and design; views, sounds
 6. Do you feel the beauty of the place?
 	* The architecture, the design of the space, the furniture and art
 7. Do you feel secure in this place?
 	* Intrusions are prevented, emergency preparations have detailed guidance
-	* Non-slip floors, hand rails both sides, multiple escape routes, alarms and communications, generators
+	* Non-slip floors, hand rails both sides, wheelchair accessible, multiple escape routes, alarms and communications, generators
 
 ## Community, People
 
@@ -68,6 +68,7 @@ _The wording of each question needs further definition and clarifying of the mea
 5. Is good health maintained and ill-health prevented?
 	* Are there people in their nineties and hundreds hanging around?
 	* Is the medical staff sufficient, qualified and organized?
+	* Federal, state and municipal guidelines being followed
 6. Do you feel the beauty of the organization
 	* You feel the pride, the sense of achievement
 7. Do you feel secure with the organization?

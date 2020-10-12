@@ -12,6 +12,16 @@ An unofficial web presence presence for residents and staff of the [Heritage on 
 
 ## [Photos]( https://heritagesf.github.io#photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
 
+2020-10-11 ~ Here we go!
+
+Thank you testing this web site!
+
+As with so many first efforts, there is a lack of content and a number of design issues.
+
+Fingers crossed: both these issues are dealt with in due course. In the mean time, please send your comments, thoughts and suggestions to Theo.
+
+To Do: make the size of the text adjustable. Establish high priority items needed so people with disabilities can access the content more easily.
+
 
 <img src=images/cottage-cropped.jpg width=30% style=margin:1%;><img src=images/marina-sunset.jpg width=30% style=margin:1%;>  <img src=images/people.jpg width=30% style=margin:1%;>
 
