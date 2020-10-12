@@ -168,7 +168,9 @@
 
 			// if running on server, keeps address bar pointed to latest dev
 
-			if ( !location.hash && location.protocol === "https:" ) {
+			//if ( !location.hash && location.protocol === "https:" ) {
+
+			if ( location.protocol === "https:" ) {
 
 				window.history.pushState( "", "", "../" );
 
