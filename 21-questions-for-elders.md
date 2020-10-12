@@ -16,7 +16,7 @@ The following is checklist of a series of questions intended to help you gather 
 
 You may use this checklist in order to help you decide whether you should live in place or move somewhere else. If you are a stay-at-home, you will still need to find good responses to all the items.
 
-_The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmenting and completing._
+_The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmenting and completing. The mission is to have the greatest coverage with the fewest questions._
 
 ## Location, Place, Premise ~ the physical, the what's there
 
