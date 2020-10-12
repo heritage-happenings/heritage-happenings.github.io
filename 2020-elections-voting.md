@@ -1,4 +1,4 @@
-# Voting
+# 2020 Elections & Voting
 
 ## Voting Guides
 
@@ -7,7 +7,7 @@
 * https://voterguide.sos.ca.gov/
 
 
-### Cal Matters
+### Cal Matters: Election 2020 Guide
 
 Balanced overview of all propositions
 
