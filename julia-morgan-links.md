@@ -4,7 +4,7 @@
 
 ## https://en.wikipedia.org/wiki/Julia_Morgan
 
-Julia Morgan (January 20, 1872 – February 2, 1957) was an American architect and engineer. She designed more than 700 buildings in California during a long and prolific career.[3] She is best known for her work on Hearst Castle in San Simeon, California.
+Julia Morgan (January 20, 1872 – February 2, 1957) was an American architect and engineer. She designed more than 700 buildings in California during a long and prolific career. She is best known for her work on Hearst Castle in San Simeon, California.
 
 Morgan was the first woman to be admitted to the architecture program at l'École nationale supérieure des Beaux-Arts in Paris and the first woman architect licensed in California. She designed many edifices for institutions serving women and girls, including a number of YWCAs and buildings for Mills College.
 
@@ -16,8 +16,11 @@ Julia Morgan was the first woman to receive American Institute of Architects’ 
 
 Julia Morgan's design masterpieces, mapped
 
-Google maps links to Julia Morgan's projects in the Bay Area - with descriptions for each and photos of many.
+_Google maps links to Julia Morgan's projects in the Bay Area - with descriptions for each and photos of many._
 
+Julia Morgan was a notoriously private person who shunned publicity. Little is known about her childhood or personal life. But no matter—she left behind a most lasting impressions on California’s landscape and a hard-to-miss hole in the architecture field’s glass ceiling .
+
+Morgan holds the record for total completed structures designed by a single American architect—she designed more than 700 buildings (most of them houses), so many that even just her Bay Area contributions exceeds the capacity of any one map or index.
 
 ## https://lib.calpoly.edu/search-and-find/collections-and-archives/architectural/morgan/
 
