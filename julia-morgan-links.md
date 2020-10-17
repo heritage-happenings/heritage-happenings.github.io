@@ -64,6 +64,16 @@ Morgan was hardly the kind of architect to madly sketch plans that had suddenly 
 Morgan produced no manifestos, and she shunned the press. As Sara Holmes Boutelle, Morgan’s biographer, put it, “She steadfastly refused to enter competitions, write articles, submit photographs to architectural magazines, or serve on committees, dismissing such activities as fit only for ‘talking architects.’ ” Morgan had a similarly dim view of prepping her archive for posterity. When she retired, she had all her blueprints and other materials destroyed. She figured the only people who might have any use for them were her clients. And they had their own copies.
 
 
+## https://californiahistoricalsociety.org/
+
+* https://c95040.eos-intl.net/C95040/OPAC/Search/SimpleSearch.aspx
+
+Search on "Julia Morgan"
+
+Search on "Ladies Protection"
+
+
+
 ***
 
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
