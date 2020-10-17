@@ -50,13 +50,18 @@ Full text here:
 * https://www.google.com/books/edition/The_Bells_Shall_Ring/fwmrAAAAIAAJ?hl=en&gbpv=1&bsq=%22You%20are%20the%20Folks%20I%E2%80%99m%20glad%20to%20know%22
 
 > The Bells Shall Ring: An Account of the Chime Bells of Grace Cathedral San Francisco and how the Boyhood Dreams Of Dr. Nathaniel T Coulson at Last came True by Rosa Lee Baldwin Hardcover – January 1, 1940
->
+
+Excerpts from the book are below. Note that
+
+* The dates in text and on plaque correspond
+* The plaque in the garden has the quote: “May the coming hour overflow with joy!”
+
 > Still we find our beloved character intent on joy for others; when in his eightieth year he presented to the folks on Pine Street, San Francisco, on June 18, 1934, a lovely sun-dial, installed on the spacious lawn with the following inscription: —
 >
 > “May the coming hour overflow with joy!”
 >
 > Accompanying the gift were the following lines written by the doctor:
->
+
 > “You are the Folks I’m glad to know,
 > You are the Folks that cheer me so;
 > Whatever of joy or woe I miss,
