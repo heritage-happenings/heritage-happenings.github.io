@@ -101,6 +101,18 @@ See bibliography
 
 Where the Miss Morgan impersonator lives
 
+
+## https://aiaeb.org/julia-morgan-changed-architecture-and-opened-the-field-for-women/
+
+
+## https://www.parks.ca.gov/pages/566/files/JuliaMorganFinalWeb2015.pdf
+
+
+## https://marinmagazine.com/community/history/morgans-masterpieces/
+
+
+## https://thebolditalic.com/a-locals-guide-to-architect-julia-morgan-s-legacy-c902ef396b91
+
 ***
 
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
