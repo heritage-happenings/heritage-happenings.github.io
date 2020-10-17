@@ -2,7 +2,14 @@
 
 In the Porter Garden at the Heritage on the Marina there is a pedestal with a bronze plaque at the base.
 
-The following is an investigation into the person named on the plaque along with findings on the origins og=f the pedestal and plaque.
+The following is an investigation into the person named on the plaque along with findings on the origins of the pedestal and plaque.
+
+Summary:
+
+* Dr Coulson was a dentist, investor and benefactor of donated the funds for the Grace Cathedral Carillon
+* The plaque and pedestal were formerly the base of sundial donated to "Pines Street House" on June 15 1934.
+* The current whereabouts of the sundial are unknown
+* How the pedestal came to the Heritage is unknown
 
 ## Photo: The plaque at the base of a pedestal in the Porter garden at the Heritage on the Marina
 
@@ -74,3 +81,7 @@ Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral,
 	* 1892
 	* Page 150: A fairly detailed biography
 
+
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
