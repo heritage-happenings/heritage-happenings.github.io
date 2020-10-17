@@ -5,7 +5,8 @@
 * BURIAL Grace Cathedral Columbarium, San Francisco, San Francisco County, California, USA
 * Inscription "Donor of the Singing Tower"
 
-## The Plaque at the base of a pedestal in the Porter garden at The Heritage o. the Marina
+
+## The Plaque at the base of a pedestal in the Porter garden at The Heritage on the Marina
 
 ![]( https://heritagesf.github.io/images/1934-Coulson-plaque-pine-street.jpg )
 
