@@ -1,6 +1,6 @@
 # Julia Morgan Links
 
-![Julia Morgan]( https://commons.wikimedia.org/wiki/Category:Julia_Morgan#/media/File:Julia_Morgan.jpg )
+![Julia Morgan]( https://upload.wikimedia.org/wikipedia/commons/f/fc/Julia_Morgan.jpg )
 
 ## https://en.wikipedia.org/wiki/Julia_Morgan
 
