@@ -32,10 +32,11 @@
 Full text here:
 
 * https://archive.org/stream/bellsshallringac00bald/bellsshallringac00bald_djvu.txt
+* https://www.google.com/books/edition/The_Bells_Shall_Ring/fwmrAAAAIAAJ?hl=en&gbpv=1&bsq=%22You%20are%20the%20Folks%20I%E2%80%99m%20glad%20to%20know%22
 
 > The Bells Shall Ring: An Account of the Chime Bells of Grace Cathedral San Francisco and how the Boyhood Dreams Of Dr. Nathaniel T Coulson at Last came True by Rosa Lee Baldwin Hardcover – January 1, 1940
 >
->Still we find our beloved character intent on joy for others; when in his eightieth year he presented to the folks on Pine Street, San Francisco, on June 18, 1934, a lovely sun-dial, installed on the spacious lawn with the following inscription: —
+> Still we find our beloved character intent on joy for others; when in his eightieth year he presented to the folks on Pine Street, San Francisco, on June 18, 1934, a lovely sun-dial, installed on the spacious lawn with the following inscription: —
 >
 > “May the coming hour overflow with joy!”
 >
@@ -49,7 +50,7 @@ Full text here:
 > And wish there were more in the world like you"
 
 
-## Dr. Nathaniel Thomas Coulson and Bourdon Bell
+## Postcard: Dr. Nathaniel Thomas Coulson and Bourdon Bell
 
 * https://www.cardcow.com/772746/san-francisco-california-dr-nathaniel-thomas-coulson-bourdon-bell-exposition-1939/
 
@@ -61,8 +62,8 @@ Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral,
 ## More Links
 
 * https://www.google.com/books/edition/The_Occident/FUU1qelZQqYC?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=RA1-PA62&printsec=frontcover
-  * Page 97: Advertisement for his practice
+	* Page 97: Advertisement for his practice
 * https://www.google.com/books/edition/The_Bay_of_San_Francisco/ceUBAAAAMAAJ?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=PA150&printsec=frontcover
-  * 1892
-  * Page 150: A fairly detailed biography
+	* 1892
+	* Page 150: A fairly detailed biography
 
