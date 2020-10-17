@@ -1,14 +1,21 @@
-# Dr Nathaniel Thomas Coulson
+# "Gift by Dr Nat T Coulson"
 
+In the Porter Garden at the Heritage on the Marina there is a pedestal with a bronze plaque at the base.
+
+The following is an investigation into the person named on the plaque along with findings on the origins og=f the pedestal and plaque.
+
+## Photo: The plaque at the base of a pedestal in the Porter garden at the Heritage on the Marina
+
+![]( https://heritagesf.github.io/images/coulson/1934-coulson-plaque-pine-street.jpg )
+
+
+# FindAGrave website: Dr Nathaniel Thomas Coulson
+
+* https://www.findagrave.com/memorial/13284969/nathaniel-thomas-coulson
 * BIRTH	8 Aug 1853 Cornwall, England
 * DEATH	18 Dec 1945 (aged 92) San Francisco, San Francisco County, California, USA
 * BURIAL Grace Cathedral Columbarium, San Francisco, San Francisco County, California, USA
 * Inscription "Donor of the Singing Tower"
-
-
-## Photo: The Plaque at the base of a pedestal in the Porter garden at The Heritage on the Marina
-
-![]( https://heritagesf.github.io/images/coulson/1934-coulson-plaque-pine-street.jpg )
 
 
 ## Wikipedia: Grace Cathedral Carillon
