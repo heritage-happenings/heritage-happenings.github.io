@@ -12,6 +12,13 @@ In many of her structures, Morgan pioneered the aesthetic use of reinforced conc
 
 Julia Morgan was the first woman to receive American Institute of Architects’ highest award, the AIA Gold Medal, posthumously in 2014.
 
+## https://sf.curbed.com/maps/julia-morgan-buildings-best-sf
+
+Julia Morgan's design masterpieces, mapped
+
+Google maps links to Julia Morgan's projects in the Bay Area - with descriptions for each and photos of many.
+
+
 ## https://lib.calpoly.edu/search-and-find/collections-and-archives/architectural/morgan/
 
 The Julia Morgan Papers (MS010) are the personal and professional records of Julia Morgan, donated by Morgan’s heir in 1980. The National Board of the YWCA; Earl and Wright, Consulting Engineers; Mr. and Mrs. Randolph Hearst Jr.; and other donors who which to remain anonymous have made significant additional donations to the collection.
