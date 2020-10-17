@@ -97,6 +97,10 @@ List of Julia Morgan buildings, with photos when available. Most, if not all pro
 
 See bibliography
 
+## https://www.findagrave.com/memorial/1464/julia-morgan
+
+Where the Miss Morgan impersonator lives
+
 ***
 
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
