@@ -83,6 +83,15 @@ Search on "Julia Morgan"
 Search on "Ladies Protection"
 
 
+## https://homepages.bluffton.edu/~sullivanm/jmindex/genericindex.html
+
+Generic index of buildings by Julia Mornan
+
+## https://www.ranker.com/list/julia-morgan-buildings-and-structures/reference
+
+
+List of Julia Morgan buildings, with photos when available. Most, if not all prominent Julia Morgan architecture appears on this list, including houses, churches and other structures where applicable. This list contains information like what city the structure can be found in, and when it was first opened to the public. If you want to find out even more about these famous Julia Morgan buildings you can click on the building names to get additional information
+
 
 ***
 
