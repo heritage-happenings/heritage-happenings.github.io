@@ -8,7 +8,7 @@
 
 ## The Plaque at the base of a pedestal in the Porter garden at The Heritage on the Marina
 
-![]( https://heritagesf.github.io/images/1934-Coulson-plaque-pine-street.jpg )
+![]( https://heritagesf.github.io/images/coulson/1934-Coulson-plaque-pine-street.jpg )
 
 
 ## Grace Cathedral Carillon
@@ -52,7 +52,7 @@ Full text here:
 
 * https://www.cardcow.com/772746/san-francisco-california-dr-nathaniel-thomas-coulson-bourdon-bell-exposition-1939/
 
-![]( https://heritagesf.github.io/images/1939-coulson-postcard-bourdon-bell)
+![]( https://heritagesf.github.io/images/coulson/1939-coulson-postcard-bourdon-bell)
 
 Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral, San Francisco, as the 6 ton Bourdon bell was being unloaded. The carillon was lent to the Golden Gate International Exposition and installed in the Tower of the Sun, Treasure Island. Dr. Coulson chose for each bell a name and bible verse. The Peace Bell bears the text from Isaiah "Nation shall not lift up sward against Nation."
 
