@@ -62,3 +62,8 @@ That prolific output is one reason it has taken so long for Morgan’s work to w
 Morgan was hardly the kind of architect to madly sketch plans that had suddenly come to her on the back of a napkin. (I’m not sure any architect is, really, but she never came close to filling that stereotype.) Her muse was the grindstone. During her most prolific years, her office juggled two or three dozen projects at the same time. She often worked 18-hour days. She never married.
 
 Morgan produced no manifestos, and she shunned the press. As Sara Holmes Boutelle, Morgan’s biographer, put it, “She steadfastly refused to enter competitions, write articles, submit photographs to architectural magazines, or serve on committees, dismissing such activities as fit only for ‘talking architects.’ ” Morgan had a similarly dim view of prepping her archive for posterity. When she retired, she had all her blueprints and other materials destroyed. She figured the only people who might have any use for them were her clients. And they had their own copies.
+
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
+
