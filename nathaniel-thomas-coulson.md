@@ -7,7 +7,7 @@ The following is an investigation into the person named on the plaque along with
 Summary:
 
 * Dr Nat Coulson was a dentist, investor and benefactor who provided the funds for the Grace Cathedral Carillon
-* The plaque and pedestal were formerly the base of sundial donated to "Pines Street House" on June 15 1934
+* The plaque and pedestal were formerly the base of sundial donated to "Pine Street House" on June 15 1934
 * The current whereabouts of the sundial is unknown
 * How the pedestal came to be at the Heritage is unknown
 
