@@ -49,7 +49,6 @@ Full text here:
 
 * https://www.cardcow.com/772746/san-francisco-california-dr-nathaniel-thomas-coulson-bourdon-bell-exposition-1939/
 
-![]( https://www.cardcow.com/images/set920/card00957_fr.jpg )
 
 Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral, San Francisco, as the 6 ton Bourdon bell was being unloaded. The carillon was lent to the Golden Gate International Exposition and installed in the Tower of the Sun, Treasure Island. Dr. Coulson chose for each bell a name and bible verse. The Peace Bell bears the text from Isaiah "Nation shall not lift up sward against Nation."
 
