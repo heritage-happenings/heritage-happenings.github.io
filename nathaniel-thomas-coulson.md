@@ -9,7 +9,7 @@ Summary:
 * Dr Nat Coulson was a dentist, investor and benefactor who provided the funds for the Grace Cathedral Carillon
 * The plaque and pedestal were formerly the base of sundial donated to "Pine Street House" on June 15 1934
 * The 1940 US Census lists Dr Coulson living at 2507 Pine Street - also known as the Crocker Old People's Home
-* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and ChildrenA lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift
+* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and Children. A lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift
 * The current whereabouts of the sundial is unknown
 
 
