@@ -26,6 +26,41 @@ Summary:
 * Inscription "Donor of the Singing Tower"
 
 
+## Ancestry.com: US Census 1940
+
+_Tip of the hat to Gardner for this find._
+
+* https://www.ancestry.com/1940-census/usa/California/Nat-T-Coulson_2gjwgj
+* Age	87, born abt 1853
+* Birthplace	England
+* Gender	Male
+* Race	White
+* Home in 1940	
+* 2507 Pine Street
+* San Francisco,
+* San Francisco, California
+
+Currently location of Chibi Chan Preschool
+
+
+## Flickt photo: Crocker Old People's Home
+
+_A tip of the hat to Jean Fowler for noting the following_
+
+>  I have not seen this before, but I suspect this was originally given to the Crockers Old People's home which in the early 50s merged with The Society
+for the Protection of Women and Children which was our original name. A lot of the period furniture in Morgan came from Crocker, as did men!
+
+
+* https://www.flickr.com/photos/sftrajan/50063787963
+* 2501 Pine Street
+* 2507 Pine Street
+* San Francisco
+* ARTHUR PAGE BROWN, architect
+
+> The Old People's Home was originally four stories high, with a wonderfully complex shingled hip roof with flared edges, multiple dormers and pointed turrets. It was designed by the important architect, Arthur Page Brown, and funded by the Crocker estate. The remaining rhythmic curving bays with patterned shingles and arched 1st floor windows enliven the street facades. The corner entrance is impressive in its subtle detail and restraint, allowing it to blend with residential surroundings. This was an early and creative example of housing for the elderly.
+
+
+
 ## Wikipedia: Grace Cathedral Carillon
 
 * https://en.wikipedia.org/wiki/Grace_Cathedral,_San_Francisco#Carillon
