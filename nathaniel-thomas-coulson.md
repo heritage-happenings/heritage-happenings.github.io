@@ -8,8 +8,9 @@ Summary:
 
 * Dr Nat Coulson was a dentist, investor and benefactor who provided the funds for the Grace Cathedral Carillon
 * The plaque and pedestal were formerly the base of sundial donated to "Pine Street House" on June 15 1934
+* The 1940 US Census lists Dr Coulson living at 2507 Pine Street - also known as the Crocker Old People's Home
+* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and ChildrenA lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift.
 * The current whereabouts of the sundial is unknown
-* How the pedestal came to be at the Heritage is unknown
 
 
 ## Photo: The plaque at the base of a pedestal in the Porter garden at the Heritage on the Marina
@@ -35,7 +36,7 @@ _Tip of the hat to Gardner for this find._
 * Birthplace	England
 * Gender	Male
 * Race	White
-* Home in 1940	
+* Home in 1940
 * 2507 Pine Street
 * San Francisco,
 * San Francisco, California
@@ -43,12 +44,11 @@ _Tip of the hat to Gardner for this find._
 Currently location of Chibi Chan Preschool
 
 
-## Flickt photo: Crocker Old People's Home
+## Flickr photo: Crocker Old People's Home on Pine Street
 
 _A tip of the hat to Jean Fowler for noting the following_
 
->  I have not seen this before, but I suspect this was originally given to the Crockers Old People's home which in the early 50s merged with The Society
-for the Protection of Women and Children which was our original name. A lot of the period furniture in Morgan came from Crocker, as did men!
+> I have not seen this before, but I suspect this was originally given to the Crockers Old People's home which in the early 50s merged with The Society for the Protection of Women and Children which was our original name. A lot of the period furniture in Morgan came from Crocker, as did men!
 
 
 * https://www.flickr.com/photos/sftrajan/50063787963
@@ -58,7 +58,6 @@ for the Protection of Women and Children which was our original name. A lot of t
 * ARTHUR PAGE BROWN, architect
 
 > The Old People's Home was originally four stories high, with a wonderfully complex shingled hip roof with flared edges, multiple dormers and pointed turrets. It was designed by the important architect, Arthur Page Brown, and funded by the Crocker estate. The remaining rhythmic curving bays with patterned shingles and arched 1st floor windows enliven the street facades. The corner entrance is impressive in its subtle detail and restraint, allowing it to blend with residential surroundings. This was an early and creative example of housing for the elderly.
-
 
 
 ## Wikipedia: Grace Cathedral Carillon
