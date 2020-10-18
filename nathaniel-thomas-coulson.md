@@ -9,7 +9,7 @@ Summary:
 * Dr Nat Coulson was a dentist, investor and benefactor who provided the funds for the Grace Cathedral Carillon
 * The plaque and pedestal were formerly the base of sundial donated to "Pine Street House" on June 15 1934
 * The 1940 US Census lists Dr Coulson living at 2507 Pine Street - also known as the Crocker Old People's Home
-* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and ChildrenA lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift.
+* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and ChildrenA lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift
 * The current whereabouts of the sundial is unknown
 
 
@@ -18,7 +18,7 @@ Summary:
 ![]( https://heritagesf.github.io/images/coulson/1934-coulson-plaque-pine-street.jpg )
 
 
-# FindAGrave website: Dr Nathaniel Thomas Coulson
+## FindAGrave website: Dr Nathaniel Thomas Coulson
 
 * https://www.findagrave.com/memorial/13284969/nathaniel-thomas-coulson
 * BIRTH	8 Aug 1853 Cornwall, England
@@ -44,7 +44,7 @@ _Tip of the hat to Gardner for this find._
 Currently location of Chibi Chan Preschool
 
 
-## Flickr photo: Crocker Old People's Home on Pine Street
+## Flickr.com photo: Crocker Old People's Home on Pine Street
 
 _A tip of the hat to Jean Fowler for noting the following_
 
