@@ -115,6 +115,9 @@ Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral,
 
 ## More Links
 
+* https://www.google.com/books/edition/Master_Hands_in_the_Affairs_of_the_Pacif/TeE-AAAAYAAJ?hl=en&gbpv=1&bsq=coulson
+	* Detailed biography
+	* Tip of the hat to Gardner
 * https://www.google.com/books/edition/The_Occident/FUU1qelZQqYC?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=RA1-PA62&printsec=frontcover
 	* Page 97: Advertisement for his practice
 * https://www.google.com/books/edition/The_Bay_of_San_Francisco/ceUBAAAAMAAJ?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=PA150&printsec=frontcover
