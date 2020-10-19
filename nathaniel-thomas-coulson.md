@@ -123,7 +123,8 @@ Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral,
 * https://www.google.com/books/edition/The_Bay_of_San_Francisco/ceUBAAAAMAAJ?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=PA150&printsec=frontcover
 	* 1892
 	* Page 150: A fairly detailed biography
-
+* https://issuu.com/brunomanuelalbano/docs/treasureislandma00jamerich
+	* Carillon on Treasure Island 1938
 
 ***
 
