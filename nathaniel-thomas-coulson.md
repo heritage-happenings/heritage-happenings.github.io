@@ -69,6 +69,20 @@ _A tip of the hat to Jean Fowler for noting the following_
 
 ## Grace Cathedral website: Cathedral Bells and Specification
 
+<img src=images/coulson/coulsoncarillon/DSCN2895.JPG width=100% >
+
+View of the Singing Tower (north cathedral tower) from the west.
+
+<img src=images/coulson/coulsoncarillon/gcs554.jpg width=100% >
+
+Dr. Coulson admiring the Bourdon bell (12001 pounds) on its arrival in San Francisco in 1938
+
+<img src=images/coulson/coulsoncarillon/gcs935.jpg width=100% >
+
+Carillon under constriction at Gillet and Johnston factory, Croydon, UK
+
+Photos courtesy of Grace Cathedral
+
 * https://gracecathedral.org/wp-content/uploads/2016/04/Cathedral-Bells-and-Specifications.pdf
 
 > Grace Cathedral’s bell carillon was the gift of Dr. Nathaniel T. Coulson (1853-1945), a British-born orphan and seaman, become San Francisco dentist and investor. Coulson gave his fortune to build the north or Singing Tower of the cathedral (1939-1941), and to supply it with a carillon of forty-four bronze bells from the Gillet and Johnston bell foundry in Croydon, England (cast 1937-1938). During his last years he lived on a dollar a day to realize his goal. He lived to see the tower and carillon dedicated by Dean Thomas Wright in 1943. Coulson wanted his ashes be placed in the tower crypt, but his wish was delayed. In 1990, on the fiftieth anniversary of the bell installation, his ashes were moved from nearby Cypress Lawn columbarium to the new cathedral columbarium, located below his carillon, in his own Singing Tower
