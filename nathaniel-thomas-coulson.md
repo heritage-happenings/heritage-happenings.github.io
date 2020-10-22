@@ -9,7 +9,7 @@ Summary:
 * Dr Nat Coulson was a dentist, investor and benefactor who provided the funds for the Grace Cathedral Carillon
 * The plaque and pedestal were formerly the base of sundial donated to "Pine Street House" on June 15 1934
 * The 1940 US Census lists Dr Coulson living at 2507 Pine Street - also known as the Crocker Old People's Home
-* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and ChildrenA lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift
+* In the early 1950s the Crocker Old People's Home merged with The Society for the Protection of Women and Children. A lot of the period furniture in Morgan came from Crocker, as did men. And most likely: Coulson's gift
 * The current whereabouts of the sundial is unknown
 
 
@@ -129,12 +129,16 @@ Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral,
 
 ## More Links
 
+* https://www.google.com/books/edition/Master_Hands_in_the_Affairs_of_the_Pacif/TeE-AAAAYAAJ?hl=en&gbpv=1&bsq=coulson
+	* Detailed biography
+	* Tip of the hat to Gardner
 * https://www.google.com/books/edition/The_Occident/FUU1qelZQqYC?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=RA1-PA62&printsec=frontcover
 	* Page 97: Advertisement for his practice
 * https://www.google.com/books/edition/The_Bay_of_San_Francisco/ceUBAAAAMAAJ?hl=en&gbpv=1&dq=dr+nathanial+coulsen+San+Francisco&pg=PA150&printsec=frontcover
 	* 1892
 	* Page 150: A fairly detailed biography
-
+* https://issuu.com/brunomanuelalbano/docs/treasureislandma00jamerich
+	* Carillon on Treasure Island 1938
 
 ***
 
