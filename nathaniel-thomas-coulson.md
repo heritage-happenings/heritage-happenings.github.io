@@ -81,7 +81,7 @@ Dr. Coulson admiring the Bourdon bell (12001 pounds) on its arrival in San Franc
 
 Carillon under constriction at Gillet and Johnston factory, Croydon, UK
 
-Photos courtesy of Grace Cathedral archives
+Photos courtesy of Grace Cathedral Archives.
 
 ***
 
