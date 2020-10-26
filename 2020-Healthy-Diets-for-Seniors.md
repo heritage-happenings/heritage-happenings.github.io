@@ -1,29 +1,40 @@
 # 2020 Healthy Diets for Seniors
 
-One of the great pleasures of every day life for seniors is simply to eat food
+One of the great pleasures of every day life for seniors is simply to eat food.
 
-Less simple is the task of organizing the process so that it delivers food that is tasty, healthy and sustainable. One might say that is am, heh heh - all-consuming task
+Less simple is the task of organizing the provisioning process so that it delivers food that is tasty, healthy and sustainable. One might say that this is an, heh heh, all-consuming task
 
-
-What foods should I be eating?
+In several circumstances, this web pages begins to address the question: What foods should I be eating?
 
 * As a senior living at home deciding what menu works for you
 * As a person responsible for the well-being of a senior
 * As a resident in a senior community
 
-You need to decide if:
+In all of these circumstances, you need to decide if:
 
 * The product you are looking at on a supermarket shelf wil be tasty, healthy and sustainable
 * The diet in a prospective location will meet expectations
 * The food being served to you and your fellow residents is what you want or need
 
-In all these cases, a good way forward is to try to look at diet through the eyes of an educated and professional dietician nutritionist
+You need to consider:
 
-The following sections contain the names of organizations, publications, websites and more that dieticians tend to refer to in coming to a decision on what is good to eat.
+* Availability
+* Cooking skills
+* Facilities
+* Cost
+* Seasons
+* Nutrition
+* Allergies
+* Delivery and storage
+* And cornucopia of other issues
 
-It is long and will never be finished because new research, learning and products just happen. Fingers crossed that one day there will be a simple one-pager that captures a summary of what is here
+In all these cases, a good way forward is to attempt to look at diet through the eyes of an educated and professional dietician nutritionist - a person educated to respond tastefully to all these issues.
 
-## Sources of ideas
+The following sections contain the names of organizations, publications, websites and more that you in your role as a "dietician" may tend to refer to in coming to a decision on what is good to eat.
+
+It is long and will never be finished because new research, learning and products just seem to sprout up whenever. Currently it's mostly just a curated list of links - a cup of coffee before breakfast.
+
+Fingers crossed that one day there will be a simple one-pager, er, menu that captures a summary of the tips and hints that would whet the appetite of a registered dietician.
 
 
 ## Organizations
@@ -77,6 +88,7 @@ The Academy publishes a peer-reviewed journal: _Journal of the Academy of Nutrit
 
 The Society for Nutrition Education and Behavior (SNEB) represents the unique professional interests of nutrition educators worldwide. SNEB is dedicated to promoting effective nutrition education and healthy behavior through research, policy, and practice and has a vision of healthy communities, food systems, and behaviors.
 
+
 ## Universities
 
 
@@ -99,6 +111,7 @@ Useful resources
 * https://lpi.oregonstate.edu/mic/nutrient-index
 * https://lpi.oregonstate.edu/publications/micronutrients-health
 	* https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/pdf/mic/micronutrients_for_health.pdf
+
 
 ### Harvard University: Harvard Medical School
 
@@ -239,6 +252,7 @@ more
 
 * https://en.wikibooks.org/wiki/Fundamentals_of_Human_Nutrition
 
+
 ### Sugar
 
 * https://en.wikipedia.org/wiki/Sugar
@@ -299,7 +313,6 @@ _Following still to be processed_
 
 Orgain almond milk
 
-
 * https://ndb.nal.usda.gov/ndb/foods/show/191518?org/product/0851770003643/orgain-organic-protein-unsweetened-almond-milk-vanilla-orgain-inc
 * https://api.nal.usda.gov/ndb/reports/?ndbno=45233843&type=f&format=json&api_key=DEMO_KEY
 
@@ -358,7 +371,6 @@ Everything is eaten. No food is thrown away.
 * http://www.mccc.edu/pdf/eng024/Class%208/healthy%20tips%20for%20grocery%20shopping.pdf
 * https://www.health.harvard.edu/nutrition/eat_drink_and_be_healthy
 * https://www.drweil.com/
-
 
 
 ***
