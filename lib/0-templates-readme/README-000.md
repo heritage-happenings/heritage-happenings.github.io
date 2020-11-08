@@ -1,15 +1,13 @@
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://www.ladybug.tools/spider-2020/lib/style/readme.html "View file as a web page." ) </span>
 
 
 
 # [/lib/style Read Me]( ./readme.html )
 
-<!--
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://www.ladybug.tools/spider-2020/lib/style/ height=100% width=100% ></iframe></div>
-_Spider /lib/style_
 
-### Full Screen: [Spider /lib/style]( https://www.ladybug.tools/spider-2020/lib/style/ )
--->
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://evereverland.github.io/lib/style/style-sample-tags.html height=100% width=100% ></iframe></div>
+_/lib/style_
+
+### Full Screen: [/lib/style]( https://evereverland.github.io/lib/style/ )
 
 
 ## Concept
@@ -52,5 +50,5 @@ Switching themes
 
 ***
 
-<center title="hello! Click me to go up to the top" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
 

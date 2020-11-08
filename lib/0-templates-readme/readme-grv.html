@@ -9,14 +9,14 @@
 	<meta name="description"
 		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-	<meta name="version" content="2020-09-18">
+	<meta name="version" content="2020-11-07">
 
-	<link rel="stylesheet" href="./style-2020-10-06.css" />
+	<link rel="stylesheet" href="../../lib/style/style-2020-10-06.css" />
 
 	<style>
 		:root {
-			--main-hue: 120;
-			/* 0 to 360 0=red 120=green 240=blue */
+			--main-hue: 0;
+			/* 0 to 360 0=red 120=green 240=blue Should match hue of parent*/
 		}
 	</style>
 </head>
@@ -29,7 +29,6 @@
 	<div id=divContent class=divContent></div>
 
 	<script>
-
 
 		const defaultFile = "README.md";
 
@@ -54,7 +53,6 @@
 			document.title = title;
 
 
-
 			if ( extension === "md" ) {
 
 				showdown.setFlavor( "github" );
@@ -69,8 +67,6 @@
 					window.scrollTo( 0, 0 );
 				};
 				xhr.send( null );
-
-				//console.log( "", 23 );
 
 				return;
 

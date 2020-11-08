@@ -6,7 +6,7 @@
 	font-size: 100%;
 	font-family: "Lato", sans-serif;
 
-	--mnu-width: 25rem;
+	--mnu-width: 20rem;
 	--main-hue: 206; /* 0 to 360 0=red 120=green 240=blue */
 
 	--saturation: 89%;
@@ -52,15 +52,18 @@ a {
 a:hover,
 a:focus,
 a:active {
-	background-color: yellow;
-	color: var(--color-1-text);
+	background-color: var(--color-active);
+	color: var(--color-2-text);
 	text-decoration: underline;
 }
 
 aside {
 	border: 1px solid lightgray;
+	font-weight: 300;
 	margin-top: 15px;
-	padding: 2px;
+	padding: 1rem;
+	float:right;
+	max-width:20rem;
 }
 
 blockquote {
@@ -121,7 +124,7 @@ main {
 	height: 100vh;
 	left: var(--mnu-width);
 	margin: 0;
-	overflow: hidden;
+	/* overflow: hidden; */
 	padding: 0 1rem;
 	position: absolute;
 	width: calc(100% - var(--mnu-width));
@@ -150,11 +153,16 @@ pre {
 
 .aDingbat {
 	font-size: 3ch;
+	text-decoration:none;
 }
 
-.xxxxxdivNavResize {
+.divContent {
+	border: 0 solid red;
+	margin: 0 auto;
+	width: 40rem;
+}
+.divResize {
 	border-right: 1px solid teal;
-	max-height: 60vh;
 	overflow: auto;
 	resize: vertical;
 }
@@ -174,17 +182,19 @@ pre {
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 .gmd-3 {
-      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+		box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 	}
-	
+
 .gmd-4 {
-        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-    }
+		box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	}
 
 .gmd-5 {
 	box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
 }
 
+
+/* GRV GitHub Repo View */
 .GRVsum {
 	font-size: 120%;
 }
@@ -203,38 +213,37 @@ pre {
 	width: 100%;
 }
 
+/* info box */
 .info {
 	cursor: pointer;
 	float: right;
+	position:relative;
 }
-
 .info:hover {
 	background-color: yellow;
 }
-
 .infoImg {
 	opacity: 0.5;
 	width: 16px;
 }
-
 .infoTooltip {
-	border: 0 double #888;
+	border: 1px double #888;
 	border-radius: 2ch;
 	background: white;
 	display: none;
 	font: 100% monospace;
 	font-size: 1rem;
 	font-weight: normal;
-	margin-left: -12rem;
-	padding: 10px;
+	right:0;
+	padding: 15px;
 	position: absolute;
-	max-width: 20rem;
+	width: 10rem;
 	z-index: 1000;
 }
-
 .info:hover > .infoTooltip {
 	display: block;
 }
+
 
 .select-resize {
 	overflow: hidden;
@@ -261,11 +270,12 @@ pre {
 	margin: 0.5rem 0;
 }
 
+
+/* THR Three.js footer menu bar */
 .THRbutChild {
 	border-radius: 0.5rem;
 	margin: 0.5rem 0;
 }
-
 .THRbutParent {
 	/* border: 1px solid red; */
 	background-color: var(--color-3-background);
@@ -275,17 +285,14 @@ pre {
 	vertical-align: bottom;
 	z-index: 2;
 }
-
 .THRdivButtonGroup {
 	display: inline-block;
 	position: relative;
 	z-index: 1;
 }
-
 .THRdivButtonGroup:hover > .THRdivChild {
 	display: block;
 }
-
 .THRdivChild,
 .THRdivChildParent {
 	background-color: var(--color-3-background);
@@ -299,7 +306,6 @@ pre {
 	width: 8rem;
 	z-index: -1;
 }
-
 .THRdivChildChild {
 	background-color: #fafffa;
 	border-radius: 0.5ch;
@@ -310,6 +316,20 @@ pre {
 	text-align: left;
 	width: 18rem;
 }
+#THRftr {
+	background-color: rgba(0, 0, 0, 0.05);
+	border-radius: 1rem;
+	bottom: 1ch;
+	left: 0;
+	margin: 0 auto;
+	opacity: 0.85;
+	position: fixed;
+	right: 0;
+	text-align: center;
+	max-width: 40%;
+	z-index: 1;
+}
+
 
 /* IDs */
 
@@ -318,22 +338,10 @@ pre {
 	max-width: 50rem;
 }
 
-#detNavMenu {
-	background-color: var(--color-2-background);
-	border-radius: 1rem;
-	max-height: 95vh;
-	margin: 1ch;
-	overflow: auto;
-	position: absolute;
-	resize: both;
-	width: var(--mnu-width);
-	z-index: 5;
-}
-
 #divContentMain {
-	/* border: 0 solid blue;
+	/* border: 0 solid blue; */
 	margin: 0 auto;
-	max-width: 50rem; */
+	max-width: 40rem;
 
 	height: 100vh;
 	width: 100%;
@@ -356,27 +364,24 @@ pre {
 	background-color: var(--color-1-background);
 	border: 0 solid red;
 	border-radius: 2ch;
-	margin: 1ch;
-	padding: 1ch 1ch 0 1ch;
+	padding: 1ch;
 }
-
-#sumNavMenu {
-	margin: 1ch;
-}
-
-#THRftr {
-	background-color: rgba(0, 0, 0, 0.05);
+#navMenuDet {
+	background-color: var(--color-2-background);
+	border: 1px solid #8a8;
 	border-radius: 1rem;
-	bottom: 1ch;
-	left: 0;
-	margin: 0 auto;
-	opacity: 0.85;
+	max-height: 95vh;
+	margin: 1ch;
+	overflow: auto;
+	padding: 1ch;
 	position: fixed;
-	right: 0;
-	text-align: center;
-	max-width: 40%;
-	z-index: 1;
+	resize: both;
+	width: var(--mnu-width);
+	z-index: 5;
 }
+
+
+
 
 @media (prefers-color-scheme: dark) {
 	:root {
@@ -407,7 +412,7 @@ pre {
 
 @media all and (max-height: 500px) {
 	#detNavMenu {
-		max-width: 35%;
+		width: 35%;
 	}
 	main {
 		left: 0;
