@@ -2,7 +2,7 @@
 
 An unofficial web presence presence for residents and friends of the [Heritage on the Marina]( https://heritageonthemarina.org/ )
 
-<img src=images/heritage-front.jpg width=100% >
+<img src=https://heritagesf.github.io/images/heritage-front.jpg width=100% >
 
 ## [2020 Elections & Voting]( https://heritagesf.github.io/#2020-elections-voting.md )
 
@@ -35,7 +35,7 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 ***
 
-<a href="https://heritagesf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-15-ny-ny.jpg" target="_top" ><img src=images/people.jpg width=30% style=margin:1%;></a>
+<a href="https://heritagesf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heritagesf.github.io/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heritagesf.github.io/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-15-ny-ny.jpg" target="_top" ><img src=https://heritagesf.github.io/images/people.jpg width=30% style=margin:1%;></a>
 
 ***
 
