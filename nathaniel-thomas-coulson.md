@@ -69,15 +69,15 @@ _A tip of the hat to Jean Fowler for noting the following_
 
 ## Grace Cathedral website: Cathedral Bells and Specification
 
-<img src=images/coulson/coulsoncarillon/DSCN2895.JPG width=100% >
+<img src=https://heritagesf.github.io/images/coulson/coulsoncarillon/DSCN2895.JPG width=100% >
 
 View of the Singing Tower (north cathedral tower) from the west.
 
-<img src=images/coulson/coulsoncarillon/gcs554.jpg width=100% >
+<img src=https://heritagesf.github.io/images/coulson/coulsoncarillon/gcs554.jpg width=100% >
 
 Dr. Coulson admiring the Bourdon bell (12001 pounds) on its arrival in San Francisco in 1938
 
-<img src=images/coulson/coulsoncarillon/gcs935.jpg width=100% >
+<img src=https://heritagesf.github.io/images/coulson/coulsoncarillon/gcs935.jpg width=100% >
 
 Carillon under constriction at Gillet and Johnston factory, Croydon, UK
 
