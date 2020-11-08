@@ -144,6 +144,7 @@
 
 		divDescription.innerHTML = document.head.querySelector( "[ name=description ]" ).content;
 
+	const defaultFile = "home-page.md";
 
 		init();
 
@@ -189,9 +190,9 @@
 
 			GRV.init();
 
-			const defaultFile = "home-page.md";
 
-			if ( !location.hash ) { location.hash = defaultFile; }
+
+			//if ( !location.hash ) { location.hash = defaultFile; }
 
 			onHashChange();
 
@@ -201,9 +202,10 @@
 
 		function onHashChange() {
 
-			const url = GRV.urlViewer + location.hash.slice( 1 );
-			const title = url.split( "/" ).pop();
+			const fileName = location.hash ? location.hash.slice( 1 ) : defaultFile;
+			const title = fileName.split( "/" ).pop();
 			const extension = title.toLowerCase().split( '.' ).pop();
+			const url = GRV.urlViewer + fileName
 
 			document.title = title;
 
