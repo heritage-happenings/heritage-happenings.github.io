@@ -57,6 +57,10 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heritagesf.github.io/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heritagesf.github.io/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-15-ny-ny.jpg" target="_top" ><img src=https://heritagesf.github.io/images/people.jpg width=30% style=margin:1%;></a>
 
+Opinion Disclaimer
+
+The views and opinions expressed at Residents @ Heritage on the Marina are those of the authors and do not necessarily reflect the official policy or position of the Heritage on the Marina. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
+
 ***
 
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
