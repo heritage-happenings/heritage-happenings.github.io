@@ -140,7 +140,6 @@
 
 		divDescription.innerHTML = document.head.querySelector( "[ name=description ]" ).content;
 
-	const defaultFile = "README.md";
 
 		init();
 
@@ -196,7 +195,7 @@
 
 		function onHashChange() {
 
-			const fileName = location.hash ? location.hash.slice( 1 ) : defaultFile;
+			const fileName = location.hash ? location.hash.slice( 1 ) : GRV.defaultFile;
 			const title = fileName.split( "/" ).pop();
 			const extension = title.toLowerCase().split( '.' ).pop();
 			const url = GRV.urlViewer + fileName

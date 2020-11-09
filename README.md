@@ -1,6 +1,6 @@
 # Residents @ Heritage on the Marina
 
-An unofficial web presence presence for residents and friends of the [Heritage on the Marina]( https://heritageonthemarina.org/ )
+An unofficial web presence for residents and friends of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
 <img src=https://heritagesf.github.io/images/heritage-front.jpg width=100% >
 
@@ -59,7 +59,7 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 Opinion Disclaimer
 
-The views and opinions expressed at Residents @ Heritage on the Marina are those of the authors and do not necessarily reflect the official policy or position of the Heritage on the Marina. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
+The views and opinions expressed on this web site are those of the authors and do not necessarily reflect the official policy or position of the Heritage on the Marina. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
 
 ***
 
