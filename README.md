@@ -5,19 +5,19 @@ An unofficial web presence presence for residents and friends of the [Heritage o
 <img src=https://heritagesf.github.io/images/heritage-front.jpg width=100% >
 
 
-## ["Gift of Nat-Coulson" ](  https://heritagesf.github.io/#pages/Nathaniel-Thomas-Coulson.md )
+## ["Gift by Dr Nat T Coulson" ]( https://heritagesf.github.io/#pages/Nathaniel-Thomas-Coulson.md )
 
 The story behind the newly rediscovered pedestal in the Perry Garden
 
-## [2021 Medicare](  https://heritagesf.github.io/#pages/2021-Medicare.md )
+## [2021 Medicare]( https://heritagesf.github.io/#pages/2021-Medicare.md )
 
 Information and tips relating to health plans for 2021
 
-## [](  https://heritagesf.github.io/#pages/Julia-Morgan-Links.md )
+## [Julia Morgan Links]( https://heritagesf.github.io/#pages/Julia-Morgan-Links.md )
 
 Preliminary explorations onto the engaging career of the architect of the Heritage.
 
-## [Links of Interest for Elders]( https://heritagesf.github.io/#pages/Links-of-Interest-for-Senior.md )
+## [Links of Interest for Seniors]( https://heritagesf.github.io/#pages/Links-of-Interest-for-Senior.md )
 
 * Many more links to be added here in due course
 
