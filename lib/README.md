@@ -40,6 +40,9 @@ Switching themes
 ## Change Log
 
 
+### 2020-10-11
+
+* Many updates
 
 ### 2020-09-18
 

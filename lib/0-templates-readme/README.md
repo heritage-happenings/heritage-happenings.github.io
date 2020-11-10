@@ -34,6 +34,21 @@ Uses [showdown.js]( https://github.com/showdownjs/showdown ) to convert markdown
 
 ## Links of Interest
 
+* https://github.com/pushme-pullyou/templates-01/tree/master/html-hamburger-plus << latest
+* https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/
+
+Web
+
+* https://github.com/dohliam/dropin-minimal-css
+* https://www.w3schools.com/w3css/
+    * https://www.w3schools.com/w3css/w3css_colors.asp
+    * https://www.w3schools.com/lib/w3-theme-red.css
+* https://bootswatch.com/
+
+Switching themes
+
+* https://github.com/Mohammad-Farmaan/Dark-Mode-For-Web
+
 
 ## Change Log
 
