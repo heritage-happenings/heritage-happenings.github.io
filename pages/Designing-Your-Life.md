@@ -67,7 +67,7 @@ The Stanford Life Design Lab applies design thinking to tackling the "wicked" pr
  • Simply get curious, talk to people and try stuff!
 
 
- ## Summary 2
+## Summary 2
 
  • The problem: People tend to get stuck in life and they lack the right tools. Design Thinking (DT) is such a tool.
 • Dysfunctional beliefs -> get rid of them!
