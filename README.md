@@ -17,7 +17,7 @@ Information and tips relating to health plans for 2021
 
 Preliminary explorations onto the engaging career of the architect of the Heritage.
 
-## [Links of Interest for Seniors]( https://heritagesf.github.io/#pages/Links-of-Interest-for-Senior.md )
+## [Links of Interest for Seniors]( https://heritagesf.github.io/#pages/Links-of-Interest-for-Seniors.md )
 
 * Many more links to be added here in due course
 
