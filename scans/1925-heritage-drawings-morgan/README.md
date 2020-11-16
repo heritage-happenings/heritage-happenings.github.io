@@ -1,8 +1,8 @@
 # Scans \ 1925 Heritage Drawings Morgan Read Me
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heritagesf.github.io/scans/1925-heritage-drawings-morgan/1605381476865-4823b5a4-d178-45f7-bc30-9274dcf5d5ea.jpg height=100% width=100% ></iframe></div>
-_1925 ~ Julia Morgan Front Elevation_
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><img src=https://heritagesf.github.io/scans/1925-heritage-drawings-morgan/1605381476865-4823b5a4-d178-45f7-bc30-9274dcf5d5ea.jpg width=100>bbbb</div>
+_1925 ~ Julia Morgan Front Elevation nnn_
 @@@-->
 
 ### Full Screen: [Front Elevation]( https://heritagesf.github.io/scans/1925-heritage-drawings-morgan/1605381476865-4823b5a4-d178-45f7-bc30-9274dcf5d5ea.jpg )
