@@ -197,13 +197,14 @@ pre {
 /* GRV GitHub Repo View */
 .GRVsum {
 	font-size: 120%;
+	margin: 0 0 0.5rem 0;
 }
 .GRVdet {
-	margin: 0 0.2rem 0 1rem;
+	margin: 0 0.2rem 0.5rem 1rem;
 }
 .GRVdiv {
 	font-size: 110%;
-	margin: 0 0 0.3rem 1rem;
+	margin: 0 0 0.5rem 1rem;
 }
 
 .iframe-resize {

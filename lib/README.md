@@ -1,14 +1,14 @@
 
 
 
-# [TooToo 2020 Read Me]( ./readme.html )
+# [TooToo 2020 Lib Read Me]( ./readme.html )
 
-<!--
+<!--@@@
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://evereverland.github.io/lib/style/style-sample-tags.html height=100% width=100% ></iframe></div>
 _/lib/style_
 
 ### Full Screen: [/lib/style]( https://evereverland.github.io/lib/style/ )
--->
+@@@-->
 
 ## Concept
 
@@ -40,7 +40,7 @@ Switching themes
 ## Change Log
 
 
-### 2020-10-11
+### 2020-11-11
 
 * Many updates
 
@@ -51,5 +51,5 @@ Switching themes
 
 ***
 
-<center><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
 
