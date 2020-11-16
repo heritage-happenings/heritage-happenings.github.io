@@ -5,11 +5,11 @@
 value="You are now in a GitHub web page view - Click this button to view this read me file as source code" ></div>
 
 
-# [open-markdown-or-html Read Me]( ./readme.html )
+# [Templates Read Me]( ./readme.html )
 
 <!--@@@
-<div style="height:50ch;overflow:hidden;resize:both;width:100%;" title="Resize me">
-<iframe src=https://pushme-pullyou.github.io/templates-01/open-markdown-or-html/readme.html width=100% height=100% >Iframes are not viewable in GitHub source code views</iframe></div>
+<div class=iframe-resize title="Resize me">
+<iframe src=https://pushme-pullyou.github.io/templates-01/open-markdown-or-html/readme.html width=100% height=100% ></iframe></div>
 _<small>open-markdown-or-html</small>_
 @@@-->
 
