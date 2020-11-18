@@ -7,24 +7,24 @@
 
 San Francisco new cases per day
 
-2020-11-14 ~ 97
-2020-11-14 ~ 95
-2020-11-13 ~ 91
+* 2020-11-14 ~ 97
+* 2020-11-14 ~ 95
+* 2020-11-13 ~ 91
 
 ### https://data.sfgov.org/stories/s/Map-of-Cumulative-Cases/adm5-wq8i/
 
 Marina ~ Estimated new case rate per 10,000 residents over a 30 day period ~ New confirmed cases over a 30 day period among an estimated resident population of 25,331.
 
-2020-11-18 ~ 29.6/10K 75
-2020-11-16 ~ 28.4/10k 72
-2020-11-15 ~ 27.2/10k 69
-2020-11-14 ~ 25.7/10k 65
+* 2020-11-18 ~ 29.6/10K 75
+* 2020-11-16 ~ 28.4/10k 72
+* 2020-11-15 ~ 27.2/10k 69
+* 2020-11-14 ~ 25.7/10k 65
 
 Census Tract 129.02 12  ~ cases confirmed over a 30 day period among an estimated resident population of 4,026.
 
-2020-11-16 ~ 14
-2020-11-15 ~ 12
-2020-11-14 ~ 13
+* 2020-11-16 ~ 14
+* 2020-11-15 ~ 12
+* 2020-11-14 ~ 13
 
 
 ## ny times ~ https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html#county
