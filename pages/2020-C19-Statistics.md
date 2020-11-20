@@ -50,7 +50,7 @@ _Rate per 10K not calculated because number under 20._
 
 Data format: Date ~ Location ~ Cumulative ~ cases/100k cumulative ~ new cases daily avg in last 7 days ~ /100k
 
-San Francisco
+San Francisco County
 
 * 2020-11-20 ~ San Francisco	14,060	1,595	107,0	12.1
 * 2020-11-19 ~ San Francisco	13,955	1,583	106.0	12.0 ??
