@@ -120,7 +120,7 @@ Index page to many pages with photos of JM's projects
 
 Artticles about Julia Morgan published in journals and periodicals
 
-## https://www.nytimes.com/2019/03/06/obituaries/julia-morgan-overlooked.html
+### https://www.nytimes.com/2019/03/06/obituaries/julia-morgan-overlooked.html
 
 >Through fire and shock, the Great San Francisco Earthquake of 1906 destroyed more than 80 percent of the city’s buildings. The grand Fairmont Hotel, only days from opening, was gutted by flames, leaving only a shell.
 >
@@ -132,12 +132,12 @@ Artticles about Julia Morgan published in journals and periodicals
 
 
 
-## https://hearstcastle.org/history-behind-hearst-castle/historic-people/profiles/julia-morgan/
+### https://hearstcastle.org/history-behind-hearst-castle/historic-people/profiles/julia-morgan/
 
 >Miss Morgan graduated with a degree in civil engineering from University of California at Berkeley. During her time at Berkeley, Morgan developed a keen interest in architecture, which is thought to have been fostered by her mother’s cousin, Pierre Le Brun, who designed the Metropolitan Life Insurance Tower in New York City. At Berkeley one of her instructors, Bernard Maybeck, encouraged her to pursue her architectural studies in Paris at Ecole des Beaux-
 
 
-## https://www.architectmagazine.com/awards/aia-honor-awards/gold-medal-julia-morgan_o
+### https://www.architectmagazine.com/awards/aia-honor-awards/gold-medal-julia-morgan_o
 
 >This year’s winner, Julia Morgan, is another posthumous honoree: She was born in San Francisco in 1872 and died there in 1957. Aside from a childhood year in New York and an important six-year stint in Paris, during which she became the first female student to earn a degree from the architecture division of the École des Beaux-Arts, she spent her entire life in Oakland, Berkeley, and San Francisco. Though she designed a YWCA in Honolulu in 1920 and sent sketches by mail for a house to be built in Auckland, New Zealand, in 1928, nearly all of her commissions were in her home state.
 >
@@ -169,8 +169,16 @@ See bibliography
 
 ## https://thebolditalic.com/a-locals-guide-to-architect-julia-morgan-s-legacy-c902ef396b91
 
+### https://www.latimes.com/archives/la-xpm-2002-dec-28-et-rutten28-story.html
 
 ## Books
+
+### https://www.amazon.com/Building-Hearst-Morgan-Voices-George/dp/1893163520
+
+>The book is unrivaled in taking us behind the scenes, at make-believe San Simeon, still a Hollywood playground in that period, and beyond the myths surrounding the estate. Wyntoon, another of Hearst's fabled retreats in California, is covered as well. The Loorz Papers also delve into Hearst and Morgan's further pursuits, such as their Grand Canyon project in Arizona.
+>
+>From bank failures and presidential races to Hearst's royal entertaining and the opening of the Big Sur highway, the subjects here are part of an ever-changing pageant. Insightful and poignant, humorous and candid, Building for Hearst and Morgan-offers unique perspectives on a vivid era whose like we'll never see again.
+
 
 ### https://www.amazon.com/Julia-Morgan-Architect-Mark-Wilson/dp/1423636546/
 
