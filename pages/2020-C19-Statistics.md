@@ -31,11 +31,11 @@ Marina district
 * 2020-11-15 ~ 27.2/10k ~ 69
 * 2020-11-14 ~ 25.7/10k ~ 65
 
-Chestnut Street ~ Census tract 128
+Chestnut Street (Flimore to Lyon) ~ Census tract 128
 
 * 2020-11-17 ~ 56.4/10K ~ 25
 
-Hesitage Census Tract 129.02 12  ~ cases confirmed over a 30 day period among an estimated resident population of 4,026.
+Heritage Census Tract 129.02 12  ~ cases confirmed over a 30 day period among an estimated resident population of 4,026.
 
 _Rate per 10K not calculated because number under 20._
 
