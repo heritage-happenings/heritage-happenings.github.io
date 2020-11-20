@@ -76,5 +76,4 @@ omoh v 0.01.01
 
 ***
 
-# <center title="hello! go tpo top" ><a href=javascript:window.scrollTo(0,0); > ❦ </a></center>
-
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>

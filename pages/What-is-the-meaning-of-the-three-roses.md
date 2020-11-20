@@ -1,10 +1,9 @@
-# What is the meaning of the three roses
-
+# What is the meaning of the three roses?
 
 
 On the front elevation of the Heritage, both to left and right, between the two sets of windows there are inset panels of terra cotta tiles. Both panels display the same bas-reliefs: three roses surrounded by garlands with four raspberries.
 
-<img src="../photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
 
 In the photo:
 
@@ -16,11 +15,11 @@ The photo above shows the terracotta tiles as visible in a recent photo.
 
 The image of the drawing above shows the drawing from Julia Morgan's drawing in 1925.
 
-<img src="../scans/three-roses/1925-morgan-details-three-roses.jpg" width=300 >
+<img src="https://heritagesf.github.io/scans/three-roses/1925-morgan-details-three-roses.jpg" width=300 >
 
 In the drawing:
 
-* each rose is a single rose
+* Each rose is a single rose
 * There are eight petals with petals at the quadrants split in two
 * Between the roses there are sprays of acanthus leaves
 * At the bottom of the panel there are garlands of simple leaves
@@ -79,12 +78,12 @@ The significant difference is that the tudor rose is twice five petals whereas t
 
 > The Luther seal or Luther rose is a widely recognized symbol for Lutheranism.
 
-![]( https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/440px-Lutherrose.svg.png )
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/440px-Lutherrose.svg.png " width=200 >
 
 * https://en.wikipedia.org/wiki/Tudor_rose
 
-![]( https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tudor_Rose.svg/440px-Tudor_Rose.svg.png )
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tudor_Rose.svg/440px-Tudor_Rose.svg.png" width=200 >
 
 * https://en.wikipedia.org/wiki/Rose_Cross
 
@@ -123,3 +122,7 @@ Their delicate state in transport has led them to symbolize fragility as well.
 * https://en.wikipedia.org/wiki/Lost-wax_casting
 
 * https://en.wikipedia.org/wiki/Ernest_A._Batchelder
+
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>

@@ -2,7 +2,7 @@
 
 COVID-19 daily statistics for California, San Francisco, Marina district and the Heritage census tract neighborhood
 
-## https://sfgov.org
+## Source: https://sfgov.org
 
 ### Data from [COVID-19 Cases and Deaths]( https://data.sfgov.org/stories/s/dak2-gvuj )
 
@@ -17,7 +17,7 @@ San Francisco new cases per day ~ seven day rolling average
 
 Marina district ~ Estimated new case rate per 10,000 residents over a 30 day period ~ New confirmed cases over a 30 day period among an estimated resident population of 25,331.
 
-* 2020-11-16 ~ 31.2/10K 79 
+* 2020-11-16 ~ 31.2/10K 79
 * 2020-11-18 ~ 29.6/10K 75
 * 2020-11-16 ~ 28.4/10k 72
 * 2020-11-15 ~ 27.2/10k 69
@@ -31,7 +31,7 @@ Hesitage Census Tract 129.02 12  ~ cases confirmed over a 30 day period among an
 * 2020-11-14 ~ 13
 
 
-## [New York Times ~ California Covid Map and Case Count]( https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html#county )
+## Source: [New York Times ~ California Covid Map and Case Count]( https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html#county )
 
 Data format: Cumulative ~ /100k cumulative ~ new cases daily avg in last 7 days ~ /100k
 
@@ -56,3 +56,6 @@ sf county new cases daily avg in last 7 days ~ /100K
 * 2020-11-18 ~ 10.9 96.4
 * 2020-11-17 ~ 11.3 99.7
 
+***
+
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
