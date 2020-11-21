@@ -5,7 +5,7 @@ On the front elevation of the Heritage, above both the first flooer bay windows 
 
 ## "As built" and "As designed"
 
-What did the architect dream of and what did the contractor actually get built? A metaphysical dialectic of sorts. Here we line in a good example.
+What did the architect dream of and what did the contractor actually get built? A metaphysical dialectic of sorts. Here we live in a good example.
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
 
@@ -35,7 +35,7 @@ The photo depicts a final effort that is far more detailed than the drawing. Thi
 
 ## Craftsmanship
 
-Is the building the result of what the builder found at the limber yard? Or Is it a remimber of Vitruius's dictun that architecture should be be "firm, commodious and delightful"?
+Is the building the result of what the builder found at the limber yard? Or Is it a reminder of Vitruvius's dictun that architecture should be be "firm, commodious and delightful"?
 
 Given the undercuts on the petals, it appears that the panels were case using a lost wax process. Alternatively the panels might have been pulled from a mold and the undercuts hand carved after. In any case, the work we see has been made by a highly skilled and informed craftsman with much hand work.
 
