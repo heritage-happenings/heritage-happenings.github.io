@@ -1,7 +1,11 @@
 # What is the meaning of the three roses?
 
 
-On the front elevation of the Heritage, above both the first flooer bay windows to left and right, between the two sets of windows there are inset panels of _terra_ cotta tiles. Both panels display the same bas-reliefs: three roses surrounded by garlands with four raspberries.
+When Julia Morgan designed The Heritage she added roses on the outside and inside of the building. We wonder why she did this.  Did she have a hidden meaning that is lost to us.  Or was the rose motif used to convey her feelings about the people who lived here?  Might roses have been a theme for benefactors whose finances helped build this fascinating building?   First we will describe where the roses are located and then, we hope in future articles, to try to explain why she used roses.
+
+On the front elevation of the Heritage, above both the first floor bay windows to left and right, between the two sets of windows there are inset panels of _terra_ cotta tiles. Both panels display the same bas-reliefs: three roses surrounded by garlands with four raspberries.
+
+
 
 ## "As built" and "As designed"
 
