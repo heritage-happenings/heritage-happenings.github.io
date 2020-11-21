@@ -5,6 +5,8 @@ On the front elevation of the Heritage, above both the first flooer bay windows 
 
 ## "As built" and "As designed"
 
+What did the architect dream of and what did the contractor actually get built? A metaphysical dialectic of sorts. Here we line in a good example.
+
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
 
 In the photo:
@@ -30,20 +32,27 @@ There are a number of quite visible differences between drawing and photo
 
 The photo depicts a final effort that is far more detailed than the drawing. This was often the custom, The architect and the artist who won the contract would discuss and agree details as the project was being built. The two parties would agree the best effort that could be made given the time, budget and skills of the artist.
 
+
 ## Craftsmanship
 
-  Given the undercuts on the petals, it appears that the panels were case using a lost wax process. Alternatively the panels might have been pulled from a mold and the undercuts hand carved after. In any case, the work we see has been made by a highly skilled and informed craftsman with much hand work.
+Is the building the result of what the builder found at the limber yard? Or Is it a remimber of Vitruius's dictun that architecture should be be "firm, commodious and delightful"?
 
-  What firm or craftsmen supplied the terra cotta panels here and elsewhere is a topic to be investigated.
+Given the undercuts on the petals, it appears that the panels were case using a lost wax process. Alternatively the panels might have been pulled from a mold and the undercuts hand carved after. In any case, the work we see has been made by a highly skilled and informed craftsman with much hand work.
+
+What firm or craftsmen supplied the terra cotta panels here and elsewhere is a topic to be investigated.
 
 
 ## Symbology
 
-We have all - one way or another - been informed by dictums of modern architecture such as "form follows function" and "less is more". We have lost much understanfing of the pre-modern eras of architecture where there was much decoration that was figurative or symbolic or both.
+We have all - one way or another - been informed by dictums of modern architecture such as "form follows function" and "less is more". We have lost much understanding of the pre-modern eras of architecture where there was much decoration that was figurative or symbolic or both.
 
 
 
 ### Three Roses
+
+Why three roses?
+
+
 
 * https://www.popsugar.com/love/Meaning-Roses-What-Number-Roses-Means-14080476
 
