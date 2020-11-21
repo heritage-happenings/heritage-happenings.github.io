@@ -1,7 +1,9 @@
 # What is the meaning of the three roses?
 
 
-On the front elevation of the Heritage, both to left and right, between the two sets of windows there are inset panels of terra cotta tiles. Both panels display the same bas-reliefs: three roses surrounded by garlands with four raspberries.
+On the front elevation of the Heritage, above both the first flooer bay windows to left and right, between the two sets of windows there are inset panels of _terra_ cotta tiles. Both panels display the same bas-reliefs: three roses surrounded by garlands with four raspberries.
+
+## "As built" and "As designed"
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
 
@@ -24,15 +26,21 @@ In the drawing:
 * Between the roses there are sprays of acanthus leaves
 * At the bottom of the panel there are garlands of simple leaves
 
+There are a number of quite visible differences between drawing and photo
+
+The photo depicts a final effort that is far more detailed than the drawing. This was often the custom, The architect and the artist who won the contract would discuss and agree details as the project was being built. The two parties would agree the best effort that could be made given the time, budget and skills of the artist.
 
 ## Craftsmanship
 
-There are a number of quite visible differences between draeweing and photo
+  Given the undercuts on the petals, it appears that the panels were case using a lost wax process. Alternatively the panels might have been pulled from a mold and the undercuts hand carved after. In any case, the work we see has been made by a highly skilled and informed craftsman with much hand work.
 
-The photo depicts a final effort that is far more detailed than the drawing. This was often the custom, The architect and the artist who won the contract would discuss and agree details as the project was being built. The two parties would agree the best effort that could be made given the time, budget and skills of the artist.  Given the undercuts on the petals, it appears that the panels were case using a lost wax process. Alternatively the panels might havve been pulled from a mold and the undercuts hand carved after. In any case, the work we see has been made by a highly skilled and informed craftsman with much hand work.
+  What firm or craftsmen supplied the terra cotta panels here and elsewhere is a topic to be investigated.
 
 
-## Rose symbology
+## Symbology
+
+We have all - one way or another - been informed by dictums of modern architecture such as "form follows function" and "less is more". We have lost much understanfing of the pre-modern eras of architecture where there was much decoration that was figurative or symbolic or both.
+
 
 
 ### Three Roses
@@ -79,7 +87,7 @@ The significant difference is that the tudor rose is twice five petals whereas t
 > The Luther seal or Luther rose is a widely recognized symbol for Lutheranism.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/440px-Lutherrose.svg.png " width=200 >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/440px-Lutherrose.svg.png" width=200 >
 
 * https://en.wikipedia.org/wiki/Tudor_rose
 
