@@ -10,6 +10,7 @@ San Francisco new cases per day
 
 Data format: date ~ seven day rolling average ~ new cases that date
 
+* 2020-11-14 ~ 99
 * 2020-11-13 ~ 98 ~ 107
 * 2020-11-12 ~ 105 ~ 144 >> 168 ~ drop in count on 13th
 * 2020-11-11 ~ 95
@@ -25,6 +26,7 @@ Data format: Date ~ Estimated new case rate per 10,000 residents over a 30 day p
 
 Marina district
 
+* 2020-11-22 ~ 36.3/10K ~ 92
 * 2020-11-18 ~ 34.0/10K ~ 86
 * 2020-11-17 ~ 35.5/10K ~ 90
 * 2020-11-16 ~ 31.2/10K ~ 79
@@ -35,6 +37,7 @@ Marina district
 
 Chestnut Street (Filmore to Lyon) ~ Census tract 128
 
+* 2020-11-22 ~ 49.6/10K ~ 22
 * 2020-11-18 ~ 47.3/10K ~ 21
 * 2020-11-17 ~ 56.4/10K ~ 25
 
@@ -43,6 +46,7 @@ Heritage ~ Census Tract 129.02 12  ~ cases confirmed over a 30 day period among 
 
 _Rate per 10K not calculated because number fewer than 20._
 
+* 2020-11-22 ~ 19
 * 2020-11-21 ~ 16
 * 2020-11-17 ~ 15
 * 2020-11-16 ~ 13
@@ -57,6 +61,7 @@ Data format: Date ~ Location ~ Cumulative ~ cases/100k cumulative ~ new cases da
 
 San Francisco County
 
+* 2020-11-22 ~ San Francisco	14,330	1,626	115.9	13.1
 * 2020-11-21 ~ San Francisco	14,254	1,617	121.0	13.7
 * 2020-11-20 ~ San Francisco	14,060	1,595	107.0	12.1
 * 2020-11-19 ~ San Francisco	13,955	1,583	106.0	12.0 ??
@@ -66,6 +71,7 @@ San Francisco County
 
 California
 
+* 2020-11-22 ~ California	1,109,844	2,809	11,832.6 29.9
 * 2020-11-21 ~ California	1,096,354	2,775	11,043.1 27.9
 * 2020-11-20 ~ California	1,082,674	2,740	10,498.1 26.6
 * 2020-11-19 ~ California	1,069,316	2,706	9,974.0	25.2
