@@ -59,15 +59,15 @@ We have all - one way or another - been informed by dictums of modern architectu
 
 For example, if you saw a sculpture of a man in a toga carrying a sword and a book you know you are looking at a depiction of Saint Paul. If there's a man with a foot resting on a dragon, you are looking at Saint George. If the man is tied up and shot with arrows, you are looking at Saint Sebastian.
 
-In traditional building, everything means something.  Things are added to buildings because they means something for the inhabitants or whoever builds the building.
+In traditional building, everything means something. Things are added to buildings because they means something for the inhabitants or whoever builds the building.
 
-Therefore when we look at the panels we musk ask a series of questions
+Therefore when we look at the panels we musk ask a series of questions:
 
 * What symbols are repeated through the project?
 * What flowers are they?
 * Why roses?
 * Why three roses?
-* Why three embedded roses?
+* Why two or three embedded roses?
 * Why fruits or berries?
 * Why raspberries?
 * Why vines?
@@ -75,63 +75,81 @@ Therefore when we look at the panels we musk ask a series of questions
 * Why single leaves and trefoils?
 * What plant do the trefoils represent
 
+A further item of investigation will be to ascertain whether the use of this symbol commenced with the construction of the Morgan building or whether is was also used in other locations prior.
 
-### Repeated use of a symbol at the Heritage
+
+## Repeated use of symbols at the Heritage
+
+> What symbols are repeated through the project?
 
 A certain flower-like element is used repeatedly in multiple locations at the Heritage
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=100 >
 
-* Flowers in panels
+Flowers in _terracotta_ panels between the windows aboce twi two ground floor bays
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_234344066.jpg" width=100 >
 
-* Flowers in central panel
+Flower at center of the _terracotta_ panel at top of the second floor bay
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233821361.jpg" width=100 >
 
-* Flowers in corbels
+Flowers in the multiple corbels under the eaves
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_234136542.jpg" width=100 >
 
-* Flowers in window architraves
+Flowers in the elliptical window architraves
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233647736.jpg" width=100 >
 
-* Flowers in front door arches
+Flowers in abutments to front door arches
 
 <img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233350691.jpg" width=100 >
 
-* Flowers in column capitals
+Flowers in column capitals
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
-* Flowers to sides of front bay corbels
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233434233.jpg" width=100 >
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
+Flowers to sides of front bay corbels
 
-* Flowers in chapel alter
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage-interior/alter-rose.jpg" width=100 >
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
-* Flowers in parlor mantelpiece
+Flowers at the front of the chapel alter table
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage-interior/fireplace-detail-rose.jpg" width=100 >
 
-* Flowers in brass ornaments on fireplace
+Flowers in parlor mantelpiece
 
-To be added: photos of all of these
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage-interior/fireplace-brass-rose.jpg" width=100 >
 
-### What flower is it? A rose?
+Flowers in brass ornaments above mantlepiece on front fireplace
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Heraldique_Rose.svg/1920px-Heraldique_Rose.svg.png" width=200 >
+## Flower looks like the traditional heraldic rose
 
-* https://en.wikipedia.org/wiki/Rose_(heraldry)
+>What flowers are they?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Heraldique_Rose.svg/1920px-Heraldique_Rose.svg.png" width=100 >
+
+https://en.wikipedia.org/wiki/Rose_(heraldry)
+
+> The rose is a common device in heraldry. It is often used both as a charge on a coat of arms and by itself as an heraldic badge. The heraldic rose has a stylized form consisting of five symmetrical lobes, five barbs, and a circular seed. The rose is one of the most common plant symbols in heraldry, together with the lily, which also has a stylistic representation in the fleur-de-lis.[1]
+>
+>The rose was the symbol of the English Tudor dynasty, and the ten-petaled Tudor rose is associated with England. Roses also feature prominently in the arms of the princely House of Lippe and on the seal of Martin Luther.
 
 
-The significant difference is that the tudor rose is twice five petals whereas the Heritage roses are 4, 12 and 8 petals.
+The significant difference is that the heraldic rose has five petals whereas in the Heritage roses there are 4, 12 and 8 petals.
+
+A simple explanation might be that it is much easier to to craft a four side object than a five side object because the symmetry. Another explanation might be that foor-sided migh be a "modern" American way of doing things as opposed to the old European ways (as in "gray" versus "grey).
+
+The difference needs further research.
+
+See also: https://en.wikipedia.org/wiki/Quatrefoil
 
 
-### Roses as love
+## Roses as symbols of love
+
+> What is the meaning or significance of the rose?
 
 * https://en.wikipedia.org/wiki/Rose_(symbolism)
 
@@ -147,10 +165,14 @@ The significant difference is that the tudor rose is twice five petals whereas t
 
 * https://en.wikipedia.org/wiki/Plant_symbolism
 
+The mission of the Ladies Protection and Relief Society was to provide care and sustenance for women and children in dire straits.
 
-### Three Roses
+It's natural that the founders would select a symbol of love as a primary element of the symbolism to be attached to the building.
 
-Why three roses?
+
+## Three Roses
+
+> Why three roses in the primary decorative elements of the building?
 
 * https://www.popsugar.com/love/Meaning-Roses-What-Number-Roses-Means-14080476
 
@@ -160,36 +182,50 @@ Why three roses?
 
 > 3 Roses – ‘I love you’.
 
-
-### Double rose
-
-* https://en.wikipedia.org/wiki/Double_rose
-
-### Roses as symbols or Protestantism
-
-In both cases, the roses have close resemblance to a [tudor rose]( https://en.wikipedia.org/wiki/Tudor_rose )
-
->The Tudor rose (sometimes called the Union rose) is the traditional floral heraldic emblem of England and takes its name and origins from the House of Tudor, which united the House of Lancaster and the House of York. The Tudor rose consists of five white inner petals, representing the House of York, and five red outer petals to represent the House of Lancaster.
+The women in need were often in San Francisco with no family and no friends. The "I love you" message of the three roses may well indicate that the care is directed to "you" as an individual. You are given personal attention. You wil be loved.
 
 
+## Double rose
 
+> Why are there two or three embedded roses?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tudor_Rose.svg/440px-Tudor_Rose.svg.png" width=100 >
+
+https://en.wikipedia.org/wiki/Double_rose
+
+This is a difficult questions to answer. No easy answer comes to mind.
+
+It is certainly more difficult to craft a double or triple rose than to craft a single rose.
+
+
+## Double Roses as symbols of Protestantism
+
+In both cases - the "as-designed" and the "as-built" - the roses have a close resemblance to a [tudor rose]( https://en.wikipedia.org/wiki/Tudor_rose ). The image given above is a Tudor Rose
+
+>The Tudor rose (sometimes called the Union rose) is the traditional floral heraldic emblem of England and takes its name and origins from the House of Tudor, which united the House of Lancaster and the House of York. The Tudor rose consists of five white inner petals, representing the House of York, and five red outer petals to represent the House of Lancaster. Henry VIII created the Protestant Church in England in 1534
+
+There is also a resemblance to Martin Luther's coat of arms.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/440px-Lutherrose.svg.png" width=200 >
 
 * https://en.wikipedia.org/wiki/Luther_rose
 
 > The Luther seal or Luther rose is a widely recognized symbol for Lutheranism.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Lutherrose.svg/440px-Lutherrose.svg.png" width=200 >
+It may well be the case that the use of the double rose on the outside of the building might have been used to indicate that the property belonged to a Protestant organization. To be further investigated
 
-* https://en.wikipedia.org/wiki/Tudor_rose
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tudor_Rose.svg/440px-Tudor_Rose.svg.png" width=200 >
-
-* https://en.wikipedia.org/wiki/Rose_Cross
+See also: * https://en.wikipedia.org/wiki/Rose_Cross
 
 
 
-### Raspberries as symbols of kindness
+## Raspberries as symbols of kindness
+
+> Why fruits or berries?
+> Why Raspberries?
+
+Berries appear in the two terracotta panels at the front of the building and also on the mantlepiece of the fireplace in the parlor.
+
 
 * [Berries as Symbols and in Folklore]( https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/0/7265/files/2016/12/berryfolklore-2ljzt0q.pdf )
 
@@ -200,11 +236,14 @@ Their delicate state in transport has led them to symbolize fragility as well.
 * https://www.buildingbeautifulsouls.com/symbols-meanings/flower-meanings-symbolism/raspberry-meaning-symbolism/
 
 
-### Trefoils
+## Trefoils
+
+Trefoils appear in the two terracotta panels at the front of the building, on the main staircase and on the doors to two storage areas.
+
 
 * https://en.wikipedia.org/wiki/Shamrock
 
-> Traditionally, shamrock is said to have been used by Saint Patrick to illustrate the Christian doctrine of the Holy Trinity when Christianising Ireland in the 5th century. T
+> Traditionally, shamrock is said to have been used by Saint Patrick to illustrate the Christian doctrine of the Holy Trinity when Christianising Ireland in the 5th century.
 
 
 * https://www.tenontours.com/shamrocks-and-four-leaf-clovers-whats-the-difference/
@@ -212,7 +251,10 @@ Their delicate state in transport has led them to symbolize fragility as well.
 > The three leaves of a shamrock are also said to stand for faith, hope and love.
 
 
-### Terra Cotta
+## Terra Cotta
+
+Terracotta of high quality is used extensively to provide architectutal details and decotations to the buildiing
+
 * https://en.wikipedia.org/wiki/Terracotta
 * https://en.wikipedia.org/wiki/Architectural_terracotta
 * https://en.wikipedia.org/wiki/Tile_Heritage_Foundation
@@ -223,6 +265,8 @@ Their delicate state in transport has led them to symbolize fragility as well.
 * https://en.wikipedia.org/wiki/Lost-wax_casting
 
 * https://en.wikipedia.org/wiki/Ernest_A._Batchelder
+
+
 
 ***
 
