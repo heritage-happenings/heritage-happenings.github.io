@@ -42,7 +42,7 @@ In the drawing:
 
 ## Craftsmanship
 
-Is the building the result of what the builder found at the lumber yard? Or do we have architecture a reminder of Vitruvius's dictum that architecture should be be "firm, commodious and delightful"? We can decide where to place a structure by looking at the craftsmanship in the project.
+Is the building the result of what the builder found at the lumber yard? Or do we have architecture a reminder of [Vitruvius's]( https://en.wikipedia.org/wiki/Vitruvius ) dictum that architecture should be be "firm, commodious and delightful"? We can decide where to place a structure by looking at the craftsmanship in the project.
 
 There are a number of quite visible differences between drawing and photo
 
@@ -80,15 +80,42 @@ Therefore when we look at the panels we musk ask a series of questions
 
 A certain flower-like element is used repeatedly in multiple locations at the Heritage
 
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=100 >
+
 * Flowers in panels
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_234344066.jpg" width=100 >
+
 * Flowers in central panel
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233821361.jpg" width=100 >
+
 * Flowers in corbels
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_234136542.jpg" width=100 >
+
 * Flowers in window architraves
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233647736.jpg" width=100 >
+
 * Flowers in front door arches
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233350691.jpg" width=100 >
+
 * Flowers in column capitals
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
 * Flowers to sides of front bay corbels
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
+
 * Flowers in chapel alter
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
 * Flowers in parlor mantelpiece
+
+<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/.jpg" width=300 >
+
 * Flowers in brass ornaments on fireplace
 
 To be added: photos of all of these
