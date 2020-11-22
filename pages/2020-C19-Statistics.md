@@ -2,6 +2,19 @@
 
 COVID-19 daily statistics for California, San Francisco, Marina district and the Heritage census tract neighborhoods
 
+## Wanted
+
+The media, Wikipedia, federal, state and county COVID-19 data sources all present their statistics in different ways.
+
+The lack of standards is distressing and confusing. It would be nice to build up a daily report of numbers that would be useful to Heritage residents and staff that can be easily read and understood.
+
+Ideas:
+
+* No more than six numbers
+* two columns: current and previous
+* CA, SF & Heritage
+
+
 ## Source: https://sfgov.org
 
 ### Data from [COVID-19 Cases and Deaths]( https://data.sfgov.org/stories/s/dak2-gvuj )
