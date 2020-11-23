@@ -18,15 +18,18 @@ Proposed by MargaretJ
 
 [Dietrich Fischer-Dieskau; "Heidenröslein"; Franz Schubert]( https://youtu.be/WWJAVDCtHZk )
 
-[The Rose - by Bette Midler + lyrics]( https://youtu.be/zxSTzSEiZ2c )
+[The Rose - by Bette Midler]( https://youtu.be/zxSTzSEiZ2c )
 
-[Felicity Lott-Now Sleeps the Crimson Petal]( https://youtu.be/AdKk7HPUMHY )
+[Felicity Lott - Now Sleeps the Crimson Petal]( https://youtu.be/AdKk7HPUMHY )
 
 [Serenade Op. 31: 3. Elegy: O Rose, thou art sick (William Blake)]( https://youtu.be/FKQ4gEipNMg )
 
 Also
 
 [Robert Burns - My Love Is Like A Red Red Rose](https://www.youtube.com/watch?v=QK9WK0QhejA )
+
+[Ring Around the Rosie]( https://www.youtube.com/watch?v=k2KMnpD46jI )
+
 
 ## "As designed" and "As built"
 
