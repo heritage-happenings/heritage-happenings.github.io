@@ -10,6 +10,7 @@ GardnerH asks:
 
 On the front elevation of the Heritage, above both the first floor bay windows to left and right, between the two sets of windows there are inset panels of _terra cotta_ tiles. Both panels display the same _bas-reliefs_: three roses surrounded by garlands or vines with four raspberries.
 
+
 ## Music to serenade you while reading this paper
 
 Proposed by MargaretJ
@@ -29,6 +30,10 @@ Also
 [Robert Burns - My Love Is Like A Red Red Rose](https://www.youtube.com/watch?v=QK9WK0QhejA )
 
 [Ring Around the Rosie]( https://www.youtube.com/watch?v=k2KMnpD46jI )
+
+"I call architecture frozen music." -: Attributed to Johann Wolfgang von Goethe and Friedrich Schiller
+
+"Anon, out of the earth a fabric huge Rose, like an exhalation." -: John Milton, Paradise Lost (1667; 1674), Book I, line 710.
 
 
 ## "As designed" and "As built"
