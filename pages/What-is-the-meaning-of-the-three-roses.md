@@ -33,7 +33,7 @@ Also
 
 "I call architecture frozen music." -: Attributed to Johann Wolfgang von Goethe and Friedrich Schiller
 
-"Anon, out of the earth a fabric huge Rose, like an exhalation." -: John Milton, Paradise Lost (1667; 1674), Book I, line 710.
+"Anon, out of the earth a fabric huge rose, like an exhalation." -: John Milton, Paradise Lost (1667; 1674), Book I, line 710.
 
 
 ## "As designed" and "As built"
@@ -163,7 +163,7 @@ https://en.wikipedia.org/wiki/Rose_(heraldry)
 
 The significant difference is that the heraldic rose has five petals whereas in the Heritage roses there are 4, 12 and 8 petals.
 
-A simple explanation might be that it is much easier to to craft a four side object than a five side object because the symmetry. Another explanation might be that foor-sided migh be a "modern" American way of doing things as opposed to the old European ways (as in "gray" versus "grey).
+A simple explanation might be that it is much easier to to craft a four side object than a five side object because the symmetry. Another explanation might be that four-sided might be a "modern" American way of doing things as opposed to the old European five-sided ways (as in "gray" versus "grey).
 
 The difference needs further research.
 
