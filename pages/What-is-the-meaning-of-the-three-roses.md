@@ -1,4 +1,7 @@
+<img src="https://heritagesf.github.io/photos/2020-heritage/2020-08-20-front-facade.jpg" width=100% >
+
 # What is the meaning of the three roses?
+
 
 
 Gardner asks: When Julia Morgan designed The Heritage she added roses on the outside and inside of the building. We wonder why she did this.  Did she have a hidden meaning that is lost to us.  Or was the rose motif used to convey her feelings about the people who lived here?  Might roses have been a theme for benefactors whose finances helped build this fascinating building?   First we will describe where the roses are located and then, we hope in future articles, to try to explain why she used roses.
@@ -7,7 +10,23 @@ Gardner asks: When Julia Morgan designed The Heritage she added roses on the out
 
 On the front elevation of the Heritage, above both the first floor bay windows to left and right, between the two sets of windows there are inset panels of _terra cotta_ tiles. Both panels display the same _bas-reliefs_: three roses surrounded by garlands or vines with four raspberries.
 
+## Music to serenade you while reading this paper
 
+Proposed by MargaretJ
+
+[Stephen Foster - Ah! May the Red Rose Live Alway]( https://youtu.be/a9x_2p88nN0h )
+
+[Dietrich Fischer-Dieskau; "Heidenröslein"; Franz Schubert]( https://youtu.be/WWJAVDCtHZk )
+
+[The Rose - by Bette Midler + lyrics]( https://youtu.be/zxSTzSEiZ2c )
+
+[Felicity Lott-Now Sleeps the Crimson Petal]( https://youtu.be/AdKk7HPUMHY )
+
+[Serenade Op. 31: 3. Elegy: O Rose, thou art sick (William Blake)]( https://youtu.be/FKQ4gEipNMg )
+
+Also
+
+[Robert Burns - My Love Is Like A Red Red Rose](https://www.youtube.com/watch?v=QK9WK0QhejA )
 
 ## "As designed" and "As built"
 
