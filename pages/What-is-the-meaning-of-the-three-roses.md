@@ -4,7 +4,7 @@
 
 GardnerH asks:
 
-<i>When Julia Morgan designed The Heritage she added roses on the outside and inside of the building. We wonder why she did this.  Did she have a hidden meaning that is lost to us.  Or was the rose motif used to convey her feelings about the people who lived here?  Might roses have been a theme for benefactors whose finances helped build this fascinating building?   First we will describe where the roses are located and then, we hope in this and future articles, to try to explain why Julia placed so many roses in The Heritage.</i>
+<i>When Julia Morgan designed The Heritage she added roses on the outside and inside of the building. We wonder why she did this.  Did she have a hidden meaning that is lost to us.  Or was the rose motif used to convey her feelings about the people who lived here?  Might roses have been a theme for benefactors whose finances helped build this fascinating building?   First we will describe where the roses are located and then, we hope in this and future articles, to try to explain why Julia placed so many roses in the Heritage.</i>
 
 ***
 
@@ -50,7 +50,6 @@ The photo above shows the terracotta tiles as visible in a recent photo.
 
 The image of the drawing above shows the "as designed" drawing from Julia Morgan's drawings drafted in 1925.
 
-
 In the drawing:
 
 * Each rose is a single rose
@@ -58,8 +57,6 @@ In the drawing:
 * Between the roses there are sprays of acanthus leaves
 * At the bottom of the panel there are garlands of simple leaves
 * The panel is composed of 12 components with a number of similarities
-
-
 
 
 ## Craftsmanship
@@ -102,7 +99,7 @@ A further item of investigation will be to ascertain whether the use of this sym
 
 ## Repeated use of symbols at the Heritage
 
-> What symbols are repeated through the project?
+_What symbols are repeated through the project?_
 
 A certain flower-like element is used repeatedly in multiple locations at the Heritage
 
@@ -149,7 +146,7 @@ Flowers in brass ornaments above mantlepiece on front fireplace
 
 ## Flower looks like the traditional heraldic rose
 
->What flowers are they?
+_What flowers are they?_
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Heraldique_Rose.svg/1920px-Heraldique_Rose.svg.png" width=100 >
 
@@ -158,7 +155,6 @@ https://en.wikipedia.org/wiki/Rose_(heraldry)
 > The rose is a common device in heraldry. It is often used both as a charge on a coat of arms and by itself as an heraldic badge. The heraldic rose has a stylized form consisting of five symmetrical lobes, five barbs, and a circular seed. The rose is one of the most common plant symbols in heraldry, together with the lily, which also has a stylistic representation in the fleur-de-lis.[1]
 >
 >The rose was the symbol of the English Tudor dynasty, and the ten-petaled Tudor rose is associated with England. Roses also feature prominently in the arms of the princely House of Lippe and on the seal of Martin Luther.
-
 
 The significant difference is that the heraldic rose has five petals whereas in the Heritage roses there are 4, 12 and 8 petals.
 
@@ -171,7 +167,7 @@ See also: https://en.wikipedia.org/wiki/Quatrefoil
 
 ## Roses as symbols of love
 
-> What is the meaning or significance of the rose?
+_What is the meaning or significance of the rose?_
 
 * https://en.wikipedia.org/wiki/Rose_(symbolism)
 
@@ -194,7 +190,7 @@ It's natural that the founders would select a symbol of love as a primary elemen
 
 ## Three Roses
 
-> Why three roses in the primary decorative elements of the building?
+>_Why the three roses in the primary decorative elements of the building?_
 
 * https://www.popsugar.com/love/Meaning-Roses-What-Number-Roses-Means-14080476
 
@@ -209,7 +205,7 @@ The women in need were often in San Francisco with no family and no friends. The
 
 ## Double rose
 
-> Why are there two or three embedded roses?
+_Why are there two or three embedded roses?_
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tudor_Rose.svg/440px-Tudor_Rose.svg.png" width=100 >
 
@@ -243,8 +239,9 @@ See also: * https://en.wikipedia.org/wiki/Rose_Cross
 
 ## Raspberries as symbols of kindness
 
-> Why fruits or berries?
-> Why Raspberries?
+_Why fruits or berries?_
+
+_Why Raspberries?_
 
 Berries appear in the two terracotta panels at the front of the building and also on the mantlepiece of the fireplace in the parlor.
 
@@ -260,13 +257,13 @@ Their delicate state in transport has led them to symbolize fragility as well.
 
 ## Trefoils
 
-Trefoils appear in the two terracotta panels at the front of the building, on the main staircase and on the doors to two storage areas.
+[Trefoils]( https://en.wikipedia.org/wiki/Trefoil ) appear in the two terracotta panels at the front of the building, on the main staircase and on the doors to two storage areas.
 
+Could they be shamrocks?
 
 * https://en.wikipedia.org/wiki/Shamrock
 
 > Traditionally, shamrock is said to have been used by Saint Patrick to illustrate the Christian doctrine of the Holy Trinity when Christianising Ireland in the 5th century.
-
 
 * https://www.tenontours.com/shamrocks-and-four-leaf-clovers-whats-the-difference/
 
@@ -275,7 +272,7 @@ Trefoils appear in the two terracotta panels at the front of the building, on th
 
 ## Terra Cotta
 
-Terracotta of high quality is used extensively to provide architectutal details and decotations to the buildiing
+Terracotta of high quality is used extensively to provide architectural details and decorations to the building
 
 * https://en.wikipedia.org/wiki/Terracotta
 * https://en.wikipedia.org/wiki/Architectural_terracotta
