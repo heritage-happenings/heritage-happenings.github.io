@@ -21,8 +21,10 @@ Ideas:
 
 San Francisco new cases per day
 
+Date: 7 days behind current day
 Data format: date ~ seven day rolling average ~ new cases that date
 
+* 2020-11-15 ~ 105
 * 2020-11-14 ~ 99
 * 2020-11-13 ~ 98 ~ 107
 * 2020-11-12 ~ 105 ~ 144 >> 168 ~ drop in count on 13th
@@ -35,11 +37,14 @@ Data format: date ~ seven day rolling average ~ new cases that date
 
 ### https://data.sfgov.org/stories/s/Map-of-Cumulative-Cases/adm5-wq8i/
 
+Date: 3 days behind curent date
+
 Data format: Date ~ Estimated new case rate per 10,000 residents over a 30 day period ~ New confirmed cases over a 30 day period among an estimated resident population of 25,331.
 
 Marina district
 
-* 2020-11-22 ~ 36.3/10K ~ 92
+* 2020-11-20 ~ 36.7/10K ~ 93
+* 2020-11-19 ~ 36.3/10K ~ 92
 * 2020-11-18 ~ 34.0/10K ~ 86
 * 2020-11-17 ~ 35.5/10K ~ 90
 * 2020-11-16 ~ 31.2/10K ~ 79
@@ -48,19 +53,21 @@ Marina district
 * 2020-11-15 ~ 27.2/10k ~ 69
 * 2020-11-14 ~ 25.7/10k ~ 65
 
-Chestnut Street (Filmore to Lyon) ~ Census tract 128
+Chestnut Street (Fillmore to Lyon) ~ Census tract 128
 
-* 2020-11-22 ~ 49.6/10K ~ 22
+* 2020-11-20 ~ 54.1/10K ~ 24
+* 2020-11-19 ~ 49.6/10K ~ 22
 * 2020-11-18 ~ 47.3/10K ~ 21
 * 2020-11-17 ~ 56.4/10K ~ 25
 
 
 Heritage ~ Census Tract 129.02 12  ~ cases confirmed over a 30 day period among an estimated resident population of 4,026.
 
-_Rate per 10K not calculated because number fewer than 20._
+_Rate per 10K not calculated when  number fewer than 20._
 
-* 2020-11-22 ~ 19
-* 2020-11-21 ~ 16
+* 2020-11-20 ~ 49.7/10K ~ 20
+* 2020-11-19 ~ 19
+* 2020-11-18 ~ 16
 * 2020-11-17 ~ 15
 * 2020-11-16 ~ 13
 * 2020-11-15 ~ 14
@@ -74,6 +81,7 @@ Data format: Date ~ Location ~ Cumulative ~ cases/100k cumulative ~ new cases da
 
 San Francisco County
 
+* 2020-11-23 ~ San Francisco	14,545	1,650	111.4	12.6
 * 2020-11-22 ~ San Francisco	14,330	1,626	115.9	13.1
 * 2020-11-21 ~ San Francisco	14,254	1,617	121.0	13.7
 * 2020-11-20 ~ San Francisco	14,060	1,595	107.0	12.1
@@ -84,6 +92,7 @@ San Francisco County
 
 California
 
+* 2020-11-23 ~ California	1,119,781	2,834	11,810.1 29.9
 * 2020-11-22 ~ California	1,109,844	2,809	11,832.6 29.9
 * 2020-11-21 ~ California	1,096,354	2,775	11,043.1 27.9
 * 2020-11-20 ~ California	1,082,674	2,740	10,498.1 26.6

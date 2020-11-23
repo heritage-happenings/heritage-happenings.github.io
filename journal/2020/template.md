@@ -18,9 +18,9 @@ _In my dream utopia, I create pages like this page each day. Personal. Techie. W
 
 ## COVID-19 Statistics for the Heritage neighborhood
 
-San Francisco new cases per day:
+San Francisco new cases per day:  current /  previous
 
-Heritage ~ Census Tract 129.02 ~ confirmed cases:
+Heritage ~ Census Tract 129.02 ~ confirmed cases:  current /  previous
 
 Here is link to a page on this website for tracking the statistics for the area around the Heritage:
 
