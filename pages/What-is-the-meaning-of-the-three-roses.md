@@ -190,7 +190,7 @@ It's natural that the founders would select a symbol of love as a primary elemen
 
 ## Three Roses
 
->_Why the three roses in the primary decorative elements of the building?_
+_Why the three roses in the primary decorative elements of the building?_
 
 * https://www.popsugar.com/love/Meaning-Roses-What-Number-Roses-Means-14080476
 
