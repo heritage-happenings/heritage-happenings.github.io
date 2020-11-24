@@ -4,6 +4,13 @@ An unofficial web presence for residents and friends of the [Heritage on the Mar
 
 <img src=https://heritagesf.github.io/images/heritage-front.jpg width=100% >
 
+[Scans of Julia Morgan's 1925 drawings]( https://heritagesf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
+
+* Scans from prints from a microfilm of the blueprints of the drawings
+
+["What is the meaning of the three Roses?" article]( https://heritagesf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
+
+* An investigation into the terracotta panels on the front of the Heritage
 
 ## ["Gift by Dr Nat T Coulson" ]( https://heritagesf.github.io/#pages/Nathaniel-Thomas-Coulson.md )
 
@@ -37,7 +44,6 @@ Preliminary explorations onto the engaging career of the architect of the Herita
 ## [2020 Elections & Voting]( https://heritagesf.github.io/#2020-Elections-&-Voting.md )
 
 * Links to voter guides, endorsements (left, right and center) and FAQs
-
 
 -->
 
