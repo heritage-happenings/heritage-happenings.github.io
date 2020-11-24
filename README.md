@@ -1,47 +1,47 @@
-# Residents @ Heritage on the Marina
+# Heritics on the Marina
 
-An unofficial web presence for residents and friends of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
+An unofficial web presence for residents and friends of seniors in San Francisco - which may or may not include the peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
-<img src=https://heritagesf.github.io/images/heritage-front.jpg width=100% >
+<img src=https://heretics-sf.github.io/images/heritage-front.jpg width=100% >
 
-[Scans of Julia Morgan's 1925 drawings]( https://heritagesf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
+[Scans of Julia Morgan's 1925 drawings]( https://heretics-sf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
 
 * Scans from prints from a microfilm of the blueprints of the drawings
 
-["What is the meaning of the three Roses?" article]( https://heritagesf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
+["What is the meaning of the three Roses?" article]( https://heretics-sf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
 
 * An investigation into the terracotta panels on the front of the Heritage
 
-## ["Gift by Dr Nat T Coulson" ]( https://heritagesf.github.io/#pages/Nathaniel-Thomas-Coulson.md )
+## ["Gift by Dr Nat T Coulson" ]( https://heretics-sf.github.io/#pages/Nathaniel-Thomas-Coulson.md )
 
 The story behind the newly rediscovered pedestal in the Perry Garden
 
-## [2021 Medicare]( https://heritagesf.github.io/#pages/2021-Medicare.md )
+## [2021 Medicare]( https://heretics-sf.github.io/#pages/2021-Medicare.md )
 
 Information and tips relating to health plans for 2021
 
-## [Julia Morgan Links]( https://heritagesf.github.io/#pages/Julia-Morgan-Links.md )
+## [Julia Morgan Links]( https://heretics-sf.github.io/#pages/Julia-Morgan-Links.md )
 
 Preliminary explorations onto the engaging career of the architect of the Heritage.
 
-## [Links of Interest for Seniors]( https://heritagesf.github.io/#pages/Links-of-Interest-for-Seniors.md )
+## [Links of Interest for Seniors]( https://heretics-sf.github.io/#pages/Links-of-Interest-for-Seniors.md )
 
 * Many more links to be added here in due course
 
-## [21 Questions for Seniors]( https://heritagesf.github.io/#pages/21-Questions-for-Seniors.md )
+## [21 Questions for Seniors]( https://heretics-sf.github.io/#pages/21-Questions-for-Seniors.md )
 
 * A checklist for helping people to decide where to live as a senior
 
-## [Photos]( https://heritagesf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
+## [Photos]( https://heretics-sf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
 
 * Photos from in and around the Heritage campus
 
 <!--
 
-## [](  https://heritagesf.github.io/#pages/.md )
+## [](  https://heretics-sf.github.io/#pages/.md )
 
 
-## [2020 Elections & Voting]( https://heritagesf.github.io/#2020-Elections-&-Voting.md )
+## [2020 Elections & Voting]( https://heretics-sf.github.io/#2020-Elections-&-Voting.md )
 
 * Links to voter guides, endorsements (left, right and center) and FAQs
 
@@ -61,11 +61,11 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 ***
 
-<a href="https://heritagesf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heritagesf.github.io/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heritagesf.github.io/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritagesf.github.io/#images/people.jpg" target="_top" ><img src=https://heritagesf.github.io/images/people.jpg width=30% style=margin:1%;></a>
+<a href="https://heretics-sf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heretics-sf.github.io/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heretics-sf.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heretics-sf.github.io/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heretics-sf.github.io/#images/people.jpg" target="_top" ><img src=https://heretics-sf.github.io/images/people.jpg width=30% style=margin:1%;></a>
 
 Opinion Disclaimer
 
-The views and opinions expressed on this web site are those of the authors and do not necessarily reflect the official policy or position of the Heritage on the Marina. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
+The views and opinions expressed on this web site are those of the authors and do not necessarily reflect the official policy or position of any of the long term care facilities in San Francisco. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
 
 ***
 

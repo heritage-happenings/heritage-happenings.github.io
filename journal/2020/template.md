@@ -5,12 +5,12 @@ _In my dream utopia, I create pages like this page each day. Personal. Techie. W
 
 ## Drawing of the Day
 
-<img src="https://heritagesf.github.io/images/2020/11-/2020---dotd-.jpg" width=200 >
+<img src="https://heretics-sf.github.io/images/2020/11-/2020---dotd-.jpg" width=200 >
 
 
 ## Photo of the Day
 
-<img src="https://heritagesf.github.io/images/2020/11-/2020---dotd-.jpg" width=200 >
+<img src="https://heretics-sf.github.io/images/2020/11-/2020---dotd-.jpg" width=200 >
 
 
 ## Cooking Comments
@@ -24,7 +24,7 @@ Heritage ~ Census Tract 129.02 ~ confirmed cases:  current /  previous
 
 Here is link to a page on this website for tracking the statistics for the area around the Heritage:
 
-[2020 ~ COVID 19 ~ Statistics]( https://heritagesf.github.io/#pages/2020-C19-Statistics.md )
+[2020 ~ COVID 19 ~ Statistics]( https://heretics-sf.github.io/#pages/2020-C19-Statistics.md )
 
 
 ## COVID-19 Heads Up
@@ -37,7 +37,7 @@ Here is link to a page on this website for tracking the statistics for the area 
 
 And not yet ready for human consumption
 
-* https://heritagesf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md
+* https://heretics-sf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md
 
 
 

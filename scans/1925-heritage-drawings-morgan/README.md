@@ -1,12 +1,12 @@
 # Scans / 1925 Heritage Drawings Morgan Read Me
 
 
-<div style=overflow:hidden;width:100%;resize:both; ><img src=https://heritagesf.github.io/scans/1925-heritage-drawings-morgan/elevation-west.jpg height=100% width=100%></div>
+<div style=overflow:hidden;width:100%;resize:both; ><img src=https://heretics-sf.github.io/scans/1925-heritage-drawings-morgan/elevation-west.jpg height=100% width=100%></div>
 
 _1925 ~ Julia Morgan Front Elevation_
 
 
-## Full Screen: [Front Elevation]( https://heritagesf.github.io/scans/1925-heritage-drawings-morgan/elevation-west.jpg )
+## Full Screen: [Front Elevation]( https://heretics-sf.github.io/scans/1925-heritage-drawings-morgan/elevation-west.jpg )
 
 Select the scan to view from the menu on the left.
 
@@ -41,7 +41,7 @@ Done
 
 ### 2020-11-16
 
-* Scans uploaded to https://heritagesf/github.io
+* Scans uploaded to https://heretics-sf/github.io
 
 ### 2020-11-14
 

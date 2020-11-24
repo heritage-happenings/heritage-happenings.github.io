@@ -6,10 +6,10 @@
 	<meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
 	<meta name="description" content="Web site designed and built by Theo Armour, resident at the Heritage">
 	<meta name="keywords" content="JavaScript,GitHub,FOSS">
-	<meta name="version" content="2020-11-09">
+	<meta name="version" content="2020-11-16">
 
 	<!-- Copyright 2020 Theo Armour. MIT license -->
-	<link rel="stylesheet" href="./lib/style/style-2020-11-07.css">
+	<link rel="stylesheet" href="./lib/style/style-2020-11-11.css">
 
 	<!-- https://github.com/showdownjs/showdown -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
@@ -39,19 +39,19 @@
 
 				<h2>
 
-					<a id=aGithub href="https://github.com/heritagesf/heritagesf.github.io/" target="_top"
+					<a id=aGithub href="https://github.com/heretics-sf/heretics-sf.github.io/" target="_top"
 						title="Source code on GitHub">
 						<img src="./lib/icons/octicon.svg">
 					</a>
 
 					<a id=aTitle href="" title="Click to reload this page">
-						Residents @ Heritage on the Marina
+						Heretics on the Marina
 					</a>
 
 					<span class="info">
 						<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
 						<span id="divDescription" class="infoTooltip gmd-5">
-							abc
+
 						</span>
 					</span>
 
@@ -61,7 +61,8 @@
 
 			<div id=divNavLog></div>
 
-			<!-- <details id=detFile>
+			<!--
+			<details id=detFile>
 
 				<summary class="summary-primary gmd-1" title="Open files on your device: ">file menu</summary>
 
@@ -87,16 +88,17 @@
 				</summary>
 
 			</details>
+			-->
 
-				-->
 
-
-			<!-- <span class="info">
+			<!--
+			<span class="info">
 				<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
 				<span id="spnGRV" class="infoTooltip gmd-5">
 					test <button onclick=GRV.test()>view all files in this repository</button>
 				</span>
-			</span> -->
+			</span>
+			-->
 
 			<div class=divNavResize>
 
@@ -107,7 +109,6 @@
 				<br>
 
 			</div>
-
 
 			<hr>
 
@@ -134,21 +135,18 @@
 
 	<div id="divPopUp" class="gmd-2">Welcome! </div>
 
-	<script src="./lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-11-10.js"></script>
+	<script src="./lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-11-16.js"></script>
 
 	<script>
 
-		divDescription.innerHTML = document.head.querySelector( "[ name=description ]" ).content;
-
-		GRV.getFiles = GRV.getFilesSimple;
+		divDescription.innerHTML = document.head.querySelector( "[ name=description ]" ).content +
+		"<br><br>Update: " + document.head.querySelector( "[ name=version ]" ).content
 
 		init();
 
 		function init() {
 
 			divPopUp.hidden = true;
-
-			window.addEventListener( "hashchange", onHashChange, false );
 
 			if ( window.innerWidth < 640 || window.innerHeight < 500 ) {
 
@@ -161,32 +159,45 @@
 			// if running on server, keeps address bar pointed to latest dev
 
 			//if ( !location.hash && location.protocol === "https:" ) {
-
 			if ( location.protocol === "https:" ) {
 
 				window.history.pushState( "", "", "./" + location.hash );
 
+				GRV.urlViewer = "";
 				GRV.ignoreFolders = [ "archive", "drafts", "images", "js", "lib", "src", "templates" ];
 
 			} else {
 
+				if ( location.href.includes( "pushme" ) ) {
+
+					GRV.urlViewer = "https://heretics-sf.github.io/";
+
+				} else {
+
+					GRV.urlViewer = "";
+
+				}
 				GRV.ignoreFolders = [];
 
 			}
 
 
-			GRV.urlApi = "https://api.github.com/repos/heritagesf/heritagesf.github.io/git/trees/master?recursive=1";
-			GRV.urlSource = "https://github.com/heritagesf/heritagesf.github.io/";
-			GRV.urlViewer = "https://heritagesf.github.io/";
-
+			GRV.urlApi = "https://api.github.com/repos/heretics-sf/heretics-sf.github.io/git/trees/master?recursive=1";
+			GRV.urlSource = "https://github.com/heretics-sf/heretics-sf.github.io/";
 
 			GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/icons/octicon.svg">`;
 
 			GRV.link = `<img width=14 src="${ GRV.urlViewer }lib/icons/icon-link-external.svg">`;
 
+			GRV.getFiles = GRV.getFilesSimple;
+
 			GRV.init();
 
-			//if ( !location.hash ) { location.hash = defaultFile; }
+			const defaultFile = "README.md";
+
+			if ( !location.hash ) { location.hash = defaultFile; }
+
+			window.addEventListener( "hashchange", onHashChange, false );
 
 			onHashChange();
 

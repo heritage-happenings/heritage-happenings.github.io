@@ -14,9 +14,9 @@ const GRV = {};
 
 // }
 
-GRV.urlApi = "https://api.github.com/repos/heritagesf/heritagesf.github.io/git/trees/master?recursive=1";
-GRV.urlSource = "https://github.com/heritagesf/heritagesf.github.io";
-GRV.urlViewer = "https://heritagesf.github.io/";
+GRV.urlApi = "https://api.github.com/repos/heretics-sf/heretics-sf.github.io/git/trees/master?recursive=1";
+GRV.urlSource = "https://github.com/heretics-sf/heretics-sf.github.io";
+GRV.urlViewer = "https://heretics-sf.github.io/";
 
 
 

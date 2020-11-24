@@ -1,4 +1,4 @@
-<img src="https://heritagesf.github.io/photos/2020-heritage/2020-08-20-front-facade.jpg" width=100% >
+<img src="https://heretics-sf.github.io/photos/2020-heritage/2020-08-20-front-facade.jpg" width=100% >
 
 # What is the meaning of the three roses?
 
@@ -40,7 +40,7 @@ Also
 
 What did the architect dream of and what did the contractor actually get built? This is a metaphysical dialectic of sorts that is not a rare event in architecture. Here we live in a good example.
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=300 >
 
 In the photo of the Heritage "as built":
 
@@ -51,7 +51,7 @@ In the photo of the Heritage "as built":
 
 The photo above shows the terracotta tiles as visible in a recent photo.
 
-<img src="https://heritagesf.github.io/scans/three-roses/1925-morgan-details-three-roses.jpg" width=300 >
+<img src="https://heretics-sf.github.io/scans/three-roses/1925-morgan-details-three-roses.jpg" width=300 >
 
 The image of the drawing above shows the "as designed" drawing from Julia Morgan's drawings drafted in 1925.
 
@@ -108,43 +108,43 @@ _What symbols are repeated through the project?_
 
 A certain flower-like element is used repeatedly in multiple locations at the Heritage
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=100 >
 
 Flowers in _terracotta_ panels between the windows aboce twi two ground floor bays
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_234344066.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/PXL_20201118_234344066.jpg" width=100 >
 
 Flower at center of the _terracotta_ panel at top of the second floor bay
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233821361.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/PXL_20201118_233821361.jpg" width=100 >
 
 Flowers in the multiple corbels under the eaves
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_234136542.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/PXL_20201118_234136542.jpg" width=100 >
 
 Flowers in the elliptical window architraves
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233647736.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/PXL_20201118_233647736.jpg" width=100 >
 
 Flowers in abutments to front door arches
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233350691.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/PXL_20201118_233350691.jpg" width=100 >
 
 Flowers in column capitals
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage/PXL_20201118_233434233.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage/PXL_20201118_233434233.jpg" width=100 >
 
 Flowers to sides of front bay corbels
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage-interior/alter-rose.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage-interior/alter-rose.jpg" width=100 >
 
 Flowers at the front of the chapel alter table
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage-interior/fireplace-detail-rose.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage-interior/fireplace-detail-rose.jpg" width=100 >
 
 Flowers in parlor mantelpiece
 
-<img src="https://heritagesf.github.io/photos/1925-morgan-heritage-interior/fireplace-brass-rose.jpg" width=100 >
+<img src="https://heretics-sf.github.io/photos/1925-morgan-heritage-interior/fireplace-brass-rose.jpg" width=100 >
 
 Flowers in brass ornaments above mantlepiece on front fireplace
 

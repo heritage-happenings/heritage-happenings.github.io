@@ -1,10 +1,10 @@
 # [Template Read Me]( ./readme.html )
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heritagesf.github.io/ height=100% width=100% ></iframe></div>
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/ height=100% width=100% ></iframe></div>
 _Spider /lib/style_
 
-### Full Screen: [/lib/style]( https://heritagesf.github.io/ )
+### Full Screen: [/lib/style]( https://heretics-sf.github.io/ )
 @@@-->
 
 
