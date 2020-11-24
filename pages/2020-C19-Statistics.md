@@ -17,6 +17,9 @@ Ideas:
 
 ## Source: https://sfgov.org
 
+![]( https://heretics-sf.github.io/images/2020/11-24/2020-11-240c19.jpg )
+
+
 ### Data from [COVID-19 Cases and Deaths]( https://data.sfgov.org/stories/s/dak2-gvuj )
 
 San Francisco new cases per day
@@ -24,6 +27,7 @@ San Francisco new cases per day
 Date: 7 days behind current day
 Data format: date ~ seven day rolling average ~ new cases that date
 
+* 2020-11-24 ~ 110
 * 2020-11-15 ~ 105
 * 2020-11-14 ~ 99
 * 2020-11-13 ~ 98 ~ 107
@@ -43,6 +47,7 @@ Data format: Date ~ Estimated new case rate per 10,000 residents over a 30 day p
 
 Marina district
 
+* 2020-11-21 ~ 39.9/10K ~ 101
 * 2020-11-20 ~ 36.7/10K ~ 93
 * 2020-11-19 ~ 36.3/10K ~ 92
 * 2020-11-18 ~ 34.0/10K ~ 86
@@ -55,6 +60,7 @@ Marina district
 
 Chestnut Street (Fillmore to Lyon) ~ Census tract 128
 
+* 2020-11-21 ~ 56.4/10K ~ 25
 * 2020-11-20 ~ 54.1/10K ~ 24
 * 2020-11-19 ~ 49.6/10K ~ 22
 * 2020-11-18 ~ 47.3/10K ~ 21
@@ -65,6 +71,7 @@ Heritage ~ Census Tract 129.02 12  ~ cases confirmed over a 30 day period among 
 
 _Rate per 10K not calculated when  number fewer than 20._
 
+* 2020-11-21 ~ 54.6/10K ~ 22
 * 2020-11-20 ~ 49.7/10K ~ 20
 * 2020-11-19 ~ 19
 * 2020-11-18 ~ 16
