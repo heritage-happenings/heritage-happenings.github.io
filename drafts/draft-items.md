@@ -5,7 +5,6 @@
 * https://www.wellcertified.com/
 
 
-
 To be filled in
 
 ## Pharmacy
