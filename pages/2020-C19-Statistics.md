@@ -17,7 +17,7 @@ Ideas:
 
 ## Source: https://sfgov.org
 
-![]( https://heretics-sf.github.io/images/2020/11-24/2020-11-240c19.jpg )
+![]( https://heretics-sf.github.io/images/2020/11-24/2020-11-24-c19.png )
 
 
 ### Data from [COVID-19 Cases and Deaths]( https://data.sfgov.org/stories/s/dak2-gvuj )
@@ -88,6 +88,7 @@ Data format: Date ~ Location ~ Cumulative ~ cases/100k cumulative ~ new cases da
 
 San Francisco County
 
+* 2020-11-24 ~ San Francisco	14,665	1,664	112.1	12.7
 * 2020-11-23 ~ San Francisco	14,545	1,650	111.4	12.6
 * 2020-11-22 ~ San Francisco	14,330	1,626	115.9	13.1
 * 2020-11-21 ~ San Francisco	14,254	1,617	121.0	13.7
@@ -99,10 +100,11 @@ San Francisco County
 
 California
 
-* 2020-11-23 ~ California	1,119,781	2,834	11,810.1 29.9
-* 2020-11-22 ~ California	1,109,844	2,809	11,832.6 29.9
-* 2020-11-21 ~ California	1,096,354	2,775	11,043.1 27.9
-* 2020-11-20 ~ California	1,082,674	2,740	10,498.1 26.6
+* 2020-11-24 ~ California	1,143,202	2,893	12,712.3	32.2
+* 2020-11-23 ~ California	1,119,781	2,834	11,810.1	29.9
+* 2020-11-22 ~ California	1,109,844	2,809	11,832.6	29.9
+* 2020-11-21 ~ California	1,096,354	2,775	11,043.1	27.9
+* 2020-11-20 ~ California	1,082,674	2,740	10,498.1	26.6
 * 2020-11-19 ~ California	1,069,316	2,706	9,974.0	25.2
 * 2020-11-18 ~ California	1,059,114	2,680	8,761.6	22.2
 * 2020-11-17 ~ California	1,047,081	2,650	8,783.3	22.2

@@ -1,4 +1,4 @@
-# Heritics on the Marina
+# Heretics on the Marina
 
 An unofficial web presence for residents and friends of seniors in San Francisco - which may or may not include the peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
