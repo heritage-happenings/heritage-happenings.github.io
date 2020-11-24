@@ -4,11 +4,11 @@ An unofficial web presence for residents and friends of seniors in San Francisco
 
 <img src=https://heretics-sf.github.io/images/heritage-front.jpg width=100% >
 
-[Scans of Julia Morgan's 1925 drawings]( https://heretics-sf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
+## [Scans of Julia Morgan's 1925 drawings]( https://heretics-sf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
 
 * Scans from prints from a microfilm of the blueprints of the drawings
 
-["What is the meaning of the three Roses?" article]( https://heretics-sf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
+## ["What is the meaning of the three Roses?" article]( https://heretics-sf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
 
 * An investigation into the terracotta panels on the front of the Heritage
 
