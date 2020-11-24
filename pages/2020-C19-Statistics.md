@@ -17,7 +17,7 @@ Ideas:
 
 ## Source: https://sfgov.org
 
-![]( https://heretics-sf.github.io/images/2020/11-24/2020-11-24-c19.png )
+<img src=https://heretics-sf.github.io/images/2020/11-24/2020-11-24-c19.png width=100% >
 
 
 ### Data from [COVID-19 Cases and Deaths]( https://data.sfgov.org/stories/s/dak2-gvuj )
