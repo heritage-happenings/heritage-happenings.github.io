@@ -22,7 +22,9 @@ _Spider /lib/style_
 
 ## Change Log
 
-### XXX
+### 2020-11-24
+
+* Add iframe gallery to readme
 
 
 ***
