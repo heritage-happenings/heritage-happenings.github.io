@@ -1,7 +1,7 @@
 # [Photos / 2020 Heritage Read Me]( ./readme.html )
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/ height=100% width=100% ></iframe></div>
+<div style=height:800px;overflow:hidden;width:100%;resize:both; ><iframe src=./photos/2020-heritage/!-gallery.html height=100% width=100% ></iframe></div>
 _Spider /lib/style_
 
 ### Full Screen: [/lib/style]( https://heretics-sf.github.io/ )
