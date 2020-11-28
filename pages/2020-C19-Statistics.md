@@ -28,6 +28,8 @@ Date: 7 days behind current day
 
 Data format: date ~ seven day rolling average ~ new cases that date
 
+* 2020-11-20 ~ 137
+* 2020-11-19 ~ 130
 * 2020-11-18 ~ 125
 * 2020-11-17 ~ 114
 * 2020-11-16 ~ 110
@@ -50,6 +52,7 @@ Data format: Date ~ Estimated new case rate per 10,000 residents over a 30 day p
 
 Marina district
 
+* 2020-11-23 ~ 43.4/10K ~ 110
 * 2020-11-23 ~ 42.2/10K ~ 107
 * 2020-11-22 ~ 41.5/10K ~ 105
 * 2020-11-21 ~ 39.9/10K ~ 101
@@ -65,6 +68,7 @@ Marina district
 
 Chestnut Street (Fillmore to Lyon) ~ Census tract 128
 
+* 2020-11-24 ~ 63.1/10K ~ 28
 * 2020-11-23 ~ 60.9/10K ~ 27 
 * 2020-11-22 ~ 58.6/10K ~ 26
 * 2020-11-21 ~ 56.4/10K ~ 25
@@ -78,6 +82,7 @@ Heritage ~ Census Tract 129.02 12  ~ cases confirmed over a 30 day period among 
 
 _Rate per 10K not calculated when  number fewer than 20._
 
+* 2020-11-24 ~ 57.1/10K ~ 23
 * 2020-11-23 ~ 57.1/10K ~ 23
 * 2020-11-22 ~ 54.6/10K ~ 22
 * 2020-11-21 ~ 54.6/10K ~ 22
