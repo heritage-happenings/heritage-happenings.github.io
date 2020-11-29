@@ -28,7 +28,7 @@ Date: 7 days behind current day
 
 Data format: date ~ seven day rolling average ~ new cases that date
 
-* 2020-11-29 ~ 138
+* 2020-11-21 ~ 138
 * 2020-11-20 ~ 137
 * 2020-11-19 ~ 130
 * 2020-11-18 ~ 125
