@@ -109,6 +109,7 @@ Data format: Date ~ Location ~ Cumulative ~ cases/100k cumulative ~ new cases da
 
 San Francisco County
 
+* 2020-12-01 ~ San Francisco	15,642	1,774	147.0	16.7
 * 2020-11-29 ~ San Francisco	15,380	1,745	150.0	17	
 * 2020-11-28 ~ San Francisco	15,056	1,708	142.3	16.1
 * 2020-11-25 ~ San Francisco	14,665	1,664	116.4	13.2
@@ -124,6 +125,7 @@ San Francisco County
 
 California
 
+* 2020-12-01 ~ California	1,237,416	3,132	14,406.6	36.5	
 * 2020-11-29 ~ California	1,206,278	3,053	13,776.3	34.9	
 * 2020-11-28 ~ California	1,176,137	2,977	13,351.9	33.8
 * 2020-11-25 ~ California	1,153,005	2,918	13,558.4	34.3
