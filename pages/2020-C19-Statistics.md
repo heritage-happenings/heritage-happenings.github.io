@@ -28,9 +28,10 @@ Date: 7 days behind current day
 
 Data format: date ~ seven day rolling average ~ new cases that date
 
-* 2020-12-02 ~ 148
-* 2020-12-23 ~ 140
-* 2020-12-22 ~ 140
+* 2020-11-25 ~ 146
+* 2020-11-24 ~ 148
+* 2020-11-23 ~ 140
+* 2020-11-22 ~ 140
 * 2020-11-21 ~ 139
 * 2020-11-20 ~ 137
 * 2020-11-19 ~ 130
@@ -55,6 +56,8 @@ Date: 3 days behind current date
 Data format: Date ~ Estimated new case rate per 10,000 residents over a 30 day period ~ New confirmed cases over a 30 day period among an estimated resident population of 25,331.
 
 Marina district
+
+* 2020-11-30 ~ 52.9/10K ~ 134
 * 2020-11-29 ~ 51.3/10K ~ 130
 * 2020-12-27 ~ 50.1/10K ~ 127
 * 2020-11-26 ~ 49.0/10K ~ 124
@@ -74,6 +77,7 @@ Marina district
 
 Chestnut Street (Fillmore to Lyon) ~ Census tract 128
 
+* 2020-11-30 ~ 65.4/10K ~ 29
 * 2020-11-29 ~ 65.4/10K ~ 29
 * 2020-11-27 ~ 63.1/10K ~ 28
 * 2020-11-26 ~ 65.4/10K ~ 29
@@ -89,6 +93,7 @@ Chestnut Street (Fillmore to Lyon) ~ Census tract 128
 
 Heritage ~ Census Tract 129.02 12  ~ cases confirmed over a 30 day period among an estimated resident population of 4,026.
 
+* 2020-11-30 ~ 69.5/10K ~ 28
 * 2020-11-29 ~ 72.0/10K ~ 29
 * 2020-11-27 ~ 67.1/10K ~ 27
 * 2020-11-26 ~ 67.1/10K ~ 27
@@ -112,6 +117,7 @@ Data format: Date ~ Location ~ Cumulative ~ cases/100k cumulative ~ new cases da
 
 San Francisco County
 
+* 2020-12-03 ~ San Francisco	16,061	1,822	131.9	15	
 * 2020-12-02 ~ San Francisco	15,800	1,792	139.6	15.8
 * 2020-12-01 ~ San Francisco	15,642	1,774	147.0	16.7
 * 2020-11-29 ~ San Francisco	15,380	1,745	150.0	17	
@@ -129,8 +135,9 @@ San Francisco County
 
 California
 
-* 2020-12-02 ~ California	1,270,382	3,215	14,408.9	36.5
-* 2020-12-01 ~ California	1,237,416	3,132	14,406.6	36.5	
+* 2020-12-03 ~ California	1,291,797	3,269	14,965.6	37.9	
+* 2020-12-01 ~ California	1,270,382	3,215	14,408.9	36.5
+* 2020-11-30 ~ California	1,237,416	3,132	14,406.6	36.5	
 * 2020-11-29 ~ California	1,206,278	3,053	13,776.3	34.9	
 * 2020-11-28 ~ California	1,176,137	2,977	13,351.9	33.8
 * 2020-11-25 ~ California	1,153,005	2,918	13,558.4	34.3
