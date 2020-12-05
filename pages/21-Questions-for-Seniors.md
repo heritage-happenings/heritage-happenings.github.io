@@ -7,10 +7,10 @@ One day you look in the mirror and say to yourself "Wow! I look just like the ol
 When thoughts like these start to happen, it is a good time to ask question such as these:
 
 * "Is where I live now where I want to be from now on?"
-* "Will I want to live here in my nineties and beyond"
+* "Will I want to live here (wherever you live now) in my nineties and beyond"
 * "Will my friends and family want me here when I am a fall risk, have dementia or have had a stroke?"
 * "Will I be lonely, become a hoarder or retreat into unhealthy habits if I stay here?"
-* "Will I become a burden on my friends and family; will I disrupt the career plans of others so that they may look after me; will the time spent fussing over me take time away from being with grandchildren?"
+* "Will I become a burden on my friends and family; will I disrupt the career plans of others so that they may look after me; will the time spent fussing over me take time away from being with my grandchildren and other descendants?"
 
 The following is checklist of a series of questions intended to help you gather the input needed to help you and your elder care team agree a decision about your future life.
 
