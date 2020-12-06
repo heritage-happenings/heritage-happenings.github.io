@@ -30,7 +30,6 @@ So let's start spilling some of the beans. Very human beans.
 * The young have the abilities but are clueless. The aged have the clues and have disabilities. Overall, productivity stays the same
 * Many people live by watching TV. Watching their favorite channels, they entertain themselves to death
 * Adults make children go to school in order to learn how to grow up. But who teaches the adults how to grow better?
-
 * If you continue to eat what you eat now, you will not be what you need to eat when you are my age
 
 ## Carrots
