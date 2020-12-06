@@ -17,3 +17,10 @@ RCFE #380500295
 California
 
 * https://www.dhcs.ca.gov/services/Pages/Seniors.aspx
+
+
+## stuff
+
+* https://github.com/theo-armour/theo-armour.github.io/blob/master/posts/ageism.md
+* https://theo-armour.github.io/2020/#pages/aging/to-do-old-and-fit.md
+* repo oldenfit

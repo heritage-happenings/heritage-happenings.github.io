@@ -1,5 +1,15 @@
 # Letter to my younger self
 
+## Preface
+
+To Do
+
+* Summarize third and fourth ages
+* Mote than "Sticks" and "carrots". Source, decide and add categories about the person such as: sex, fitness, weight, mentality & happiness, finances, support, intentions
+* Add references to [21 questions]( https://heretics-sf.github.io/#pages/21-Questions-for-Seniors.md )
+
+## Intro
+
 Dear Theo
 
 Here are a bunch of vignettes on the joys of aging - all random thoughts off the top of my head. They could use some amplifying, but it's a start. The wake up call is that the first half of your life was well-planned, so how about some planning for the second half?
@@ -61,34 +71,6 @@ Here is what I imagine got you here:
 
 
 ***
-
-## Age Related Diseases
-
-* https://en.wikipedia.org/wiki/Aging-associated_diseases
-	* https://en.wikipedia.org/wiki/Category:Aging-associated_diseases
-* https://www.agingresearch.org/health-topic/
-* https://www.ncoa.org/blog/10-common-chronic-diseases-prevention-tips/
-> Age, family genetics, and gender make it nearly impossible for older adults to avoid becoming a chronic disease statistic. Eighty percent of adults 65 and older have at least one condition, while 68% have two or more. You probably have a parent or grandparent who is managing a condition right now, or perhaps you are managing one yourself.
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732407/
-
-> Sixty two percent of Americans over 65 have more than one chronic condition (34) and the prevalence of multiple chronic conditions is increasing (35), due to aging of populations and to increasing diabetes rates.
-* https://starlightcaregivers.com/resources/common-diagnoses.php
-
-
-
-## Alice James
-
-Very interesting views on death
-
-* https://en.wikipedia.org/wiki/Alice_James
-* https://www.brainpickings.org/2017/08/07/diary-of-alice-james-death/ <<< Wow!
-	* https://news.ycombinator.com/item?id=25224830
-
-## Law of Jante
-
-You are not special
-
-* https://en.wikipedia.org/wiki/Law_of_Jante
 
 
 
