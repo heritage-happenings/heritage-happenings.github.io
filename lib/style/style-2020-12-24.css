@@ -141,6 +141,7 @@ pre {
 	padding: 5px;
 }
 
+
 /* classes */
 
 .active {
@@ -366,7 +367,27 @@ pre {
 	border: 0 solid red;
 	border-radius: 2ch;
 	padding: 0 1ch;
+	scrollbar-color: red yellow;
+	/* width */
+
 }
+
+::-webkit-scrollbar {
+	color: yellow;
+
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background:var(--color-1-background);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--color-3-background);
+}
+
+
 #detNavMenu {
 	background-color: var(--color-2-background);
 	border: 1px solid #8a8;
@@ -377,6 +398,7 @@ pre {
 	padding: 1ch;
 	position: fixed;
 	resize: both;
+	scrollbar-color: red yellow;
 	width: var(--mnu-width);
 	z-index: 5;
 }
