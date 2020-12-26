@@ -1,8 +1,12 @@
 # Heretics on the Marina
 
-An unofficial web presence for residents and friends of seniors in San Francisco - which may or may not include the peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
+These web pages are an unofficial web presence for seniors and friends of seniors in San Francisco - which may or may not include the good peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
 <img src=https://heretics-sf.github.io/images/heritage-front.jpg width=100% >
+
+Use the menu on the left to browse the contents of this site.
+
+The text below highlightys pages of possible interest
 
 ## [Scans of Julia Morgan's 1925 drawings]( https://heretics-sf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
 
@@ -63,9 +67,9 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 <a href="https://heretics-sf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heretics-sf.github.io/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heretics-sf.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heretics-sf.github.io/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heretics-sf.github.io/#images/people.jpg" target="_top" ><img src=https://heretics-sf.github.io/images/people.jpg width=30% style=margin:1%;></a>
 
-Opinion Disclaimer
+### Opinion Disclaimer
 
-The views and opinions expressed on this web site are those of the authors and do not necessarily reflect the official policy or position of any of the long term care facilities in San Francisco. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
+The views and opinions expressed on this web site are those of the authors and do not necessarily reflect the official policy or position of any of the long term care facilities in San Francisco. Any content provided by our bloggers or authors are of their opinion and are not intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything. We are here to help not hurt.
 
 ***
 
