@@ -6,27 +6,27 @@ These web pages are an unofficial web presence for seniors and friends of senior
 
 Use the menu on the left to browse the contents of this site.
 
-The text below highlightys pages of possible interest
+The text below highlights pages of possible interest.
 
 ## [Scans of Julia Morgan's 1925 drawings]( https://heretics-sf.github.io/#scans/1925-heritage-drawings-morgan/README.md )
 
-* Scans from prints from a microfilm of the blueprints of the drawings
+* Scans from prints from a microfilm from the blueprints of the original drawings
 
 ## ["What is the meaning of the three Roses?" article]( https://heretics-sf.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
 
-* An investigation into the terracotta panels on the front of the Heritage
+* An investigation into the terracotta panels on the front elevation of the Heritage
 
 ## ["Gift by Dr Nat T Coulson" ]( https://heretics-sf.github.io/#pages/Nathaniel-Thomas-Coulson.md )
 
-The story behind the newly rediscovered pedestal in the Perry Garden
+* The story behind the newly rediscovered pedestal in the Perry Garden
 
 ## [2021 Medicare]( https://heretics-sf.github.io/#pages/2021-Medicare.md )
 
-Information and tips relating to health plans for 2021
+* Information and tips relating to health plans for 2021
 
 ## [Julia Morgan Links]( https://heretics-sf.github.io/#pages/Julia-Morgan-Links.md )
 
-Preliminary explorations onto the engaging career of the architect of the Heritage.
+* Preliminary explorations onto the engaging career of the architect of the Heritage
 
 ## [Links of Interest for Seniors]( https://heretics-sf.github.io/#pages/Links-of-Interest-for-Seniors.md )
 
@@ -38,7 +38,7 @@ Preliminary explorations onto the engaging career of the architect of the Herita
 
 ## [Photos]( https://heretics-sf.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
 
-* Photos from in and around the Heritage campus
+* Photos from in and around the Heritage premises
 
 <!--
 
