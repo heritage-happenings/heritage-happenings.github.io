@@ -1,10 +1,10 @@
-# [Template Read Me]( ./readme.html )
+# [Journal Read Me]( ./readme.html )
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/#journal/README.md height=100% width=100% ></iframe></div>
-_Templatee_
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/#journal/2020/2020-11-25.md height=100% width=100% ></iframe></div>
+_Journal_
 
-### Full Screen: [Template]( https://heretics-sf.github.io/ )
+### Full Screen: [Journal]( https://heretics-sf.github.io/#journal/2020/2020-11-25.md/ )
 @@@-->
 
 
