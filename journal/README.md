@@ -1,7 +1,7 @@
 # [Template Read Me]( ./readme.html )
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/ height=100% width=100% ></iframe></div>
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/#journal/README.md height=100% width=100% ></iframe></div>
 _Templatee_
 
 ### Full Screen: [Template]( https://heretics-sf.github.io/ )
