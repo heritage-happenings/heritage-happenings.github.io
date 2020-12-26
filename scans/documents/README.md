@@ -10,7 +10,17 @@ _Scans / Documentse_
 
 ## Concept
 
-Margaret J has a good  number of documents relating to the history of the Heritage. This folder contains scans of some of the ducoments as PDF files. You can read the files here or you may download them and view then offline.
+Margaret J has a good  number of documents relating to the history of the Heritage. This folder contains scans of some of the documents as PDF files. You may read the files here or you may download them and view then offline.
+
+
+### [A History of the Heritage]( https://heretics-sf.github.io/#scans/documents/a-history-of-the-heritage.pdf )
+
+### [Charlotte Vickery Presents]( https://heretics-sf.github.io/#scans/documents/charlotte-vickery-presents.pdf )
+
+### '"New Style Ground breaking"]( https://heretics-sf.github.io/#scans/documents/new-style-ground-breaking.pdf )
+
+### ["The Heritage ~ Highlights 2012"]( https://heretics-sf.github.io/#scans/documents/the-heritage-highlights-2012.pdf )
+
 
 
 ## To Do / Wish List
