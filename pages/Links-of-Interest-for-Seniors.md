@@ -114,6 +114,14 @@ Services
 * https://starlightcaregivers.com/resources/common-diagnoses.php
 
 
+## Articles
+
+* https://www.nytimes.com/guides/well/how-to-age-well
+* https://www.helpguide.org/articles/alzheimers-dementia-aging/staying-healthy-as-you-age.htm
+* https://www.abc.net.au/everyday/habits-that-help-you-age-well/10363054
+* https://www.nia.nih.gov/health/aging-place-growing-older-home
+* https://www.nia.nih.gov/health/what-do-we-know-about-healthy-aging
+
 
 ## Alice James
 
