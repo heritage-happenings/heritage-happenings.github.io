@@ -8,8 +8,11 @@ _Martha Nelle_
 @@@-->
 
 
-## Concept
+## Articles
 
+* https://heretics-sf.github.io/#people/martha-nell/arabian-proverb-arc.pdf
+* https://heretics-sf.github.io/#people/martha-nell/saudi-chron-article.pdf
+* https://heretics-sf.github.io/#people/martha-nell/tarfa.pdf
 
 ## To Do / Wish List
 
