@@ -14,13 +14,7 @@ _Martha Nelle_
 * https://heretics-sf.github.io/#people/martha-nell/saudi-chron-article.pdf
 * https://heretics-sf.github.io/#people/martha-nell/tarfa.pdf
 
-## To Do / Wish List
 
-
-## Issues
-
-
-## Links of Interest
 
 
 ## Change Log
