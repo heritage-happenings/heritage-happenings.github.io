@@ -32,6 +32,9 @@
 
 Where the Miss Morgan impersonator lives. ;-)
 
+### https://wikivisually.com/wiki/Julia_Morgan
+
+* Same text as below??
 
 ### https://historic-houses.fandom.com/wiki/Julia_Morgan
 
@@ -187,6 +190,9 @@ See bibliography
 
 
 ### https://www.sfgate.com/realestate/article/The-Selling-Of-San-Francisco-How-much-does-a-2562871.php
+
+
+### https://rhnsf.org/explore/walking-tours/russian-hill-summit/walk-notes/
 
 
 ## Books
