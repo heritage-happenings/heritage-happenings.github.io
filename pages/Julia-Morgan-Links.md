@@ -16,6 +16,12 @@
 >
 > Julia Morgan was the first woman to receive American Institute of Architects’ highest award, the AIA Gold Medal, posthumously in 2014.
 
+### Wikipedia: Category:Julia Morgan buildings
+
+* https://en.wikipedia.org/wiki/Category:Julia_Morgan_buildings
+
+19 projects listed
+
 
 ### https://www.britannica.com/biography/Julia-Morgan
 
@@ -25,6 +31,13 @@
 ### https://www.findagrave.com/memorial/1464/julia-morgan
 
 Where the Miss Morgan impersonator lives. ;-)
+
+
+### https://historic-houses.fandom.com/wiki/Julia_Morgan
+
+>Morgan embraced the Arts and Crafts Movement and used various producers of California pottery to adorn her buildings. She sought to reconcile classical and Craftsman, scholarship and innovation, formalism and whimsy.
+
+Look like a fairly good bibliography. Nice short summary of her life that is more complete than Wikipedia.
 
 
 ## Collections
@@ -118,7 +131,7 @@ Index page to many pages with photos of JM's projects
 
 ## Articles
 
-Artticles about Julia Morgan published in journals and periodicals
+Articles about Julia Morgan published in journals and periodicals
 
 ### https://www.nytimes.com/2019/03/06/obituaries/julia-morgan-overlooked.html
 
@@ -152,24 +165,29 @@ Artticles about Julia Morgan published in journals and periodicals
 >Morgan produced no manifestos, and she shunned the press. As Sara Holmes Boutelle, Morgan’s biographer, put it, “She steadfastly refused to enter competitions, write articles, submit photographs to architectural magazines, or serve on committees, dismissing such activities as fit only for ‘talking architects.’ ” Morgan had a similarly dim view of prepping her archive for posterity. When she retired, she had all her blueprints and other materials destroyed. She figured the only people who might have any use for them were her clients. And they had their own copies.
 
 
-## https://greenbungalows.info/east-bay-architecture/architect-portraits/julia-morgan/
+### https://greenbungalows.info/east-bay-architecture/architect-portraits/julia-morgan/
 
 See bibliography
 
 
 
-## https://aiaeb.org/julia-morgan-changed-architecture-and-opened-the-field-for-women/
+### https://aiaeb.org/julia-morgan-changed-architecture-and-opened-the-field-for-women/
 
 
-## https://www.parks.ca.gov/pages/566/files/JuliaMorganFinalWeb2015.pdf
+### https://www.parks.ca.gov/pages/566/files/JuliaMorganFinalWeb2015.pdf
 
 
-## https://marinmagazine.com/community/history/morgans-masterpieces/
+### https://marinmagazine.com/community/history/morgans-masterpieces/
 
 
-## https://thebolditalic.com/a-locals-guide-to-architect-julia-morgan-s-legacy-c902ef396b91
+### https://thebolditalic.com/a-locals-guide-to-architect-julia-morgan-s-legacy-c902ef396b91
+
 
 ### https://www.latimes.com/archives/la-xpm-2002-dec-28-et-rutten28-story.html
+
+
+### https://www.sfgate.com/realestate/article/The-Selling-Of-San-Francisco-How-much-does-a-2562871.php
+
 
 ## Books
 
