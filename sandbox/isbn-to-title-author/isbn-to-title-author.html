@@ -10,9 +10,15 @@
 
 	<h1><a href="">Gardner's Book Sleuth Thingy</a></h1>
 
-	<p>ISBN number <input id=inpISBN placeholder="Enter ISBN" oninput=getBookDetails(this.value)></p>
+	<p>ISBN number <input id=inpISBN placeholder="Enter ISBN" onclick=getBookDetails(this.value) oninput=getBookDetails(this.value)></p>
 
-	<p><button onclick=inpISBN.value="0451522907" >"Flatland" ISBN</button></p>
+	<p>
+
+		<button onclick=inpISBN.value="0451522907";inpISBN.click() >"Flatland" ISBN</button>
+
+		<button onclick=inpISBN.value="9781451648546";inpISBN.click() >Steve Jobs Book ISBN</button>
+
+	</p>
 
 	<div id=divInfo></div>
 
