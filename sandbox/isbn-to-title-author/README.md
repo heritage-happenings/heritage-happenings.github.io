@@ -1,10 +1,10 @@
-# [Template Read Me]( ./readme.html )
+# [ISBN to Title & Author Read Me]( ./readme.html )
 
 <!--@@@
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/ height=100% width=100% ></iframe></div>
-_Templatee_
+_ISBN to Title & Authore_
 
-### Full Screen: [Template]( https://heretics-sf.github.io/ )
+### Full Screen: [ISBN to Title & Author]( https://heretics-sf.github.io/sandbox/isbn-to-title-author/ )
 @@@-->
 
 
