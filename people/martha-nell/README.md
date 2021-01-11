@@ -18,11 +18,11 @@ A friend is on to whom one may pour out all of the contents of one's heart...
 
 Frontier Hospitality in Saudi Arabia...
 
-### [Tarfa Tours and travel ]( https://heretics-sf.github.io/#people/martha-nell/tarfa.pdf )
+### [Tarfa Tours and Travel ]( https://heretics-sf.github.io/#people/martha-nell/tarfa.pdf )
 
 My concern in writing this article is to expfess the realities, positive and negative, od opening and operating a travel agency overseas...
 
-### [Fiji Chronicle]( https://heretics-sf.github.io/#people/martha-nell/fuji-chronicle.pdf)
+### [Fiji Chronicle]( https://heretics-sf.github.io/#people/martha-nell/fiji-chronicle.pdf)
 
 Beyond the Horizon...
 
