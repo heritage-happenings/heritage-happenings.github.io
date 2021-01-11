@@ -72,7 +72,18 @@ Here is what I imagine got you here:
 
 ***
 
+Martha Nell sent me these lyrics:
 
+	“I can’t believe I’m eighty seven
+	By now I thought I’d be in heaven
+	My goal was not long life
+	But one without pain and strife
+	But I will find a way
+	To find some joy in every day
+	Maybe I will think it’s just great
+	To reach the age of eighty-eight”
+
+I have not yet found the source...
 
 ***
 
