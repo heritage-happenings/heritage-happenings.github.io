@@ -1,32 +1,47 @@
 # Lion Dance
 
-The Lion Dance is a form of traditional Chinese dance performed on joyous festivals, such as Chinese New Year (Spring Festival) for good luck.
+https://www.liondanceme.com/
 
-At the Heritage a lion dance is traditionally performed in the dining room after the end of the week of Chinese New Year. In other words it is sharing with friends after celebrating with family and close friends.
+* Lions are said to bring luck wherever they go
+
+https://en.wikipedia.org/wiki/Lion_dance
+
+
+At the Heritage a lion dance is traditionally performed in the dining room after the end of the week of Chinese New Year. In other words it is sharing with friends after celebrating with family and close friends.The Lion Dance is a form of traditional Chinese dance performed on joyous festivals, such as Chinese New Year (Spring Festival) for good luck.
 
 Lion and Dragon
 The Chinese lion dance is operated by two dancers, one of manipulates the head and the other forms the rear end of the lion. The dragon dance is performed by many people who hold the long sinuous body of the dragon on poles.
 
-Northern an Southern
-The northern lions feature a simple, but vivid representation of a lion with a shaggy orange and yellow mane and a bow tied around its head. This big cat is famed for it agile movements. Its southern sister is noted for its intricate designs based on traditional Chinese opera make up, while emphasizing powerful moves and solid postures
+Northern and Southern
+The northern lions feature a simple, but vivid representation of a lion with a shaggy orange and yellow mane and a bow tied around its head. This big cat is famed for it agile movements. Its southern sister is noted for its intricate designs based on traditional Chinese opera make up, while emphasizing powerful moves and solid postures.
 
+Different colors are used to signify the age and character of the lions. The lion with white fur is considered to be the oldest of the lions, while the lion with golden yellow fur is the middle child. The black lion is considered the youngest lion, and the movement of this lion should be fast like a young child or a headstrong teenager. The colors may also represent the character of the lion: the golden lion represents liveliness, the red lion courage, and the green lion friendship. There are also three lion types that represent three historical characters in the classic Romance of the Three Kingdoms who were blood oath brothers sworn to restore the Han dynasty
 
+Association with King Fu
+The Chinese lion dance has close relations to kung fu and the dancers are usually martial art members of the local kung fu club or school. They practice in their club and some train hard to master the skill as one of the disciplines of the martial art. In general, it is seen that if a school has a capable troupe with many 'lions', it demonstrates the success of the school. It is also generally practised together with Dragon dance in some area.
 
-Pretty Penny
-A modereatlt priced costunme is available $500, A good one: $1,000
+## Lion Dance Costumes
+
+https://www.amazon.com/Traditional-Authentic-Costumes-Celebration-Performance-2/dp/B086R82Y4Z/ref=sr_1_16?
+
+The Chinese lion dance is normally operated by two dancers, one of whom manipulates the head while the other forms the rear end of the lion. It is distinguishable from the dragon dance which is performed by many people who hold the long sinuous body of the dragon on poles. Chinese lion dance fundamental movements can be found in Chinese martial arts, and it is commonly performed to a vigorous drum beat.
+Costumes ~ Pretty Penny
+A moderately priced costume is available $500, A good one: $1,000
 
 According to Ha, a lion head can normally only be used for about 20 performances before it starts to disintegrate.
 
 Today, lion heads weigh an average of five pounds (2.27 kilograms), which is only half the weight of what they once were.
 
-How about?
-Bian Lian/Mask/Face Changing Performance
-
-How much
+How much?
 
 * https://www.liondancecostume.com/
 
-"The Great Chinese Dragon"
+
+How about?
+Bian Lian/Mask/Face Changing Performance
+
+
+## Lawrence Ferlinghetti ~ "The Great Chinese Dragon"
 https://en.wikipedia.org/wiki/Starting_from_San_Francisco
 
 
@@ -158,10 +173,5 @@ one last convulsive earthquake shake and rolls over dead-dog
 to wait another white year for the final coming and the final
 sowing of his oats and teeth
 
-Lawrence Ferlinghetti
 
-## Lion Dance Costumes
 
-https://www.amazon.com/Traditional-Authentic-Costumes-Celebration-Performance-2/dp/B086R82Y4Z/ref=sr_1_16?
-
-The Chinese lion dance is normally operated by two dancers, one of whom manipulates the head while the other forms the rear end of the lion. It is distinguishable from the dragon dance which is performed by many people who hold the long sinuous body of the dragon on poles. Chinese lion dance fundamental movements can be found in Chinese martial arts, and it is commonly performed to a vigorous drum beat.
