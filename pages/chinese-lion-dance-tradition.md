@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Lion_dance
 
 At the Heritage a lion dance is traditionally performed in the dining room after the end of the week of Chinese New Year. In other words it is sharing with friends after celebrating with family and close friends.The Lion Dance is a form of traditional Chinese dance performed on joyous festivals, such as Chinese New Year (Spring Festival) for good luck.
 
-Lion and Dragon
+## Lion and Dragon
 The Chinese lion dance is operated by two dancers, one of manipulates the head and the other forms the rear end of the lion. The dragon dance is performed by many people who hold the long sinuous body of the dragon on poles.
 
 Northern and Southern
