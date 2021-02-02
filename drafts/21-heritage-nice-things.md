@@ -109,7 +109,7 @@ or
 
 ### 7. Security of place ~ Environmental security
 
-* As an elderly person you may begin to fear things. Being injured because you become a "fall risk" or become hoarders,  or by being easily distracted, or simply by just living alone. Natural events cause you to be oo hot or too cold and you are rendered helpless.
+* As an elderly person you may begin to fear things. Being injured because you become a "fall risk" or become hoarders,  or by being easily distracted, or simply by just living alone. Natural events cause you to be too hot or too cold and you are rendered helpless.
 * Life at the Heritage means, for example, that there are handrails on both sides of the stairs, that everywhere is wheelchair accessible, that there's always an emergency button with reach. Security and medical staff can be by your side in seconds
 <mark>* Life in the Heritage means living in a place that has reinvented itself continuously since 1853. From technologies like emergency buttons and WiFi to outsourced catering and earthquake retro-fitting the Heritage is a living, self-improving creation. Institutional protection is built-in. One of the great reinventions - seventy five years after foundation - was asking Julia Morgan to design the premises on Laguna Street to be constructed in earthquake resistent reinforced concrete. Life in the Heritage gives you a cozy feeling of great of security.
 
