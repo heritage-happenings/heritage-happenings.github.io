@@ -44,6 +44,14 @@ With agendas
 * Singapore ~ https://www.imda.gov.sg/for-community/Seniors-Go-Digital
 
 
+## Home Help
+
+* Home Instead ~ Senior care ~ https://www.homeinstead.com/
+* Wil accompany you to doctor or procedure or do pick up
+* 1 Daniel Burnham Court Suite 307C, San Francisco 94109
+* 415 411 6490
+* Ron with Mary Charlotte
+
 ## Websites for elders
 
 News
@@ -130,6 +138,7 @@ Very interesting views on death
 * https://en.wikipedia.org/wiki/Alice_James
 * https://www.brainpickings.org/2017/08/07/diary-of-alice-james-death/ <<< Wow!
 	* https://news.ycombinator.com/item?id=25224830
+
 
 ## Law of Jante
 
