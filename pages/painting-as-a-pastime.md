@@ -6,7 +6,7 @@ Perhaps a conflation of chapbook entries
 
 A collection of loosely connected _bon mots_
 
-charming, moderately enticing entreaty to display a cond=flation of contradictions
+charming, moderately enticing entreaty to display a conflation of contradictions
 
 of audacity and patience
 
