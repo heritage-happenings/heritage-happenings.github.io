@@ -2,6 +2,9 @@
 
 These web pages are an unofficial web presence for seniors and friends of seniors in San Francisco - which may or may not include the good peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
+
+2021-02-06
+
 <img src=https://heretics-sf.github.io/images/heritage-front.jpg width=100% >
 
 Use the menu on the left to browse the contents of this site.
@@ -42,7 +45,7 @@ The text below highlights pages of possible interest.
 
 <!--
 
-## [](  https://heretics-sf.github.io/#pages/.md )
+## []( https://heretics-sf.github.io/#pages/.md )
 
 
 ## [2020 Elections & Voting]( https://heretics-sf.github.io/#2020-Elections-&-Voting.md )
