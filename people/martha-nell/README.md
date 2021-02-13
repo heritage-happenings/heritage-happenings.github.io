@@ -12,7 +12,9 @@ _Martha Nelle_
 
 ### [Arabian Proverb]( https://heretics-sf.github.io/#people/martha-nell/arabian-proverb-arc.pdf )
 
-A friend is on to whom one may pour out all of the contents of one's heart...
+<img src="https://heretics-sf.github.io/people/martha-nell/proverb.png" width=50% >
+
+Translation: A friend is on to whom one may pour out all of the contents of one's heart...
 
 ### [Saudi Chronicle]( https://heretics-sf.github.io/#people/martha-nell/saudi-chron-article.pdf )
 
