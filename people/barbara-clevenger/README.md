@@ -7,7 +7,7 @@ _Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitvale, Oakland, C
 
 ## Full Screen: [Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitvale, Oakland, California]( https://heretics-sf.github.io/people/barbara-clevenger/Julia%20Morgan%20Arts%20and%20Crafts%20Brown%20Shingle%20on%20Sausal%20Creek_Optimized.pdf )
 
-<img src=https://heretics-sf.github.io/people/barbara-clevenger/1524-29th-avenue-front.png )
+<img src="https://heretics-sf.github.io/people/barbara-clevenger/1524-29th-avenue-front.png" width=50% >
 
 ## Concept
 
