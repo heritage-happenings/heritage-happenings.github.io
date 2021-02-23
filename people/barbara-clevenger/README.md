@@ -28,6 +28,9 @@ references to it in Mark Wilson’s “<a href="https://www.amazon.com/Living-Le
 
 ## Links of Interest
 
+### [Fruitvale Congregational Church]
+
+<img src="fruitvale-congregational-church.jpg>
 
 ### LA Times, Kate Coleman, February 11, 1998: [ALL ABOARD: OFF THE PIG]( https://www.laweekly.com/all-aboard-off-the-pig/ )
 
@@ -40,7 +43,9 @@ references to it in Mark Wilson’s “<a href="https://www.amazon.com/Living-Le
 
 > The raid on the Panthers in Oakland is an excellent starting point. The official story on this raidHas such glaring holes that it's difficult to interpret it as anything but a conscious effort at harassment. consider:
 >
-> Why did the police busy that house at **1524 29th Ave in Oakland**? The Berkeley police who initiated the April 15th 5 AM raid got a search warrant to try to find one person, Leonard Color, alleged participant in a beating in Berkeley the night before. The hitch: Colar lives at 184630 1st St in Oakland, clearly stated on his driver's license and car registration both current.
+> Why did the police busy that house at **1524 29th Ave in Oakland**? The Berkeley police who initiated the April 15th 5 AM raid got a search warrant to try to find one person, Leonard Colar, alleged participant in a beating in Berkeley the night before. The hitch: Colar lives at 184630 1st St in Oakland, clearly stated on his driver's license and car registration both current.
+
+### History Collection: [Before the BLM Movement There Was the Black Panther Party: A Look Back in Photographs]( https://historycollection.com/blm-movement-black-panther-party-look-back-photographs/ )
 
 <img alt="Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery" src="https://heretics-sf.github.io/people/barbara-clevenger/Leonard-Colar-helping-a-woman-with-her-shopping-as-part-of-the-Black-Panther-Senior-Escort-program-in-Oakland.-1973.-Steven-Kasher-Gallery.png" width=100%>
 _Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery_
@@ -53,6 +58,10 @@ _Leonard Colar helping a woman with her shopping as part of the Black Panther Se
 
 
 ## Change Log
+
+### 2021-02-23
+
+* Add links of interest + text
 
 ### 2021-02-13
 
