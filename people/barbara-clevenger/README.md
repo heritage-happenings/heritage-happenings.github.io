@@ -28,9 +28,13 @@ references to it in Mark Wilson’s “<a href="https://www.amazon.com/Living-Le
 
 ## Links of Interest
 
-### [Fruitvale Congregational Church]
+### [Fruitvale Congregational Church]( https://www.worthpoint.com/worthopedia/fruitvale-congregational-church-1816725766 )
 
-<img src="fruitvale-congregational-church.jpg>
+<img src="https://heretics-sf.github.io/people/barbara-clevenger/fruitvale-congregational-church.jpg: width=00%>
+
+_Fruitvale Congregational Church (built 1911, demolished 1973). Architect: Fruitvale Resident Hugo Storch (1873-1917) Fruitvale Avenue, Oakland, California_
+
+See also similar project: Park Congregational Church also by Hugo Storch: http://berkeleyheritage.com/berkeley_landmarks/sbcc.html
 
 ### LA Times, Kate Coleman, February 11, 1998: [ALL ABOARD: OFF THE PIG]( https://www.laweekly.com/all-aboard-off-the-pig/ )
 
