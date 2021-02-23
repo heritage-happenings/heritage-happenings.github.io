@@ -30,11 +30,13 @@ references to it in Mark Wilson’s “<a href="https://www.amazon.com/Living-Le
 
 ### [Fruitvale Congregational Church]( https://www.worthpoint.com/worthopedia/fruitvale-congregational-church-1816725766 )
 
-<img src="https://heretics-sf.github.io/people/barbara-clevenger/fruitvale-congregational-church.jpg: width=00%>
+<img src="https://heretics-sf.github.io/people/barbara-clevenger/fruitvale-congregational-church.jpg" width=100%>
 
 _Fruitvale Congregational Church (built 1911, demolished 1973). Architect: Fruitvale Resident Hugo Storch (1873-1917) Fruitvale Avenue, Oakland, California_
 
-See also similar project: Park Congregational Church also by Hugo Storch: http://berkeleyheritage.com/berkeley_landmarks/sbcc.html
+See also similar project: Park Congregational Church also by Hugo Storch: http://berkeleyheritage.com/berkeley_landmarks/sbcc.html. Both projects are surprisingly modern - being absent of almost any decoration - and quite idiosyncratic - incorporating a belfry and roof terrace design of a type never seen before or after.
+
+
 
 ### LA Times, Kate Coleman, February 11, 1998: [ALL ABOARD: OFF THE PIG]( https://www.laweekly.com/all-aboard-off-the-pig/ )
 
