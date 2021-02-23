@@ -5,7 +5,7 @@
 Google Maps: https://goo.gl/maps/5WPJ8T21XQjRHswc6
 Realtor listing: https://www.redfin.com/CA/Oakland/1524-29th-Ave-94601/home/49869613
 
-Barbara lived at the house at thias address from 1967 to 1972. Her husband at the time, Ralph, was the pastor of the Fruitvale Congregational Church.
+Barbara lived at the house at this address from 1967 to 1972. Her husband at the time, Ralph, was the pastor of the Fruitvale Congregational Church.
 
 <img src="https://heretics-sf.github.io/people/barbara-clevenger/1524-29th-avenue-front.png" width=50% >
 _Front of house with image captured from Google StreetView_
@@ -18,10 +18,7 @@ _Preview of of "Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitv
 ## Full Screen: [Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitvale, Oakland, California]( https://heretics-sf.github.io/people/barbara-clevenger/Julia%20Morgan%20Arts%20and%20Crafts%20Brown%20Shingle%20on%20Sausal%20Creek_Optimized.pdf )
 
 
-
-
-
-First Paragraph of the text
+First paragraph of the text of Barbara's 1989 paper:
 
 > This is a paper written on a Julia Morgan house listed in Sarah Boutelle’s book, “Julia Morgan, Architect” 1995 edition on page 252, Morgan Job No. 345, Oakland Building Permit 25014 of August 21, I908. The address
 listed is: 1524-29th Avenue, Oakland, CA . Twenty-ninth avenue is an extension of Park Street in the city of Alameda--driving due east on Park you cross the Park Street Bridge over the Estuary and it turns into 29th
@@ -45,7 +42,7 @@ references to it in Mark Wilson’s “<a href="https://www.amazon.com/Living-Le
 >
 > Why did the police busy that house at **1524 29th Ave in Oakland**? The Berkeley police who initiated the April 15th 5 AM raid got a search warrant to try to find one person, Leonard Color, alleged participant in a beating in Berkeley the night before. The hitch: Colar lives at 184630 1st St in Oakland, clearly stated on his driver's license and car registration both current.
 
-<img alt="Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery" src=./people/barbara-clevenger/Leonard-Colar-helping-a-woman-with-her-shopping-as-part-of-the-Black-Panther-Senior-Escort-program-in-Oakland.-1973.-Steven-Kasher-Gallery.png width=100%>
+<img alt="Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery" src="https://heretics-sf.github.io/people/barbara-clevenger/Leonard-Colar-helping-a-woman-with-her-shopping-as-part-of-the-Black-Panther-Senior-Escort-program-in-Oakland.-1973.-Steven-Kasher-Gallery.png" width=100%>
 _Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery_
 
 
