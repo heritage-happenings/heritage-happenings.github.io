@@ -1,5 +1,12 @@
 # "Painting as a Pastime" is Pitiful
 
+A terrible book that is joyfully readable. A litany of logical contradictions that may make sense.
+
+A self-serving rehash of random diary entries that make you smile as you squirm.
+
+https://en.wikipedia.org/wiki/Winston_Churchill_as_painter
+- no mention of the book!
+
 ## Intro
 
 A reprinted version of "Painting as a Pastime" by Winston Churchill, first published in 1932 is now available in the Stuckey Library. As several reviewers have noted, the work is a "charming" read. On the other hand this is a concoction of 72 un-numbered, un-sectioned pages that cobbles together several essays first written in the Twenties into a load of illogical poppycock.
