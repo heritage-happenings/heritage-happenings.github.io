@@ -1,7 +1,15 @@
 # Drafts Read Me
 
 
-# License
+## Goals for 2030
+
+* https://docs.google.com/document/d/1nbgCOKCb3eWvPKIYbiwi6p2xCJt58FmLMBiRHuqsR1o/edit#
+* drafts\notes-21-nice-things.md
+* drafts\21-heritage-nice-things.md
+
+
+
+## License
 
 RCFE #380500295
 

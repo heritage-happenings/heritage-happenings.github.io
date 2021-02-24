@@ -24,7 +24,7 @@ So let's establish a trick or three.
 
 We are going to search all over the place for likely answers as "Where is the beginning?", "What is going on here?"
 
-There must be more than one likely candidate as where to begin. If not we would alread to be there.
+There must be more than one likely candidate as where to begin. If not we would already to be there.
 
 If there are just two places then we have to start dividing them up to see which is the best. If there are many places then we  have to start combing them in order to see where to start.
 
@@ -97,8 +97,6 @@ A Beautiful Day in the Neighborhood. Mr Rogers
 
 
 ### 6. "Walk in beauty" ~ Aesthetics
-
-
 
 * My buildings will be my legacy... they will speak for me long after I'm gone. Jilia Morgan
 * https://en.wikipedia.org/wiki/Julia_Morgan
