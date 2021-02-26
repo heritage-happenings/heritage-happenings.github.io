@@ -1,4 +1,16 @@
-# Personality Types
+# Personality Types & Psychology
+
+
+## Tavistock
+
+* https://en.wikipedia.org/wiki/Tavistock_Institute
+* https://www.tavinstitute.org/
+
+
+## Five Risk
+https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy
+albert ellis
+lewis five risk
 
 
 ## http://www.personality-project.org/
