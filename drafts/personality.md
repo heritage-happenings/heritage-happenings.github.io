@@ -16,6 +16,11 @@ lewis five risk
 ## http://www.personality-project.org/
 
 
+## MBTI
+
+* https://dynomight.home.blog/2020/06/12/in-defense-of-meyers-briggs/
+* https://news.ycombinator.com/item?id=26288772
+
 ## https://personalitypage.com
 
 * A high-level look at Psychological Type | Information About Personality Type
