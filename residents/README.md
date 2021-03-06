@@ -1,5 +1,14 @@
 # residents read me
 
+private for newbs
+
+touchtown needs update
+
+newb data ~ signage
+
+Alexa??
+
+
 
 ## Heritage on the Marina Residents Portal
 
