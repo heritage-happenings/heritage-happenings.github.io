@@ -11,7 +11,7 @@ _Click any of the titles below to open and view the PDF file with the story here
 
 ## Articles
 
-### [Galapogos]( https://heretics-sf.github.io/#people/martha-nell/galapogos-08.pdf ) ~ [Full page]( https://heretics-sf.github.io/people/martha-nell/galapogos-08.pdf )
+### [Galapagos]( https://heretics-sf.github.io/#people/martha-nell/galapagos-08.pdf ) ~ [Full page]( https://heretics-sf.github.io/people/martha-nell/galapagos-08.pdf )
 
 Our trip started in Quito, the capitol of Ecuador set high in the Andes. We flew a fine
 Ecuadorian airline, Aerogal, to Baltra, the airport for the Galapagos. Surprisingly to us,
