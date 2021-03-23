@@ -9,7 +9,7 @@ To Do
 * Add references to [21 questions]( https://heretics-sf.github.io/#pages/21-Questions-for-Seniors.md )
 * See also [A Difficult Decision And A Happy Choice: Moving to a Nursing Home]( https://ta.medium.com/a-difficult-decision-and-a-happy-choice-3e82bc2ede5c?sk=92a310eab2a80ae306f99a731253a93a )
 
-## Intro
+## Letter to My Younger Self
 
 Dear Theo
 
@@ -64,13 +64,13 @@ Each unhappy family is unhappy in its own way; All happy families are alike;
 
 Felicitations on having made it to 90. Given my evil ways, I never imagined you could get here.
 
-Here is what I imagine got you here:
+Here are some practices that I imagine helped you to arrive here:
 
 * Walk 5,000 steps a day - or some distance that you can track
 * Establish maintain simple rules that you obey about food and drink
-* Decide a time when anything goes. Life expectancy less than three years??
+* Decide a time when anything goes. Perhaps: Life expectancy less than three years??
 * Get a hearing aid and know how to use it
-* Be able to walk with a walker, cane handrail and unassisted
+* Be able to walk with a walker, cane, handrail and unassisted
 * You have coaches for fitness, diet and health
 * You are up to date with technology
 * You have an engaged dialog with one or more people every day
