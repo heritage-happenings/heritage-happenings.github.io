@@ -1,11 +1,11 @@
-# Letter to my younger self
+# Letters to my younger self + older self
 
 ## Preface
 
 To Do
 
 * Summarize third and fourth ages
-* Mote than "Sticks" and "carrots". Source, decide and add categories about the person such as: sex, fitness, weight, mentality & happiness, finances, support, intentions
+* More than "Sticks" and "Carrots". Source, decide and add categories about the person such as: sex, fitness, weight, mentality & happiness, finances, support, intentions
 * Add references to [21 questions]( https://heretics-sf.github.io/#pages/21-Questions-for-Seniors.md )
 
 ## Intro
@@ -34,13 +34,18 @@ So let's start spilling some of the beans. Very human beans.
 * Do not assume that someone will look after you
 * You will not age any better than the others
 * On average you will age average or below
-* The longer you live, the more you outlive friends, family, drinking-buddies, devils-you-know, sorority sisters et al
+* The longer you live, the more you outlive friends, family, drinking-buddies, devils-you-know, sorority sisters <i>et al</i>
 * You will be just as clueless about aging as anybody else
 * People don't get to be very old all by themselves
-* The young have the abilities but are clueless. The aged have the clues and have disabilities. Overall, productivity stays the same
+* The young have the abilities but are clueless. The aged have disabilities but have the clues. Therefore, overall at any age, productivity stays quite constant
 * Many people live by watching TV. Watching their favorite channels, they entertain themselves to death
-* Adults make children go to school in order to learn how to grow up. But who teaches the adults how to grow better?
-* If you continue to eat what you eat now, you will not be what you need to eat when you are my age
+* Adults make children go to school in order to learn how to grow up. But who teaches the elderly how to grow better?
+* If you continue to eat what you eat now, you will not be eating what you need to eat when you are my age. You must learn to adapt your eating habits to your current needs.
+* You tend to imagine your future you as being something like your younger you. Ha Ha to that!
+
+## Quotes
+
+* Jim Rohn: "Take care of your body. It's the only place you have to live."
 
 ## Carrots
 
