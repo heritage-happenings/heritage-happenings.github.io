@@ -9,6 +9,7 @@ To Do
 * Add references to [21 questions]( https://heretics-sf.github.io/#pages/21-Questions-for-Seniors.md )
 * See also [A Difficult Decision And A Happy Choice: Moving to a Nursing Home]( https://ta.medium.com/a-difficult-decision-and-a-happy-choice-3e82bc2ede5c?sk=92a310eab2a80ae306f99a731253a93a )
 
+
 ## Letter to My Younger Self
 
 Dear Theo
