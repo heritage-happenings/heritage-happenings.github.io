@@ -17,7 +17,6 @@ Web sites that may be of interest to residents
 
 ### California
 
-
 * https://aging.ca.gov/
 * https://www.dhcs.ca.gov/
 
@@ -83,6 +82,7 @@ Services
 * https://en.wikipedia.org/wiki/Geriatrics
 >Geriatrics, or geriatric medicine, is a specialty that focuses on health care of elderly people. It aims to promote health by preventing and treating diseases and disabilities in older adults.
 * https://en.wikipedia.org/wiki/Elderly_care
+
 
 ## Gerontology
 

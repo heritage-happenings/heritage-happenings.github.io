@@ -16,8 +16,6 @@ The Stanford Life Design Lab applies design thinking to tackling the "wicked" pr
 
 > DAVE is adjunct Lecturer, product design program director at Stanford and co-founder of Electronic Arts. From saving the seals to solving the energy crisis, from imagining the first computer mice to redefining software — Dave’s been on a mission, including helping others to find theirs.
 
-
-
 ***
 
 ## Summary 1
