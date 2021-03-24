@@ -34,6 +34,9 @@ Web sites that may be of interest to residents
 * https://www.buckinstitute.org/
 * Generation United ~ https://www.gu.org/
 * https://encore.org/
+
+Academic
+
 * http://longevity.stanford.edu/
 
 With agendas
@@ -43,13 +46,13 @@ With agendas
 * Singapore ~ https://www.imda.gov.sg/for-community/Seniors-Go-Digital
 
 
-## Home Help
+## Services Home Help
 
 * Home Instead ~ Senior care ~ https://www.homeinstead.com/
-* Wil accompany you to doctor or procedure or do pick up
+* Will accompany you to doctor or procedure or do pick up
 * 1 Daniel Burnham Court Suite 307C, San Francisco 94109
 * 415 411 6490
-* Ron with Mary Charlotte
+* Example: Ron, Brent & Eunice with Mary Charlotte
 
 ## Websites for elders
 
