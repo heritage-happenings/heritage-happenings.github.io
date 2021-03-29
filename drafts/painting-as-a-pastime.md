@@ -5,13 +5,13 @@ A terrible book that is joyfully readable. A litany of logical contradictions th
 A self-serving rehash of random diary entries that make you smile as you squirm.
 
 https://en.wikipedia.org/wiki/Winston_Churchill_as_painter
-- no mention of the book!
+* no mention of the book!
 
 ## Intro
 
 A reprinted version of "Painting as a Pastime" by Winston Churchill, first published in 1932 is now available in the Stuckey Library. As several reviewers have noted, the work is a "charming" read. On the other hand this is a concoction of 72 un-numbered, un-sectioned pages that cobbles together several essays first written in the Twenties into a load of illogical poppycock.
 
-More prejoratives
+More pejoratives
 
 * Perhaps a conflation of chapbook entries
 * A collection of loosely connected _bon mots_
