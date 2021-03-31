@@ -18,6 +18,10 @@ _Templatee_
 
 ### [Double Leg Lowering]( #double-leg-lowering.md )
 
+### [Squats]( #squats.md)
+
+
+
 ## To Do / Wish List
 
 
@@ -34,6 +38,8 @@ _Templatee_
 * README.md first commit
 * Add Supine Bridge
 * Add Double Leg Lowering
+* Add Scapular Squeezes
+* Add Squats
 
 ***
 

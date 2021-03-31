@@ -45,4 +45,3 @@ Repeat the exercise.
 ***
 
 <center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
-

@@ -6,6 +6,8 @@ Other names:
 
 Repeats:
 
+Hold:
+
 Sets:
 
 Perform:
@@ -16,6 +18,7 @@ Feel where:
 
 Breathing:
 
+Benefits:
 
 ## Remember
 
