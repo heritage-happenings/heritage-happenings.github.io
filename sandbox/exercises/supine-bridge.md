@@ -1,6 +1,6 @@
-# Supine Bridge
+# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Supine Bridge]( https://heretics-sf.github.io/sandbox/exercises/readme.html#supine-bridge.md)
 
-<img src=supine-bridge.png width=100% >
+<img src=https://heretics-sf.github.io/sandbox/exercises/supine-bridge.png width=100% >
 
 Other names: Hip thrust
 
