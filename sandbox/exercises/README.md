@@ -16,6 +16,8 @@ _Templatee_
 
 ### [Supine Bridge]( #supine-bridge.md )
 
+### [Double Leg Lowering]( #double-leg-lowering.md )
+
 ## To Do / Wish List
 
 
@@ -30,6 +32,8 @@ _Templatee_
 ### 2021-03-30
 
 * README.md first commit
+* Add Supine Bridge
+* Add Double Leg Lowering
 
 ***
 
