@@ -1,4 +1,4 @@
-# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Double Leg Lowering]( https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises )
+# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Exercises]( https://heretics-sf.github.io/sandbox/exercises/readme.html) / [Double Leg Lowering]( https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises )
 
 <img src=double-leg-lowering.png width=100% >
 

@@ -1,4 +1,4 @@
-# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Supine Bridge]( https://heretics-sf.github.io/sandbox/exercises/readme.html#supine-bridge.md)
+# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises )  [Exercises]( https://heretics-sf.github.io/sandbox/exercises/readme.html) / [Supine Bridge]( https://heretics-sf.github.io/sandbox/exercises/readme.html#supine-bridge.md)
 
 <img src=https://heretics-sf.github.io/sandbox/exercises/supine-bridge.png width=100% >
 
