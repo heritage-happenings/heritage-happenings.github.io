@@ -18,6 +18,8 @@ _Templatee_
 
 ### [Double Leg Lowering]( #double-leg-lowering.md )
 
+### [Scapular Squeezes]( #scapular-squeezes.md )
+
 ### [Squats]( #squats.md)
 
 

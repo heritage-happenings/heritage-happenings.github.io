@@ -23,14 +23,14 @@ Benefits: This exercise is beneficial for shoulder and upper limb stability for 
 
 ## Remember
 
-* ??
+* Do not shrug your shoulders
 
 
 ## Step-by-Step Instructions
 
 1. Stand tall or sit with your feet shoulder width apart and your belly button drawn in
 towards your spine
-2. Raise your arms to shoulder height, elbows bent and palms forward.
+2. Raise your arms to shoulder height, elbows bent at 90 degree and palms forward.
 3. Move your arms back, squeezing your shoulder blades together and slightly downward to bring your elbows back and inward
 * Hold for 10 seconds. Return to starting position.
 * Repeat 5 times.
