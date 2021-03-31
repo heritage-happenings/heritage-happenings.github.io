@@ -41,3 +41,8 @@ Repeat the exercise.
 * https://www.physio-pedia.com/Leg_Lowering_Test
 * https://gethealthyu.com/exercise/double-leg-drops/
 * https://www.verywellfit.com/double-leg-lift-exercise-2704697
+
+***
+
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
+

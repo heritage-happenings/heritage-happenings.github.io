@@ -40,3 +40,7 @@ Complete at least 10 reps.
 
 * https://patch.com/california/redondobeach/bp--seven-core-exercises-youre-probably-doing-wrong-25193f47e26
 >squeezing the glutes to lift the hip as opposed to pushing through your heels. When you push through the heels you're using your quadriceps to push the hips into the air. This can cause both spinal and hip hyperextension. By simply using your heels as a support and squeezing your butt to lift your hips you'll find that the exercise is much more effective.
+
+***
+
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
