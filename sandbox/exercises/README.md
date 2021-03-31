@@ -1,4 +1,4 @@
-# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises/README.md ) [Exercises Read Me]( https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises )
+# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises/README.md ) [Exercises Read Me]( https://heretics-sf.github.io/sandbox/exercises/readme.html )
 
 <!--  @@@
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/ height=100% width=100% ></iframe></div>
@@ -11,6 +11,21 @@ _Templatee_
 ## Concept
 
 * Guidance on keeping fit for people in their seventies
+
+## Objectives
+
+* Document what happens
+* Identify and share useful books, articles, papers and sites ( & podcasts )
+* Identify useful metrics
+* Find activities that normal elderly people can do in their daily lives
+	* Wherever they are
+	* Whatever their income
+	* In environmentally responsible manner
+
+## No hurry
+
+* Build healthy habits and reducing harmful habits takes time
+* Knowing that changing one habit for the better may have harmful effects on other habits
 
 ## Exercises
 
