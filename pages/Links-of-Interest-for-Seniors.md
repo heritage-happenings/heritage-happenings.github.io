@@ -8,7 +8,8 @@ Web sites that may be of interest to residents
 
 * https://en.wikipedia.org/wiki/Ageing
 >Ageing or aging (see spelling differences) is the process of becoming older. The term refers especially to human beings, many animals, and fungi, whereas for example bacteria, perennial plants and some simple animals are potentially biologically immortal. In the broader sense, ageing can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing).
-https://en.wikipedia.org/wiki/Category:Ageing
+
+* https://en.wikipedia.org/wiki/Category:Ageing
 * https://en.wikipedia.org/wiki/Category:Old_age
 
 * https://en.wikipedia.org/wiki/End-of-history_illusion
@@ -21,15 +22,17 @@ https://en.wikipedia.org/wiki/Category:Ageing
 * https://www.agingresearch.org/health-topic/
 * https://www.ncoa.org/blog/10-common-chronic-diseases-prevention-tips/
 > Age, family genetics, and gender make it nearly impossible for older adults to avoid becoming a chronic disease statistic. Eighty percent of adults 65 and older have at least one condition, while 68% have two or more. You probably have a parent or grandparent who is managing a condition right now, or perhaps you are managing one yourself.
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732407/
 
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732407/
 > Sixty two percent of Americans over 65 have more than one chronic condition (34) and the prevalence of multiple chronic conditions is increasing (35), due to aging of populations and to increasing diabetes rates.
+
 * https://starlightcaregivers.com/resources/common-diagnoses.php
 
 ### Geriatrics
 
 * https://en.wikipedia.org/wiki/Geriatrics
 >Geriatrics, or geriatric medicine, is a specialty that focuses on health care of elderly people. It aims to promote health by preventing and treating diseases and disabilities in older adults.
+
 * https://en.wikipedia.org/wiki/Elderly_care
 * https://en.wikipedia.org/wiki/Category:Elderly_care
 
