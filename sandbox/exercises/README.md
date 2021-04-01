@@ -39,7 +39,7 @@ Click on the links below to view the details of the exercise:
 
 ### [Squats]( https://heretics-sf.github.io/sandbox/exercises/readme.html#squats.md)
 
-
+In each exercise page, you may click te word "Exercise" at the top to return here.
 
 ## To Do / Wish List
 
