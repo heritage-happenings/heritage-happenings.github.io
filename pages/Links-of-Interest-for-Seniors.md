@@ -8,6 +8,9 @@ Web sites that may be of interest to residents
 
 * https://en.wikipedia.org/wiki/Ageing
 >Ageing or aging (see spelling differences) is the process of becoming older. The term refers especially to human beings, many animals, and fungi, whereas for example bacteria, perennial plants and some simple animals are potentially biologically immortal. In the broader sense, ageing can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing).
+https://en.wikipedia.org/wiki/Category:Ageing
+* https://en.wikipedia.org/wiki/Category:Old_age
+
 * https://en.wikipedia.org/wiki/End-of-history_illusion
 >The end-of-history illusion is a psychological illusion in which individuals of all ages believe that they have experienced significant personal growth and changes in tastes up to the present moment, but will not substantially grow or mature in the future. Despite recognizing that their perceptions have evolved, individuals predict that their perceptions will remain roughly the same in the future.
 
@@ -28,15 +31,19 @@ Web sites that may be of interest to residents
 * https://en.wikipedia.org/wiki/Geriatrics
 >Geriatrics, or geriatric medicine, is a specialty that focuses on health care of elderly people. It aims to promote health by preventing and treating diseases and disabilities in older adults.
 * https://en.wikipedia.org/wiki/Elderly_care
+* https://en.wikipedia.org/wiki/Category:Elderly_care
 
 
 ### Gerontology
 
 * https://en.wikipedia.org/wiki/Gerontology
 > Gerontology is the study of the social, cultural, psychological, cognitive, and biological aspects of aging.
+
 * https://en.wikipedia.org/wiki/Financial_gerontology
 > Financial Gerontology is a multidisciplinary field of study encompassing both academic and professional education, that integrates research on aging and human development with the concerns of finance and business.
 > In particular, research and teaching in financial gerontology draws upon four kinds of aging or "'four lenses" through which aging and finance can be viewed: population aging, individual aging, family aging, and generational aging
+
+* https://en.wikipedia.org/wiki/Category:Gerontology
 * https://gerontology.wikia.org/wiki/Gerontology
 
 
@@ -73,6 +80,7 @@ Not for profit
 * https://www.ncoa.org/
 * https://www.buckinstitute.org/
 * Generation United ~ https://www.gu.org/
+* https://cepar.edu.au/
 
 With "agendas"
 
@@ -87,6 +95,13 @@ Academic
 * http://longevity.stanford.edu/
 * https://memory.ucsf.edu/
 * https://nursing.ucsf.edu/academics/departments/institute-health-aging
+
+More
+
+* http://www.elderlawnewyork.com/press-media/links-of-interest/
+* https://hrs.isr.umich.edu/about/links
+* https://gerontology.gsu.edu/aging-resource-links/#government-websites
+* https://www.un.org/development/desa/disabilities/disability-and-ageing.html
 
 ***
 
@@ -166,7 +181,7 @@ Firms in the region
 >9) Next time you want to hang up on your mother, you can tell her to call us.
 >10) We're available 24/7, so you don't have to be.
 
-* https://eldercareanswers.com/#
+* https://eldercareanswers.com/
 	* https://eldercareanswers.com/aging-life-care-plans/
 * https://www.ayonliving.com/
 * https://homecareassistance.com/
@@ -175,7 +190,8 @@ Firms in the region
 * https://www.sageeldercare.com/
 * https://www.caring.com/
 
-## Literature
+
+## Literature on aging
 
 ### Books
 
@@ -196,6 +212,7 @@ Firms in the region
 * https://www.nytimes.com/2019/12/23/opinion/america-aging.html
 * https://www.nytimes.com/guides/well/how-to-age-well
 * https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
+
 
 ### Alice James
 
