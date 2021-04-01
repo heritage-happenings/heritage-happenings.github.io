@@ -114,6 +114,9 @@ Academic
 
 Definitions
 
+* https://en.wikipedia.org/wiki/Geriatric_care_management
+> Geriatric care management is the process of planning and coordinating care of the elderly and others with physical and/or mental impairments to meet their long term care needs, improve their quality of life, and maintain their independence for as long as possible. It entails working with persons of old age and their families in managing, rendering and referring various types of health and social care services. Geriatric care managers accomplish this by combining a working knowledge of health and psychology, human development, family dynamics, public and private resources as well as funding sources, while advocating for their clients throughout the continuum of care. For example, they may assist families of older adults and others with chronic needs such as those suffering from Alzheimer's disease or other dementia.
+
 * https://www.nia.nih.gov/health/what-geriatric-care-manager
 >A geriatric care manager, usually a licensed nurse or social worker who specializes in geriatrics, is a sort of "professional relative" who can help you and your family to identify needs and find ways to meet your needs.
 
@@ -135,6 +138,8 @@ Heart-warming story
 
 * https://newoldage.blogs.nytimes.com/2008/10/06/why-hire-a-geriatric-care-manager/
 >During one especially dicey period with my mother, then in an assisted living facility, my brother and I hired a geriatric care manager, first for a consultation and then for additional help at an hourly rate. It felt like such an extravagance, given that we weren’t rolling in money, but the care manager helped solve a series of complex problems that I doubt I’d have solved by myself, mostly involving brokering a compromise with the facility, whose management wouldn’t let me hire a private aide for my mom but could not provide what she needed.
+
+* https://health.usnews.com/best-assisted-living/articles/when-to-hire-a-geriatric-care-manager
 
 Professional Association
 
@@ -167,6 +172,7 @@ Firms in the region
 * http://www.hgapersonalcareconsultants.com/
 * https://www.advisorsonaging.com/
 * https://www.sageeldercare.com/
+* https://www.caring.com/
 
 ## Literature
 
