@@ -1,6 +1,6 @@
 # [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Exercises]( https://heretics-sf.github.io/sandbox/exercises/readme.html) / [Double Leg Lowering]( https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises )
 
-<img src=double-leg-lowering.png width=100% >
+<img src=https://heretics-sf.github.io/sandbox/exercises/double-leg-lowering.png width=100% >
 
 Other names: Double Leg Drop
 

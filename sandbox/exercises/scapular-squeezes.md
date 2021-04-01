@@ -1,6 +1,6 @@
 # [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Exercises]( https://heretics-sf.github.io/sandbox/exercises/readme.html) / [Scapular Squeezes]( https://heretics-sf.github.io/sandbox/exercises/readme.html#scapular-squeezes.md)
 
-<img src=scapular-squeezes.png width=60% >
+<img src=https://heretics-sf.github.io/sandbox/exercises/scapular-squeezes.png width=60% >
 
 
 Other names: Shoulder squeeze, Scapula squeeze, shoulder retraction, Shoulder Blade Squeeze

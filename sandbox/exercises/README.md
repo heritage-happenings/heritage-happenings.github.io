@@ -29,13 +29,15 @@ _Templatee_
 
 ## Exercises
 
-### [Supine Bridge]( #supine-bridge.md )
+Click oan the links below to view the detail of the exercise:
 
-### [Double Leg Lowering]( #double-leg-lowering.md )
+### [Supine Bridge]( https://heretics-sf.github.io/sandbox/exercises/#supine-bridge.md )
 
-### [Scapular Squeezes]( #scapular-squeezes.md )
+### [Double Leg Lowering]( https://heretics-sf.github.io/sandbox/exercises/#double-leg-lowering.md )
 
-### [Squats]( #squats.md)
+### [Scapular Squeezes]( https://heretics-sf.github.io/sandbox/exercises/#scapular-squeezes.md )
+
+### [Squats]( https://heretics-sf.github.io/sandbox/exercises/#squats.md)
 
 
 

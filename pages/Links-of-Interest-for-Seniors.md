@@ -214,6 +214,7 @@ Firms in the region
 * https://nautil.us/issue/36/aging/retiring-retirement
 * https://www.nia.nih.gov/health/aging-place-growing-older-home
 * https://www.nia.nih.gov/health/what-do-we-know-about-healthy-aging
+* https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
 * https://www.nytimes.com/2019/12/23/opinion/america-aging.html
 * https://www.nytimes.com/guides/well/how-to-age-well
 * https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/

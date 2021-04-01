@@ -14,7 +14,7 @@ Perform: 3 times a day
 
 Muscles: quadriceps and glutes. On the eccentric part of the move, or the lowering portion of the squat, the muscles in your hamstrings and your hip flexors fire too. Squats also work the muscles around the knee, which helps build strength and prevent injury, he says.
 
-* gluteus maximus, minimus, and medius (buttocks)
+* _gluteus maximus_, _minimus_, and _medius_ (buttocks)
 * quadriceps (front of the thigh)
 * hamstrings (back of the thigh)
 * adductor (groin)
