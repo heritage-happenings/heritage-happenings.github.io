@@ -1,6 +1,6 @@
 # Designing Your Life
 
-How can design can help us create a life that is both meaningful and fulfilling, regardless of who or where we are, what we do or have done for a living, or how young or old we are.
+How can design help us create a life that is both meaningful and fulfilling, regardless of who or where we are, what we do or have done for a living, or how young or old we are?
 
 ## [Design Your Life]( http://lifedesignlab.stanford.edu/ )
 
