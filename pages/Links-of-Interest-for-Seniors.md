@@ -110,15 +110,38 @@ Academic
 * https://www.seniorliving.org/independent-living/
 * https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf
 
-## Elder care managers
+## Geriatric care management
+
+Definitions
+
+* https://www.nia.nih.gov/health/what-geriatric-care-manager
+>A geriatric care manager, usually a licensed nurse or social worker who specializes in geriatrics, is a sort of "professional relative" who can help you and your family to identify needs and find ways to meet your needs.
+
+* https://www.aarp.org/caregiving/basics/info-2020/geriatric-care-manager.html
+
+>Among the services geriatric care managers can provide:
+>
+> * Evaluating, arranging for and monitoring in-home personnel and care needs.
+> * Coordinating medical appointments and arranging for transportation.
+> * Identifying social services and programs that could help the care recipient.
+> * Making referrals to financial, legal or medical professionals and suggesting ways to avert problems.
+> * Explaining complex or difficult topics with the recipient of care or family members.
+> * Creating short- and long-term care plans that could include other living arrangements.
+> * Acting as a liaison to families who may be hundreds of miles away.
+> * Answering questions and addressing emotional concerns of caregivers and their loved ones.
+> * Arranging for relief or respite care for stressed-out caregivers.
+
+Heart-warming story
 
 * https://newoldage.blogs.nytimes.com/2008/10/06/why-hire-a-geriatric-care-manager/
 >During one especially dicey period with my mother, then in an assisted living facility, my brother and I hired a geriatric care manager, first for a consultation and then for additional help at an hourly rate. It felt like such an extravagance, given that we weren’t rolling in money, but the care manager helped solve a series of complex problems that I doubt I’d have solved by myself, mostly involving brokering a compromise with the facility, whose management wouldn’t let me hire a private aide for my mom but could not provide what she needed.
-* https://www.nia.nih.gov/health/what-geriatric-care-manager
->A geriatric care manager, usually a licensed nurse or social worker who specializes in geriatrics, is a sort of "professional relative" who can help you and your family to identify needs and find ways to meet your needs.
+
+Professional Association
+
 * https://www.aginglifecare.org/
 >Aging Life Care™, also known as geriatric care management, is a holistic, client-centered approach to caring for older adults or others facing ongoing health challenges. Working with families, the expertise of Aging Life Care Professionals provides the answers at a time of uncertainty.
-	* https://www.aginglifecare.org/ALCA/About_Aging_Life_Care/Find_an_Aging_Life_Care_Expert/ALCA/About_Aging_Life_Care/Search/Find_an_Expert.aspx
+
+* https://www.aginglifecare.org/ALCA/About_Aging_Life_Care/Find_an_Aging_Life_Care_Expert/ALCA/About_Aging_Life_Care/Search/Find_an_Expert.aspx
 
 Firms in the region
 
