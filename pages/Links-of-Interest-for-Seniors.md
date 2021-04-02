@@ -218,6 +218,7 @@ Firms in the region
 * https://www.nytimes.com/2019/12/23/opinion/america-aging.html
 * https://www.nytimes.com/guides/well/how-to-age-well
 * https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
+* https://www.weforum.org/agenda/2021/03/what-is-the-biggest-benefit-technology-ageing-longevity-global-future-council-tech-for-good/
 
 
 ### Alice James
