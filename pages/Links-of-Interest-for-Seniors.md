@@ -67,6 +67,7 @@ Web sites that may be of interest to residents
 
 * https://aging.ca.gov/
 * https://www.dhcs.ca.gov/
+* https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1253.&lawCode=HSC
 
 ### San Francisco agencies
 
