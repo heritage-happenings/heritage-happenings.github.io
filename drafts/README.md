@@ -1,6 +1,12 @@
 # Drafts Read Me
 
 
+## May Happenings
+
+* https://en.wikipedia.org/wiki/May#Month-long_observances
+	* https://en.wikipedia.org/wiki/May#United_States
+
+
 ## Goals for 2030
 
 * https://docs.google.com/document/d/1nbgCOKCb3eWvPKIYbiwi6p2xCJt58FmLMBiRHuqsR1o/edit#

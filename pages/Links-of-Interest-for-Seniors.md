@@ -131,7 +131,7 @@ More
 * https://www.seniorliving.org/independent-living/
 * https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf
 
-## Geriatric care management
+## Geriatric care management ~ About
 
 Definitions
 
@@ -162,14 +162,25 @@ Heart-warming story
 
 * https://health.usnews.com/best-assisted-living/articles/when-to-hire-a-geriatric-care-manager
 
-Professional Association
+
+## Geriatric care management
+
+### Professional Associations
 
 * https://www.aginglifecare.org/
 >Aging Life Care™, also known as geriatric care management, is a holistic, client-centered approach to caring for older adults or others facing ongoing health challenges. Working with families, the expertise of Aging Life Care Professionals provides the answers at a time of uncertainty.
 
 * https://www.aginglifecare.org/ALCA/About_Aging_Life_Care/Find_an_Aging_Life_Care_Expert/ALCA/About_Aging_Life_Care/Search/Find_an_Expert.aspx
 
-Firms in the region
+* https://www.csa.us/
+> The Society of Certified Senior Advisors (SCSA) educates and certifies professionals who work with seniors through its Working with Older Adults education program and the Certified Senior Advisor (CSA)® credential.
+>
+>The CSA certification validates and gives confidence to both CSA professionals and the clients they serve. Older adults can be confident that CSA professionals are knowledgeable in the issues facing older adults and maintain the highest ethical standards.
+>
+>The Working with Older Adults education course gives aging industry professionals practical, multidisciplinary knowledge, tools, and resources to help them serve older adults more effectively.
+
+
+### Firms in the Bay Area ~ Members of Aging Life Care
 
 * https://www.elderspecialists.com/
 * http://www.21stcenturycaresolutions.com/
@@ -195,6 +206,13 @@ Firms in the region
 * https://www.advisorsonaging.com/
 * https://www.sageeldercare.com/
 * https://www.caring.com/
+
+
+### Firms in the Bay Area ~  Society of Certified Senior Advisors (SCSA)
+
+* Sarah Stephens ~ https://www.sarasmap.com/
+	* https://www.linkedin.com/in/saracallanderstephens/
+	* Friend of Ann Seymour
 
 
 ## Literature on aging
