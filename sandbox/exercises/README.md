@@ -2,7 +2,7 @@
 
 <!--  @@@
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/ height=100% width=100% ></iframe></div>
-_Templatee_
+_Template_
 
 ### Full Screen: [Template]( https://heretics-sf.github.io/ )
 @@@  -->
@@ -10,22 +10,35 @@ _Templatee_
 
 ## Concept
 
-* Guidance on keeping fit for people in their seventies
+* Provide guidance for elderly people on how to maintaining health by staying fit
+* Being fit may reduce the effects of dementia
+* Being fit may help speed recovery in the event of trauma or disease
 
-## Objectives
+Mission
+
+* To help you stay reasonably fit in a reasonable amount of time
+
+### Targets & Indicators
+
+* Walk to Safeway and back
+* Walk to Fort Point and back
+
+### Objectives
 
 * Document what happens
 * Identify and share useful books, articles, papers and sites ( & podcasts )
-* Identify useful metrics
+* Identify useful targets and indicatorss
 * Find activities that normal elderly people can do in their daily lives
 	* Wherever they are
 	* Whatever their income
 	* In environmentally responsible manner
 
-## No hurry
 
+## Things to Remember
+
+* No hurry
 * Build healthy habits and reducing harmful habits takes time
-* Knowing that changing one habit for the better may have harmful effects on other habits
+* Changing one habit for the better may have harmful effects on other habits
 
 ## Exercises
 
@@ -45,6 +58,32 @@ Click on the links below to view the details of the exercise:
 
 In each exercise page, you may click te word "Exercise" at the top to return here.
 
+
+### Edema in Left ankle
+
+* Supine (laying down) exercises to reduce L ankle edema, do the order 12 times each, 2-3 sets ( or a total of 3- 4 minutes), and hold 1-2 seconds each contractions
+* lay down with feet elevated above heart level
+	1. Diaphragmatic breathing, slowly
+	2. Gluetal sets (contractions)
+	3. Quad sets
+	4. Knee to chest, alternate between the legs
+	5. Ankle pumps and/or ankle circles
+* Self massage to the L ankle
+	1. First massage the inner ankle, swelling/edema area in circular motion to break down the swelling
+	2. Stroke the ankle from bottom to top, allowing the fluid to go up
+* Changing the pressure of the compression sock
+* Using the bike for 10-15 minutes
+
+
+### Right Upper extremity
+
+1. ROM exercises for shoulder, elbow, and wrist
+2. Strengthening exercises for arm, elbow, wrist, and hand ( with a 5 lbs weight.
+3. Carpal tunnel stretch
+4. We are going to talk more about the R hand and arm
+
+
+
 ## To Do / Wish List
 
 
@@ -53,6 +92,17 @@ In each exercise page, you may click te word "Exercise" at the top to return her
 
 ## Links of Interest
 
+Diaphragmatic breathing
+
+* https://www.medicalnewstoday.com/articles/diaphragmatic-breathing#how-to-do-it
+
+Gluteal Sets
+
+* https://www.verywellhealth.com/gluteal-sets-2696609
+
+Quad sets
+
+* https://myhealth.alberta.ca/Health/Pages/conditions.aspx?hwid=zm5023&lang=en-ca
 
 ## Change Log
 
