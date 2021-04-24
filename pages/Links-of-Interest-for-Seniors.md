@@ -1,10 +1,12 @@
-# Links of Interest
+# Links of Interest to the Elderly
 
 _Work-in-progress. Many more links to be added as well as explanatory text._
 
 Web sites that may be of interest to residents
 
-## Aging references
+## References ~ Wikipedia and others
+
+### Aging & Old Age
 
 * https://en.wikipedia.org/wiki/Ageing
 >Ageing or aging (see spelling differences) is the process of becoming older. The term refers especially to human beings, many animals, and fungi, whereas for example bacteria, perennial plants and some simple animals are potentially biologically immortal. In the broader sense, ageing can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing).
@@ -14,27 +16,6 @@ Web sites that may be of interest to residents
 
 * https://en.wikipedia.org/wiki/End-of-history_illusion
 >The end-of-history illusion is a psychological illusion in which individuals of all ages believe that they have experienced significant personal growth and changes in tastes up to the present moment, but will not substantially grow or mature in the future. Despite recognizing that their perceptions have evolved, individuals predict that their perceptions will remain roughly the same in the future.
-
-### Age Related Diseases
-
-* https://en.wikipedia.org/wiki/Aging-associated_diseases
-	* https://en.wikipedia.org/wiki/Category:Aging-associated_diseases
-* https://www.agingresearch.org/health-topic/
-* https://www.ncoa.org/blog/10-common-chronic-diseases-prevention-tips/
-> Age, family genetics, and gender make it nearly impossible for older adults to avoid becoming a chronic disease statistic. Eighty percent of adults 65 and older have at least one condition, while 68% have two or more. You probably have a parent or grandparent who is managing a condition right now, or perhaps you are managing one yourself.
-
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732407/
-> Sixty two percent of Americans over 65 have more than one chronic condition (34) and the prevalence of multiple chronic conditions is increasing (35), due to aging of populations and to increasing diabetes rates.
-
-* https://starlightcaregivers.com/resources/common-diagnoses.php
-
-### Geriatrics
-
-* https://en.wikipedia.org/wiki/Geriatrics
->Geriatrics, or geriatric medicine, is a specialty that focuses on health care of elderly people. It aims to promote health by preventing and treating diseases and disabilities in older adults.
-
-* https://en.wikipedia.org/wiki/Elderly_care
-* https://en.wikipedia.org/wiki/Category:Elderly_care
 
 
 ### Gerontology
@@ -50,96 +31,95 @@ Web sites that may be of interest to residents
 * https://gerontology.wikia.org/wiki/Gerontology
 
 
+### Geriatrics
 
-## Agencies government
+* https://en.wikipedia.org/wiki/Geriatrics
+>Geriatrics, or geriatric medicine, is a specialty that focuses on health care of elderly people. It aims to promote health by preventing and treating diseases and disabilities in older adults.
 
-### Federal agencies
+* https://en.wikipedia.org/wiki/Elderly_care
+* https://en.wikipedia.org/wiki/Category:Elderly_care
 
-* https://acl.gov/
-* https://acl.gov/programs/aging-and-disability-networks
-* https://acl.gov/about-acl/administration-aging
-	* https://en.wikipedia.org/wiki/Administration_on_Aging
-* https://medicare.gov
-* https://www.nia.nih.gov/
-
-
-### California agencies
-
-* https://aging.ca.gov/
-* https://www.dhcs.ca.gov/
-* https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1253.&lawCode=HSC
-
-### San Francisco agencies
-
-* https://www.sfhsa.org/services
-
-
-## Aging organizations
-
-Not for profit
-
-* https://www.asaging.org/
-* https://www.aginglifecare.org/
-* https://encore.org/
-* https://www.ioaging.org/
-* https://leadingage.org/
-* https://www.ncoa.org/
-* https://www.buckinstitute.org/
-* Generation United ~ https://www.gu.org/
-* https://cepar.edu.au/
-
-With "agendas"
-
-* https://www.aarp.org/
-* http://www.canhr.org/
-* Singapore ~ https://www.imda.gov.sg/for-community/Seniors-Go-Digital
-
-
-Academic
-
-* https://agelab.mit.edu/
-* http://longevity.stanford.edu/
-* https://memory.ucsf.edu/
-* https://nursing.ucsf.edu/academics/departments/institute-health-aging
-
-More
-
-* http://www.elderlawnewyork.com/press-media/links-of-interest/
-* https://hrs.isr.umich.edu/about/links
-* https://gerontology.gsu.edu/aging-resource-links/#government-websites
-* https://www.un.org/development/desa/disabilities/disability-and-ageing.html
-
-***
-
-## Home help services
-
-* Home Instead ~ Senior care ~ https://www.homeinstead.com/
-	* Will accompany you to doctor or procedure or do pick up
-	* 1 Daniel Burnham Court Suite 307C, San Francisco 94109
-	* 415 411 6490
-	* Example: Ron, Brent & Eunice with Mary Charlotte
-
-
-
-
-## Elder care: factors for choosing an independent living community
-
-* https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
-* https://www.health.harvard.edu/staying-healthy/choosing-a-senior-living-community
-* https://www.ncala.org/guide-choosing-senior-living-community.pdf
-* https://www.presbyterianseniorliving.org/blog/evaluating-senior-living-communities
-* https://www.seniorliving.org/independent-living/
-* https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf
-
-## Geriatric care management ~ About
+### Geriatric Care Management
 
 Definitions
 
 * https://en.wikipedia.org/wiki/Geriatric_care_management
 > Geriatric care management is the process of planning and coordinating care of the elderly and others with physical and/or mental impairments to meet their long term care needs, improve their quality of life, and maintain their independence for as long as possible. It entails working with persons of old age and their families in managing, rendering and referring various types of health and social care services. Geriatric care managers accomplish this by combining a working knowledge of health and psychology, human development, family dynamics, public and private resources as well as funding sources, while advocating for their clients throughout the continuum of care. For example, they may assist families of older adults and others with chronic needs such as those suffering from Alzheimer's disease or other dementia.
 
+
 * https://www.nia.nih.gov/health/what-geriatric-care-manager
 >A geriatric care manager, usually a licensed nurse or social worker who specializes in geriatrics, is a sort of "professional relative" who can help you and your family to identify needs and find ways to meet your needs.
+
+
+### Law of Jante ;-)
+
+* https://en.wikipedia.org/wiki/Law_of_Jante
+
+Good rules to follow when you are in a independent living community.
+
+> You are not to think you're anyone special, or that you're better than us.
+
+The ten rules state:
+
+* You're not to think you are anything special.
+* You're not to think you are as good as we are.
+* You're not to think you are smarter than we are.
+* You're not to imagine yourself better than we are.
+* You're not to think you know more than we do.
+* You're not to think you are more important than we are.
+* You're not to think you are good at anything.
+* You're not to laugh at us.
+* You're not to think anyone cares about you.
+* You're not to think you can teach us anything.
+
+
+### Age Related Diseases
+
+* https://en.wikipedia.org/wiki/Aging-associated_diseases
+	* https://en.wikipedia.org/wiki/Category:Aging-associated_diseases
+* https://www.agingresearch.org/health-topic/
+* https://www.ncoa.org/blog/10-common-chronic-diseases-prevention-tips/
+> Age, family genetics, and gender make it nearly impossible for older adults to avoid becoming a chronic disease statistic. Eighty percent of adults 65 and older have at least one condition, while 68% have two or more. You probably have a parent or grandparent who is managing a condition right now, or perhaps you are managing one yourself.
+
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5732407/
+> Sixty two percent of Americans over 65 have more than one chronic condition (34) and the prevalence of multiple chronic conditions is increasing (35), due to aging of populations and to increasing diabetes rates.
+
+* https://starlightcaregivers.com/resources/common-diagnoses.php
+
+
+## Literature on Aging
+
+### Books
+
+* https://www.amazon.com/Elderhood-Redefining-Transforming-Medicine-Reimagining/dp/1620405466
+* https://www.amazon.com/Successful-Aging-Neuroscientist-Explores-Potential/dp/1524744182
+
+
+### Articles
+
+* https://www.helpguide.org/articles/alzheimers-dementia-aging/staying-healthy-as-you-age.htm
+* https://www.abc.net.au/everyday/habits-that-help-you-age-well/10363054
+* https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art
+* http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age
+* http://aging.nautil.us/feature/226/how-aging-research-is-changing-our-lives
+* https://nautil.us/issue/36/aging/retiring-retirement
+* https://www.nia.nih.gov/health/aging-place-growing-older-home
+* https://www.nia.nih.gov/health/what-do-we-know-about-healthy-aging
+* https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
+* https://www.nytimes.com/2019/12/23/opinion/america-aging.html
+* https://www.nytimes.com/guides/well/how-to-age-well
+* https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
+* https://www.weforum.org/agenda/2021/03/what-is-the-biggest-benefit-technology-ageing-longevity-global-future-council-tech-for-good/
+
+### Obituaries
+
+* https://www.nytimes.com/2021/02/02/magazine/how-to-write-an-obituary.html
+
+### Retiring
+
+* https://www.nytimes.com/column/retiring
+
+### Geriatric Care Management ~ Articles
 
 * https://www.aarp.org/caregiving/basics/info-2020/geriatric-care-manager.html
 
@@ -162,8 +142,104 @@ Heart-warming story
 
 * https://health.usnews.com/best-assisted-living/articles/when-to-hire-a-geriatric-care-manager
 
+### How to be 90
 
-## Geriatric care management
+https://www.google.com/search?q=how+to+be+90&oq=how+to+be+90
+
+* https://humanparts.medium.com/what-its-like-to-be-90-something-368780082573
+	* I'm not afraid of death. I'm afraid of dying.
+* https://www.mind.uci.edu/research-studies/90plus-study/
+	* https://www.livehappy.com/how-be-happy-90?nopaging=1
+
+### Elder Care: factors for choosing an independent living community
+
+* https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
+* https://www.health.harvard.edu/staying-healthy/choosing-a-senior-living-community
+* https://www.ncala.org/guide-choosing-senior-living-community.pdf
+* https://www.presbyterianseniorliving.org/blog/evaluating-senior-living-communities
+* https://www.seniorliving.org/independent-living/
+* https://www.medicare.gov/Pubs/pdf/02174-Nursing-Home-Other-Long-Term-Services.pdf
+* https://www.forbes.com/sites/ashleaebeling/2011/09/26/continuing-care-communities-a-big-investment-with-catches/?sh=da03a1237ad6
+
+### Alice James
+
+Very interesting views on death
+
+* https://en.wikipedia.org/wiki/Alice_James
+>Alice James (August 7, 1848 – March 6, 1892) was an American diarist, sister of novelist Henry James and philosopher and psychologist William James. Her relationship with William was unusually close, and she seems to have been badly affected by his marriage. James suffered lifelong health problems, that were generally dismissed as hysteria, in the style of the day. She is best known for her published diaries.
+* https://www.brainpickings.org/2017/08/07/diary-of-alice-james-death/ <<< Wow!
+	* https://news.ycombinator.com/item?id=25224830
+
+## Government Agencies
+
+### USA Federal agencies
+
+* https://acl.gov/
+* https://acl.gov/programs/aging-and-disability-networks
+* https://acl.gov/about-acl/administration-aging
+	* https://en.wikipedia.org/wiki/Administration_on_Aging
+	* https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/
+* https://medicare.gov
+* https://www.nia.nih.gov/
+
+
+### California agencies
+
+* https://aging.ca.gov/
+* https://www.dhcs.ca.gov/
+* https://seniors.insurance.ca.gov/
+	* https://seniors.insurance.ca.gov/rights/ << looks interesting
+* https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1253.&lawCode=HSC
+* https://www.fiduciary.ca.gov/
+
+> The Professional Fiduciaries Bureau was created by legislation that passed and was enacted into law in 2007 to regulate non-family member professional fiduciaries, including conservators, guardians, trustees, and agents under durable power of attorney as defined by the Professional Fiduciaries Act.
+
+
+### San Francisco agencies
+
+* https://www.sfhsa.org/services
+
+
+## Aging Organizations
+
+Not for profit
+
+* https://www.asaging.org/
+* https://www.aginglifecare.org/
+* https://encore.org/
+* https://www.ioaging.org/
+* https://leadingage.org/
+* https://www.ncoa.org/
+* https://www.buckinstitute.org/
+* Generation United ~ https://www.gu.org/
+* https://www.seniorcare.com/assisted-living/
+
+With "agendas"
+
+* https://www.aarp.org/
+* http://www.canhr.org/
+* Singapore ~ https://www.imda.gov.sg/for-community/Seniors-Go-Digital
+
+
+Academic
+
+* https://cepar.edu.au/
+* https://agelab.mit.edu/
+* https://gerontology.gsu.edu/aging-resource-links/#government-websites
+* http://longevity.stanford.edu/
+* https://hrs.isr.umich.edu/about/links
+* https://memory.ucsf.edu/
+* https://nursing.ucsf.edu/academics/departments/institute-health-aging
+
+More
+
+* http://www.elderlawnewyork.com/press-media/links-of-interest/
+* https://www.un.org/development/desa/disabilities/disability-and-ageing.html
+
+***
+
+
+## Geriatric Care Management ~ Organizations
 
 ### Professional Associations
 
@@ -178,6 +254,13 @@ Heart-warming story
 >The CSA certification validates and gives confidence to both CSA professionals and the clients they serve. Older adults can be confident that CSA professionals are knowledgeable in the issues facing older adults and maintain the highest ethical standards.
 >
 >The Working with Older Adults education course gives aging industry professionals practical, multidisciplinary knowledge, tools, and resources to help them serve older adults more effectively.
+
+* https://www.nahac.com/
+
+>The National Association of Healthcare Advocacy is the professional healthcare advo cacy organization; we are dedicated to the improvement of patient outcomes through continuing education, promotion of national standards of practice, and active pursuit of policy changes, leading to a high standard of person-centered healthcare.
+
+* https://advoconnection.com/
+* https://bayareahealthcareadvocates.org/
 
 
 ### Firms in the Bay Area ~ Members of Aging Life Care
@@ -214,64 +297,25 @@ Heart-warming story
 	* https://www.linkedin.com/in/saracallanderstephens/
 	* Friend of Ann Seymour
 
+### Others
 
-## Literature on aging
-
-### Books
-
-* https://www.amazon.com/Elderhood-Redefining-Transforming-Medicine-Reimagining/dp/1620405466
-* https://www.amazon.com/Successful-Aging-Neuroscientist-Explores-Potential/dp/1524744182
+* https://www.allyhealthadvocates.com/about
+* https://treeoflifehealthadvocates.com/
 
 
-### Articles
+## Home Help Service Providers
 
-* https://www.helpguide.org/articles/alzheimers-dementia-aging/staying-healthy-as-you-age.htm
-* https://www.abc.net.au/everyday/habits-that-help-you-age-well/10363054
-* https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art
-* http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age
-* http://aging.nautil.us/feature/226/how-aging-research-is-changing-our-lives
-* https://nautil.us/issue/36/aging/retiring-retirement
-* https://www.nia.nih.gov/health/aging-place-growing-older-home
-* https://www.nia.nih.gov/health/what-do-we-know-about-healthy-aging
-* https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
-* https://www.nytimes.com/2019/12/23/opinion/america-aging.html
-* https://www.nytimes.com/guides/well/how-to-age-well
-* https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
-* https://www.weforum.org/agenda/2021/03/what-is-the-biggest-benefit-technology-ageing-longevity-global-future-council-tech-for-good/
+* Home Instead ~ Senior care ~ https://www.homeinstead.com/
+	* Will accompany you to doctor or procedure or do pick up
+	* 1 Daniel Burnham Court Suite 307C, San Francisco 94109
+	* 415 411 6490
+	* Example: Ron, Brent & Eunice with Mary Charlotte
 
+## Social Networks for Elders
 
-### Alice James
+Tech
 
-Very interesting views on death
-
-* https://en.wikipedia.org/wiki/Alice_James
->Alice James (August 7, 1848 – March 6, 1892) was an American diarist, sister of novelist Henry James and philosopher and psychologist William James. Her relationship with William was unusually close, and she seems to have been badly affected by his marriage. James suffered lifelong health problems, that were generally dismissed as hysteria, in the style of the day. She is best known for her published diaries.
-* https://www.brainpickings.org/2017/08/07/diary-of-alice-james-death/ <<< Wow!
-	* https://news.ycombinator.com/item?id=25224830
-
-
-### Law of Jante
-
-* https://en.wikipedia.org/wiki/Law_of_Jante
-
-Good rules to follow when you sre in a independent living community.
-
-> You are not to think you're anyone special, or that you're better than us.
-
-The ten rules state:
-
-* You're not to think you are anything special.
-* You're not to think you are as good as we are.
-* You're not to think you are smarter than we are.
-* You're not to imagine yourself better than we are.
-* You're not to think you know more than we do.
-* You're not to think you are more important than we are.
-* You're not to think you are good at anything.
-* You're not to laugh at us.
-* You're not to think anyone cares about you.
-* You're not to think you can teach us anything.
-
-## Social networks for elders
+* https://www.techenhancedlife.com/
 
 News
 
@@ -288,7 +332,6 @@ Forums
 Services
 
 * https://www.sundial-labs.com/
-
 
 ***
 
