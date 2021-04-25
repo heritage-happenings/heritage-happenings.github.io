@@ -58,6 +58,19 @@ Click on the links below to view the details of the exercise:
 
 In each exercise page, you may click te word "Exercise" at the top to return here.
 
+### Arms
+
+* Seated Shoulder Abduction - Thumbs Up
+	* out to side and out to front
+* Seated Bicep Curls Supinated with Dumbbells
+* Seated Overhead Elbow Extension
+	* Overhead lift
+
+### Hand
+
+* Wrist AROM Radial Ulnar Deviation
+* Seated Thumb Abduction Adduction AROM
+* Seated Thumb Extension
 
 ### Edema in Left ankle
 
