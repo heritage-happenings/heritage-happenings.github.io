@@ -19,6 +19,8 @@ _basic-html.html_
 * noun_Globe_2117848.svg ~ Globe by Markus from the Noun Project
 * noun_Home_3359355.svg ~ Home by Arvelio2001 from the Noun Project 
 * noun_Information_585560.svg ~ Information by Delwar Hossain from the Noun Project
+* noun_Pencil_2995943.svg ~ Pencil by shuai tawf from the Noun Project
+
 
 
 </details>
