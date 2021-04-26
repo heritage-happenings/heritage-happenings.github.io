@@ -1,6 +1,6 @@
-# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises ) [Exercises]( https://heretics-sf.github.io/sandbox/exercises/readme.html) / [Template]( https://heretics-sf.github.io/sandbox/exercises/readme.html#template.md)
+# [![](https://heretics-sf.github.io/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io/tree/master/sandbox/exercises "Source code on GitHub" ) [Exercises]( https://heretics-sf.github.io/sandbox/exercises/readme.html "Home page" ) / [Template]( https://heretics-sf.github.io/sandbox/exercises/readme.html#template.md)
 
-<img src=xxxxx.png width=100% >
+<img src=https://heretics-sf.github.io/favicon.ico >
 
 Other names:
 

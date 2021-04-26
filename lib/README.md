@@ -4,7 +4,7 @@
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
 
-# [pushMe-pullYou Lib Read Me]( ./readme.html )
+# [Lib Read Me]( ../index.html#lib/README.md )
 
 <!--@@@
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://pushme-pullyou.github.io/tootoo-2020/ height=100% width=100% ></iframe></div>
