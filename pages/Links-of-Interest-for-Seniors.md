@@ -172,7 +172,7 @@ Very interesting views on death
 
 ## Government Agencies
 
-### USA Federal agencies
+### USA Federal Agencies
 
 * https://acl.gov/
 * https://acl.gov/programs/aging-and-disability-networks
@@ -181,6 +181,10 @@ Very interesting views on death
 	* https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/
 * https://medicare.gov
 * https://www.nia.nih.gov/
+	* https://www.nia.nih.gov/Go4Life >
+	* https://www.nia.nih.gov/health/exercise-physical-activity
+	* https://www.nlm.nih.gov/
+		* https://www.medlineplus.gov/ ~ US National Library of Medicine
 
 
 ### California agencies
@@ -310,6 +314,11 @@ More
 	* 1 Daniel Burnham Court Suite 307C, San Francisco 94109
 	* 415 411 6490
 	* Example: Ron, Brent & Eunice with Mary Charlotte
+
+## Elder Wellness Services
+
+* https://www.morrisonliving.com/wellness-category/how-do-you-moveyourmind/
+
 
 ## Social Networks for Elders
 
