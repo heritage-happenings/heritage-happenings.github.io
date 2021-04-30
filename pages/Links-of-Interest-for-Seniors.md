@@ -179,6 +179,7 @@ Very interesting views on death
 * https://acl.gov/about-acl/administration-aging
 	* https://en.wikipedia.org/wiki/Administration_on_Aging
 	* https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/
+* https://acl.gov/ltc
 * https://medicare.gov
 * https://www.nia.nih.gov/
 	* https://www.nia.nih.gov/Go4Life >
@@ -305,7 +306,7 @@ More
 
 * https://www.allyhealthadvocates.com/about
 * https://treeoflifehealthadvocates.com/
-
+* https://acl.gov/ltc/basic-needs/finding-local-services
 
 ## Home Help Service Providers
 
