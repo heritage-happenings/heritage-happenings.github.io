@@ -60,7 +60,8 @@ In each exercise page, you may click te word "Exercise" at the top to return her
 
 ### Arms
 
-* Seated Shoulder Abduction - Thumbs Up
+* Seated Shoulder AROM Exercises
+* Abduction - Thumbs Up
 	* out to side and out to front
 * Seated Bicep Curls Supinated with Dumbbells
 * Seated Overhead Elbow Extension
