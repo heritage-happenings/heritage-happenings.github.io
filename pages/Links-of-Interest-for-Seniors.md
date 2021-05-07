@@ -343,6 +343,22 @@ Services
 
 * https://www.sundial-labs.com/
 
+## Diets, FOOD and Nutrition
+
+### MIND Diet
+
+Wikipedia
+
+* https://en.wikipedia.org/wiki/MIND_diet
+* https://en.wikipedia.org/wiki/DASH_diet
+
+
+Articles
+
+* https://www.cnn.com/2021/05/05/health/mediterranean-diet-memory-loss-dementia-wellness/index.html
+	* https://n.neurology.org/content/early/2021/05/04/WNL.0000000000012067
+
+
 ***
 
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
