@@ -4,6 +4,9 @@ _Work-in-progress. Many more links to be added as well as explanatory text._
 
 There are countless web sites dedicated to elders. The following is a list of Web sites that may be of interest to residents of life care facilities. The goal is to help residents to be well-informed on regulations, processes and recommendations that will affect their aging process.
 
+Given the very large number of organizations, a system of locating and highlighting the most useful organizations is required. Such a system will be built up over a period of time. In the current phase, the names and links to sites useful to elders are simply being gathered. Later releases will triage the initial findings and build up a curated list of recommendations.
+
+
 
 ## References ~ Wikipedia and others
 
