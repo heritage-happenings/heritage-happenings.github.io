@@ -2,7 +2,8 @@
 
 _Work-in-progress. Many more links to be added as well as explanatory text._
 
-Web sites that may be of interest to residents
+There are countless web sites dedicated to elders. The following is a list of Web sites that may be of interest to residents of life care facilities. The goal is to help residents to be well-informed on regulations, processes and recommendations that will affect their aging process.
+
 
 ## References ~ Wikipedia and others
 
@@ -91,13 +92,28 @@ The ten rules state:
 
 ### Books
 
+Searches
+
+* https://www.amazon.com/s?k=aging+well+book
+
+Amazon
+
+* https://www.amazon.com/Aging-Well-Surprising-Guideposts-Development/dp/0316090077
+	* https://www.harvardmagazine.com/2019/08/the-talent-for-aging-well
+* https://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/1250076226/ref=pd_bxgy_3/136-8044501-9498165
 * https://www.amazon.com/Elderhood-Redefining-Transforming-Medicine-Reimagining/dp/1620405466
+	* https://sfpl.org/events/2020/01/22/author-dr-louise-aronson-elderhood
+* https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977
 * https://www.amazon.com/Successful-Aging-Neuroscientist-Explores-Potential/dp/1524744182
 	* https://www.nytimes.com/2020/01/10/opinion/sunday/age-memory.html
 	* https://news.ycombinator.com/item?id=22015426
 	* https://science.slashdot.org/story/20/01/11/0028257/some-aspects-of-memory-get-better-as-we-age
 
+## Article Sources
 
+* https://fitminds.ca/brain-health-aging-well/
+* https://www.hopkinsmedicine.org/health/wellness-and-prevention/aging-well
+* https://www.nature.com/subjects/ageing
 
 ### Articles
 
@@ -106,14 +122,27 @@ The ten rules state:
 * https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art
 * http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age
 * http://aging.nautil.us/feature/226/how-aging-research-is-changing-our-lives
-* https://nautil.us/issue/36/aging/retiring-retirement
-* https://www.nia.nih.gov/health/aging-place-growing-older-home
-* https://www.nia.nih.gov/health/what-do-we-know-about-healthy-aging
+* https://calmatters.org/projects/california-oversight-nursing-homes/
+* https://calmatters.org/?s=nursing
+* https://www.helpguide.org/home-pages/healthy-aging.htm
+* https://www.helpguide.org/articles/alzheimers-dementia-aging/staying-healthy-as-you-age.htm
+* https://www.healthline.com/health/aging-gracefully
+* https://laist.com/special-reports/nursing-homes-renew.php
 * https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
+* https://nautil.us/issue/36/aging/retiring-retirement
+* https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
+* https://health.usnews.com/wellness/aging-well/articles/2018-02-23/what-are-the-secrets-to-aging-well
+* https://www.weforum.org/agenda/2021/03/what-is-the-biggest-benefit-technology-ageing-longevity-global-future-council-tech-for-good/
+* https://www.ecumen.org/50-tips-for-aging-gracefully-from-ecumen
+* https://www.open.edu/openlearn/health-sports-psychology/mental-health/five-pillars-ageing-well
+
+
+### Articles NY Times
+
 * https://www.nytimes.com/2019/12/23/opinion/america-aging.html
 * https://www.nytimes.com/guides/well/how-to-age-well
-* https://www.theatlantic.com/ideas/archive/2019/06/boomers-are-blame-aging-america/592336/
-* https://www.weforum.org/agenda/2021/03/what-is-the-biggest-benefit-technology-ageing-longevity-global-future-council-tech-for-good/
+* David Brooks: https://www.nytimes.com/2014/12/05/opinion/david-brooks-why-elders-smile.html?
+
 
 ### Obituaries
 
@@ -155,6 +184,7 @@ https://www.google.com/search?q=how+to+be+90&oq=how+to+be+90
 * https://www.mind.uci.edu/research-studies/90plus-study/
 	* https://www.livehappy.com/how-be-happy-90?nopaging=1
 
+
 ### Elder Care: factors for choosing an independent living community
 
 * https://money.usnews.com/money/retirement/articles/2015/09/08/9-questions-to-ask-when-choosing-an-independent-living-facility
@@ -188,10 +218,18 @@ Very interesting views on death
 * https://medicare.gov
 * https://www.nia.nih.gov/
 	* https://www.nia.nih.gov/Go4Life >
+	* https://www.nia.nih.gov/health/aging-place-growing-older-home
 	* https://www.nia.nih.gov/health/exercise-physical-activity
+	* https://www.nia.nih.gov/health/what-do-we-know-about-healthy-aging
 	* https://www.nia.nih.gov/health/what-geriatric-care-manager
-	* https://www.nlm.nih.gov/
-		* https://www.medlineplus.gov/ ~ US National Library of Medicine
+* National Library of Medicine: https://www.nlm.nih.gov/
+	* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1364512/
+	* https://www.medlineplus.gov/ ~ US National Library of Medicine
+
+
+### International
+
+* https://www.nhs.uk/
 
 
 ### California agencies
@@ -215,17 +253,31 @@ Very interesting views on death
 
 Not for profit
 
+* https://www.afar.org/
+* https://agingwelllab.github.io/
 * https://www.asaging.org/
-* https://encore.org/
+	* https://www.asaging.org/web-seminars
+	* the American Society on Aging is an association of diverse individuals bound by a common goal: to support the commitment and enhance the knowledge and skills of those who seek to improve the quality of life of older adults and their families.
+* https://www.buckinstitute.org/
+* https://www.changingaging.org/
+* https://www.encore.org/
+	* We are older activists, innovators and leaders, standing with younger allies to bridge divides, connect across generations and create a better future together.
+* Generation United ~ https://www.gu.org/
+* http://www.ihi.org/
+* https://ihpi.umich.edu/annualreport/2019/healthy-aging
 * https://www.ioaging.org/
-* https://leadingage.org/
+* https://www.leadingage.org/
 	* HotM is a member
 	* https://leadingage.org/mission-vision-values
 	* https://www.leadingage.org/sites/default/files/LA%20transition%20letter%2012820.pdf
-* https://www.ncoa.org/
-* https://www.buckinstitute.org/
-* Generation United ~ https://www.gu.org/
+* https://www.matherinstitute.com/
+* National Council on Aging: https://www.ncoa.org/
+	* https://www.ncoa.org/center-for-healthy-aging/basics-of-evidence-based-programs/physical-activity-programs-for-older-adults/
 * https://www.seniorcare.com/assisted-living/
+* https://www.thescanfoundation.org/
+* https://www.who.int/
+	* https://www.who.int/dietphysicalactivity/factsheet_olderadults/en/
+
 
 With "agendas"
 
@@ -238,10 +290,15 @@ Academic
 
 * https://cepar.edu.au/
 * https://agelab.mit.edu/
-* https://geroscience.ucsf.edu/
 * https://gerontology.gsu.edu/aging-resource-links/#government-websites
 * http://longevity.stanford.edu/
+	* https://www.washingtonpost.com/opinions/we-need-a-major-redesign-of-life/2019/11/29/a63daab2-1086-11ea-9cd7-a1becbc82f5e_story.html
+	* http://longevity.stanford.edu/a-new-map-of-life/
 * https://hrs.isr.umich.edu/about/links
+
+UCSF
+
+* https://geroscience.ucsf.edu/
 * https://memory.ucsf.edu/
 * https://nursing.ucsf.edu/academics/departments/institute-health-aging
 
@@ -349,6 +406,8 @@ News
 * https://www.mcknights.com/
 * https://www.nextavenue.org/
 * https://www.theseniorlist.com/
+* https://theconversationproject.org/
+	* Helping people share their wishes for care through the end of life.
 
 Forums
 
@@ -362,6 +421,10 @@ Services
 * https://www.theseniorlist.com/
 * https://www.joinpapa.com/
 
+## Tests
+
+* https://www.prenuvo.com/
+	* The secret to a long and healthy life is to diagnose cancer and major disease early. Prenuvo offers a comprehensive, clinically accurate and affordable way to stay on top of your health.
 
 ## Diets, FOOD and Nutrition
 
