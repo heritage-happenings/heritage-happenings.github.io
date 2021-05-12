@@ -31,6 +31,11 @@ In order to step through this mission, this study follows an oft-used triadic st
 
 ## 1. Why HotM?
 
+What is the big picture regarding what aging, eldercare and the Heritabe.
+
+What are the overarching aspects that guide you.
+
+
 What are the goals? What is the mission and vision? Why are we here? What is the best we can expect?
 
 Examples crafted elsewhere
@@ -49,15 +54,20 @@ Further efforts:
 * Capture and share the various visions
 * Identify targets and metrics
 
+
 ## 2. What laws, rules and guidelines do we follow?
 
 The following gibberish appears at the bottom of the HotM website, so they must be important. What do these mean? What actions do they necessitate?
 
 * RCFE #380500295
 * California Department of Health License #220000034
-* CMS Certificate #555888
+	* https://www.cdph.ca.gov/Programs/CHCQ/LCP/CalHealthFind/Pages/FacilityCompare.aspx?facid1=220000058&facid2=220000518&facid3=220000512
+	* License Facility ID:220000058
+* CMS Certification Number CCN 555888
+	* Centers for Medicare & Medicaid Services
+	* Medicare: https://www.medicare.gov/care-compare/details/nursing-home/555888?city=San%20Francisco&state=CA&zipcode=94123
 * Certificate of Authority #260
-
+* ??: National Provider Identification: NPI Number :1396964722
 Are there laws and rules from other bodies that HotM observes?
 
 What benefit does being a member of Leading Age provide?

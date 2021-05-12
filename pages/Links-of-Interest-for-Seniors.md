@@ -93,6 +93,10 @@ The ten rules state:
 
 * https://www.amazon.com/Elderhood-Redefining-Transforming-Medicine-Reimagining/dp/1620405466
 * https://www.amazon.com/Successful-Aging-Neuroscientist-Explores-Potential/dp/1524744182
+	* https://www.nytimes.com/2020/01/10/opinion/sunday/age-memory.html
+	* https://news.ycombinator.com/item?id=22015426
+	* https://science.slashdot.org/story/20/01/11/0028257/some-aspects-of-memory-get-better-as-we-age
+
 
 
 ### Articles
@@ -174,16 +178,18 @@ Very interesting views on death
 
 ### USA Federal Agencies
 
-* https://acl.gov/
+* Administration for Community Living: https://acl.gov/
 * https://acl.gov/programs/aging-and-disability-networks
 * https://acl.gov/about-acl/administration-aging
 	* https://en.wikipedia.org/wiki/Administration_on_Aging
 	* https://www.consumerfinance.gov/consumer-tools/educator-tools/resources-for-older-adults/
 * https://acl.gov/ltc
+* Centers for Medicare & Medicaid Services: https://www.cms.gov/
 * https://medicare.gov
 * https://www.nia.nih.gov/
 	* https://www.nia.nih.gov/Go4Life >
 	* https://www.nia.nih.gov/health/exercise-physical-activity
+	* https://www.nia.nih.gov/health/what-geriatric-care-manager
 	* https://www.nlm.nih.gov/
 		* https://www.medlineplus.gov/ ~ US National Library of Medicine
 
@@ -191,7 +197,7 @@ Very interesting views on death
 ### California agencies
 
 * https://aging.ca.gov/
-* https://www.dhcs.ca.gov/
+* California Department of Health Care Services (DHCS): https://www.dhcs.ca.gov/
 * https://seniors.insurance.ca.gov/
 	* https://seniors.insurance.ca.gov/rights/ << looks interesting
 * https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1253.&lawCode=HSC
@@ -210,10 +216,12 @@ Very interesting views on death
 Not for profit
 
 * https://www.asaging.org/
-* https://www.aginglifecare.org/
 * https://encore.org/
 * https://www.ioaging.org/
 * https://leadingage.org/
+	* HotM is a member
+	* https://leadingage.org/mission-vision-values
+	* https://www.leadingage.org/sites/default/files/LA%20transition%20letter%2012820.pdf
 * https://www.ncoa.org/
 * https://www.buckinstitute.org/
 * Generation United ~ https://www.gu.org/
@@ -230,6 +238,7 @@ Academic
 
 * https://cepar.edu.au/
 * https://agelab.mit.edu/
+* https://geroscience.ucsf.edu/
 * https://gerontology.gsu.edu/aging-resource-links/#government-websites
 * http://longevity.stanford.edu/
 * https://hrs.isr.umich.edu/about/links
@@ -246,7 +255,7 @@ More
 
 ## Geriatric Care Management ~ Organizations
 
-### Professional Associations
+### Providers Professional Associations
 
 * https://www.aginglifecare.org/
 >Aging Life Care™, also known as geriatric care management, is a holistic, client-centered approach to caring for older adults or others facing ongoing health challenges. Working with families, the expertise of Aging Life Care Professionals provides the answers at a time of uncertainty.
@@ -302,11 +311,22 @@ More
 	* https://www.linkedin.com/in/saracallanderstephens/
 	* Friend of Ann Seymour
 
-### Others
+### Other Elder Wellness Services
+
+Finding
+
+* https://acl.gov/ltc/basic-needs/finding-local-services
+
+Providers
 
 * https://www.allyhealthadvocates.com/about
 * https://treeoflifehealthadvocates.com/
-* https://acl.gov/ltc/basic-needs/finding-local-services
+* https://nextvillagesf.org/
+* https://seniorsathome.jfcs.org/
+
+More
+
+* https://www.morrisonliving.com/wellness-category/how-do-you-moveyourmind/
 
 ## Home Help Service Providers
 
@@ -315,10 +335,6 @@ More
 	* 1 Daniel Burnham Court Suite 307C, San Francisco 94109
 	* 415 411 6490
 	* Example: Ron, Brent & Eunice with Mary Charlotte
-
-## Elder Wellness Services
-
-* https://www.morrisonliving.com/wellness-category/how-do-you-moveyourmind/
 
 
 ## Social Networks for Elders
@@ -339,9 +355,13 @@ Forums
 * http://www.seniorsonly.club/
 * https://www.silversurfers.com/silversurfers-forum/
 
+
 Services
 
 * https://www.sundial-labs.com/
+* https://www.theseniorlist.com/
+* https://www.joinpapa.com/
+
 
 ## Diets, FOOD and Nutrition
 
@@ -352,11 +372,11 @@ Wikipedia
 * https://en.wikipedia.org/wiki/MIND_diet
 * https://en.wikipedia.org/wiki/DASH_diet
 
-
 Articles
 
 * https://www.cnn.com/2021/05/05/health/mediterranean-diet-memory-loss-dementia-wellness/index.html
 	* https://n.neurology.org/content/early/2021/05/04/WNL.0000000000012067
+
 
 
 ***
