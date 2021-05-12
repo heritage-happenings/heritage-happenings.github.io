@@ -426,7 +426,7 @@ Services
 * https://www.prenuvo.com/
 	* The secret to a long and healthy life is to diagnose cancer and major disease early. Prenuvo offers a comprehensive, clinically accurate and affordable way to stay on top of your health.
 
-## Diets, FOOD and Nutrition
+## Diets, Food and Nutrition
 
 ### MIND Diet
 
