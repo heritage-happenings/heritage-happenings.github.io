@@ -1,5 +1,15 @@
 # Morris Grass-Fed Beef
 
+If you want be holistic about this, where is the starting point? where do you begin?
+
+Where to begin
+
+the land ~ the animals ~ the ideas
+
+Rancho Santa Margarita >> wikipedia
+
+George Armour
+
 ## Reference
 
 * https://en.wikipedia.org/wiki/Cattle
@@ -9,34 +19,68 @@
 * https://en.wikipedia.org/wiki/Transhumance
 * https://en.wikipedia.org/wiki/Cattle_feeding
 * https://en.wikipedia.org/wiki/Cow%E2%80%93calf_operation
+* https://en.wikipedia.org/wiki/Rotational_grazing
 * https://en.wikipedia.org/wiki/Angus_cattle
 * https://en.wikipedia.org/wiki/Cowboy
 * https://en.wikipedia.org/wiki/List_of_ranches_and_stations#United_States
+* https://en.wikipedia.org/wiki/Tragedy_of_the_commons
 
 ## Morris
 
 * https://morrisgrassfed.com/
 * https://vimeo.com/190166495?from=outro-embed
 * https://www.youtube.com/watch?v=rwBK26Nw7Dk&t=4s
+	* A connection to all things
+	* Holistic Management ~ https://holisticmanagement.org/
+	* Take care of the land
+	* Water cycles
+	* 20" to 12" rain
+	* after 6" is absorbed rest of water - and good dirt - goes out to sea
+	* Desire: a landscape that absorbs water
+	* Extend season of green
+	* Soil carbon sponge
+	* Land management
+	* Moving Sun, water, CO2
+	* Soil carbon coalition
+	* Virtuous cycles
+	* Roots are important; below ground
+	* Stocking rate & time of exposure of the essence
+	* 1 cow for 365 days or 365 cows for 1 day: very different outcomes
+	* 40 million acres range land in CA: small changes could bring huge benefits
+* https://www.csuchico.edu/regenerativeagriculture/about-us/leadership-council/leadership-joe-morris.shtml
+* https://holisticmanagement.org/holistic-management/success-stories/case-studiesto-cattle-co-morris-grassfed-beef/ << good quotes
+* https://managingwholes.com/morris.htm/
+* https://calclimateag.org/joe-morris-of-morris-grassfed-beef/
+* https://soilcarboncoalition.org/R2R/
+* https://www.csuchico.edu/regenerativeagriculture/demos/morris-grassfed-beef.shtml
+* https://www.airbnb.com/rooms/plus/28953733 << availability
+
 
 ## Business Side
 
 ## Family & Life
 
+List of videos
+
+
 ## Calving and breeding
 
-what breeds? Black Angus? Herefords?
+What breeds? Black Angus, Herefords & others crossbred
 
 Cow-calf operation
 
-Cow births how many calves?
+On average cows have three calves. Could be up to 9 to 10
+
+Ten bulls
+
 
 Heifers steers?
 Cows? Bulls? lifespan?
 
 age at slaughter?
 
-carcass weight?
+generally heiffers sent to abattoir at around 30 months providing a carcass of 675 pounds
+
 
 Personalities?
 Typical cow issues?
@@ -45,13 +89,12 @@ Birthing
 
 ## Breeding
 
-Certified Angus Beef CAB?
+Certified Angus Beef CAB? No
 
-Crossbreeding?
+Crossbreeding? Yes
 
-Registered?
+Registered? Bulls
 
-Pedigree?
 
 ## Feed
 
@@ -96,7 +139,7 @@ Bovine spongiform encephalopathy ~ Mad Cow Diseases
 
 ## Handling
 
-Horses
+3 horses
 
 * Saddles
 * Gear
@@ -147,5 +190,4 @@ Butchers
 * Anti-CAFO ~  concentrated animal feeding operations (CAFOs)
 * Holistic Management
 * Methane ~ greenhouse gas emissions
-* https://en.wikipedia.org/wiki/Rotational_grazing
-* https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+
