@@ -49,12 +49,13 @@ George Armour
 	* Stocking rate & time of exposure of the essence
 	* 1 cow for 365 days or 365 cows for 1 day: very different outcomes
 	* 40 million acres range land in CA: small changes could bring huge benefits
+* https://www.csuchico.edu/regenerativeagriculture/demos/morris-grassfed-beef.shtml
 * https://www.csuchico.edu/regenerativeagriculture/about-us/leadership-council/leadership-joe-morris.shtml
 * https://holisticmanagement.org/holistic-management/success-stories/case-studiesto-cattle-co-morris-grassfed-beef/ << good quotes
+	* https://holisticmanagement.org/wp-content/uploads/2020/04/HM-System-Highlights-4.23.20.pdf
 * https://managingwholes.com/morris.htm/
 * https://calclimateag.org/joe-morris-of-morris-grassfed-beef/
 * https://soilcarboncoalition.org/R2R/
-* https://www.csuchico.edu/regenerativeagriculture/demos/morris-grassfed-beef.shtml
 * https://www.airbnb.com/rooms/plus/28953733 << availability
 
 
