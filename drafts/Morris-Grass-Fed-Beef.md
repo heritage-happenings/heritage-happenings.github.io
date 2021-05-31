@@ -1,7 +1,6 @@
 # Morris Grass-Fed Beef
 
 
-
 If you want be holistic about this, where is the starting point? where do you begin?
 
 Where to begin
@@ -10,7 +9,6 @@ the land ~ the animals ~ the ideas
 
 Rancho Santa Margarita >> wikipedia
 
-George Armour
 
 ## Reference
 
@@ -27,7 +25,7 @@ George Armour
 * https://en.wikipedia.org/wiki/List_of_ranches_and_stations#United_States
 * https://en.wikipedia.org/wiki/Tragedy_of_the_commons
 
-## Morris
+## Joe Morris
 
 * https://morrisgrassfed.com/
 * https://vimeo.com/190166495?from=outro-embed
@@ -58,6 +56,31 @@ George Armour
 * https://soilcarboncoalition.org/R2R/
 * https://www.airbnb.com/rooms/plus/28953733 << availability
 
+## A walk in a field
+
+So much knowledge in Joe's brain about nature, flora and fauna and life in general. Also also his care about living well, happily and gratefully. Some snippets that I remember
+
+* Old grass in clumps suffocates new grass. Grazing helps
+* The knobbly weeds are called plantains
+* Chicory has leaves and stalks
+* Spiders are indicators that life is coming back.
+* In order for Oak leaves to decompose, you need rain
+* After land has been cultivated, it takes a long time for the wild diversity to come back
+* Frost kills bugs, frost keeps ground softer
+* It cost $2,000 a year to feed an old horse
+* It takes at least three cowboys to be a horse. Reverse that
+
+David Steindl-Rast: Stop Look Go
+
+* https://en.wikipedia.org/wiki/David_Steindl-Rast
+* https://gratefulness.org/brother-david/about-brother-david/
+* https://www.youtube.com/watch?v=UtBsl3j0YRQ
+
+Chicory
+
+* https://en.wikipedia.org/wiki/Chicory
+* https://www.healthline.com/nutrition/chicory-coffee#TOC_TITLE_HDR_7
+
 
 ## Business Side
 
@@ -76,13 +99,11 @@ On average cows have three calves. Could be up to 9 to 10
 
 Ten bulls
 
-
 Heifers steers?
 Cows? Bulls? lifespan?
-
 age at slaughter?
 
-generally heiffers sent to abattoir at around 30 months providing a carcass of 675 pounds
+Generally heiffers sent to abattoir at around 30 months providing a carcass of 675 pounds
 
 
 Personalities?
@@ -172,9 +193,10 @@ Western Cowboy traditions?
 
 Abbatoir
 
+Johnasen's Quality Meats ~ Orland << meat for Heritage went here
+
 Los Banos Abbatoir ~ https://www.losbanosabattoir.com/
 * Wool Growers Restaurant
-Johnasen's Quality Meats ~ Orland
 
 Butchers
 
@@ -185,7 +207,7 @@ Butchers
 * Leasing
 
 
-* Transport
+## Transport
 
 
 ## Sustainability
