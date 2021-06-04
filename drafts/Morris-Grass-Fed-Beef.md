@@ -1,5 +1,8 @@
 # Morris Grass-Fed Beef
 
+* https://github.com/heretics-sf/heretics-sf.github.io/blob/master/drafts/Morris-Grass-Fed-Beef.md
+* https://heretics-sf.github.io/#drafts/Morris-Grass-Fed-Beef.md
+
 
 If you want be holistic about this, where is the starting point? where do you begin?
 
@@ -24,6 +27,17 @@ Rancho Santa Margarita >> wikipedia
 * https://en.wikipedia.org/wiki/Cowboy
 * https://en.wikipedia.org/wiki/List_of_ranches_and_stations#United_States
 * https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+
+
+Rancho Santa Margarita y Flores
+
+* https://en.wikipedia.org/wiki/Marine_Corps_Base_Camp_Pendleton
+* https://en.wikipedia.org/wiki/Rancho_Santa_Margarita_y_Las_Flores
+* https://en.wikipedia.org/wiki/Las_Flores_Estancia
+* https://camppendletonhistoricalsociety.org/projects/pendleton-monument
+* http://camppendletonranchhouse.org/history.aspx
+* http://camppendletonranchhouse.org/the-ranch-house.aspx == good account of the background
+
 
 ## Joe Morris
 
@@ -70,13 +84,13 @@ So much knowledge in Joe's brain about nature, flora and fauna and life in gener
 * It cost $2,000 a year to feed an old horse
 * It takes at least three cowboys to be a horse. Reverse that
 
-David Steindl-Rast: Stop Look Go
+## David Steindl-Rast: Stop Look Go
 
 * https://en.wikipedia.org/wiki/David_Steindl-Rast
 * https://gratefulness.org/brother-david/about-brother-david/
 * https://www.youtube.com/watch?v=UtBsl3j0YRQ
 
-Chicory
+## Chicory
 
 * https://en.wikipedia.org/wiki/Chicory
 * https://www.healthline.com/nutrition/chicory-coffee#TOC_TITLE_HDR_7
@@ -86,7 +100,7 @@ Chicory
 
 ## Family & Life
 
-List of videos
+Build List of videos
 
 
 ## Calving and breeding
@@ -103,8 +117,7 @@ Heifers steers?
 Cows? Bulls? lifespan?
 age at slaughter?
 
-Generally heiffers sent to abattoir at around 30 months providing a carcass of 675 pounds
-
+Generally heifers sent to abattoir at around 30 months providing a carcass of 675 pounds
 
 Personalities?
 Typical cow issues?
@@ -124,7 +137,7 @@ Registered? Bulls
 
 Do you spend more time on the cattle or the grass?
 
-The Grass
+>> The Grass
 
 * American Grassfed Association (AGA) ~ https://www.americangrassfed.org/
 > From the farm to the marketplace and in government policy, we support, advocate, and promote American grassfed and pasture-based farms and ranches.
