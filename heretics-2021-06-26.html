@@ -7,22 +7,17 @@
 	<meta name="description"
 		content="TooToo 2021 uses the GitHub API to provide access to all the current files hosted with GitHub Pages.">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2021-06-25">
+	<meta name="date" content="2021-06-26">
 	<title>Heretics</title>
 
 	<!-- Copyright 2021 Theo Armour. MIT license -->
-	<link rel="stylesheet" href="https://pushme-pullyou.github.io/tootoo-2021/lib/style/style-2021-06-25.css">
+	<link rel="stylesheet" href="https://pushme-pullyou.github.io/tootoo-2021/lib/style/style-2021-06-26.css">
 
 	<style>
 		:root {
 			--mnu-width: 22rem;
 			--main-hue: 0;
 			/* 0 to 360 0=red 120=green 240=blue */
-		}
-
-		#sumNavMenu,
-		#GRVsumRepo {
-			display: none;
 		}
 	</style>
 
@@ -37,20 +32,19 @@
 		src="https://pushme-pullyou.github.io/tootoo-2021/lib/fox-file-open-xhr/v-2021-06-24/fox-file-open-xhr.js"></script>
 
 	<script
-		src="https://pushme-pullyou.github.io/tootoo-2021/lib/gor-github-organization-repos/v-2021-06-24/gor-github-organization-repos.js"></script>
+		src="https://pushme-pullyou.github.io/tootoo-2021/lib/gor-github-organization-repos/v-2021-06-26/gor-github-organization-repos.js"></script>
 
 	<script
-		src="https://pushme-pullyou.github.io/tootoo-2021/lib/grv-github-repo-tree-view/v-2021-06-24/grv-github-repo-tree-view.js"></script>
+		src="https://pushme-pullyou.github.io/tootoo-2021/lib/grv-github-repo-tree-view/v-2021-06-26/grv-github-repo-tree-view.js"></script>
 
-	<script src="https://pushme-pullyou.github.io/tootoo-2021/lib/mnu-menu/v-2021-04-28/mnu-menu.js"></script>
-
+	<script src="https://pushme-pullyou.github.io/tootoo-2021/lib/mnu-menu/v-2021-06-26/mnu-menu.js"></script>
 
 
 	<details id=detNavMenu class="gmd-4">
 
 		<summary id=sumNavMenu class="summary-nav gmd-1">☰ <span id=spnMenuHelp>show || hide menu</span></summary>
 
-		<nav id="navMenu" class="gmd-2">
+		<nav id="navMenu" class="">
 
 			<div id=MNUdivHeader></div>
 
@@ -89,6 +83,7 @@
 
 		function init() {
 
+			MNU.description = "jjj"
 			MNU.init();
 
 			FOX.init();
@@ -100,20 +95,6 @@
 			GRV.getFiles = GRV.getFilesSimple;
 			GRV.init();
 			GRV.getRepo();
-
-			if ( window.innerWidth < 800 || window.innerHeight < 500 ) {
-
-				//document.documentElement.style.setProperty( "--mnu-width", "35%" );
-
-			} else {
-
-				const value = window.getComputedStyle( document.documentElement ).getPropertyValue( '--mnu-width' ); // #999999
-				//console.log( "value", value );
-				detNavMenu.style.width = value;
-				detNavMenu.style.maxWidth = "50%";
-				detNavMenu.open = true;
-
-			}
 
 			// if running on server, keeps address bar pointed to latest dev
 
