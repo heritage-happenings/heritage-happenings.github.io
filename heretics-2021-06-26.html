@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
 	<meta name="description"
-		content="TooToo 2021 uses the GitHub API to provide access to all the current files hosted with GitHub Pages.">
+		content="Built by residents with abilities for residents with needs">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
 	<meta name="date" content="2021-06-26">
 	<title>Heretics</title>
@@ -83,7 +83,6 @@
 
 		function init() {
 
-			MNU.description = "jjj"
 			MNU.init();
 
 			FOX.init();
@@ -95,6 +94,7 @@
 			GRV.getFiles = GRV.getFilesSimple;
 			GRV.init();
 			GRV.getRepo();
+			GRVsumRepo.hidden = true;
 
 			// if running on server, keeps address bar pointed to latest dev
 
