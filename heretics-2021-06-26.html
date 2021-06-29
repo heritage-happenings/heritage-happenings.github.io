@@ -7,7 +7,7 @@
 	<meta name="description"
 		content="Built by residents with abilities - for residents with needs">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2021-06-26">
+	<meta name="date" content="2021-06-28">
 	<title>Heretics</title>
 
 	<!-- Copyright 2021 Theo Armour. MIT license -->
@@ -37,7 +37,7 @@
 	<script
 		src="https://pushme-pullyou.github.io/tootoo-2021/lib/grv-github-repo-tree-view/v-2021-06-26/grv-github-repo-tree-view.js"></script>
 
-	<script src="https://pushme-pullyou.github.io/tootoo-2021/lib/mnu-menu/v-2021-06-26/mnu-menu.js"></script>
+	<script src="https://pushme-pullyou.github.io/tootoo-2021/lib/mnu-menu/v-2021-06-28/mnu-menu.js"></script>
 
 
 	<details id=detNavMenu class="gmd-4">
@@ -73,17 +73,26 @@
 			repo: "heretics-sf.github.io",
 			branch: "master",
 			defaultFile: "README.md",
-			ignoreFolders: [ "archive", "drafts", "journal", "/2020", "2021", "lib", "lib-templates", "zzz-residents" ],
+			ignoreFolders: [ "archive", "drafts", "journal", "lib", "lib-templates", "zzz-residents" ],
 			path: "https://heretics-sf.github.io/", //./", // "../../../",
 			version: document.head.querySelector( "[ name=date ]" ).content,
+			title: document.title ? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
 			description: document.head.querySelector( "[ name=description ]" ).content,
+			assets: `https://pushme-pullyou.github.io/tootoo-2021/`,
 		};
+
+		COR.source = `https://github.com/${ COR.user }/${ COR.repo }/`;
 
 		init();
 
 		function init() {
 
 			MNU.init();
+
+			//const htm = "Hello, World!";
+			//MNU.init( { description: htm } );
+			//MNUaSource.hidden = true;
+			//MNUspnVersion.hidden = true;
 
 			FOX.init();
 			FOX.onHashChange();
@@ -92,6 +101,7 @@
 			//GOR.getOrganization();
 
 			GRV.getFiles = GRV.getFilesSimple;
+			//GRV.directions = `Numerous folders and files for you to look at!`;
 			GRV.init();
 			GRV.getRepo();
 			GRVsumRepo.hidden = true;
