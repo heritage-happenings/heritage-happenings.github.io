@@ -20,4 +20,4 @@ HVHO : Formaldehyde (HCHO or CH2O) : Colorless and strong smelling gas with form
 
 CO2 : Carbon dioxide : a colorless and odorless gas that is usually derived from the breath of humans and animals. High CO2 concentration means that fresh air or ventilation is required, otherwise it may cause problems such as drowsiness, dizziness, loss of attention and cognitive impairment.
 
-![]( ./temtop-m2000-2nd-air-quality-monitor-with-data-export-functiontemtop-821410_1024x1024.jpg )
+![]( ../images/temtop-m2000-2nd-air-quality-monitor-with-data-export-functiontemtop-821410_1024x1024.jpg )
