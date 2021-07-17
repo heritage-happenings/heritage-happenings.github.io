@@ -1,12 +1,12 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/pushme-pullyou/tootoo-2021/ "Source code on GitHub" ) [TT 2021]( https://pushme-pullyou.github.io/tootoo-2021/ "Home page" ) / [ZZZZZ Read Me]( https://pushme-pullyou.github.io/tootoo-2021/lib-templates/readme.html#README.md)
+# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io "Source code on GitHub" ) [Heretics]( https://heretics-sf.github.io/ "Home page" ) / [ZZZZZ Read Me]( https://github.com/heretics-sf/heretics-sf.github.io#readme )
 
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://pushme-pullyou.github.io/tootoo-2021/ xxxxx/ height=100% width=100% ></iframe></div>
-_ZZZZZ in a resizable window. One finger to rotate. Two to zoom._
-
-### Full Screen: [ZZZZZ]( https://pushme-pullyou.github.io/tootoo-2021/xxxxx/ )
+<div class=iframe-resize ><iframe src=https://heretics-sf.github.io/lib-templates/ height=100% width=100% ></iframe></div>
+_"ZZZZZ" in a resizable window. One finger to rotate. Two to zoom._
 @@@-->
+
+### Full Screen: [ZZZZZ]( https://heretics-sf.github.io/lib-templates/ )
 
 
 ## Concept

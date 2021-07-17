@@ -1,4 +1,5 @@
-# Heretics on the Marina
+# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heretics-sf/heretics-sf.github.io "Source code on GitHub" ) [ Heretics on the Marina]( https://heretics-sf.github.io/ "Home page" )
+
 
 These web pages are an unofficial web presence for seniors and friends of seniors in San Francisco - which may or may not include the good peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
