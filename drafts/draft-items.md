@@ -1,5 +1,6 @@
+# Drafts
 
-## rating factors to look at
+## Rating factors to look at
 
 * https://www.usgbc.org/leed/v41#bdc
 * https://www.wellcertified.com/
@@ -21,7 +22,6 @@ To be filled in
 ## Hair Dresser
 
 * downstairs Jonathan
-
 
 
 ## Food delivery
@@ -47,9 +47,7 @@ To be filled in
 ## Book Clubs
 
 
-
 ## Internet, Printing and Computers
-
 
 
 ## Available skills?
@@ -63,7 +61,4 @@ To be filled in
 * Selling on Ebay
 * Writing, editing, blogging
 * Law, insurance, benefits
-
-
-
 
