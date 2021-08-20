@@ -8,6 +8,8 @@ GardnerH asks:
 
 ***
 
+Theo replies:
+
 On the front elevation of the Heritage, above both the first floor bay windows to left and right, between the two sets of windows there are inset panels of _terra cotta_ tiles. Both panels display the same _bas-reliefs_: three roses surrounded by garlands or vines with four raspberries.
 
 
