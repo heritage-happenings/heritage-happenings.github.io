@@ -13,23 +13,25 @@ I hope that in as few days, we can send out a message al all residents announcin
 
 I am not sure that this email system will make sitting in your apartment more thrilling or exciting. I do hope, however, that we can share some good cheer, plenty of human warmth and a bit of good old-fashioned rumor and gossip.
 
-unanimous
+
+Yvonne:
 
 decision to organize my day and have a plan for each day
 
-whad breakfast did evercise at at mu comp til lunch came
+after breakfast did exercise at at my comp til lunch came
 
 three things
 estimated taxes
 address boo up to date
 info on will
 
-addrss book the number of my friends who had died
+address book the number of my friends who had died
 
 there was not one positive experience
 
-I missed my room. It increased my anger. the contacts 
+I missed my room. It increased my anger. the contacts
 
 Her communication
 
-improved computer skilss
+improved computer skills
+
