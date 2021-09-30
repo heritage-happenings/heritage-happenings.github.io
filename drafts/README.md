@@ -1,6 +1,15 @@
 # Drafts Read Me
 
 
+## House Comm
+
+Jane
+
+* chandelier - cleaning
+* elevator baseboard grubby
+* sofa in front
+
+
 ## May Happenings
 
 * https://en.wikipedia.org/wiki/May#Month-long_observances

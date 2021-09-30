@@ -39,6 +39,7 @@ timeliness, immediacy, spontaneity
 
 [veritas] ethics, standards
 
+
 ### Methods and Processes OR freedoms and rights!! ~ verbs
 
 continuity: prepare, plan, discuss, test & drill, disaster-proofing, simplify, action-oriented
@@ -55,7 +56,7 @@ securing, safe-keeping, guarding, protecting
 
 making and recording history, loyal, respecting precedent, lessons-learned, documenting, publishing
 
-Links
+## Links
 
 * https://wikidiff.com/process/method
 
