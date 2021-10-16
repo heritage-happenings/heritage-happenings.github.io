@@ -2,6 +2,23 @@
 
 ![Julia Morgan]( https://upload.wikimedia.org/wikipedia/commons/f/fc/Julia_Morgan.jpg )
 
+## 2021-10-16
+
+Dr Karen McNeill
+
+Julia
+
+* loved airplanes
+* civil engineer
+
+HotMc
+* 1922 commission
+* Complex needs fufiilled
+* designs on budget
+* university mound ladies merger failed
+* 50K low budget
+* not in Marina style
+
 ## Reference
 
 ### Wikipedia: Julia Morgan
