@@ -8,8 +8,6 @@ the land ~ the animals ~ the ideas
 
 Rancho Santa Margarita >> wikipedia
 
-George Armour
-
 ## Reference
 
 * https://en.wikipedia.org/wiki/Cattle
