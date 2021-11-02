@@ -146,7 +146,23 @@ Index page to many pages with photos of JM's projects
 
 > List of Julia Morgan buildings, with photos when available. Most, if not all prominent Julia Morgan architecture appears on this list, including houses, churches and other structures where applicable. This list contains information like what city the structure can be found in, and when it was first opened to the public. If you want to find out even more about these famous Julia Morgan buildings you can click on the building names to get additional information
 
+## Web Sites
 
+### http://www.greatbuildings.com/architects/julia_morgan.html
+
+* http://www.greatbuildings.com/buildings/San_Simeon.html
+
+### https://3dwarehouse.sketchup.com/model/u3040541e-977d-4c93-be00-c7a3212f9581/Julia-Morgan-Inspired-Waterfront-House?hl=en
+
+> Julia Morgan’s Home in Lake Tahoe, CA (Listed for $8.995 Million)
+
+### https://www.homestratosphere.com/julia-morgans-home-in-lake-tahoe-ca-listed-for-8-995-million/
+
+
+### https://www.architectmagazine.com/design/house-by-julia-morgan-lists-for-under-1-mil_o
+
+> House by Julia Morgan Lists for Under $1 Mil
+Located in Vallejo, Calif., the residence represents the AIA Gold Medal-winning architect’s Beaux-Arts and Arts and Crafts aesthetic.
 
 
 ## Articles
