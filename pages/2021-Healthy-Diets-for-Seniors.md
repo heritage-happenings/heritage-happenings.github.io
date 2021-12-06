@@ -1,4 +1,6 @@
-# 2020 Healthy Diets for Seniors
+# 2021 Healthy Diets for Seniors
+
+## Introduction
 
 One of the great pleasures of every day life for seniors is simply to eat food.
 
@@ -37,11 +39,85 @@ It is long and will never be finished because new research, learning and product
 Fingers crossed that one day there will be a simple one-pager, er, menu that captures a summary of the tips and hints that would whet the appetite of a registered dietician.
 
 
+## Wikipedia References
+
+* https://en.wikipedia.org/wiki/Catering
+* https://en.wikipedia.org/wiki/Dietitian
+* https://en.wikipedia.org/wiki/Food_choice_of_older_adults
+* https://en.wikipedia.org/wiki/Food_industry
+* https://en.wikipedia.org/wiki/Foodservice
+* https://en.wikipedia.org/wiki/Healthy_diet
+* https://en.wikipedia.org/wiki/Human_nutrition
+* https://en.wikipedia.org/wiki/List_of_nutrition_guides
+* https://en.wikipedia.org/wiki/Nutrition
+* https://en.wikipedia.org/wiki/Nutritionist
+* https://en.wikipedia.org/wiki/Waiting_staff
+* https://en.wikipedia.org/wiki/ISO_22000
+
+
+Categories
+
+* https://en.wikipedia.org/wiki/Category:Food_industry
+* https://en.wikipedia.org/wiki/Category:Food_safety_organizations
+* https://en.wikipedia.org/wiki/Category:Food_safety_in_the_United_States
+* https://en.wikipedia.org/wiki/Category:Food_science
+* https://en.wikipedia.org/wiki/Category:Food_science_institutes
+* https://en.wikipedia.org/wiki/Category:Nutrition
+
+
+
 ## Organizations
 
-## Academy of Nutrition and Dietetics
+### Government Organizations
+
+* https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+	* https://en.wikipedia.org/wiki/Center_for_Food_Safety_and_Applied_Nutrition
+* https://acl.gov/senior-nutrition
+	* https://acl.gov/senior-nutrition/data-evaluation
+	* https://acl.gov/senior-nutrition/more-resources
+	* https://acl.gov/senior-nutrition/tips-guides
+
+USDA
+
+* https://www.fns.usda.gov/
+* https://nesr.usda.gov/
+* https://www.myplate.gov/
+* https://www.dietaryguidelines.gov/
+
+
+### Not for Profit Organizations
+
+* https://www.ifsh.iit.edu/
+	* https://en.wikipedia.org/wiki/Institute_for_Food_Safety_and_Health
+
+* http://specertified.com/
+	* Nice site but looks to be no longer active
+	* https://en.wikipedia.org/wiki/SPE_Certified
+	* http://specertified.com/explore/links
+	* http://specertified.com/how/certification
+
+* https://mayerrothschild.org/
+
+
+
+### Academy of Nutrition and Dietetics
 
 * https://www.eatright.org/
+
+> Vision: A world where all people thrive through the transformative power of food and nutrition
+
+>Mission: Accelerate improvements in global health and well-being through food and nutrition
+
+>Principles: The Academy of Nutrition and Dietetics and our members:
+
+>* Amplify the contribution and value of diverse nutrition and dietetics practitioners to the public
+>* Position registered dietitian nutritionists as the experts in food and nutrition
+>* Expand workforce demand and capacity
+>* Incorporate research, professional development, technology and practice to foster innovation and discovery
+>* Collaborate with key stakeholders to solve the greatest food and nutrition challenges, now and in the future
+>* Focus on making a system-wide impact across the food, well-being and health care sectors
+>* Have a global impact in eliminating all forms of malnutrition.
+
 * https://jandonline.org/
 
 > The Academy of Nutrition and Dietetics is the world's largest organization of food and nutrition professionals founded in Cleveland, Ohio, in 1917, by a visionary group of women dedicated to helping the government conserve food and improve the public's health and nutrition during World War I. Today, the Academy represents more than 100,000 credentialed practitioners — registered dietitian nutritionists, dietetic technicians, registered, and other dietetics and nutrition professionals holding undergraduate and advanced degrees in nutrition and dietetics, and students — and is committed to improving the nation's health and advancing the profession of dietetics through research, education and advocacy.
@@ -152,7 +228,10 @@ _Please share any useful links of research you can use that is available on a Ha
 
 ## Web Sites
 
-### Academy of Nutrition and Dietetics: _Food & Nutrition Magazine_
+* http://www.mccc.edu/pdf/eng024/Class%208/healthy%20tips%20for%20grocery%20shopping.pdf
+* https://www.drweil.com/
+
+### Academy of Nutrition and Dietetics: _Food & Nutrition Magazine_ online journal
 
 * https://FoodandNutrition.org
 
@@ -206,6 +285,9 @@ Articles to diet items of current interest
 
 * Fat Chance by Robert Lustig
 * Vitamania: How Vitamins Revolutionized the Way We Think About Food by Catherine Price
+* http://michaelpollan.com/
+* https://en.wikipedia.org/wiki/In_Defense_of_Food
+* https://www.health.harvard.edu/nutrition/eat_drink_and_be_healthy
 
 ## Videos
 
@@ -223,32 +305,8 @@ Articles to diet items of current interest
 * https://www.youtube.com/channel/UCMMYLn2mjyvto7GbrpYFL8Q
 
 
-## Reference
+## Ingredient References
 
-### Wikipedia
-
-* https://en.wikipedia.org/wiki/Dietitian
-* https://en.wikipedia.org/wiki/Elderly_care
-* https://en.wikipedia.org/wiki/Food_choice_of_older_adults
-* https://en.wikipedia.org/wiki/Healthy_diet
-* https://en.wikipedia.org/wiki/Human_nutrition
-* https://en.wikipedia.org/wiki/List_of_nutrition_guides
-* https://en.wikipedia.org/wiki/Gerontology
-* https://en.wikipedia.org/wiki/Nutrition
-* https://en.wikipedia.org/wiki/Nutritionist
-
-
-Categories
-
-* https://en.wikipedia.org/wiki/Category:Elderly_care
-* https://en.wikipedia.org/wiki/Category:Food_science
-* https://en.wikipedia.org/wiki/Category:Food_science_institutes
-* https://en.wikipedia.org/wiki/Category:Geriatrics
-* https://en.wikipedia.org/wiki/Category:Nutrition
-* https://en.wikipedia.org/wiki/Category:Old_age
-
-
-more
 
 * https://en.wikibooks.org/wiki/Fundamentals_of_Human_Nutrition
 
@@ -296,20 +354,52 @@ http://www.prevention.com/food/healthy-eating-tips/nitrites-and-nitrates
 _Following still to be processed_
 
 
-## Guides
+## Healthy Eating Guides
 
 * https://www.nal.usda.gov/fnic/interactiveDRI/
+* https://www.nal.usda.gov/legacy/fnic/older-individuals
+	* Many links
 * https://ndb.nal.usda.gov/ndb/doc/index
 * https://www.nia.nih.gov/health/publication/healthy-eating-after-50
 * http://www.dsld.nlm.nih.gov/dsld/docs/Dietary_Reference_Intakes_Recommended_Intakes_for_Individuals.pdf
 
 
-## UPC
+
+* http://www.efad.org/media/1351/nutritional_guidlines_and_menu_checklist_march_2014.pdf
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583249/pdf/nihms-70443.pdf
+* https://www.aota.org/-/media/Corporate/Files/Practice/Aging/Resources/New%20Dining%20Practice%20Standards%20final%208-26-11.pdf
+* https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Resources/2019-Best-Practices-for-Nutrition,-Food-Service-and-Dining-in-Long-Term-Care-LTC-Homes.pdf
+	* Good resource - useful in preparing checklist
+* https://www.beckydorner.com/product/diet-and-nutrition-care-manual-simplified-edition/
+* https://european-nutrition.org/
+* https://european-nutrition.org/wp-content/uploads/2021/06/2021-06-Promoting-well-nutrition-in-elderly-care-FINAL.pdf
+* https://centeredcare.org/data/Dining_Practice_Standards_Pioneer_Network.pdf
+
+
+
+### MIND Diet
+
+Wikipedia
+
+* https://en.wikipedia.org/wiki/MIND_diet
+* https://en.wikipedia.org/wiki/DASH_diet
+
+Articles
+
+* https://www.cnn.com/2021/05/05/health/mediterranean-diet-memory-loss-dementia-wellness/index.html
+	* https://n.neurology.org/content/early/2021/05/04/WNL.0000000000012067
+
+
+## Shopping
+
+### UPC
 
 * https://ndb.nal.usda.gov/ndb/search/list
 * Example: https://ndb.nal.usda.gov/fdc-app.html#/food-details/386853/nutrients
 * 072890006196
 * 071142000142
+
+Examples:
 
 Orgain almond milk
 
@@ -333,7 +423,7 @@ Facts & API
 
 
 
-## Shopping Goals
+### Shopping Goals
 
 What should I be thinking about when thinking about shopping food?
 
@@ -352,7 +442,7 @@ Food should be from the outside walls of the supermarket - fresh and perishable.
 Everything is eaten. No food is thrown away.
 
 
-## Hints
+### Shopping Hints
 
 * Look at the expiry dates
 * Look at the nutrition infobox of everything
@@ -364,14 +454,95 @@ Everything is eaten. No food is thrown away.
 * Deli products have no nutrition info
 
 
-## Links of Interest
 
-* http://michaelpollan.com/
-* https://en.wikipedia.org/wiki/In_Defense_of_Food
-* http://www.mccc.edu/pdf/eng024/Class%208/healthy%20tips%20for%20grocery%20shopping.pdf
-* https://www.health.harvard.edu/nutrition/eat_drink_and_be_healthy
-* https://www.drweil.com/
 
+
+
+## Morrison Living
+
+* https://www.morrisonliving.com/
+	* https://www.morrisonliving.com/culinary/
+
+Bullet points of interest
+
+* To make food that’s irresistible
+* To make it easy for your seniors to make healthy choices
+* Scratch cooking with fresh, local, and sustainable ingredients
+* Innovative, nutritionally-balanced meals that promote healthy eating
+* Culinary events and programs focused on regional, national and global cuisines
+* House-made soups and meats roasted in-house
+* Seasonal produce and ingredients
+* A complete recipe and production system allowing chefs to focus on the food
+* Healthy and indulgent, comfort-food options
+* Venues offering everything from grab-and-go options to casual “bar food” and chef-crafted cuisine
+* Easy-to-understand ingredients that inform diners of allergens and taste profiles, such as “spicy”
+* Dishes that accommodate dietary preferences, such as vegan and vegetarian
+* Options for people with special dietary requirements, including low salt, dairy free, sugar free and low fat
+* Reference to local and sustainable food sources
+* Handheld options for those who have difficulty using utensils
+* High-quality purees and texture-modified options for those with difficulty swallowing
+* Poultry produced without the routine use of human antibiotics
+* Fresh yogurt and milk free of growth hormones rBGH/rBST
+* Sustainably sourced seafood
+* Certified humane cage-free (shell) eggs
+* Local produce whenever possible
+
+
+
+## SPE
+
+http://specertified.com/what
+
+* Our mission: To promote health and well-being through food to all people.
+* Our vision: To be the universal, trusted standard for healthy and delicious dining outside the home.
+
+What separates us from our competitors?
+
+* Unique culinary background and heritage
+* Scientifically grounded, evidence-based approach to certification criteria
+* Tiered certification system to recognize and highlight different levels of commitment to sustainability and nutrition
+
+Approach
+
+* Sourcing and Sustainability - being
+* Nutrition and Menu Balance - knowing
+* Training and Transparency - doing
+
+
+Evaluating the plate
+
+To ensure that a diner can find healthy options, SPE also prioritizes the execution of our health through food philosophy on the plate.
+
+SPE-certified establishments are required to offer dishes that meet specific criteria for a balanced plate.  Higher scores are achieved by including more dishes on the menu that:
+
+* Use nutrient-dense ingredients
+* Use minimal quantities of saturated fat
+* Adhere to portion guidelines
+* Utilize healthy cooking techniques
+* Use antibiotic-free animal proteins
+* Minimize high-sodium ingredients
+
+SPE is committed to:
+
+* Promoting nutrient density through the use of vegetables, fruits, whole grains and legumes
+* Encouraging the use of healthier unsaturated fats while limiting the use of saturated fats
+* Limiting processed ingredients which are higher in sodium, added sugars and artificial additives
+* Promoting preparation techniques that preserve the integrity of the ingredients
+* Promoting sustainable meals by encouraging the use of products from responsibly raised animals and smaller portions of red meat
+
+
+### Dieticians of Canada
+
+* https://www.dietitians.ca/
+* https://www.dietitians.ca/DietitiansOfCanada/media/Documents/Resources/2019-Best-Practices-for-Nutrition,-Food-Service-and-Dining-in-Long-Term-Care-LTC-Homes.pdf
+
+Best practices for the nutrition, food service and dining program recognize that quality nutrition, hydration and dining
+is achieved by meeting the goals of these five components:
+• Organization and Administration
+• Menu Planning
+• Food Production
+• Nutrition and Hydration Care
+• Meal Service and Pleasurable Dining
 
 ***
 

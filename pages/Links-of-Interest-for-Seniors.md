@@ -15,14 +15,34 @@ Given the very large number of organizations, a system of locating and highlight
 * https://en.wikipedia.org/wiki/Ageing
 >Ageing or aging (see spelling differences) is the process of becoming older. The term refers especially to human beings, many animals, and fungi, whereas for example bacteria, perennial plants and some simple animals are potentially biologically immortal. In the broader sense, ageing can refer to single cells within an organism which have ceased dividing (cellular senescence) or to the population of a species (population ageing).
 
-* https://en.wikipedia.org/wiki/Category:Ageing
-* https://en.wikipedia.org/wiki/Category:Old_age
+
 
 * https://en.wikipedia.org/wiki/End-of-history_illusion
 >The end-of-history illusion is a psychological illusion in which individuals of all ages believe that they have experienced significant personal growth and changes in tastes up to the present moment, but will not substantially grow or mature in the future. Despite recognizing that their perceptions have evolved, individuals predict that their perceptions will remain roughly the same in the future.
 
 
+Categories
+
+* https://en.wikipedia.org/wiki/Category:Ageing
+* https://en.wikipedia.org/wiki/Category:Old_age
+* https://en.wikipedia.org/wiki/Category:Retirement
+
+### Caregiving
+
+* https://en.wikipedia.org/wiki/Caregiver
+* https://en.wikipedia.org/wiki/Elderly_care
+* https://en.wikipedia.org/wiki/Independent_living
+* https://en.wikipedia.org/wiki/Independent_senior_living
+
+Categories
+
+* https://en.wikipedia.org/wiki/Category:Caregiving
+* https://en.wikipedia.org/wiki/Category:Elderly_care
+* https://en.wikipedia.org/wiki/Category:Retirement_communities
+
+
 ### Gerontology
+
 
 * https://en.wikipedia.org/wiki/Gerontology
 > Gerontology is the study of the social, cultural, psychological, cognitive, and biological aspects of aging.
@@ -41,7 +61,11 @@ Given the very large number of organizations, a system of locating and highlight
 >Geriatrics, or geriatric medicine, is a specialty that focuses on health care of elderly people. It aims to promote health by preventing and treating diseases and disabilities in older adults.
 
 * https://en.wikipedia.org/wiki/Elderly_care
+
+Categories
+
 * https://en.wikipedia.org/wiki/Category:Elderly_care
+* https://en.wikipedia.org/wiki/Category:Geriatrics
 
 ### Geriatric Care Management
 
@@ -262,6 +286,10 @@ Not for profit
 	* https://www.asaging.org/web-seminars
 	* the American Society on Aging is an association of diverse individuals bound by a common goal: to support the commitment and enhance the knowledge and skills of those who seek to improve the quality of life of older adults and their families.
 * https://www.buckinstitute.org/
+* https://centeredcare.org/
+	* https://centeredcare.org/data/cms_artifacts_of_culture_change.pdf
+	* https://centeredcare.org/data/process_for_care_planning_for_resident_choice.pdf
+	* excellent checklists
 * https://www.changingaging.org/
 * https://www.encore.org/
 	* We are older activists, innovators and leaders, standing with younger allies to bridge divides, connect across generations and create a better future together.
@@ -402,6 +430,7 @@ More
 	* 415 411 6490
 	* Example: Ron, Brent & Eunice with Mary Charlotte
 
+Village
 
 ## Social Networks for Elders
 
@@ -434,20 +463,6 @@ Services
 
 * https://www.prenuvo.com/
 	* The secret to a long and healthy life is to diagnose cancer and major disease early. Prenuvo offers a comprehensive, clinically accurate and affordable way to stay on top of your health.
-
-## Diets, Food and Nutrition
-
-### MIND Diet
-
-Wikipedia
-
-* https://en.wikipedia.org/wiki/MIND_diet
-* https://en.wikipedia.org/wiki/DASH_diet
-
-Articles
-
-* https://www.cnn.com/2021/05/05/health/mediterranean-diet-memory-loss-dementia-wellness/index.html
-	* https://n.neurology.org/content/early/2021/05/04/WNL.0000000000012067
 
 
 
