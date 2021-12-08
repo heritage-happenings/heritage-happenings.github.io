@@ -1,6 +1,21 @@
 # Drafts Read Me
 
 
+## Pets
+
+* https://www.hud.gov/sites/dfiles/PA/documents/HUDAsstAnimalNC1-28-2020.pdf
+* https://www.ada.gov/regs2010/service_animal_qa.pdf
+* https://www.nolo.com/legal-encyclopedia/california-laws-psychiatric-service-dogs-emotional-support-animals-public-places.html
+* https://www.fisherphillips.com/a/web/qrUniG6tJr7KkntTRjEfvx/2jtwdt/Service%2520Animals%2520Emotional%2520Support%2520Animals%2520and%2520Pets.pdf
+* https://www.pinkowskilaw.com/assisted-living-blog/2020/1/20/service-animals-and-assistance-animals-in-assisted-living
+* http://jaapl.org/content/jaapl/early/2020/09/16/JAAPL.200047-20.full.pdf
+* https://www.animallaw.info/article/faqs-emotional-support-animals
+	* Good FAQ
+* https://njaa.com/wp-content/uploads/2017/04/Emotional-Support-Animals.pdf
+	* Big picture: assistamce animal MUST be accomodated.
+* https://www.shrm.org/resourcesandtools/tools-and-samples/exreq/pages/details.aspx?erid=507
+	* Many links
+
 ## House Comm
 
 Jane
