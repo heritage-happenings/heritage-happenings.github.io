@@ -14,31 +14,31 @@ The text below highlights pages of possible interest.
 
 * Scans from prints from a microfilm from the blueprints of the original drawings
 
-## ["What is the meaning of the three Roses?" article]( https://heritage-happenings.github.io/#pages/What-is-the-meaning-of-the-three-roses.md )
+## ["What is the meaning of the three Roses?" article]( #pages/What-is-the-meaning-of-the-three-roses.md )
 
 * An investigation into the terracotta panels on the front elevation of the Heritage
 
-## ["Gift by Dr Nat T Coulson" ]( https://heritage-happenings.github.io/#pages/Nathaniel-Thomas-Coulson.md )
+## ["Gift by Dr Nat T Coulson" ]( #pages/Nathaniel-Thomas-Coulson.md )
 
 * The story behind the newly rediscovered pedestal in the Perry Garden
 
-## [2021 Medicare]( https://heritage-happenings.github.io/#pages/2021-Medicare.md )
+## [2021 Medicare]( #pages/2021-Medicare.md )
 
 * Information and tips relating to health plans for 2021
 
-## [Julia Morgan Links]( https://heritage-happenings.github.io/#pages/Julia-Morgan-Links.md )
+## [Julia Morgan Links]( #pages/Julia-Morgan-Links.md )
 
 * Preliminary explorations onto the engaging career of the architect of the Heritage
 
-## [Links of Interest for Seniors]( https://heritage-happenings.github.io/#pages/Links-of-Interest-for-Seniors.md )
+## [Links of Interest for Seniors]( #pages/Links-of-Interest-for-Seniors.md )
 
 * Many more links to be added here in due course
 
-## [21 Questions for Seniors]( https://heritage-happenings.github.io/#pages/21-Questions-for-Seniors.md )
+## [21 Questions for Seniors]( #pages/21-Questions-for-Seniors.md )
 
 * A checklist for helping people to decide where to live as a senior
 
-## [Photos]( https://heritage-happenings.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
+## [Photos]( #photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
 
 * Photos from in and around the Heritage premises
 
