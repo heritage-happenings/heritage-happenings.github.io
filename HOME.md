@@ -1,18 +1,16 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [ Heretics on the Marina]( https://heritage-happenings.github.io/ "Home page" )
+# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [ Heritage Happenings]( https://heritage-happenings.github.io/ "Home page" )
 
 
 These web pages are an unofficial web presence for seniors and friends of seniors in San Francisco - which may or may not include the good peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
-2021-12-31
 
-
-<img src=https://heritage-happenings.github.io/images/heritage-front.jpg width=100% >
+<img src=https://heritage-happenings.github.io/photos/images/heritage-front.jpg width=100% >
 
 Use the menu on the left to browse the contents of this site.
 
 The text below highlights pages of possible interest.
 
-## [Scans of Julia Morgan's 1925 drawings]( https://heritage-happenings.github.io/#scans/1925-heritage-drawings-morgan/README.md )
+## [Scans of Julia Morgan's 1925 drawings]( #scans/1925-heritage-drawings-morgan/README.md )
 
 * Scans from prints from a microfilm from the blueprints of the original drawings
 
@@ -53,11 +51,11 @@ The text below highlights pages of possible interest.
 
 * Links to voter guides, endorsements (left, right and center) and FAQs
 
+2020-10-11 ~ Here we go!
 -->
 
 ***
 
-2020-10-11 ~ Here we go!
 
 Thank you testing this web site!
 
@@ -69,7 +67,7 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 ***
 
-<a href="https://heritage-happenings.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heritage-happenings.github.io/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritage-happenings.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heritage-happenings.github.io/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritage-happenings.github.io/#images/people.jpg" target="_top" ><img src=https://heritage-happenings.github.io/images/people.jpg width=30% style=margin:1%;></a>
+<a href="https://heritage-happenings.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heritage-happenings.github.io/photos/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritage-happenings.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heritage-happenings.github.io/photos/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritage-happenings.github.io/#images/people.jpg" target="_top" ><img src=https://heritage-happenings.github.io/photos/images/people.jpg width=30% style=margin:1%;></a>
 
 ### Opinion Disclaimer
 
