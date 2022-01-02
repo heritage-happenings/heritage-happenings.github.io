@@ -1,7 +1,7 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [ Heritage Happenings]( https://heritage-happenings.github.io/ "Home page" )
 
 
-These web pages are an unofficial web presence for seniors and friends of seniors in San Francisco - which may or may not include the good peeps of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
+These web pages complement the "Heritage Happenings" a monthly publication published by residents of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
 
 <img src=https://heritage-happenings.github.io/photos/images/heritage-front.jpg width=100% >
@@ -59,7 +59,7 @@ The text below highlights pages of possible interest.
 
 Thank you testing this web site!
 
-As with so many first efforts, there is a lack of content and a number of design issues.
+As with so many first efforts, there is a lack of organization and a number of design issues.
 
 Fingers crossed: both these issues are dealt with in due course. In the mean time, please send your comments, thoughts and suggestions to Theo.
 
@@ -75,4 +75,4 @@ The views and opinions expressed on this web site are those of the authors and d
 
 ***
 
-<center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
+<center><a href=javascript:main.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
