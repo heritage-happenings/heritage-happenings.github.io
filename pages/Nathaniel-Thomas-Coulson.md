@@ -15,7 +15,7 @@ Summary:
 
 ## Photo: The plaque at the base of a pedestal in the Porter garden at the Heritage on the Marina
 
-![]( https://heretics-sf.github.io/images/coulson/1934-coulson-plaque-pine-street.jpg )
+![]( https://heritage-happenings.github.io/images/coulson/1934-coulson-plaque-pine-street.jpg )
 
 
 ## FindAGrave website: Dr Nathaniel Thomas Coulson
@@ -69,15 +69,15 @@ _A tip of the hat to Jean Fowler for noting the following_
 
 ## Grace Cathedral website: Cathedral Bells and Specification
 
-<img src=https://heretics-sf.github.io/images/coulson/coulsoncarillon/DSCN2895.JPG width=100% >
+<img src=https://heritage-happenings.github.io/images/coulson/coulsoncarillon/DSCN2895.JPG width=100% >
 
 View of the Singing Tower (north cathedral tower) from the west.
 
-<img src=https://heretics-sf.github.io/images/coulson/coulsoncarillon/gcs554.jpg width=100% >
+<img src=https://heritage-happenings.github.io/images/coulson/coulsoncarillon/gcs554.jpg width=100% >
 
 Dr. Coulson admiring the Bourdon bell (12001 pounds) on its arrival in San Francisco in 1938
 
-<img src=https://heretics-sf.github.io/images/coulson/coulsoncarillon/gcs935.jpg width=100% >
+<img src=https://heritage-happenings.github.io/images/coulson/coulsoncarillon/gcs935.jpg width=100% >
 
 Carillon under constriction at Gillet and Johnston factory, Croydon, UK
 
@@ -124,7 +124,7 @@ Excerpts from the book are below. Note that
 
 * https://www.cardcow.com/772746/san-francisco-california-dr-nathaniel-thomas-coulson-bourdon-bell-exposition-1939/
 
-![]( https://heretics-sf.github.io/images/coulson/1939-coulson-postcard-bourdon-bell.jpg )
+![]( https://heritage-happenings.github.io/images/coulson/1939-coulson-postcard-bourdon-bell.jpg )
 
 Dr. Nathaniel Thomas Coulson, donor of the 44 bell carillon for Grace Cathedral, San Francisco, as the 6 ton Bourdon bell was being unloaded. The carillon was lent to the Golden Gate International Exposition and installed in the Tower of the Sun, Treasure Island. Dr. Coulson chose for each bell a name and bible verse. The Peace Bell bears the text from Isaiah "Nation shall not lift up sward against Nation."
 

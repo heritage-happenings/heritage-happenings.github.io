@@ -7,15 +7,15 @@ Realtor listing: https://www.redfin.com/CA/Oakland/1524-29th-Ave-94601/home/4986
 
 Barbara lived at the house at this address from 1967 to 1972. Her husband at the time, Ralph, was the pastor of the Fruitvale Congregational Church.
 
-<img src="https://heretics-sf.github.io/people/barbara-clevenger/1524-29th-avenue-front.png" width=50% >
+<img src="https://heritage-happenings.github.io/people/barbara-clevenger/1524-29th-avenue-front.png" width=50% >
 _Front of house with image captured from Google StreetView_
 
 <!--@@@
-<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heretics-sf.github.io/people/barbara-clevenger/Julia%20Morgan%20Arts%20and%20Crafts%20Brown%20Shingle%20on%20Sausal%20Creek_Optimized.pdf height=100% width=100% ></iframe></div>
+<div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://heritage-happenings.github.io/people/barbara-clevenger/Julia%20Morgan%20Arts%20and%20Crafts%20Brown%20Shingle%20on%20Sausal%20Creek_Optimized.pdf height=100% width=100% ></iframe></div>
 _Preview of of "Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitvale, Oakland, California" a paper written by Barbara Clevenger_
 @@@-->
 
-## Full Screen: [Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitvale, Oakland, California]( https://heretics-sf.github.io/people/barbara-clevenger/Julia%20Morgan%20Arts%20and%20Crafts%20Brown%20Shingle%20on%20Sausal%20Creek_Optimized.pdf )
+## Full Screen: [Julia Morgan Arts & Crafts Brown Shingle on Sausal Creek, Fruitvale, Oakland, California]( https://heritage-happenings.github.io/people/barbara-clevenger/Julia%20Morgan%20Arts%20and%20Crafts%20Brown%20Shingle%20on%20Sausal%20Creek_Optimized.pdf )
 
 
 First paragraph of the text of Barbara's 1989 paper:
@@ -30,7 +30,7 @@ references to it in Mark Wilson’s “<a href="https://www.amazon.com/Living-Le
 
 ### [Fruitvale Congregational Church]( https://www.worthpoint.com/worthopedia/fruitvale-congregational-church-1816725766 )
 
-<img src="https://heretics-sf.github.io/people/barbara-clevenger/fruitvale-congregational-church.jpg" width=100%>
+<img src="https://heritage-happenings.github.io/people/barbara-clevenger/fruitvale-congregational-church.jpg" width=100%>
 
 _Fruitvale Congregational Church (built 1911, demolished 1973). Architect: Fruitvale Resident Hugo Storch (1873-1917) Fruitvale Avenue, Oakland, California_
 
@@ -57,7 +57,7 @@ Sometime after Barbara's departure, the house became and remains a half-way hous
 
 ### History Collection: [Before the BLM Movement There Was the Black Panther Party: A Look Back in Photographs]( https://historycollection.com/blm-movement-black-panther-party-look-back-photographs/ )
 
-<img alt="Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery" src="https://heretics-sf.github.io/people/barbara-clevenger/Leonard-Colar-helping-a-woman-with-her-shopping-as-part-of-the-Black-Panther-Senior-Escort-program-in-Oakland.-1973.-Steven-Kasher-Gallery.png" width=100%>
+<img alt="Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery" src="https://heritage-happenings.github.io/people/barbara-clevenger/Leonard-Colar-helping-a-woman-with-her-shopping-as-part-of-the-Black-Panther-Senior-Escort-program-in-Oakland.-1973.-Steven-Kasher-Gallery.png" width=100%>
 _Leonard Colar helping a woman with her shopping as part of the Black Panther Senior Escort program in Oakland. 1973. Steven Kasher Gallery_
 
 
