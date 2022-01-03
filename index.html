@@ -7,7 +7,7 @@
 	<meta name="description"
 		content="Built by residents with abilities - for residents with needs">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2022-01-02">
+	<meta name="date" content="2022-01-03">
 	<title>Heritage Happenings</title>
 
 	<!-- Copyright 2022 Theo Armour. MIT license -->
@@ -26,14 +26,7 @@
 
 <body>
 
-	<script src="https://pushme-pullyou.github.io/tootoo-2022/lib01/mnu-menu/r-2022-01-01/mnu-menu.js"></script>
-
-	<script src="https://pushme-pullyou.github.io/tootoo-2022/lib01/frx-file-read-xhr/r-2022-01-01/frx-file-read-xhr.js"></script>
-
-	<script src="https://pushme-pullyou.github.io/tootoo-2022/lib01/grv-github-repo-tree-view/r-2022-01-02/grv-github-repo-tree-view.js"></script>
-
-
-	<div id=MNUdivShowHide ></div>
+	<div id=MNUdivShowHide></div>
 
 
 	<main id=main>
@@ -46,6 +39,10 @@
 	<script>
 
 		const COR = {
+			// Used by GRV
+			user: "heritage-happenings",
+			repo: "heritage-happenings.github.io",
+			branch: "master",
 
 			// Used by MNU ~ mnu-menu.js
 			description: document.head.querySelector( "[ name=description ]" ).content + `<p>Release: 2022-01-01<p>`,
@@ -57,11 +54,6 @@
 			urlSource: "https://github.com/heritage-happenings/heritage-happenings.github.io/",
 			version: document.head.querySelector( "[ name=date ]" ).content,
 
-			// Used by GRV
-			user: "heritage-happenings",
-			repo: "heritage-happenings.github.io",
-			branch: "master",
-
 			// Used by FRX
 			//pathContent: "https://heritage-happenings.github.io/",
 			pathContent: "",
@@ -72,13 +64,41 @@
 
 			filesAll: false,
 			// defaultIgnoreFolders: [],
-			defaultIgnoreFolders: [ "archive", "lib", "lib3d", "lib-geo", "lib-templates" ],
+			defaultIgnoreFolders: [ "archive", "lib-templates" ],
 			filterFiles: [ "gif", "md", "html", "jpg", "license", "pdf", "png", "svg", "txt", "xlsx", "" ],
+			ignoreFiles: [ "404.html", "index.html", "LICENSE", "README.md", "readme.html" ], // root only
 
 		};
 
 
-		init();
+		COR.scripts = [
+			"./lib01/mnu-menu/r-2022-01-03/mnu-menu.js",
+			"./lib01/frx-file-read-xhr/r-2022-01-03/frx-file-read-xhr.js",
+			"./lib01/grv-github-repo-tree-view/r-2022-01-03/grv-github-repo-tree-view.js"
+		];
+
+		COR.loaded = 0;
+
+		COR.loading = function () {
+
+			COR.loaded++;
+			if ( COR.loaded === COR.scripts.length ) { init(); }
+
+		};
+
+		COR.loadLoaders = function () {
+
+			for ( let script of COR.scripts ) {
+
+				const load = document.body.appendChild( document.createElement( 'script' ) );
+				load.onload = COR.loading;
+				load.src = COR.pathTooToo + script;
+
+			}
+
+		};
+
+		COR.loadLoaders();
 
 
 		function init() {
@@ -87,15 +107,14 @@
 
 			MNU.init();
 			//MNU.getSample();
-			//sumNavMenu.hidden = false;
+			sumNavMenu.hidden = true;
 
-			//const htm = "Hello, World!";
-			//MNU.init( { description: htm } );
 			//MNUaSource.hidden = true;
 			MNUspnVersion.hidden = true;
 
 			// FRX => "File Read XHR"
 			FRX.init();
+			//FRX.getMenu();
 
 			// GR
 			//GRA.init();
@@ -110,16 +129,16 @@
 			GRVbutMenu.hidden = true;
 			GRVdet.open = true;
 
+
 			FRX.onHashChange();
 
 			// if running on server, keeps address bar pointed to latest dev
 
 			if ( location.protocol === "https:" ) {
 
-				if ( COR.version !== "2022-01-02" ) { window.history.pushState( "", "", "./" + location.hash ); }
+				window.history.pushState( "", "", "./" + location.hash );
 
 				COR.ignoreFolders = COR.defaultIgnoreFolders;
-				COR.pathContent = "";
 
 			} else {
 
