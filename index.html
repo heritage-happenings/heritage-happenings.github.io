@@ -7,7 +7,7 @@
 	<meta name="description"
 		content="Built by residents with abilities - for residents with needs">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2022-01-01">
+	<meta name="date" content="2022-01-02">
 	<title>Heritage Happenings</title>
 
 	<!-- Copyright 2022 Theo Armour. MIT license -->
@@ -30,7 +30,7 @@
 
 	<script src="https://pushme-pullyou.github.io/tootoo-2022/lib01/frx-file-read-xhr/r-2022-01-01/frx-file-read-xhr.js"></script>
 
-	<script src="https://pushme-pullyou.github.io/tootoo-2022/lib01/grv-github-repo-tree-view/r-2022-01-01/grv-github-repo-tree-view.js"></script>
+	<script src="https://pushme-pullyou.github.io/tootoo-2022/lib01/grv-github-repo-tree-view/r-2022-01-02/grv-github-repo-tree-view.js"></script>
 
 
 	<div id=MNUdivShowHide ></div>
@@ -70,6 +70,7 @@
 			//pathTooToo: "./",
 			defaultFile: "HOME.md",
 
+			filesAll: false,
 			// defaultIgnoreFolders: [],
 			defaultIgnoreFolders: [ "archive", "lib", "lib3d", "lib-geo", "lib-templates" ],
 			filterFiles: [ "gif", "md", "html", "jpg", "license", "pdf", "png", "svg", "txt", "xlsx", "" ],
@@ -82,7 +83,8 @@
 
 		function init() {
 
-			// MNU = Menu ~ mnu-menu.js
+			// MNU => "Menu ~ mnu-menu.js"
+
 			MNU.init();
 			//MNU.getSample();
 			//sumNavMenu.hidden = false;
@@ -92,30 +94,29 @@
 			//MNUaSource.hidden = true;
 			MNUspnVersion.hidden = true;
 
-			// FRX = File Read XHR
+			// FRX => "File Read XHR"
 			FRX.init();
 
 			// GR
 			//GRA.init();
 
-			//GRV = GitHub Repo View
-			GRV.getFiles = GRV.getFilesAll;
-			//GRV.getFiles = GRV.getFilesCurated;
+			//GRV => "GitHub Repo View"
+			GRV.getFiles = GRV.getFilesCurated;
+			//GRV.getFiles = GRV.getFilesAll;
 			GRV.init();
+
 			GRVdivIntro.hidden = true;
 			GRVsumRepo.hidden = true;
 			GRVbutMenu.hidden = true;
 			GRVdet.open = true;
-			GRV.getRepo();
 
 			FRX.onHashChange();
-
 
 			// if running on server, keeps address bar pointed to latest dev
 
 			if ( location.protocol === "https:" ) {
 
-				if ( COR.version !== "2022-01-xx" ) { window.history.pushState( "", "", "./" + location.hash ); }
+				if ( COR.version !== "2022-01-02" ) { window.history.pushState( "", "", "./" + location.hash ); }
 
 				COR.ignoreFolders = COR.defaultIgnoreFolders;
 				COR.pathContent = "";
