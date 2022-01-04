@@ -39,10 +39,6 @@
 	<script>
 
 		const COR = {
-			// Used by GRV
-			user: "heritage-happenings",
-			repo: "heritage-happenings.github.io",
-			branch: "master",
 
 			// Used by MNU ~ mnu-menu.js
 			description: document.head.querySelector( "[ name=description ]" ).content + `<p>Release: 2022-01-01<p>`,
@@ -55,16 +51,22 @@
 			version: document.head.querySelector( "[ name=date ]" ).content,
 
 			// Used by FRX
+			defaultFile: "HOME.md",
+			
 			//pathContent: "https://heritage-happenings.github.io/",
 			pathContent: "",
 
 			pathTooToo: "https://pushme-pullyou.github.io/tootoo-2022/",
 			//pathTooToo: "./",
-			defaultFile: "HOME.md",
 
-			filesAll: false,
-			// defaultIgnoreFolders: [],
+			// Used by GRV
+			user: "heritage-happenings",
+			repo: "heritage-happenings.github.io",
+			branch: "master",
+
+			//defaultIgnoreFolders: [],
 			defaultIgnoreFolders: [ "archive", "lib-templates" ],
+			filesAll: false,
 			filterFiles: [ "gif", "md", "html", "jpg", "license", "pdf", "png", "svg", "txt", "xlsx", "" ],
 			ignoreFiles: [ "404.html", "index.html", "LICENSE", "README.md", "readme.html" ], // root only
 
@@ -72,9 +74,9 @@
 
 
 		COR.scripts = [
-			"./lib01/mnu-menu/r-2022-01-03/mnu-menu.js",
-			"./lib01/frx-file-read-xhr/r-2022-01-03/frx-file-read-xhr.js",
-			"./lib01/grv-github-repo-tree-view/r-2022-01-03/grv-github-repo-tree-view.js"
+			"lib01/mnu-menu/r-2022-01-03/mnu-menu.js",
+			"lib01/frx-file-read-xhr/r-2022-01-03/frx-file-read-xhr.js",
+			"lib01/grv-github-repo-tree-view/r-2022-01-03/grv-github-repo-tree-view.js"
 		];
 
 		COR.loaded = 0;
@@ -120,7 +122,7 @@
 			//GRA.init();
 
 			//GRV => "GitHub Repo View"
-			GRV.getFiles = GRV.getFilesCurated;
+			//GRV.getFiles = GRV.getFilesCurated;
 			//GRV.getFiles = GRV.getFilesAll;
 			GRV.init();
 
