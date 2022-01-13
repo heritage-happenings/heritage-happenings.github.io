@@ -15,9 +15,10 @@
 
 	<style>
 		:root {
+			font-size: 150%;
 			/* --mnu-width: 20rem; commit*/
 			--main-hue: 10;
-			--mnu-width: 22rem;
+			--mnu-width: 19rem;
 			/* 0 to 360 0=red 120=green 240=blue */
 		}
 	</style>
@@ -52,7 +53,7 @@
 
 			// Used by FRX
 			defaultFile: "HOME.md",
-			
+
 			//pathContent: "https://heritage-happenings.github.io/",
 			pathContent: "",
 
@@ -108,11 +109,16 @@
 			// MNU => "Menu ~ mnu-menu.js"
 
 			MNU.init();
+			MNUdivExtras.innerHTML += `
+<button onclick=document.body.style.fontSize="80%" style="font-size:80%;">A</button>
+<button onclick=document.body.style.fontSize="100%" style="font-size:100%;">A</button>
+<button onclick=document.body.style.fontSize="150%" style="font-size:150%;">A</button>`
 			//MNU.getSample();
 			sumNavMenu.hidden = true;
 
 			//MNUaSource.hidden = true;
 			MNUspnVersion.hidden = true;
+
 
 			// FRX => "File Read XHR"
 			FRX.init();
@@ -130,6 +136,7 @@
 			GRVsumRepo.hidden = true;
 			GRVbutMenu.hidden = true;
 			GRVdet.open = true;
+
 
 
 			FRX.onHashChange();
