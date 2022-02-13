@@ -1,7 +1,7 @@
 # [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [ Heritage Happenings]( https://heritage-happenings.github.io/ "Home page" )
 
 
-These web pages complement the "Heritage Happenings" a monthly publication published by residents of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
+These web pages complement the _Heritage Happenings_ a monthly publication published by residents of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
 
 <img src=https://heritage-happenings.github.io/photos/images/heritage-front.jpg width=100% >
