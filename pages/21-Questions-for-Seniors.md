@@ -18,7 +18,7 @@ You may use this checklist in order to help you decide whether you should live i
 
 _The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmenting and completing. The mission is to have the greatest coverage with the fewest questions._
 
-## Location, Place, Premise ~ the physical, the what's there
+## Location, Place, Premise ~ the physical, the what's there, the where
 
 1. Do you like the country, state and municipality?
 	* Consider the culture, politics, infrastructure, friends and family
@@ -36,7 +36,7 @@ _The wording of each question needs further definition and clarifying of the mea
 	* Intrusions are prevented, emergency preparations have detailed guidance
 	* Non-slip floors, hand rails both sides, wheelchair accessible, multiple escape routes, alarms and communications, generators
 
-## Community, People
+## Community, People ~ the who & the why
 
 1. Do you like the people?
 	* Are residents and staff people you feel comfortable with
@@ -54,7 +54,7 @@ _The wording of each question needs further definition and clarifying of the mea
 	* You will bond, and they will help prevent bad things from happening
 
 
-## Organization, Support and Services
+## Organization, Support and Services ~ the what & when
 
 1. Are all the services you may need available?
 	* Assisted living, skilled nursing, dementia, hospice and access to doctors & hospitals
