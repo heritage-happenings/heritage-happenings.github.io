@@ -2,7 +2,7 @@
 
 
 
-See also "21 questions for elders: the back story"
+
 
 ## Preface
 
@@ -16,30 +16,11 @@ When thoughts like these start to happen, it is a good time to ask question such
 * "Will I be lonely, become a hoarder or retreat into unhealthy habits if I stay here?"
 * "Will I become a burden on my friends and family; will I disrupt the career plans of others so that they may look after me; will the time spent fussing over me take time away from being with my grandchildren and other descendants?"
 
-This document is checklist of a series of questions intended to help you gather the input needed to help you and your elder care team (you have one, don't you?) agree to a decision about your future life.
+This document provides 21 questions intended to help you gather the input needed to help you and your elder-care team (you have one, don't you?) agree to a decision about your future life.
 
-You may use this checklist in order to help you decide whether you should live in place or move somewhere else. Even if you decide that you are a stay-at-home, you will still need to find good responses to all the items in this checklist.
+You may use this checklist to help you decide whether you should live in place or move somewhere else. Even if you decide that you are a stay-at-home, you will still need to find good responses to all the items in this checklist. Other versions of these questions assist other outcomes for other uses. All of this and more is covered in "21 questions for elders: the back story"
 
-## Completeness versus Usability
 
-The inte
-
-A checklist is a list of all the things that you need to do, information that you want to find out, or things that you need to take somewhere, which you make in order to ensure that you do not forget anything.
-* https://www.collinsdictionary.com/us/dictionary/english/checklist
-
-The intent of this paper is to "cover all the bases". Every possible topic that a person may consider has a slot in the list.
-
-On the other hand if every imaginable question is listed here, the document will be far too lengthy for anybody to complete
-
-The intent is that even if a exact destination if not in the file, a suitable slot is easy to identify.
-
-## Structure
-
-Dividing things into three piles is always a good place to start. Kant did it. Nietsche did it
-
-Knowing - Being - Doing
-
-place - people - operations
 
 _The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmenting and completing. The mission is to have the greatest coverage with the fewest questions._
 
