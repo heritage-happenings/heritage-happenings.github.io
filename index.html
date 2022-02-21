@@ -7,7 +7,7 @@
 	<meta name="description"
 		content="Built by residents with abilities - for residents with needs">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2022-01-13">
+	<meta name="date" content="2022-02-20">
 	<title>Heritage Happenings</title>
 
 	<!-- Copyright 2022 Theo Armour. MIT license -->
@@ -44,7 +44,7 @@
 		const COR = {
 
 			// Used by MNU ~ mnu-menu.js
-			description: document.head.querySelector( "[ name=description ]" ).content + `<p>Release: 2022-01-01<p>`,
+			description: document.head.querySelector( "[ name=description ]" ).content + `<p>Release: 2022-02-20<p>`,
 			iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/icon-external-link.svg">`,
 			iconGitHub: `<img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg">`,
 			iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/noun_Information_585560.svg">`,
@@ -68,7 +68,8 @@
 			branch: "master",
 
 			//defaultIgnoreFolders: [],
-			defaultIgnoreFolders: [ "archive", "lib-templates" ],
+			defaultIgnoreFolders: [ "archive", "lib-templates" ], // curated
+
 			filesAll: false,
 			filterFiles: [ "docx", "gif", "md", "html", "jpg", "license", "pdf", "png", "svg", "txt", "xlsx", "" ],
 			ignoreFiles: [ "404.html", "index.html", "LICENSE", "README.md", "readme.html" ], // root only
@@ -77,9 +78,9 @@
 
 
 		COR.scripts = [
-			"lib01/mnu-menu/r-2022-01-03/mnu-menu.js",
-			"lib01/frx-file-read-xhr/r-2022-01-03/frx-file-read-xhr.js",
-			"lib01/grv-github-repo-tree-view/r-2022-01-03/grv-github-repo-tree-view.js"
+			"lib02/mnu-menu/r-2022-02-20/mnu-menu.js",
+			"lib02/frx-file-read-xhr/r-2022-02-06/frx-file-read-xhr.js",
+			"lib02/grv-github-repo-tree-view/r-2022-02-13/grv-github-repo-tree-view.js"
 		];
 
 		COR.loaded = 0;
@@ -106,17 +107,13 @@
 		COR.loadLoaders();
 
 
-		function init() {
+		function init () {
 
 			// MNU => "Menu ~ mnu-menu.js"
 
 			MNU.init();
-			MNUdivExtras.innerHTML += `
-<button onclick=document.body.style.fontSize="80%" style="font-size:80%;">A</button>
-<button onclick=document.body.style.fontSize="100%" style="font-size:100%;">A</button>
-<button onclick=document.body.style.fontSize="150%" style="font-size:150%;">A</button>`;
 			//MNU.getSample();
-			sumNavMenu.hidden = true;
+			//sumNavMenu.hidden = true;
 
 			//MNUaSource.hidden = true;
 			MNUspnVersion.hidden = true;
@@ -125,7 +122,7 @@
 			FRX.init();
 			//FRX.getMenu();
 
-			// GR
+			// GRA
 			//GRA.init();
 
 			//GRV => "GitHub Repo View"
