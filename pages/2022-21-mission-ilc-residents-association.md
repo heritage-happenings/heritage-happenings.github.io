@@ -1,4 +1,4 @@
-# 21 questions for elders
+# Mission for an independent liciving community residents assoctation
 
 
 
@@ -6,20 +6,10 @@
 
 ## Preface
 
-One day you look in the mirror and say to yourself "Wow! I look just like the old people!"
 
-When thoughts like these start to happen, it is a good time to ask question such as these:
+This document provides 21 statements intended to help you gather the input needed to help you and your association agree to a decision about your future life.
 
-* "Is where I live now where I want to be from now on?"
-* "Will I want to live here (wherever you live now) in my nineties and beyond"
-* "Will my friends and family want me here when I am a fall risk, have dementia or have had a stroke?"
-* "Will I be lonely, become a hoarder or retreat into unhealthy habits if I stay here?"
-* "Will I become a burden on my friends and family; will I disrupt the career plans of others so that they may look after me; will the time spent fussing over me take time away from being with my grandchildren and other descendants?"
-
-This document provides 21 questions intended to help you gather the input needed to help you and your elder-care team (you have one, don't you?) agree to a decision about your future life.
-
-You may use this checklist to help you decide whether you should live in place or move somewhere else. Even if you decide that you are a stay-at-home, you will still need to find good responses to all the items in this checklist. Other versions of these questions assist other outcomes for other uses. All of this and more is covered in "21 questions for elders: the back story"
-
+You may use this checklist to help you decide whether you should live in place or move somewhere else. Even if you decide that you are a stay-at-home, you will still need to find good responses to all the items in this checklist. Other versions of these questions assist other outcomes for other uses. All of this and more is covered in "21 questions: the back story"
 
 
 _The wording of each question needs further definition and clarifying of the meaning. The bullets with aspects to consider need further augmenting and completing. The mission is to have the greatest coverage with the fewest questions._
@@ -27,38 +17,38 @@ _The wording of each question needs further definition and clarifying of the mea
 
 ## Location, Place, Premise ~ the physical, the what's there, the where
 
-1. Do you like the country, state and municipality?
-	* Consider the culture, politics, infrastructure, friends and family
-2. Do you like the neighborhood?
+1. How do you relate to the country, state and municipality?
+	* Consider the culture, politics, infrastructure, regulations, friends and community
+2. How do you relate to the neighborhood?
 	* Walkability, diversity, urbanity & people watching and nature
-3. Do you like the opportunities to be outdoors, be in nature?
-	* "[Friluftsliv]( https://www.bbc.com/worklife/article/20171211-friluftsliv-the-nordic-concept-of-getting-outdoors "Nordic concept of being outdoors" )" ~ Not have to walk across a parking lot to be in a nice place
-4. Do you like facilities, the public spaces?
+3. How do you relate to opportunities to be outdoors, be in nature?
+	*
+4. How do you relate to the facilities, the public spaces?
 	* Art, fitness, media, education, events, gardens, terraces
-5. Do you like the apartments?
+5. How do you relate to the apartments?
 	* Convenience, safety and design; views, sounds
-6. Do you feel the beauty of the place?
+6. How do you relate to the beauty of the place?
 	* The architecture, the design of the space, the furniture and art
-7. Do you feel secure in this place?
+7. How do you relate to security in this place?
 	* Intrusions are prevented, emergency preparations have detailed guidance
 	* Non-slip floors, hand rails both sides, wheelchair accessible, multiple escape routes, alarms and communications, generators
 
 
 ## Community, People ~ the who & the why
 
-1. Do you like the people?
+1. How do we help residents live long and prosper?
 	* Are residents and staff people you feel comfortable with
-2. Are there people outside your bubble?
+2. Are we engaing with staff?
 	* Are there people - residents and staff - of different ages, races, cultures and diversity in the 'hood and in the house
-3. Does management share your values?
+3. Does management share our values?
 	* Contracts, rules, problem resolution
-4. Is it easy to gather?
+4. Are we making it easy to gather?
 	* Places where people seem to gather
-5. Care free aging - easing the burdens of others
+5. Are we enabling care-free aging - easing the burdens of others
 	* Your family and friends can be with you without you burdening them
-6. Do you feel the beauty of the community?
+6. How do we help maintain the beauty of the community?
 	* Fun, good times, engaged dialogues, moments of joy
-7. Do you feel secure with this community?
+7. How do we help maintain the security of this community?
 	* You will bond, and they will help prevent bad things from happening
 
 
