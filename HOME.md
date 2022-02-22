@@ -34,7 +34,7 @@ The text below highlights pages of possible interest.
 
 * Many more links to be added here in due course
 
-## [21 Questions for Seniors]( #pages/21-Questions-for-Seniors.md )
+## [21 Questions for Seniors]( #pages/2021-21-Questions-for-Seniors.md )
 
 * A checklist for helping people to decide where to live as a senior
 

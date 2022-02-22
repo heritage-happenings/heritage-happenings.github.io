@@ -41,7 +41,7 @@ Done
 
 ### 2020-11-16
 
-* Scans uploaded to https://heritage-happenings/github.io
+* Scans uploaded to https://heritage-happenings.github.io
 
 ### 2020-11-14
 
