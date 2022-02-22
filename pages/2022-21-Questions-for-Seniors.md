@@ -34,7 +34,7 @@ _The wording of each question needs further definition and clarifying of the mea
 3. Do you like the opportunities to be outdoors, be in nature?
 	* "[Friluftsliv]( https://www.bbc.com/worklife/article/20171211-friluftsliv-the-nordic-concept-of-getting-outdoors "Nordic concept of being outdoors" )" ~ Not have to walk across a parking lot to be in a nice place
 4. Do you like facilities, the public spaces?
-	* Art, fitness, media, education, events, gardens, terraces
+	* Art, fitness, media, education, event areas, gardens, terraces
 5. Do you like the apartments?
 	* Convenience, safety and design; views, sounds
 6. Do you feel the beauty of the place?
