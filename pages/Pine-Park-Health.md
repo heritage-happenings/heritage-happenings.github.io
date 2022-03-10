@@ -2,6 +2,15 @@
 
 https://www.pineparkhealth.com/
 
+The link to recorded session “Introduction to Pine Park Health” can be found below:
+
+https://us02web.zoom.us/rec/share/uvU73CevgTAkvx7JGT-SP7iNr7JCCZa7md520Qd_qihsJHPf6Z2az7dQeg-D1CeP.o15uVmlfTdHOsuaJ
+
+## 4Ms framework - inst for ageing
+
+* http://www.ihi.org/Engage/Initiatives/Age-Friendly-Health-Systems/Pages/default.aspx
+* http://www.ihi.org/Engage/Initiatives/Age-Friendly-Health-Systems/Documents/IHIAgeFriendlyHealthSystems_GuidetoUsing4MsCare.pdf
+
 ## Articles
 
 * https://seniorhousingnews.com/2022/01/24/with-44m-raised-pine-park-health-to-expand-senior-living-focused-primary-care-model/
@@ -38,6 +47,10 @@ senior living
 https://www.linkedin.com/in/kendell-cannon/
 Chief Medical Officer at Pine Park Health
 
+Speakers: Dr Denise Yun and Julia Tweeten
+
+* https://health.usnews.com/doctors/denise-yun-796686
+* https://www.linkedin.com/in/juliatweeten/
 
 ## https://www.crunchbase.com/organization/togg
 
