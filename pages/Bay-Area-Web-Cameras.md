@@ -3,8 +3,8 @@
 
 ## San Francisco
 
-* [Salesforce Tower]( https://sanfrancisco.cbslocal.com/salesforce-tower-cameras/ )
-	[Camera 4 only - hack by Theo]( webcam-salesforce-4.html)
+* [Salesforce Tower / KPIX]( https://sanfrancisco.cbslocal.com/salesforce-tower-cameras/ )
+	* [Camera 4 only - hack by Theo]( https://heritage-happenings.github.io/pages/webcam-salesforce-4.html)
 * [Earthcam - South End Rowing Club]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub )
 * [Earthcam - skyline]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=sanfranciscoskyline )
 * [Sea Lions at PIER 39]( https://www.pier39.com/sealions/ )
