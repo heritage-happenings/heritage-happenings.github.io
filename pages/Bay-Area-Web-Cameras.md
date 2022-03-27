@@ -3,6 +3,7 @@
 
 ## San Francisco
 
+* [St Francis Yacht Club]( https://g1.ipcamlive.com/player/player.php?alias=5e863c6e0e66d )
 * [Salesforce Tower / KPIX]( https://sanfrancisco.cbslocal.com/salesforce-tower-cameras/ )
 	* [Camera 4 only - hack by Theo]( https://heritage-happenings.github.io/pages/webcam-salesforce-4.html)
 * [Earthcam - South End Rowing Club]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub )
