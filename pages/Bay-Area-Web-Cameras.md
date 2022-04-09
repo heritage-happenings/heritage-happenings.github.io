@@ -10,6 +10,8 @@
 * [Earthcam - skyline]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=sanfranciscoskyline )
 * [Sea Lions at PIER 39]( https://www.pier39.com/sealions/ )
 * [Golden Gate Bridge view]( https://www.parksconservancy.org/parks/park-web-cams )
+	* [East Beach]( https://parksconservancy.siteproxy.net/East%20Beach%20Webcam/ctl.html )
+	* [Crissy Field]( https://parksconservancy.siteproxy.net/Crissy%20Beach/ctl.html )
 * [Exploratorium Roof-cam]( https://www.exploratorium.edu/environmental-field-station )
 * [Northern Waterfront]( https://www.earthcam.com/usa/california/sanfrancisco/?cam=rowingclub )
 * [Mersea Restaurant, Treasure Island]( https://www.youtube.com/watch?v=K3vjVPiXq5g )
