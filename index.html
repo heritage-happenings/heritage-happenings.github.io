@@ -7,12 +7,12 @@
 	<meta name="description"
 		content="Built by residents with abilities - for residents with needs">
 	<meta name="keywords" content="JavaScript,Markdown,GitHub,FOSS">
-	<meta name="date" content="2022-02-22">
+	<meta name="date" content="2022-04-10">
 	<title>Heritage Happenings</title>
 
 	<!-- Copyright 2022 Theo Armour. MIT license -->
 	<link id=CORstyle rel="stylesheet"
-		href="https://pushme-pullyou.github.io/tootoo-2022/lib02/style/r-2022-02-21/style.css">
+		href="https://pushme-pullyou.github.io/tootoo-2022/lib02/style/r-2022-02-22/style.css">
 
 	<style>
 		:root {
@@ -43,7 +43,8 @@
 		const COR = {
 
 			// Used by MNU ~ mnu-menu.js
-			description: document.head.querySelector( "[ name=description ]" ).content + `<p>Release: 2022-02-22<p>`,
+			description: document.head.querySelector( "[ name=description ]" ).content + 
+			`<p>Release: 2022-04-10<p>`,
 			iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/icon-external-link.svg">`,
 			iconGitHub: `<img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg">`,
 			iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/noun_Information_585560.svg">`,
@@ -106,7 +107,7 @@
 		COR.loadLoaders();
 
 
-		function init () {
+		function init() {
 
 			// MNU => "Menu ~ mnu-menu.js"
 
@@ -125,7 +126,7 @@
 			//GRA.init();
 
 			//GRV => "GitHub Repo View"
-			//GRV.getFiles = GRV.getFilesCurated;
+			GRV.getFiles = GRV.getFilesCurated;
 			//GRV.getFiles = GRV.getFilesAll;
 			GRV.init();
 
