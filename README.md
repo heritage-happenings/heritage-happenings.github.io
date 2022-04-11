@@ -14,6 +14,7 @@
 
 ## To Do / Wish List
 
+* 2022-04-10 ~ Update home page
 * 2022-04-10 ~ menu sections with caps and no hyphens
 
 ## Issues
