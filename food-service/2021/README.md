@@ -1,6 +1,6 @@
-# 2021 Read Me
+# Food Service 2021 Read Me
 
-Files for 2022 will bwe added soon.
+Files for 2022 will be added soon.
 
 
 

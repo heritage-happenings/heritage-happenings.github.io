@@ -1,6 +1,6 @@
-# Residents Council Documents
+# Scans
 
-Residents Council meeting minutes, treasurers reports, agendas and more
+Scanned images of the drawings from Julia Morgan's office and other architectural plans and details
 
 ***
 

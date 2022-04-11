@@ -1,6 +1,6 @@
-# Residents Council Documents
+# People
 
-Residents Council meeting minutes, treasurers reports, agendas and more
+This folder contains a number of files that relate to residents and staff at Heritage on the Marina.
 
 ***
 
