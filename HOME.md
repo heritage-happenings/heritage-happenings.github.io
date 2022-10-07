@@ -1,4 +1,4 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [ Heritage Happenings]( https://heritage-happenings.github.io/ "Home page" )
+# [![](https://pushme-pullyou.github.io/tootoo-2021/lib/assets/icons/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [Heritage Happenings]( https://heritage-happenings.github.io/ "Home page" )
 
 
 These web pages complement the _Heritage Happenings_ a monthly publication published by residents of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
@@ -14,19 +14,19 @@ The text below highlights pages of possible interest.
 
 * Scans from prints from a microfilm from the blueprints of the original drawings
 
-## ["What is the meaning of the three Roses?" article]( #pages/What-is-the-meaning-of-the-three-roses.md )
+## ["What is the meaning of the three Roses?" article]( #pages/julia-morgan/What-is-the-meaning-of-the-three-roses.md )
 
 * An investigation into the terracotta panels on the front elevation of the Heritage
 
-## [Julia Morgan Links]( #pages/Julia-Morgan-Links.md )
+## [Julia Morgan Links]( #pages/julia-morgan/Julia-Morgan-Links.md )
 
 * Preliminary explorations onto the engaging career of the architect of the Heritage
 
-## [Links of Interest for Seniors]( #pages/Links-of-Interest-for-Seniors.md )
+## [Links of Interest for Seniors]( #pages/reference/Links-of-Interest-for-Seniors.md )
 
 * Many more links to be added here in due course
 
-## [21 Questions for Seniors]( #pages/2021-21-Questions-for-Seniors.md )
+## [21 Questions for Seniors]( #pages/21-Questions-for-Seniors.md )
 
 * A checklist for helping people to decide where to live as a senior
 
@@ -34,17 +34,6 @@ The text below highlights pages of possible interest.
 
 * Photos from in and around the Heritage premises
 
-<!--
-
-## []( https://heritage-happenings.github.io/#pages/.md )
-
-
-## [2020 Elections & Voting]( https://heritage-happenings.github.io/#2020-Elections-&-Voting.md )
-
-* Links to voter guides, endorsements (left, right and center) and FAQs
-
-2020-10-11 ~ Here we go!
--->
 
 ***
 
