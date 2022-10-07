@@ -18,7 +18,6 @@ The text below highlights pages of possible interest.
 
 * An investigation into the terracotta panels on the front elevation of the Heritage
 
-
 ## [Julia Morgan Links]( #pages/Julia-Morgan-Links.md )
 
 * Preliminary explorations onto the engaging career of the architect of the Heritage
