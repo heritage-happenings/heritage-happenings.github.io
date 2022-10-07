@@ -48,6 +48,11 @@ So let's start spilling some of the beans. Very human beans.
 ## Quotes
 
 * Jim Rohn: "Take care of your body. It's the only place you have to live."
+* Anne Morris: "Growing old is like being nibbled to death by a goldfish"
+* Terry Moughn
+  * Question: How does it feel being 90?
+  * Answer: It feels like 95
+
 
 ## Carrots
 
@@ -81,14 +86,14 @@ Here are some practices that I imagine helped you to arrive here:
 
 Martha Nell sent me these lyrics:
 
-	“I can’t believe I’m eighty seven
-	By now I thought I’d be in heaven
-	My goal was not long life
-	But one without pain and strife
-	But I will find a way
-	To find some joy in every day
-	Maybe I will think it’s just great
-	To reach the age of eighty-eight”
+>“I can’t believe I’m eighty seven
+>By now I thought I’d be in heaven
+>My goal was not long life
+>But one without pain and strife
+>But I will find a way
+>To find some joy in every day
+>Maybe I will think it’s just great
+>To reach the age of eighty-eight”
 
 I have not yet found the source...
 

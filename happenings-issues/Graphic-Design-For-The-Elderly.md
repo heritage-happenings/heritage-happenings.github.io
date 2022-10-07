@@ -2,7 +2,6 @@
 
 ## https://www.google.com/search?q=graphic+design+for+the+elderly
 
-
 ## https://uxplanet.org/accessible-design-designing-for-the-elderly-41704a375b5d
 
 ### Best practices:
@@ -43,6 +42,7 @@
 ## https://www.smashingmagazine.com/2015/02/designing-digital-technology-for-the-elderly/
 
 ### KEY LESSONS
+
 * Avoid font sizes smaller than 16 pixels (depending of course on device, viewing distance, line height etc.).
 * Let people adjust text size themselves.
 * Pay particular attention to contrast ratios with text.
@@ -55,3 +55,4 @@
 ## https://www.digitalartsonline.co.uk/features/graphic-design/design-for-older-people-sucks-here-are-four-ways-fix-it/
 
 ## https://uxdesign.cc/what-designing-for-seniors-has-taught-me-c9c8a1421e84
+

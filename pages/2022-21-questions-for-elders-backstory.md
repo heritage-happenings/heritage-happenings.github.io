@@ -6,8 +6,8 @@ This is the umpteenth draft of a work-in-progress. And it's only the beginning. 
 
 * To assist elders and their elder-care team identify and gauge their best elder-life future opportunities
 * To assist elders to gauge, compare and contrast the success of the current elder-life residences
-	* For example to help members of various independent living communities compare their experiences
-	* To help identify and share beat practices
+  * For example to help members of various independent living communities compare their experiences
+  * To help identify and share beat practices
 * To assist elder-care residents associations in defining the mission and vision
 * To assist geriatric care providers in developing a mission and vision for their elder-care operations
 
@@ -131,7 +131,6 @@ In other words:
 Thus for every topic we create, we can immediately type in "security" and "beauty" on the page and, thankfully. the page is not blank from the get go.
 
 OK, now every topic has two sub-topics. How many more do we need? Could there be too many sub-topics?
-
 
 
 ## The Magical Number Seven, Plus or Minus Two

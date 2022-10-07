@@ -75,4 +75,4 @@ The views and opinions expressed on this web site are those of the authors and d
 
 ***
 
-<center><a href=javascript:main.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Scroll to top" > ❧ </a></center>
