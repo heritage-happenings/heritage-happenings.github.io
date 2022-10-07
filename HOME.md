@@ -6,7 +6,7 @@ These web pages complement the _Heritage Happenings_ a monthly publication publi
 
 <img src=https://heritage-happenings.github.io/photos/images/heritage-front.jpg width=100% >
 
-Use the menu on the left to browse the contents of this site.
+Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the Heritage Happenings ads PDF files or glance at our menus.
 
 The text below highlights pages of possible interest.
 
@@ -18,13 +18,6 @@ The text below highlights pages of possible interest.
 
 * An investigation into the terracotta panels on the front elevation of the Heritage
 
-## ["Gift by Dr Nat T Coulson" ]( #pages/Nathaniel-Thomas-Coulson.md )
-
-* The story behind the newly rediscovered pedestal in the Perry Garden
-
-## [2021 Medicare]( #pages/2021-Medicare.md )
-
-* Information and tips relating to health plans for 2021
 
 ## [Julia Morgan Links]( #pages/Julia-Morgan-Links.md )
 
