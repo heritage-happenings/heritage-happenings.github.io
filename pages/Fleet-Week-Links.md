@@ -1,5 +1,25 @@
 # Fleet Week Links
 
+## Preface
+
+* https://en.wikipedia.org/wiki/Fog_(poem)
+
+> The fog comes on little cat feet. It sits looking over harbor and city on silent haunches and then moves on.
+
+So said Carl Sandburg in 1916. It's perhaps one of the few poems I can recite almost verbatim. It is an evocative poem, but in the background I do wonder "what is the sound of one haunch being noisy?". No matter. The poem was written about Chicago harbor.
+
+The interesting thing is that this poem is the opposite of Fog City during Fleet Week. Here:
+
+"The fighter rides a little jet fan. It spins looking over harbor and city with a gonzo engine and then flies on."
+
+Anyway, while these playthings of war are here, we can appreciate or depreciate them in a variety of ways. A nice easy way it to walk to Aquatic Park or Marina Green and have a look.
+
+But me being me, I have to see what I can see while simply staring into a computer monitor. This is acceptable as long as I look out the newly-washed windows at the real thing from time to time.
+
+The following text provides access to a number of links that may help you learn about and view the Fleet Week Airshow and its history.
+
+
+
 ## San Francisco Fleet Week Association
 
 ### History
