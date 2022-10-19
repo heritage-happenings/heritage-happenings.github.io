@@ -19,20 +19,21 @@
 
 ### Editorial possibilities
 
-* House committee report
+* House Committee report
 * Employee Appreciation Donations
 * Capital Budget Items
 
 ### Articles
 
+* Wesson Sculpture??
 * Fred: article on current affairs submitted
 * Margaret Johnson: Article on Adams Wood Mill in Moscow Vermont submitted
-* Martha Nell
-* Photos sculpture
+* Martha Nell ~ Out and About van article
 
 ### Photo Gallery
 
 * Picnic photos
+* Jane-2012-photo
 * Evacuation chair ~ photo + squib (for Nancy Stent )
 
 ### Out and About
