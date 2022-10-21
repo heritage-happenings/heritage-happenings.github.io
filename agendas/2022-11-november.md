@@ -1,5 +1,10 @@
 # _Heritage Happenings_ Agenda ~ November 2022
 
+
+Pain pph
+Thanksging 
+Evac
+Things that go bump
 ## Issues with October Issue
 
 * Midge had to remind Theo of due date
