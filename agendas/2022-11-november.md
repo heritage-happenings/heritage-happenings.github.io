@@ -15,37 +15,46 @@ Things that go bump
 
 ### To Do
 
-* x Diet > sent
-* Out And About > requested
-* Shirley photo
-* Jane movies
+* Photo ~ van
+* Photo ~ Sculpture
+* Shirley photo ~ #2 take
 * Yvette & Doris ~ image
-* Food Committee
-* Photos
-* Library Committee> sent
+* Food Committee > confirm 11/15
+* Jeff?
+
+### Done
+
+* Devin : Diet > add
+* Library Committee > add
+* Jane movies
+* Out And About > add
+* Waiting for Karina
 
 ### Special Events
 
-* Waiting for Karina
+
 
 ### Regular Programs
 
 * Any changes??
 * Needs something
 
+
 ### Editorial possibilities
 
 * Thanksgiving
-* Excursion Cancellations
 * Air filter in McGinley room
 * Evacuation chair ~ photo + squib (for Nancy Stent )
 * Goodwill bin ~ no bags
-* House Committee report
 * Employee Appreciation Donations
-* Capital Budget Items
 * Wesson Sculpture??
+
+* Excursion Cancellations
+* House Committee report
+* Capital Budget Items
 * Mid Year report
 * Food
+* Restaurant Guide ~ Calibri
 
 
 ### Articles
@@ -56,7 +65,7 @@ Things that go bump
 
 ### Photo Gallery
 * Wesson Sculpture
-* Van 
+* Van
 * Picnic photos
 * Jane-2012-photo
 
