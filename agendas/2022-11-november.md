@@ -1,6 +1,35 @@
 # _Heritage Happenings_ Agenda ~ November 2022
 
 
+Thursday, November 3 at 3:00 in Friendship Hall
+Guo Pei: Couture Fantasy ~ Legion of Honor Docent
+
+Wednesday, November 9 at 3:00 in McGinley Room
+Tony Lawrence Art Gallery ~ Recent Acquisitions
+
+Friday, November 11 at 5:00 to 5:30 in Morgan Parlor
+Birthday Night Happy-Half-Hour
+
+Friday, November 11 from 5:30 onwards in the Dining Room
+Birthday Night Dinner
+
+Monday, November 14 at 3:00 in Friendship Hall
+Presentation on Mobility ~ Pine Park Health Staff
+
+Thursday, November 17 at 3:00 in Friendship Hall
+Friendsgiving Show And Tell
+
+Wednesday, November 23 at 3:00 in Morgan Parlor
+Classical piano performance ~ Romero Gustavo
+
+Thursday, November 24 at noon meal in the Dining Room
+Happy Thanksgiving!
+
+Monday, November 28 at 3:00 in Friendship Hall
+Fact or Fiction: Cholesterol & Heart Health ~ Devin Green, RD
+
+Wednesday, November 30 at the noon meal in the Dining Room
+Superfood Tasting: Sweet Potato
 
 
 Things that go bump
