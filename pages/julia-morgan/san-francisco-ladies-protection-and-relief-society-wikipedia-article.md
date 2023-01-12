@@ -28,6 +28,7 @@ Started 1853
 
 ## Mary Tape Case
 
+See "notable residents"
 
 ## Books
 
