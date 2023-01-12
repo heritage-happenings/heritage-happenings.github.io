@@ -28,10 +28,6 @@ Started 1853
 
 ## Mary Tape Case
 
-* https://www.nps.gov/people/mary-tape.htm
-* https://archive.advancingjustice-la.org/sites/default/files/AA-Ep1-L4-The-Fight-Against-School%20Segregation_0.docx
-* https://human.libretexts.org/Bookshelves/History/State_and_Local_History/Competing_Visions%3A_A_History_of_California_(Cherny_Lemke-Santiangelo_and_Castillo)/06%3A_California_in_the_Gilded_Age_18701900
-
 
 ## Books
 
@@ -67,3 +63,39 @@ Started 1853
 ## Julia Morgan
 
 * https://pcad.lib.washington.edu/person/128/
+
+
+
+## Notable Residents
+
+### Dr Ben Carlson
+
+### Eleanor Burke
+
+### John Ertola
+
+* https://www.legacy.com/us/obituaries/sfgate/name/john-ertola-obituary?id=24569525
+* https://www.sfgate.com/bayarea/article/John-Ertola-San-Francisco-supervisor-Superior-2502607.php
+* https://en.wikipedia.org/wiki/Members_of_the_San_Francisco_Board_of_Supervisors
+
+### Arlene Francis
+
+* https://en.wikipedia.org/wiki/Arlene_Francis
+
+### Jean Fowler
+
+### Albert Rupert Jonsen
+
+* https://www.legacy.com/us/obituaries/marinij/name/albert-jonsen-obituary?id=7294712
+* https://en.wikipedia.org/wiki/Albert_R._Jonsen
+
+### Richard Morris
+
+* https://www.legacy.com/us/obituaries/sfgate/name/richard-morris-obituary?id=2028042
+
+### Mary Tape
+
+* https://en.wikipedia.org/wiki/Mary_Tape
+* https://www.nps.gov/people/mary-tape.htm
+* https://archive.advancingjustice-la.org/sites/default/files/AA-Ep1-L4-The-Fight-Against-School%20Segregation_0.docx
+* https://human.libretexts.org/Bookshelves/History/State_and_Local_History/Competing_Visions%3A_A_History_of_California_(Cherny_Lemke-Santiangelo_and_Castillo)/06%3A_California_in_the_Gilded_Age_18701900
