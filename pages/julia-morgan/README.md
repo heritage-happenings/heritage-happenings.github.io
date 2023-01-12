@@ -6,7 +6,7 @@
 
 ### Heritage on the Marina wiki entry
 
-* Old San Francisco chaity
+* Old San Francisco charity
 * Notable architect & structural engineer
 * Notable architecture & artisans
 * Earthquake resistant
