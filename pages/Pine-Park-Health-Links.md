@@ -54,6 +54,7 @@ Speakers: Dr Denise Yun and Julia Tweeten
 * https://health.usnews.com/doctors/denise-yun-796686
 * https://www.linkedin.com/in/juliatweeten/
 
+
 ## https://www.crunchbase.com/organization/togg
 
 About
@@ -74,9 +75,10 @@ Employee Profiles
 4
 Investors
 5
+
 ## https://www.youtube.com/channel/UCws3RyBIG6aLAyB6cE-zBNw
 
-2 videos from earl 2021
+2 videos from early 2021
 
 ## https://www.ycombinator.com/companies/pine-park-health
 
