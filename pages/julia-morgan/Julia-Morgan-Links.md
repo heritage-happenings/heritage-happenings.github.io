@@ -21,6 +21,19 @@ HotMc
 
 ## Reference
 
+* http://artisanarchitecture.com/wp-content/uploads/2013/07/gold-medal-nomination-01-JM.pdf
+* https://issuu.com/kimberlyperette/docs/jm_gold_medal_2014-issuu-small
+* https://www.wikiwand.com/en/Julia_Morgan
+
+* http://www.coffmanbooks.com/HAMpdfs/30_HAM_AI.pdf
+
+* https://www.google.com/books/edition/Julia_Morgan/f9g-rVjBDLAC?hl=en&gbpv=1&dq=julia+morgan+San+Francisco+Ladies+Protection+and+Relief+Society&pg=PA31&printsec=frontcover
+
+note same as heritage sign
+
+https://www.dreamstime.com/san-francisco-ladies-protection-relief-society-owners-property-one-first-philanthropic-societies-state-image260750047
+
+
 ### Wikipedia: Julia Morgan
 
 * https://en.wikipedia.org/wiki/Julia_Morgan
@@ -87,9 +100,14 @@ Look like a fairly good bibliography. Nice short summary of her life that is mor
 
 ### https://oac.cdlib.org/findaid/ark:/13030/tf7b69n9k9/
 
+* https://oac.cdlib.org/findaid/ark:/13030/tf7b69n9k9/entire_text/
+
 > Julia Morgan Collection, 1893-1980, (bulk 1893-1940)
 
 > The collection documents Julia Morgan's architectural education and career.
+
+
+http://pdf.oac.cdlib.org/pdf/berkeley/ceda/morgan.pdf
 
 
 ### http://www.oac.cdlib.org/findaid/ark:/13030/tf5f59n8rf/
