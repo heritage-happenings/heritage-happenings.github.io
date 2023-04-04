@@ -6,10 +6,10 @@
 Patrick Alexander, Martha Torres, Paula Cornyn, Theo Armour
 
 ## Staff
-Mary Linde, Jeff Brenner, Hanh Ta, Jon Casey. Oleg Korsunsky, Brandon Maderos, Kara Rajput
+Mary Linde, Jeff Brenner, Hanh Ta, Jon Casey, Oleg Korsunsky, Brandon Maderos, Kara Rajput
 
 ## Board
-Scott, Randy, David, Scott
+Scott Hindes, Randy ??, David Gruber, Scott Hartman
 
 ## Welcome
 President Patrick Alexander called the meeting to order at 10:00 am.
@@ -34,19 +34,25 @@ January is the start of the new budget year. We review the budget approved by th
 
 The last pieces of the Morgan renovation and dining room refresh are nearly in place. Some new pieces of furniture will be arriving. There are four units slated for renovation. Larger one or two bedroom units will have washers and ventless dryers.
 
-A computer has been installed in the library to allow access to the library catalog. The new voice over Internet protocol is being rolled out now. A roll out of the new Internet will happen soon. We are looking into the challenges of connecting to the Friendship Hall and mcGinley room TVs.
+A computer has been installed in the library to allow access to the library catalog. The new voice over Internet protocol (VOIP) is being rolled out now. A roll out of the new Internet will happen soon. We are looking into the challenges of connecting to the Dining Room Phones, Friendship Hall and McGinley Room TVs.
 
 There have been a lot of marketing updates. We are now running a lot more ads digitally, rather than in print. We are seeing a lot of expanded traffic. As a result, Patti and I are running a lot more tours. We have four units that have been spoken for.
 
 We have started working with Next Village. We will be doing a large group tour for seniors in March.
 
 Patrick Alexander: We now have new telephone numbers. Are the old numbers going away?
-Jeff Brenner: I believe we don't have any changes to the main number lines.
+Jeff Brenner: I believe we don't have any changes to the main number lines. I'm not satisfied with the auto attendance from a marketing perspective from also from a communication perspective.
+
+Martha Torres: One of the questions with this new phone system you're rolling now, is that with a direct number if have an emergency on you can call the Henderson clinic directly. You don't to have to look up extensions - which could be a scary situation.
+Jeff Brenner: Residents should be able to call any department directly and not have to wait for extensions if they have that direct number.
 
 Nancy Stent: It would really help for us to know ahead of time the phone was going to change. Jeff: We did not expect any kind of end user issues. Shame on us for not knowing better.
 
 Nancy Stent: When I was making the move into retirement, I found a fantastic Club Heritage event that existed and it has not been replaced.
 Jeff: My goal is to boost up Club Heritage and build that kind of network again.
+
+Jeff Brenner: Everyone: we did not expect there to be any user and issues. We didn't expect that this is actually going to cause a new user and issues. Shame on us for not knowing better because that seems to cause user issues in some degree or another...So we want to make sure that wherever we're engaging in activities or entertainment that's it's going as smoothly as possible. The burden is not placed on the residents to fix any issues that come up.
+
 
 ## NHA/Operations Report ~ Hanh Ta
 
@@ -96,7 +102,7 @@ Mary: That's the whole point of the meeting. The meeting is absolutely about the
 
 Jon: In the budget review, revenue decreased mostly in the skilled nursing facility. We really only have the first quarter in the budget. Expenses decreased and full time employees (FTEs) will reduce. The servers are transferring over to Morrison.And they will no longer be our employees and that's a big savings for us.
 
-We are projecting an operating loss at 5.6 million.Budget is 2.4 million..So the monthly increase for all contracts is 6.5%. The staff increase is in a range bewteen 0 and 5%. You've just given a cost of living increase at 3%. We are still in discussion about a whole merit type program for staff.
+We are projecting an operating loss at 5.6 million.Budget is 2.4 million..So the monthly increase for all contracts is 6.5%. The staff increase is in a range between 0 and 5%. You've just given a cost of living increase at 3%. We are still in discussion about a whole merit type program for staff.
 
 
 Martha Torres: What about the elevators In the Francisco flats.
@@ -108,7 +114,7 @@ Mary Linde: I know.
 Yvonne Benedict: If you've been riding you know it's going to have its own problems. The van is scary when you are driving around.
 Mary Linde: I wasn't aware that van wasn't running well. I can certainly look at the anatomy of contingency plans. I have not heard one thing about upgrading the van this year.
 
-Martha Torres: I'm looking at the budget in our revenue. Where do we get the difference? What how would you like to do that?
+Martha Torres: I'm looking at the budget in our revenue. Where do we get the difference? What would you like to do that?
 Jon Casey: So again, we dip into the portfolio. We anticipate the portfolio is going to gain about 6.8% this year. We use about 1.4 to 1.5 million a quarter. We have a lot to make up. That's why we clided skilled nursing and moved servers to Morrison. It's also about getting entrance fees. We feel the 6.5% is acceptable.
 
 Martha Torres: Most of us on some type of portfolio and it's a gamble it's going to happen. This year, our portfolio will go up 7% That would be ideal, but the markets aren't doing that anymore. And I just think that that portfolio to have a budget of over 12 million. It's scary.
