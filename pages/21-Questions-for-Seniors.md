@@ -61,8 +61,8 @@ _The wording of each question needs further definition and clarifying of the mea
 ## Organization, Support and Services ~ the what & when
 
 1. Are all the services you may need available?
- * Assisted living, skilled nursing, dementia, hospice and access to doctors & hospitals
- * transportation, communication systems, security
+* Assisted living, skilled nursing, dementia, hospice and access to doctors & hospitals
+* transportation, communication systems, security
 2. Is the food nutritious, accessible and tasty
  * Somebody count the calories and the grams of protein; the chefs prepares great omelets, rack of lamb, tabbouleh salad, tiramisu and more
 3. Do they keep the place neat and tidy?
