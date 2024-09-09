@@ -6,7 +6,7 @@ The eventual objective is to capture and make available online all the issues th
 
 The _Heritage Happenings_ is a monthly publication authored, edited and laid out by Heritage residents.
 
-A future version of this menu will allow you to open the files in their own window. If you wish to do that now, simply remove the "#" mark in the address and reload the page.
+Click on the <img src="https://pushme-pullyou.github.io/tootoo-2022/assets/icons/icon-external-link.svg" alt="new window" height="16"> icon to open the file in a new window.
 
 
 
