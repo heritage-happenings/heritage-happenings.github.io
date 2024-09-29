@@ -57,7 +57,7 @@
 <script>
 		// If the page is loaded over HTTPS, remove the hash from the URL
 		if ( location.protocol === "https:" ) {
-			window.history.pushState( "", "", "./" + location.hash );
+			window.history.pushState( "", "", "../" + location.hash );
 		}
 </script>
 
