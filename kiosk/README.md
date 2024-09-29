@@ -1,12 +1,12 @@
-# [![](https://pushme-pullyou.github.io/assets/svg/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [_Heritage Happenings_]( https://heritage-happenings.github.io/ "Home page" ) / [_Heritage Happenings_ Read Me]( https://github.com/heritage-happenings/heritage-happenings.github.io#readme )
+# [![](https://pushme-pullyou.github.io/assets/svg/mark-github.svg )](https://github.com/heritage-happenings/heritage-happenings.github.io "Source code on GitHub" ) [_Heritage Happenings_]( https://heritage-happenings.github.io/ "Home page" ) / [_Heritage Happenings_ Read Me]( https://heritage-happenings.github.io/#kiosk/README.md )
 
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://heritage-happenings.github.io/ lib-templates/ height=100% width=100% ></iframe></div>
-"_Heritage Happenings_" in a resizable window. One finger to rotate. Two to zoom._
+<div class=iframe-resize ><iframe src=https://heritage-happenings.github.io/kisk height=100% width=100% ></iframe></div>
+"_Heritage Happenings_" in a resizable window._
 @@@-->
 
-## Full Screen: [_Heritage Happenings_]( https://heritage-happenings.github.io/ )
+## Full Screen: [_Heritage Happenings_]( https://heritage-happenings.github.io/kisk )
 
 
 ## Concept
