@@ -14,8 +14,6 @@
 
 ## To Do / Wish List
 
-* 2022-04-10 ~ Update home page
-* 2022-04-10 ~ menu sections with caps and no hyphens
 
 ## Issues
 
@@ -26,10 +24,12 @@
 ## Change Log
 
 
-### 2022-04-10
+### 2024-09-28
 
-* First commit
-
+* version 2.0
+* Change from links tp buttons
+* Add iframe for Libby
+* All left justified
 
 ***
 
