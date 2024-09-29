@@ -4,8 +4,8 @@
 <head>
 	<title>Carm's Audiobook Reader</title>
 	<meta charset=utf-8 />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
-		<meta name="version" content="2024-09-28">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+	<meta name="version" content="2024-09-28">
 </head>
 
 <!-- Copyright 2024 Theo Armour. MIT License -->
@@ -31,7 +31,8 @@
 	}
 
 	iframe {
-		float: right;
+		position: absolute;
+		right: 0;
 	}
 </style>
 
@@ -39,7 +40,8 @@
 
 <h2>Click book title. To start and stop press spacebar </h2>
 
-<iframe id=ifrReader src="https://libbyapp.com/open/sample/sfpl/257052" width="560" height="315" frameborder="0" ></iframe>
+<iframe id=ifrReader src="https://libbyapp.com/open/sample/sfpl/257052" width="560" height="315"
+	frameborder="0"></iframe>
 
 <p>
 	<button onclick="ifrReader.src='https://libbyapp.com/open/sample/sfpl/257052';">Grapes of Wrath</button>
@@ -55,10 +57,10 @@
 </p>
 
 <script>
-		// If the page is loaded over HTTPS, remove the hash from the URL
-		if ( location.protocol === "https:" ) {
-			window.history.pushState( "", "", "../" + location.hash );
-		}
+	// If the page is loaded over HTTPS, remove the hash from the URL
+	if ( location.protocol === "https:" ) {
+		window.history.pushState( "", "", "../" + location.hash );
+	}
 </script>
 
 </body>
