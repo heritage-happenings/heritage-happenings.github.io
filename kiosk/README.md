@@ -30,7 +30,7 @@
 
 ### 2024-09-28
 
-* version 2.0
+* Version 2.0
 * Change from links tp buttons
 * Add iframe for Libby
 * All left justified

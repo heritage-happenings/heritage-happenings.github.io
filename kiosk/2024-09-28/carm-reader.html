@@ -54,6 +54,12 @@
 	<button onclick="ifrReader.src='https://libbyapp.com/open/sample/sfpl/195661';">Wuthering Heights</button>
 </p>
 
+<script>
+		// If the page is loaded over HTTPS, remove the hash from the URL
+		if ( location.protocol === "https:" ) {
+			window.history.pushState( "", "", "./" + location.hash );
+		}
+</script>
 
 </body>
 
