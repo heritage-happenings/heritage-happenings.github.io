@@ -2,11 +2,11 @@
 
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://heritage-happenings.github.io/kisk height=100% width=100% ></iframe></div>
+<div class=iframe-resize ><iframe src=https://heritage-happenings.github.io/kiosk height=100% width=100% ></iframe></div>
 "_Carm's Audiobook Reader_" in a resizable window.
 @@@-->
 
-## Full Screen: [_Carm's Audiobook Reader_]( https://heritage-happenings.github.io/kisk )
+## Full Screen: [_Carm's Audiobook Reader_]( https://heritage-happenings.github.io/kiosk )
 
 
 ## Concept
