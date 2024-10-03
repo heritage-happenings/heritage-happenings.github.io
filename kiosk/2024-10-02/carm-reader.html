@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang=en>
+
+<head>
+	<title>Carm's Reader 2.1</title>
+	<meta charset=utf-8 />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+	<meta name="version" content="2024-09-30">
+</head>
+
+<!-- Copyright 2024 Theo Armour. MIT License -->
+
+<style>
+	body {
+		font: 100% verdana;
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 36pt;
+		margin: 0 0 30px 0;
+	}
+
+	h2 {
+		font-size: 30pt;
+	}
+
+
+	button {
+		font-size: 36pt;
+		font-weight: bold;
+	}
+
+	iframe {
+		margin: 30px 0 0 0;
+	}
+	
+</style>
+
+<h1><i>Carm's Reader 2.1</h1>
+
+<p>
+	<button onclick="ifrReader.src='https://libbyapp.com/open/sample/sfpl/257052';">Grapes of Wrath</button>
+</p>
+
+<p>
+	<button onclick="ifrReader.src='https://libbyapp.com/open/sample/sfpl/316976';">Little Women</button>
+</p>
+
+<p>
+	<button onclick="ifrReader.src='https://libbyapp.com/open/sample/sfpl/195661';">Wuthering Heights</button>
+</p>
+
+<iframe id=ifrReader src="https://libbyapp.com/open/sample/sfpl/257052" width="100%" height="315" frameborder="0">
+
+</iframe>
+
+
+<script>
+	// If the page is loaded over HTTPS, remove the hash from the URL
+	if ( location.protocol === "https:" ) {
+		window.history.pushState( "", "", "../" + location.hash );
+	}
+</script>
+
+</body>
+
+</html>
