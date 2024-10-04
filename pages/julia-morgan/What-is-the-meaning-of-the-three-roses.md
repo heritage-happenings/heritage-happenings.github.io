@@ -112,7 +112,7 @@ A certain flower-like element is used repeatedly in multiple locations at the He
 
 <img src="https://heritage-happenings.github.io/photos/1925-morgan-heritage/1925-morgan-heritage-west-elevation-three-roses.jpg" width=100 >
 
-Flowers in _terracotta_ panels between the windows aboce twi two ground floor bays
+Flowers in _terracotta_ panels between the windows above the two ground floor bays
 
 <img src="https://heritage-happenings.github.io/photos/1925-morgan-heritage/PXL_20201118_234344066.jpg" width=100 >
 

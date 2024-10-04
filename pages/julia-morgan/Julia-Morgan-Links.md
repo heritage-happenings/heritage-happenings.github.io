@@ -12,8 +12,9 @@ Julia
 * civil engineer
 
 HotMc
+
 * 1922 commission
-* Complex needs fufiilled
+* Complex needs fulfilled
 * designs on budget
 * university mound ladies merger failed
 * 50K low budget
