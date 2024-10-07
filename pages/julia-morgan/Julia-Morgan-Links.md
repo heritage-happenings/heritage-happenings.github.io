@@ -26,7 +26,7 @@ HotMc
 * https://issuu.com/kimberlyperette/docs/jm_gold_medal_2014-issuu-small
 * https://www.wikiwand.com/en/Julia_Morgan
 
-* http://www.coffmanbooks.com/HAMpdfs/30_HAM_AI.pdf
+* http://www.coffmanbooks.com/HAMpdfs/30_HAM_AI.pdf ~ paid by sfplrs in 1924 ~ 3rd biggest project, 1925, 1926, 1927, 1928, 1933, 1936, 1937
 
 * https://www.google.com/books/edition/Julia_Morgan/f9g-rVjBDLAC?hl=en&gbpv=1&dq=julia+morgan+San+Francisco+Ladies+Protection+and+Relief+Society&pg=PA31&printsec=frontcover
 
