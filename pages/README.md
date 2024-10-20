@@ -1,6 +1,6 @@
 # Pages
 
-This folder contains a number of files that relate to Heritage on the Marina.
+This folder contains a number of files that relate to Heritage on the Marina. Filed by year created.
 
 ***
 

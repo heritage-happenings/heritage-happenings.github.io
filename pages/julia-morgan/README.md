@@ -4,12 +4,6 @@
 
 ## Concept
 
-## Hobart Hall ~ 1920-1921
-
-* https://www.hmdb.org/m.asp?m=50801
-* https://en.wikipedia.org/wiki/Berkeley_School_of_Theology
-* https://www.berkeleydailyplanet.com/issue/2000-04-08/article/777
-* https://schooldesigns.com/Projects/american-baptist-seminary-of-the-west-hobart-hall/
 
 ### Heritage on the Marina wiki entry
 

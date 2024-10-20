@@ -22,6 +22,7 @@ HotMc
 
 ## Reference
 
+
 * http://artisanarchitecture.com/wp-content/uploads/2013/07/gold-medal-nomination-01-JM.pdf
 * https://issuu.com/kimberlyperette/docs/jm_gold_medal_2014-issuu-small
 * https://www.wikiwand.com/en/Julia_Morgan
@@ -34,6 +35,11 @@ note same as heritage sign
 
 https://www.dreamstime.com/san-francisco-ladies-protection-relief-society-owners-property-one-first-philanthropic-societies-state-image260750047
 
+
+*https://pioneeringwomen.bwaf.org/julia-morgan/
+
+* https://reidhall.globalcenters.columbia.edu/content/julia-morgan-1872-1957#:~:text=Born%20in%20San%20Francisco%20on%20January
+* https://alumni.berkeley.edu/california-magazine/fall-2020/how-julia-morgan-changed-california-architecture
 
 ### Wikipedia: Julia Morgan
 
