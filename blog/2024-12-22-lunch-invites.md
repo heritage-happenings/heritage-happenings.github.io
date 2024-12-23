@@ -1,8 +1,8 @@
 # Lunch with Legends: Connecting Generations in the Marina
 
-Welcome to my life at Heritage on the Marina, a highly-respected retirement community nestled in the heart of San Francisco's stunning Marina district! At 77, I'm considered one of the "youngsters" here. I made the move during the height of the pandemic. As a partial paraplegic, I was concerned about managing alone if I got sick or injured. But even with my moderate disability, life here is fantastic. I can easily explore our neighborhood and enjoy everything this city offers.
+Welcome to my life at Heritage on the Marina, a highly-respected retirement community nestled in the heart of San Francisco's stunning Marina district! At 77, I'm considered one of the "youngsters" here. I made the move during the height of the pandemic. As a partial paraplegic, I was concerned about managing alone if I got sick or injured. But even with my moderate disability, life here is fantastic. I can easily explore our neighborhood and enjoy everything the delightful Marina district offers.
 
-Recently, I became involved with Next Village, an well-organized non-profit that's all about connecting generations. They mobilize young volunteers to support seniors and organize events to keep us engaged and active. Improv classes, writers' workshops, dining out at local gems – I'm ready to dive into all the fantastic activities they offer!
+Recently, I became involved with Next Village, a well-organized non-profit that's all about connecting generations. They mobilize young volunteers to support seniors and organize events to keep us engaged and active. Improv classes, writers' workshops, dining out at local gems – I'm ready to dive into all the fantastic activities they offer!
 
 But here's the thing: I see many of my neighbors at Heritage who aren't as fortunate. They're too frail or simply too advanced in age to venture out. Their world can become quite small, especially when it comes to interacting with younger people. And that's something I'm determined to change.
 
