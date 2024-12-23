@@ -1,6 +1,6 @@
 # Lunch with Legends: Connecting Generations in the Marina
 
-![]( ./images/2024-12-22-bay-francisco-view.jpg)
+![]( images/2024-12-22-bay-francisco-view.jpg)
 
 Welcome to my life at Heritage on the Marina, a highly-respected retirement community nestled in the heart of San Francisco's stunning Marina district! At 77, I'm considered one of the "youngsters" here. I made the move during the height of the pandemic. As a partial paraplegic, I was concerned about managing alone if I got sick or injured. But even with my moderate disability, life here is fantastic. I can easily explore our neighborhood and enjoy everything the delightful Marina district offers.
 
