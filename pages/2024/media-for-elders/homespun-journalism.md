@@ -1,6 +1,12 @@
 # Homespun Journalism
 
-2024-12-28
+## 2025-01-09
+
+* Homemade Journalism?
+* Homespun Journalism? ~ Tales from your life at home, with your a spin on it
+
+
+## 2024-12-28
 
 A repository of the stories of people. Bits and pieces of text written by normal people in the normal ways they write. A collection of thoughts of people reflecting upon about their lives.
 
