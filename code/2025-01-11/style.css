@@ -4,8 +4,8 @@
 :root {
 	font-size: 100%;
 	--mnu-width: 19rem;
-	--main-hue: 206;
-	/* 0 to 360 0=red 120=green 240=blue */
+	--main-hue: 10;
+	/* 0 to 360 10=red 120=green 240=blue */
 	--margin: 0.5rem;
 	--saturation: 89%;
 	--lightness0: 1% --lightness1: 20%;
@@ -41,6 +41,7 @@ body {
 }
 
 header h1 {
+  color: var(--color-2-text);
 	margin-bottom: 0;
 }
 
@@ -66,7 +67,7 @@ body::-webkit-scrollbar-thumb, #navMenu::-webkit-scrollbar-thumb, .select-resize
 /* tags in abc order */
 
 a {
-	color: var(--color-2-text);
+	color: var(--color-2-text); 
 	font-weight: 800;
 	text-decoration: none;
 }

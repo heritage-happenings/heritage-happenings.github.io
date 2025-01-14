@@ -1,7 +1,7 @@
 const GFO = ( function () {
 
-  const defaultFile = "https://heritage-happenings.github.io/README.md";
-    //const defaultFile = "test.md";
+  //const defaultFile = "https://heritage-happenings.github.io/README.md";
+  const defaultFile = "test.md";
 
     // Set the flavor of the Markdown converter
     showdown.setFlavor("github");
@@ -33,7 +33,7 @@ const GFO = ( function () {
         }
 
         // Get the URL from the hash and update the document title
-        const url = location.hash.slice(1);
+        const url = "../../" + location.hash.slice(1);
 
         setDocumentTitle(url);
 

@@ -1,25 +1,27 @@
-const owner = COR.user;
+const user = COR.user;
 const repo = COR.repo;
 const branch = COR.branch;
-let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
+const path = COR.pathContent;
 
-if ( !accessToken || accessToken === "" || accessToken === "null" ) {
+// let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
 
-  accessToken = prompt( "Enter GitHub Personal Access Token" );
+// if ( !accessToken || accessToken === "" || accessToken === "null" ) {
 
-  localStorage.setItem( "githubAccessToken", accessToken );
+//   accessToken = prompt( "Enter GitHub Personal Access Token" );
 
-}
+//   localStorage.setItem( "githubAccessToken", accessToken );
 
-async function fetchGitHubRepoContents ( owner, repo ) {
+// }
+
+async function fetchGitHubRepoContents ( user, repo ) {
   const baseUrl = 'https://api.github.com';
 
   const headers = new Headers( {
     'Accept': 'application/vnd.github+json',
-    'Authorization': `token ${ accessToken }`
+    //'Authorization': `token ${ accessToken }`
   } );
 
-  const response = await fetch( `${ baseUrl }/repos/${ owner }/${ repo }/git/trees/${ branch }?recursive=1`, { headers } );
+  const response = await fetch( `${ baseUrl }/repos/${ user }/${ repo }/git/trees/${ branch }?recursive=1`, { headers } );
   const { tree } = await response.json();
   const div = document.getElementById( 'MNUdivContent' );
 
@@ -27,7 +29,8 @@ async function fetchGitHubRepoContents ( owner, repo ) {
     const folderContents = document.createElement( 'div' );
     folderContents.className = 'folder-contents';
 
-    const trees = items.filter( item => item.type === 'tree' );
+    const trees = items.filter( item => item.type === 'tree' )
+      .filter( item => COR.filterFolders.find( item ) );
     const blobs = items.filter( item => item.type === 'blob' );
 
     trees.forEach( item => {
@@ -45,7 +48,7 @@ async function fetchGitHubRepoContents ( owner, repo ) {
     blobs.forEach( item => {
       const fileLink = document.createElement( 'a' );
       fileLink.textContent = item.path.replace( parentPath, '' );
-      fileLink.href = `#https://${ owner }.github.io/${ item.path }`;
+      fileLink.href = `#${ COR.pathContent }${ item.path }`;
       //fileLink.target = '_blank';
 
       const newLine = document.createElement( 'br' );
@@ -65,4 +68,4 @@ async function fetchGitHubRepoContents ( owner, repo ) {
 }
 
 
-fetchGitHubRepoContents( owner, repo );
+fetchGitHubRepoContents( user, repo );
