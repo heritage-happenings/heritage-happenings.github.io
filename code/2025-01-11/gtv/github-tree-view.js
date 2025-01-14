@@ -2,6 +2,7 @@ const user = COR.user;
 const repo = COR.repo;
 const branch = COR.branch;
 const path = COR.pathContent;
+const filterFolders = COR.filterFolders;
 
 // let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
 
@@ -30,9 +31,10 @@ async function fetchGitHubRepoContents ( user, repo ) {
     folderContents.className = 'folder-contents';
 
     const trees = items.filter( item => item.type === 'tree' )
-      .filter( item => COR.filterFolders.find( item ) );
+      //.filter( item => filterFolders.includes( item ) );
     const blobs = items.filter( item => item.type === 'blob' );
 
+    console.log( "trees", trees );
     trees.forEach( item => {
       const details = document.createElement( 'details' );
       const summary = document.createElement( 'summary' );
@@ -59,11 +61,15 @@ async function fetchGitHubRepoContents ( user, repo ) {
     return folderContents;
   };
 
-  const topLevelItems = tree.filter( item => {
+  let topLevelItems = tree.filter( item => {
     const pathParts = item.path.split( '/' );
     return pathParts.length === 1;
   } );
+
+  topLevelItems = topLevelItems.filter( item => item.type === 'blob' || filterFolders.includes( item.path ) );
   div.appendChild( createTree( topLevelItems, '' ) );
+
+  console.log( "topLevelItems", topLevelItems );
 
 }
 

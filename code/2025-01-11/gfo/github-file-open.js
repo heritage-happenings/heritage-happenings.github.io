@@ -1,7 +1,7 @@
 const GFO = ( function () {
 
   //const defaultFile = "https://heritage-happenings.github.io/README.md";
-  const defaultFile = "test.md";
+  const defaultFile = "HOME.md";
 
     // Set the flavor of the Markdown converter
     showdown.setFlavor("github");
