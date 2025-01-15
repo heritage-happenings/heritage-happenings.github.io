@@ -35,7 +35,9 @@ const GFO = ( function () {
 
   // If there's no hash in the URL, set it to the default file
   if ( !location.hash ) {
-    location.hash = defaultFile;
+
+    location.hash = COR.defaultFile;
+
   } else {
 
     onHashChange();
@@ -54,12 +56,12 @@ const GFO = ( function () {
     // }
 
     // Get the URL from the hash and update the document title
-    const url = "../../" + location.hash.slice( 1 );
+    const url = location.hash.slice( 1 );
 
     setDocumentTitle( url );
 
     // Fetch the file and update the page content
-    fetchFile( url, options );
+    fetchFile( COR.pathContent + url, options );
 
   }
 

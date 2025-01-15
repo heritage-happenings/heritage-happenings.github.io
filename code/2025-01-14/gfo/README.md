@@ -1,11 +1,15 @@
 # Read Me
 
-## List
+* https://heritage-happenings.github.io/code/gfo/github-file-open.html
 
-* one
-* two
-* three
 
-### Header 3
+## To Do / Wish List
 
-lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?
+* 2025-01-14 ~ set default file & path content viw function calls
+
+
+## Change log
+
+### 2025-01-14
+
+* Clean up

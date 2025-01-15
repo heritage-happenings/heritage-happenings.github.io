@@ -50,7 +50,7 @@ async function fetchGitHubRepoContents ( user, repo ) {
     blobs.forEach( item => {
       const fileLink = document.createElement( 'a' );
       fileLink.textContent = item.path.replace( parentPath, '' );
-      fileLink.href = `#${ COR.pathContent }${ item.path }`;
+      fileLink.href = `#${ item.path }`;
       //fileLink.target = '_blank';
 
       const newLine = document.createElement( 'br' );
