@@ -39,7 +39,7 @@ const GFO = ( function () {
   } else {
 
     onHashChange();
-    
+
   }
 
   // // If the page is loaded over HTTPS, remove the hash from the URL
@@ -48,17 +48,15 @@ const GFO = ( function () {
   // }
 
   function onHashChange () {
-    // If the hash doesn't include a ".", it's probably an internal link, so do nothing
-    if ( !location.hash.includes( "." ) ) {
-      return;
-    }
+    // // If the hash doesn't include a ".", it's probably an internal link, so do nothing
+    // if ( !location.hash.includes( "." ) ) {
+    //   return;
+    // }
 
     // Get the URL from the hash and update the document title
-    const url = "../../../" + location.hash.slice( 1 );
+    const url = "../../" + location.hash.slice( 1 );
 
     setDocumentTitle( url );
-
-
 
     // Fetch the file and update the page content
     fetchFile( url, options );
@@ -77,16 +75,25 @@ const GFO = ( function () {
 
   function fetchFile ( url, options ) {
 
-    console.log( "url", url );
+
     fetch( url )
       .then( response => response.text() )
       .then( txt => {
 
-        if ( url.endsWith( ".md" ) ) {
+        const extension = url.includes( "." ) ? url.toLowerCase().split( '.' ).pop() : "";
+        //console.log( "extension", extension );
+
+        if ( [ "", "LICENSE", "txt", "md", "markdown" ].includes( extension ) ) {
+
           txt = txt.replace( /\<!--@@@/, "" ).replace( /\@@@--\>/, "" );
           divMainContent.innerHTML = new showdown.Converter( options ).makeHtml( txt );
 
+        } else if ( [ "gif", "jpg", "jpeg", "png", "svg" ].includes( extension ) ) {
+
+          divMainContent.innerHTML = `<img src="${ url }" style="border:none;max-width:100%;" >`;
+
         } else {
+
           divMainContent.innerHTML = `<iframe src="${ url }" height=${ window.innerHeight } style="border:none;width:100%;" ></iframe>`;
         }
         window.scrollTo( 0, 0 );
