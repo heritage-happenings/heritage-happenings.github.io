@@ -4,23 +4,22 @@ const branch = COR.branch;
 //const path = COR.pathContent;
 const filterFolders = COR.filterFolders;
 const ignoreFiles = COR.ignoreFiles;
-// let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
+let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
 
-// if ( !accessToken || accessToken === "" || accessToken === "null" ) {
+if ( !accessToken || accessToken === "" || accessToken === "null" ) {
 
-//   accessToken = prompt( "Enter GitHub Personal Access Token" );
+  accessToken = prompt( "Enter GitHub Personal Access Token" );
 
-//   localStorage.setItem( "githubAccessToken", accessToken );
+  localStorage.setItem( "githubAccessToken", accessToken );
 
-// }
-var readmeLink
+}
 
 async function fetchGitHubRepoContents ( user, repo ) {
   const baseUrl = 'https://api.github.com';
 
   const headers = new Headers( {
     'Accept': 'application/vnd.github+json',
-    //'Authorization': `token ${ accessToken }`
+    'Authorization': `token ${ accessToken }`
   } );
 
   const response = await fetch( `${ baseUrl }/repos/${ user }/${ repo }/git/trees/${ branch }?recursive=1`, { headers } );
@@ -46,6 +45,8 @@ async function fetchGitHubRepoContents ( user, repo ) {
       details.appendChild( createTree( childItems, item.path + '/' ) );
 
       folderContents.appendChild( details );
+
+      console.log( "item", item );
     } );
 
     blobs.forEach( item => {
@@ -54,15 +55,18 @@ async function fetchGitHubRepoContents ( user, repo ) {
       fileLink.href = `#${ item.path }`;
       //fileLink.target = '_blank';
 
-      readmeLink = document.createElement( 'a' );
-      readmeLink.innerHTML = " <img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >";
+      const editmeLink = document.createElement( 'a' );
+      editmeLink.innerHTML = "✎";
+      editmeLink.href = `https://theo-armour.github.io/qdata/apps/notesy/#https://api.github.com/repos/${ user }/${ repo }/contents/${ item.path }`;
+      editmeLink.target = '_blank';
 
-      readmeLink.href = `../../readme.html#${ item.path }`;
-      //readmeLink.target = '_blank';
       const newLine = document.createElement( 'br' );
+      const space = document.createElement( 'span' );
+      space.innerHTML = " ";
 
       folderContents.appendChild( fileLink );
-      folderContents.appendChild( readmeLink );
+      folderContents.appendChild( space );
+      folderContents.appendChild( editmeLink );
       folderContents.appendChild( newLine );
     } );
 
@@ -74,7 +78,7 @@ async function fetchGitHubRepoContents ( user, repo ) {
     return pathParts.length === 1;
   } );
 
-  topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path ) );
+  //topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path ) );
   div.appendChild( createTree( topLevelItems, '' ) );
 
   //console.log( "topLevelItems", topLevelItems );
