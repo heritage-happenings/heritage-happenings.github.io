@@ -1,9 +1,9 @@
 const user = COR.user;
 const repo = COR.repo;
 const branch = COR.branch;
-const path = COR.pathContent;
+//const path = COR.pathContent;
 const filterFolders = COR.filterFolders;
-
+const ignoreFiles = COR.ignoreFiles;
 // let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
 
 // if ( !accessToken || accessToken === "" || accessToken === "null" ) {
@@ -13,6 +13,7 @@ const filterFolders = COR.filterFolders;
 //   localStorage.setItem( "githubAccessToken", accessToken );
 
 // }
+var readmeLink
 
 async function fetchGitHubRepoContents ( user, repo ) {
   const baseUrl = 'https://api.github.com';
@@ -24,7 +25,7 @@ async function fetchGitHubRepoContents ( user, repo ) {
 
   const response = await fetch( `${ baseUrl }/repos/${ user }/${ repo }/git/trees/${ branch }?recursive=1`, { headers } );
   const { tree } = await response.json();
-  const div = document.getElementById( 'MNUdivContent' );
+  const div = document.getElementById( 'divContent' );
 
   const createTree = ( items, parentPath ) => {
     const folderContents = document.createElement( 'div' );
@@ -53,8 +54,14 @@ async function fetchGitHubRepoContents ( user, repo ) {
       fileLink.href = `#${ item.path }`;
       //fileLink.target = '_blank';
 
+      readmeLink = document.createElement( 'a' );
+      readmeLink.innerHTML = " <img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >";
+
+      readmeLink.href = `../../readme.html#${ item.path }`;
       const newLine = document.createElement( 'br' );
+
       folderContents.appendChild( fileLink );
+      folderContents.appendChild( readmeLink );
       folderContents.appendChild( newLine );
     } );
 
@@ -66,7 +73,7 @@ async function fetchGitHubRepoContents ( user, repo ) {
     return pathParts.length === 1;
   } );
 
-  topLevelItems = topLevelItems.filter( item => item.type === 'blob' || filterFolders.includes( item.path ) );
+  topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path ) );
   div.appendChild( createTree( topLevelItems, '' ) );
 
   //console.log( "topLevelItems", topLevelItems );

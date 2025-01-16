@@ -37,39 +37,20 @@
 
     const COR = {
 
-      // description: document.head.querySelector( "[ name=description ]" ).content +
-      //   `<p>Release: 2025-01-13<p>`,
-      // urlSource: "https://github.com/pushme-pullyou/tootoo-2025/",
-      // urlAssets: "https://pushme-pullyou.github.io/assets/",
-      // iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg">`,
-      // iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
+      // Used by GFO ~ github file open
 
-      // iconRepo: "❦",
-      // title: document.title, //? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
-      // version: document.head.querySelector( "[ name=version ]" ).content,
-
-
-      //defaultFile: "README.md",
-
-      //pathContent: "https://pushme-pullyou.github.io/tootoo-2025/",
+      defaultFile: "README.md",
       pathContent: "../../",
 
-      //pathTooToo: "https://pushme-pullyou.github.io/tootoo-2025/",
-      //pathTooToo: "./",
-
-      // Used by GRV
+      // Used by GTV ~ github tree view
       user: "heritage-happenings",
       repo: "heritage-happenings.github.io",
       branch: "master",
 
-      //defaultIgnoreFolders: [],
-      //defaultIgnoreFolders: [ "archive", "lib-templates" ], // curated
-
       filterFolders: [ "food-service", "happenings-issues:", "histories", "pages", "photos", "scans"],
-      filesAll: true,
-      filterFiles: [ "gif", "md", "html", "jpg", "LICENSE", "pdf", "png", "svg", "txt", "xlsx", "" ], // curated
-      ignoreFiles: [ "404.html", "index.html", "LICENSE", "readme.html" ], // curated
-
+      //filesAll: true,
+      //filterFiles: [ "gif", "md", "html", "jpg", "LICENSE", "pdf", "png", "svg", "txt", "xlsx", "" ], // curated
+      ignoreFiles: [ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
     }
 
   </script>
@@ -93,7 +74,7 @@
           <header>
 
             <h1>
-              <a id=MNUaSource href=${ COR.urlSource } target="_top" title="Click to go to the source code on GitHub">
+              <a id=aSource href=${ COR.urlSource } target="_top" title="Click to go to the source code on GitHub">
 
                 <img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">
               </a>
@@ -118,7 +99,7 @@
 
         </div>
 
-        <div id=MNUdivContent></div>
+        <div id=divContent></div>
 
         <div id=divFooter>
 

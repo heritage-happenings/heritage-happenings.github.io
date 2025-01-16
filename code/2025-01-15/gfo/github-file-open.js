@@ -1,6 +1,5 @@
 const GFO = ( function () {
 
-
   const defaultFile = COR.defaultFile;
 
   // Set the flavor of the Markdown converter
