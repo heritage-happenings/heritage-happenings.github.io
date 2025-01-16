@@ -37,20 +37,19 @@
 
     const COR = {
 
+      // description: document.head.querySelector( "[ name=description ]" ).content +
+      //   `<p>Release: 2025-01-13<p>`,
+      // urlSource: "https://github.com/pushme-pullyou/tootoo-2025/",
+      // urlAssets: "https://pushme-pullyou.github.io/assets/",
+      // iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg">`,
+      // iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
 
-      description: document.head.querySelector( "[ name=description ]" ).content +
-        `<p>Release: 2025-01-13<p>`,
-      urlSource: "https://github.com/pushme-pullyou/tootoo-2025/",
-      urlAssets: "https://pushme-pullyou.github.io/assets/",
-      iconExternalFile: `<img class=infoImg  src="https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg">`,
-      iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
+      // iconRepo: "❦",
+      // title: document.title, //? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
+      // version: document.head.querySelector( "[ name=version ]" ).content,
 
-      iconRepo: "❦",
-      title: document.title, //? document.title : location.href.split( "/" ).pop().slice( 0, - 5 ).replace( /-/g, " " ),
-      version: document.head.querySelector( "[ name=version ]" ).content,
 
-      // Used by FRX
-      defaultFile: "README.md",
+      //defaultFile: "README.md",
 
       //pathContent: "https://pushme-pullyou.github.io/tootoo-2025/",
       pathContent: "../../",
@@ -89,7 +88,7 @@
 
       <nav id="navMenu" class="gmd-4">
 
-        <div id=MNUdivHeader>
+        <div id=divHeader>
 
           <header>
 
@@ -100,8 +99,8 @@
               </a>
 
               <a href="" title="Click this title to reload this page">
-                <span id=MNUspnTitle>Heritage Happenings</span>
-                <span id=MNUspnVersion></span>
+                <span id=spnTitle>Heritage Happenings</span>
+                <span id=spnVersion></span>
               </a>
 
             </h1>
@@ -121,9 +120,7 @@
 
         <div id=MNUdivContent></div>
 
-        <div id=MNUdivSample></div>
-
-        <div id=MNUdivFooter>
+        <div id=divFooter>
 
           <footer>
 
@@ -200,7 +197,7 @@
       }
 
       GFO.onHashChange();
-      
+
     }
 
   </script>
