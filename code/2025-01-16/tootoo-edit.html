@@ -43,13 +43,13 @@
       pathContent: "../../",
 
       // Used by GTE ~ github tree view
-      user: "pushme-pullyou",
-      repo: "tootoo-2025",
-      branch: "main",
+      user: "heritage-happenings",
+      repo: "heritage-happenings.github.io",
+      branch: "master",
 
       filterFolders: [], //[ "food-service", "happenings-issues:", "histories", "pages", "photos", "scans"],
 
-      ignoreFiles: "", //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
+      ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
     }
 
   </script>
@@ -79,7 +79,7 @@
               </a>
 
               <a href="" title="Click this title to reload this page">
-                <span id=spnTitle>TooToo</span>
+                <span id=spnTitle>HHappenings Edit</span>
                 <span id=spnVersion></span>
               </a>
 
@@ -88,7 +88,7 @@
           </header>
         </div>
 
-        <div id=MNUdivExtras>
+        <div id=divExtras>
           <button onclick=document.body.style.fontSize="80%" ;sumNavMenu.style.width="10rem" ;
             style="font-size:80%;">A</button>
           <button onclick=document.body.style.fontSize="100%" ;sumNavMenu.style.width="13rem" ;
@@ -109,7 +109,7 @@
             <hr>
 
             <center>
-              <a id=MNUaIcon class=aDingbat href="javascript:MNUspnTitle.scrollIntoView();" title="Scroll to top">
+              <a id=MNUaIcon class=aDingbat href="javascript:spnTitle.scrollIntoView();" title="Scroll to top">
                 ❦
               </a>
             </center>
@@ -144,23 +144,18 @@
 
         window.history.pushState( "", "", "./" + location.hash );
 
-        COR.ignoreFolders = COR.defaultIgnoreFolders;
 
       } else {
 
         //COR.pathContent = "https://heritage-happenings.github.io/";
-        COR.ignoreFolders = [];
 
       }
-
-      //MNUaSource.href = COR.urlSource;
-      //MNUspnVersion.innerHTML = COR.version;
 
 
       if ( window.innerWidth < 800 || window.innerHeight < 500 ) {
 
         //document.documentElement.style.setProperty( "--mnu-width", "35%" );
-        //console.log( "bb", 23 );
+
         sumNavMenu.hidden = false;
         detNavMenu.open = false;
 

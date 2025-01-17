@@ -46,7 +46,6 @@ async function fetchGitHubRepoContents ( user, repo ) {
 
       folderContents.appendChild( details );
 
-      console.log( "item", item );
     } );
 
     blobs.forEach( item => {
