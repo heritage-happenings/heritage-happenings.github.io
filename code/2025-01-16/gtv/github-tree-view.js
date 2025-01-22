@@ -74,7 +74,7 @@ async function fetchGitHubRepoContents ( user, repo ) {
     return pathParts.length === 1;
   } );
 
-  //topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path ) );
+  topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path) === true );
   div.appendChild( createTree( topLevelItems, '' ) );
 
   //console.log( "topLevelItems", topLevelItems );
