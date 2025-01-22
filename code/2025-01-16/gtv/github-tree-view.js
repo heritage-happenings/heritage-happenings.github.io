@@ -2,8 +2,8 @@ const user = COR.user;
 const repo = COR.repo;
 const branch = COR.branch;
 //const path = COR.pathContent;
-const filterFolders = COR.filterFolders;
 const ignoreFiles = COR.ignoreFiles;
+const filterFolders = COR.filterFolders;
 // let accessToken = localStorage.getItem( "githubAccessToken" ) || "";
 
 // if ( !accessToken || accessToken === "" || accessToken === "null" ) {
@@ -74,10 +74,11 @@ async function fetchGitHubRepoContents ( user, repo ) {
     return pathParts.length === 1;
   } );
 
-  topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path) === true );
+  topLevelItems = topLevelItems.filter( item => ( item.type === "blob" && ignoreFiles.includes( item.path ) === false ) || ( item.type === "tree" && filterFolders.includes( item.path ) === true ) );
+
   div.appendChild( createTree( topLevelItems, '' ) );
 
-  //console.log( "topLevelItems", topLevelItems );
+  console.log( "topLevelItems", topLevelItems );
 
 }
 
