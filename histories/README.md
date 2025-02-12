@@ -1,7 +1,12 @@
-# Scans
+# San Francisco Ladies Protection and Relief Society
 
-Scanned images of the drawings from Julia Morgan's office and other architectural plans and details
+## wikipedia entry agenda
 
-***
-
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+* Add Page & Turnbull
+* Add Brown & Polk
+* add dates and what they worked on to all entries
+* Add 2013 timeline entries
+* Look through publications for notable residents
+* Update History introduction
+* Add reference to 2013 brochure
+* Add links to PDFs in HH repo

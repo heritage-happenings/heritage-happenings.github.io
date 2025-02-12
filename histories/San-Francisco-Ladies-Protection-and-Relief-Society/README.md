@@ -21,7 +21,9 @@ Margaret J has a good number of documents relating to the history of the Heritag
 
 ### ["The Heritage ~ Highlights 2012"]( #scans/documents/the-heritage-highlights-2012.pdf )
 
+## Links
 
+* https://oac.cdlib.org/findaid/ark:/13030/kt338nf0rf/
 
 ## To Do / Wish List
 
