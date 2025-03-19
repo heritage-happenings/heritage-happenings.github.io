@@ -2,6 +2,12 @@
 
 ![Julia Morgan]( https://upload.wikimedia.org/wikipedia/commons/f/fc/Julia_Morgan.jpg )
 
+## Quotes
+
+* https://www.bookey.app/quote-author/julia-morgan
+* 30 Examples of Julia Morgan Quotes
+
+
 ## 2021-10-16
 
 Dr Karen McNeill
