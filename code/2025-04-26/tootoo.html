@@ -3,18 +3,18 @@
 
 <head>
   <meta charset="utf-8">
-  <title>TooToo</title>
+  <title>Heritage Happenings</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
   <meta name="description"
     content="TooToo 2025 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
   <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-  <meta name="version" content="2025-01-16">
+  <meta name="version" content="2025-04-26">
   <meta name="author" content="Theo Armour">
   <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025/">
 
   <!-- Copyright 2025 Theo Armour. MIT license -->
 
-  <link id=CORstyle rel="stylesheet" href="style.css">
+  <link id=CORstyle rel="stylesheet" href="style-core.css">
 
   <style>
     :root {
@@ -22,6 +22,7 @@
       --main-hue: 10;
       /* 0 to 360 0=red 120=green 240=blue */
     }
+
   </style>
 
 </head>
@@ -38,8 +39,7 @@
     const COR = {
 
       // Used by GFO ~ github file open
-
-      defaultFile: "README.md",
+      defaultFile: "HOME.md",
       pathContent: "../../",
 
       // Used by GTV ~ github tree view
@@ -47,10 +47,11 @@
       repo: "heritage-happenings.github.io",
       branch: "master",
 
-      filterFolders: [ "food-service", "happenings-issues:", "histories", "pages", "photos", "scans"],
+      urlSource: "https://github.com/heritage-happenings/",
 
-      ignoreFiles: [ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html", "test.md" ],
+      filterFolders: ["activities", "code", "files", "people", "residents-council"], //[ "code"],
 
+      ignoreFiles: [ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
     }
 
   </script>
@@ -59,7 +60,7 @@
   <script src="gtv/github-tree-view.js"></script>
 
 
-  <div id=MNUdivShowHide>
+  <div id=divShowHide>
 
     <details id=detNavMenu class="gmd-4" open>
 
@@ -74,10 +75,7 @@
           <header>
 
             <h1>
-              <a id=aSource href= "https://github.com/heritage-happenings/heritage-happenings.github.io/" target="_top" title="Click to go to the source code on GitHub">
-
-                <img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">
-              </a>
+              <a id=aSource href="" target="_top" title="Click to go to the source code on GitHub"><img id="imgGitHub" src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg"></a>
 
               <a href="" title="Click this title to reload this page">
                 <span id=spnTitle>Heritage Happenings</span>
@@ -87,17 +85,20 @@
             </h1>
 
           </header>
+          
         </div>
 
-        <div id=MNUdivExtras>
-          <button onclick=document.body.style.fontSize="80%" ;sumNavMenu.style.width="10rem" ;
+        <div id=divExtras>
+          <button onclick="document.body.style.fontSize='80%'; sumNavMenu.style.width='10rem'; document.getElementById('imgGitHub').style.width='16px';"
             style="font-size:80%;">A</button>
-          <button onclick=document.body.style.fontSize="100%" ;sumNavMenu.style.width="13rem" ;
+          <button onclick="document.body.style.fontSize='100%'; sumNavMenu.style.width='13rem'; document.getElementById('imgGitHub').style.width='20px';"
             style="font-size:100%;">A</button>
-          <button onclick=document.body.style.fontSize="150%" ;sumNavMenu.style.width="20rem" ;
+          <button onclick="document.body.style.fontSize='150%'; sumNavMenu.style.width='20rem'; document.getElementById('imgGitHub').style.width='30px';"
             style="font-size:150%;">A</button>
 
         </div>
+
+        <hr>
 
         <div id=divContent></div>
 
@@ -110,7 +111,7 @@
             <hr>
 
             <center>
-              <a id=MNUaIcon class=aDingbat href="javascript:MNUspnTitle.scrollIntoView();" title="Scroll to top">
+              <a id=aIcon class=aDingbat href="javascript:spnTitle.scrollIntoView();" title="Scroll to top">
                 ❦
               </a>
             </center>
@@ -132,29 +133,19 @@
   </main>
 
 
-
   <script>
 
     init();
 
     function init () {
 
-      if ( location.protocol === "https:" ) {
+      document.getElementById("aSource").href = COR.urlSource;
 
-        //COR.pathContent = "";
+      if ( location.protocol === "https:" ) {
 
         window.history.pushState( "", "", "./" + location.hash );
 
-        //COR.ignoreFolders = COR.defaultIgnoreFolders;
-
-      } else {
-
-        /// COR.ignoreFolders = [];
-
       }
-
-      //MNUaSource.href = COR.urlSource;
-      //MNUspnVersion.innerHTML = COR.version;
 
 
       if ( window.innerWidth < 800 || window.innerHeight < 500 ) {
