@@ -9,11 +9,24 @@
     body {
       font: 100% monospace;
     }
-    
-    /* Top level summary elements start at 16px */
+      /* Top level summary elements start at 16px */
     .folder-contents > details > summary {
       font-size: 16pt;
       margin-left: 0px;
+    }    /* Styling for top level folders */
+    .top-level-folder > summary {
+      background: linear-gradient(135deg, #fff5f5 0%, #ffdbdb 100%);
+      border-radius: 6px;
+      padding: 5px 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      transition: all 0.3s ease;
+      border-left: 4px solid #880000;
+    }
+    
+    .top-level-folder > summary:hover {
+      background: linear-gradient(135deg, #ffe0e0 0%, #ffc0c0 100%);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     }
     
     /* First level of nesting */
