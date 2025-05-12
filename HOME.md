@@ -8,31 +8,6 @@ These web pages complement the _Heritage Happenings_ a monthly publication publi
 
 Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the Heritage Happenings ads PDF files or glance at our menus.
 
-The text below highlights pages of possible interest.
-
-## [Scans of Julia Morgan's 1925 drawings]( #scans/1925-heritage-drawings-morgan/README.md )
-
-* Scans from prints from a microfilm from the blueprints of the original drawings
-
-## ["What is the meaning of the three Roses?" article]( #pages/julia-morgan/What-is-the-meaning-of-the-three-roses.md )
-
-* An investigation into the terracotta panels on the front elevation of the Heritage
-
-## [Julia Morgan Links]( #pages/julia-morgan/Julia-Morgan-Links.md )
-
-* Preliminary explorations onto the engaging career of the architect of the Heritage
-
-## [Links of Interest for Seniors]( #pages/reference/Links-of-Interest-for-Seniors.md )
-
-* Many more links to be added here in due course
-
-## [21 Questions for Seniors]( #pages/21-Questions-for-Seniors.md )
-
-* A checklist for helping people to decide where to live as a senior
-
-## [Photos]( #photos/2020-heritage/2020-08-05-cottage-cropped.jpg )
-
-* Photos from in and around the Heritage premises
 
 
 ***
