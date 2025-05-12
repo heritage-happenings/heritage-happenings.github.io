@@ -25,7 +25,7 @@ async function fetchGitHubRepoContents(user, repo) {
 
   const response = await fetch(`${baseUrl}/repos/${user}/${repo}/git/trees/${branch}?recursive=1`, { headers });
   const { tree } = await response.json();
-  const div = document.getElementById('divContent');  const createTree = (items, parentPath) => {
+  const div = document.getElementById('divContent'); const createTree = (items, parentPath) => {
     const folderContents = document.createElement('div');
     folderContents.className = 'folder-contents';
 
@@ -40,12 +40,12 @@ async function fetchGitHubRepoContents(user, repo) {
       // Format folder names: replace hyphens with spaces
       const folderName = item.path.replace(parentPath, '');
       summary.textContent = formatDisplayName(folderName, true);
-      
+
       // Add a special class for top-level folders
       if (parentPath === '') {
         details.classList.add('top-level-folder');
       }
-      
+
       details.appendChild(summary);
 
       const childItems = tree.filter(child => child.path.startsWith(item.path + '/') && child.path.split('/').length === item.path.split('/').length + 1);
@@ -116,17 +116,17 @@ async function fetchGitHubRepoContents(user, repo) {
 function formatDisplayName(fileName, isFolder = false) {
   // Replace hyphens with spaces
   let displayName = fileName.replace(/-/g, ' ');
-  
+
   // Remove .md extension if present
   if (displayName.toLowerCase().endsWith('.md')) {
     displayName = displayName.slice(0, -3);
   }
-  
+
   // Convert to title case (capitalize first letter of each word)
   displayName = displayName.split(' ')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
-  
+
   return displayName;
 }
 
