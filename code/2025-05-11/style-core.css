@@ -172,6 +172,7 @@ div div>.folder-contents>details>summary:hover {
 .folder-contents>details>.folder-contents>details>summary {
   font-size: 14pt;
   margin-left: 20px;
+
 }
 
 /* Second level of nesting */

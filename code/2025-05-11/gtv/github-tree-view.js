@@ -55,6 +55,12 @@ async function fetchGitHubRepoContents(user, repo) {
 
       folderContents.appendChild(details);
     });
+    
+    // Add a horizontal rule between folders and files if both exist
+    if (trees.length > 0 && blobs.length > 0) {
+      const hr = document.createElement('hr');
+      folderContents.appendChild(hr);
+    }
 
     blobs.forEach(item => {
       const fileLink = document.createElement('a');
@@ -66,28 +72,31 @@ async function fetchGitHubRepoContents(user, repo) {
 
       const readmeLink = document.createElement('a');
       readmeLink.innerHTML = " <img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >";
-      readmeLink.href = `../../readme.html#${item.path}`;
+      readmeLink.href = `../../index.html#${item.path}`;
 
       let extension = getExtension(item.path);
 
       const editmeLink = document.createElement('a');
       editmeLink.innerHTML = "✎";
-      editmeLink.href = `https://theo-armour.github.io/qdata/apps/notesy/#https://api.github.com/repos/${user}/${repo}/contents/${item.path}`;
-      editmeLink.target = '_blank';
-
-      const newLine = document.createElement('br');
+      editmeLink.href = `../../notesy.html#https://api.github.com/repos/${user}/${repo}/contents/${item.path}`;
+      //editmeLink.target = '_blank';      // Create a paragraph element instead of a simple line break for better spacing control
+      
+      const fileContainer = document.createElement('p');
+      fileContainer.style.marginBottom = '6px'; // Add bottom margin for spacing
+      fileContainer.style.marginTop = '0px';     // No top margin needed
+      
       const space = document.createElement('span');
       space.innerHTML = " ";
 
-      folderContents.appendChild(fileLink);
-      folderContents.appendChild(space);
-      folderContents.appendChild(readmeLink);
+      fileContainer.appendChild(fileLink);
+      fileContainer.appendChild(space);
+      fileContainer.appendChild(readmeLink);
 
       // if ( [ "", "LICENSE", "txt", "md", "markdown" ].includes( extension ) ) {
       //         folderContents.appendChild( editmeLink );
       // }
 
-      folderContents.appendChild(newLine);
+      folderContents.appendChild(fileContainer);
     });
 
     return folderContents;
@@ -125,9 +134,9 @@ function formatDisplayName(fileName, isFolder = false) {
   }
 
   // Convert to title case (capitalize first letter of each word)
-  displayName = displayName.split(' ')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
+  // displayName = displayName.split(' ')
+  //   .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+  //   .join(' ');
 
   return displayName;
 }
