@@ -72,7 +72,6 @@ const GFO = ( function () {
 
     fetchFile( COR.pathContent + url, options );
 
-
   }
 
   function setDocumentTitle ( url ) {

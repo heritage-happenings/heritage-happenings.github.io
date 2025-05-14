@@ -25,7 +25,9 @@ async function fetchGitHubRepoContents(user, repo) {
 
   const response = await fetch(`${baseUrl}/repos/${user}/${repo}/git/trees/${branch}?recursive=1`, { headers });
   const { tree } = await response.json();
-  const div = document.getElementById('divContent'); const createTree = (items, parentPath) => {
+  const div = document.getElementById('divContent');
+  
+  const createTree = (items, parentPath) => {
     const folderContents = document.createElement('div');
     folderContents.className = 'folder-contents';
 
