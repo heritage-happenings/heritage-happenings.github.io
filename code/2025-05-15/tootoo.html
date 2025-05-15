@@ -22,7 +22,6 @@
       --main-hue: 10;
       /* 0 to 360 0=red 120=green 240=blue */
     }
-
   </style>
 
 </head>
@@ -51,7 +50,7 @@
 
       filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
 
-      ignoreFiles: [ "404.html", "favicon.ico", "index.html", "readme.html" ],
+      ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html"],
     }
 
   </script>
@@ -77,7 +76,7 @@
               <div class="title-link">
                 <a id=aSource href="" target="_top" title="Click to go to the source code on GitHub"><img id="imgGitHub"
                     src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg"></a>
-              <a href="" title="Click this title to reload this page">
+                <a href="" title="Click this title to reload this page">
                   <span id=spnTitle>Heritage Happenings</span>
                   <span id=spnVersion></span>
                 </a>
@@ -85,7 +84,7 @@
             </h1>
 
           </header>
-          
+
         </div>
 
         <div id=divExtras>
@@ -145,11 +144,11 @@
 
       document.getElementById("aSource").href = COR.urlSource;
 
-      // if ( location.protocol === "https:" ) {
+      if (location.protocol === "https:") {
 
-      //   window.history.pushState( "", "", "./" + location.hash );
+        window.history.pushState("", "", "./" + location.hash);
 
-      // }
+      }
 
 
       if (window.innerWidth < 800 || window.innerHeight < 500) {
