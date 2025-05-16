@@ -148,8 +148,11 @@
 
         window.history.pushState("", "", "https://heritage-happenings.github.io/" + location.hash);
 
-      }
+      } else {
 
+       window.history.pushState("", "", "../../" + location.hash);
+
+      }
 
       if (window.innerWidth < 800 || window.innerHeight < 500) {
 
