@@ -3,7 +3,7 @@ const COR = {
 
     // Used by GFO ~ github file open
     defaultFile: "HOME.md",
-    pathContent: "../../",
+    pathContent: "../../../",
 
     // Used by GTV ~ github tree view
     user: "heritage-happenings",

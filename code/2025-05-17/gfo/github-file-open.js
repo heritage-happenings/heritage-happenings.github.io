@@ -40,15 +40,15 @@ const GFO = (function () {
 
     let path;
 
-      if ( location.protocol === "https:" ) {
+    if (location.protocol === "https:") {
 
-        path = COR.urlPathContent ;
+      path = COR.urlPathContent;
 
-      } else {
+    } else {
 
-          path = COR.pathContent;
+      path = COR.pathContent;
 
-      }
+    }
 
     fetchFile(path + url, options);
 
