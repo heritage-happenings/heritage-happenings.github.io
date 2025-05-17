@@ -12,7 +12,7 @@ const COR = {
 
     urlSource: "https://github.com/heritage-happenings/heritage-happenings.github.io",
     urlPathContent: "https://heritage-happenings.github.io/",
-    urlPushPath: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
+    urlPushPath: "https://heritage-happenings.github.io/",
 
     menuTitle: "Heritage Happenings",
     version: "Version: 2025-05-17 14:29",

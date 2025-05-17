@@ -52,6 +52,8 @@ async function fetchGitHubRepoContents(user, repo) {
     }
 
     blobs.forEach(item => {
+
+      console.log( "item", item );
       
       const fileName = item.path.replace(parentPath, '');
       
