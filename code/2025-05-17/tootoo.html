@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>TooToo</title>
+  <title></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
   <meta name="description"
     content="TooToo 2025 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
@@ -123,6 +123,7 @@
 
     function init() {
 
+      document.title = COR.menuTitle;
       document.getElementById("aSource").href = COR.urlSource;
       spnTitle.innerText = COR.menuTitle;
       main.title = document.querySelector("[ name=version ]").content;

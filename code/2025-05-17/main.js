@@ -10,13 +10,15 @@ const COR = {
     repo: "heritage-happenings.github.io",
     branch: "master",
 
-    urlSource: "https://github.com/pushme-pullyou/tootoo-2025/tree/main/tootoo",
-    urlPathContent: "https://pushme-pullyou.github.io/tootoo-2025/",
+    urlSource: "https://github.com/heritage-happenings/heritage-happenings.github.io",
+    urlPathContent: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
+    urlPushPath: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
 
-    menuTitle: "TooToo 2025",
-    version: "Version: 2025-05-17 10:41",
-    
+    menuTitle: "Heritage Happenings",
+    version: "Version: 2025-05-17 12:06",
+ 
     filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
 
     ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html"],
 }
+

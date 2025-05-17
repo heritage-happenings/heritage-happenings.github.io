@@ -38,7 +38,19 @@ const GFO = (function () {
       tasklists: true,
     };
 
-    fetchFile(COR.urlPathContent + url, options);
+    let path;
+
+      if ( location.protocol === "https:" ) {
+
+        path = COR.urlPathContent ;
+
+      } else {
+
+          path = COR.pathContent;
+
+      }
+
+    fetchFile(path + url, options);
 
   }
 
@@ -49,7 +61,7 @@ const GFO = (function () {
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
       .join(" ");
 
-    document.title = "TooToo: " + title;
+    document.title = COR.menuTitle + title;
   }
 
   function fetchFile(url, options) {
