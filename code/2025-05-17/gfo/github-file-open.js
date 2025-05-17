@@ -1,6 +1,5 @@
 const GFO = (function () {
 
-
   const defaultFile = COR.defaultFile;
 
   // Set the flavor of the Markdown converter
@@ -22,8 +21,6 @@ const GFO = (function () {
 
     const url = location.hash.slice(1);
 
-    
-
     // Set the options for the Markdown converter
     const options = {
       backslashEscapesHTMLTags: true,
@@ -41,7 +38,7 @@ const GFO = (function () {
       tasklists: true,
     };
 
-    fetchFile(COR.pathContent + url, options);
+    fetchFile(COR.urlPathContent + url, options);
 
   }
 
