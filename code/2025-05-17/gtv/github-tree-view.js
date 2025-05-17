@@ -52,8 +52,6 @@ async function fetchGitHubRepoContents(user, repo) {
     }
 
     blobs.forEach(item => {
-
-      console.log( "item", item );
       
       const fileName = item.path.replace(parentPath, '');
       
@@ -63,7 +61,7 @@ async function fetchGitHubRepoContents(user, repo) {
       
       const readmeLink = document.createElement('a');
       readmeLink.innerHTML = " <img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >";
-      readmeLink.href = `${ item.base}/readme.html#${item.path}`;
+      readmeLink.href = `${COR.urlPathContent}/readme.html#${item.path}`;
       readmeLink.target = '_blank';
 
       const fileContainer = document.createElement('p');
