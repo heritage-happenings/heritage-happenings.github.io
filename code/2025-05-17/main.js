@@ -3,7 +3,7 @@ const COR = {
 
     // Used by GFO ~ github file open
     defaultFile: "HOME.md",
-    pathContent: "../../../",
+    pathContent: "../../",
 
     // Used by GTV ~ github tree view
     user: "heritage-happenings",
@@ -15,7 +15,7 @@ const COR = {
     urlPushPath: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
 
     menuTitle: "Heritage Happenings",
-    version: "Version: 2025-05-17 12:06",
+    version: "Version: 2025-05-17 14:29",
  
     filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
 
