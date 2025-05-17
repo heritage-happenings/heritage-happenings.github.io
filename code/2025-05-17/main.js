@@ -11,7 +11,7 @@ const COR = {
     branch: "master",
 
     urlSource: "https://github.com/heritage-happenings/heritage-happenings.github.io",
-    urlPathContent: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
+    urlPathContent: "https://heritage-happenings.github.io/",
     urlPushPath: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
 
     menuTitle: "Heritage Happenings",

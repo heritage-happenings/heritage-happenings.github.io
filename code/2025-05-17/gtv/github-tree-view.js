@@ -61,7 +61,7 @@ async function fetchGitHubRepoContents(user, repo) {
       
       const readmeLink = document.createElement('a');
       readmeLink.innerHTML = " <img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >";
-      readmeLink.href = `https://pushme-pullyou.github.io/tootoo-2025/readme.html#${item.path}`;
+      readmeLink.href = `${ item.base}/readme.html#${item.path}`;
       readmeLink.target = '_blank';
 
       const fileContainer = document.createElement('p');
