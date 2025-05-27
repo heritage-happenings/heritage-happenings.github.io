@@ -3,8 +3,8 @@ const repo = COR.repo;
 const branch = COR.branch;
 
 
-const filterFolders = COR.filterFolders;
-const ignoreFiles = COR.ignoreFiles;
+const filterFolders = []; //COR.filterFolders;
+const ignoreFiles = []; //COR.ignoreFiles;
 
 const baseUrl = 'https://api.github.com';
 

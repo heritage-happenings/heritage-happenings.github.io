@@ -175,8 +175,7 @@
 		};
 
 
-		init();
-
+		init();// no COR.base
 		function init(url = XGP.base + XGP.path) {
 
 			console.log("url", url);
@@ -290,23 +289,23 @@
 					XGP.githubContent = ""; // Clear content as fetch failed
 					XGP.githubContent = "";
 					XGP.sha = "";
-					autoSave();
-					divContent.innerText = "Error loading file. Please check your GitHub token and refresh.";
+					//autoSave();
+					//divContent.innerText = "Error loading file. Please check your GitHub token and refresh.";
 				} else if (xhrFetch.status === 404) {
 					alert("File not found on GitHub. Please check the URL/path.");
 					divMessage.innerText = `Error fetching file (Not Found ${xhrFetch.status})`;
 					XGP.githubContent = "";
 					XGP.sha = "";
-					autoSave();
-					divContent.innerText = `File not found: ${XGP.url}`;
+					//autoSave();
+					//divContent.innerText = `File not found: ${XGP.url}`;
 				}
 				else {
 					alert(`Error fetching file: GitHub API returned status ${xhrFetch.status}.\\n${xhrFetch.responseText}`);
 					divMessage.innerText = `Error fetching file (Status ${xhrFetch.status})`;
 					XGP.githubContent = "";
 					XGP.sha = "";
-					autoSave();
-					divContent.innerText = "Error loading file content.";
+					//autoSave();
+					//divContent.innerText = "Error loading file content.";
 				}
 			};
 			xhrFetch.onerror = () => {
@@ -314,8 +313,8 @@
 				divMessage.innerText = "Network error fetching file.";
 				XGP.githubContent = "";
 				XGP.sha = "";
-				autoSave();
-				divContent.innerText = "Error loading file due to network issue.";
+				//autoSave();
+				//divContent.innerText = "Error loading file due to network issue.";
 			};
 			xhrFetch.send(null);
 		}

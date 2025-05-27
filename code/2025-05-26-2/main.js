@@ -4,7 +4,7 @@ const COR = {
     version: "2025-05-26-2",
 
     // Used by GFO ~ github file open
-    defaultFile: "test.md",
+    defaultFile: "HOME.md",
     defaultFileEdit: "@@test.md",
     pathApps: "./",
     pathContent: "../../",
@@ -31,7 +31,7 @@ const COR = {
  
     filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
 
-    ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html"],
+    ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html", "test.md"],
 }
 
 if (location.protocol === "https:") {
