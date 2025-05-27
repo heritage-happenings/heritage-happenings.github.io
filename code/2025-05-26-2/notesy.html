@@ -327,7 +327,7 @@
 			// console.log( "content", response );
 
 			let content = decodeURIComponent(escape(window.atob(response.content)));
-			content = content.replace(/\\< !--@@@/, " ).replace /\\@@@--\\>/,  );
+			//content = content.replace(/\\< !--@@@/, "" ).replace( /\\@@@--\\>/, "" );
 
 			divContent.innerText = content;
 			XGP.githubContent = content; // Set the baseline content

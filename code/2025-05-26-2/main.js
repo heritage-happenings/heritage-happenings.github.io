@@ -4,7 +4,8 @@ const COR = {
     version: "2025-05-26-2",
 
     // Used by GFO ~ github file open
-    defaultFile: "HOME.md",
+    defaultFile: "test.md",
+    defaultFileEdit: "@@test.md",
     pathApps: "./",
     pathContent: "../../",
 
@@ -15,6 +16,7 @@ const COR = {
 
     urlSource: "https://github.com/heritage-happenings/heritage-happenings.github.io",
     urlPathContent: "https://heritage-happenings.github.io/",
+    urlPathApps: "https://heritage-happenings.github.io/heritage-happenings.github.io/",
     urlPushPath: "https://heritage-happenings.github.io/",
     urlBaseAPI: "https://api.github.com/repos/heritage-happenings/heritage-happenings.github.io/contents/",
 
@@ -24,6 +26,7 @@ const COR = {
 	iconRepo: "❦",
 
     menuTitle: "Heritage Happenings",    
+    menuTitleEdit: "Happenings Edit",
 
  
     filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],

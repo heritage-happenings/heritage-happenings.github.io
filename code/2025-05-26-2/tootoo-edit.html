@@ -229,23 +229,17 @@
 
   <script src="./main.js"></script>
   <script src="./gfo-e/github-file-open-edit.js"></script>
-  <script src="./gfd/github-file-display.js"></script>
   <script src="./gtv-e/github-tree-view-edit.js"></script>
   <script>
-
-    //COR.pathContent = "../../";
-    COR.menuTitle = "TooToo Edit";
 
     init();
 
     function init() {
 
       document.title = COR.menuTitle;
-      spnTitle.innerText = COR.menuTitle;
+      spnTitle.innerText = COR.menuTitleEdit;
       document.getElementById("aSource").href = COR.urlSource;
       main.title = document.querySelector("[ name=version ]").content;
-
-      githubAccessToken();
 
       if (location.protocol === "https:") {
 
@@ -274,22 +268,6 @@
 
     }
 
-    delSha = () => localStorage.setItem("githubAccessToken", "");
-
-		function githubAccessToken() {
-
-			XGP.accessToken = localStorage.getItem("githubAccessToken") || "";
-
-			//console.log("XGP.accessToken", XGP.accessToken);
-
-			if (!XGP.accessToken || XGP.accessToken === "" || XGP.accessToken === "null") {
-
-				XGP.accessToken = prompt("Enter GitHub Personal Access Token");
-
-				localStorage.setItem("githubAccessToken", XGP.accessToken);
-
-			}
-		}
 
     function toggleAllDetails() {
       const divNavTreeView = document.getElementById('divNavTreeView');
