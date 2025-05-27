@@ -27,10 +27,9 @@ const COR = {
 
     menuTitle: "Heritage Happenings",    
     menuTitleEdit: "Happenings Edit",
-
+ 
  
     filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
-
     ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html", "test.md"],
 }
 
