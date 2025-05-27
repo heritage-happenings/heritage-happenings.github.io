@@ -27,8 +27,7 @@ const COR = {
 
     menuTitle: "Heritage Happenings",    
     menuTitleEdit: "Happenings Edit",
- 
- 
+  
     filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
     ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html", "test.md"],
 }
@@ -44,8 +43,6 @@ if (location.protocol === "https:") {
     COR.pathApps = "./";
 
 }
-
-var urlBaseAPI = COR.urlBaseAPI;
 
 //console.log( "COR.pathApps", COR.pathApps);
 /* 0 to 360 10=red 120=green 240=blue */
