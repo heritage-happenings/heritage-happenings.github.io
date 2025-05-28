@@ -17,7 +17,7 @@ const COR = {
     pathApps: "./",
     pathContent: "../../",
 
-    filterFolders: ["activities", "code", "files", "history", "kiosk", "people", "residents-council"], //[ "code"],
+    filterFolders: ["activities", "files", "history", "kiosk", "people", "residents-council", "tootoo"],
     ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html", "test.md"],
 
     urlBaseAPI: "https://api.github.com/repos/heritage-happenings/heritage-happenings.github.io/contents/",
