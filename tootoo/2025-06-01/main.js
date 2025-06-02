@@ -1,4 +1,4 @@
-      const folder = CONFIG.repo.includes( "github.io") ? "" : CONFIG.repo;
+const folder = CONFIG.repo.includes( "github.io") ? "" : CONFIG.repo;
 
 
 
