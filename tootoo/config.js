@@ -7,7 +7,7 @@ const CONFIG = {
     menuTitle: "Heritage Happenings",
     menuTitleEdit: "HH Edit",
 
-    defaultFile: ".md",
+    defaultFile: "HOME.md",
     defaultFileEdit: "@@README.md",
 
     filterFolders: ["activities", "files", "history", "kiosk", "people", "residents-council", "tootoo"],
