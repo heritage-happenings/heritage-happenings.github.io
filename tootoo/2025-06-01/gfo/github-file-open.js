@@ -65,7 +65,7 @@ function onHashChange() {
 
 function getHTMLfromURL(hash = COR.hash) {
 
-  //console.log("hash", COR.pathContent + COR.hash);
+  console.log("hash", COR.pathContent + COR.hash);
 
   showdown.setFlavor("github");
   const options = { openLinksInNewWindow: false, excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true };
