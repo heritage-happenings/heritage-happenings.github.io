@@ -10,7 +10,7 @@ const CONFIG = {
     defaultFile: "HOME.md",
     defaultFileEdit: "@@README.md",
 
-    filterFolders: ["activities", "files", "history", "kiosk", "people", "residents-council", "tootoo"],
+    filterFolders: ["activities", "files", "history", "blog/images", "kiosk", "people", "residents-council", "tootoo"],
     ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html", "test.md"],
 
 }
