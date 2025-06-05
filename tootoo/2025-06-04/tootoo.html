@@ -126,6 +126,9 @@
       COR.accessToken = localStorage.getItem("githubAccessToken") || "";
       if (COR.accessToken) { pencil.style.display = "block"; }
 
+      // Initialize breadcrumb
+      updateBreadcrumb('');
+
       if (window.innerWidth < 800 || window.innerHeight < 500) {
 
         detNavMenu.open = false;
@@ -143,6 +146,21 @@
         window.history.pushState("", "", COR.urlPushPath + location.hash);
 
       }
+
+      // Click outside menu to close
+      document.addEventListener('click', function(event) {
+        const navMenu = document.getElementById('navMenu');
+        const detNavMenu = document.getElementById('detNavMenu');
+        const sumNavMenu = document.getElementById('sumNavMenu');
+        
+        // Only close menu if hamburger is visible and menu is open
+        if (!sumNavMenu.hidden && 
+            detNavMenu.open && 
+            !navMenu.contains(event.target) && 
+            !sumNavMenu.contains(event.target)) {
+          detNavMenu.open = false;
+        }
+      });
 
       // onHashChange > github-file-open.js
 
