@@ -18,7 +18,14 @@ async function fetchGitHubRepoContents(user, repo) {
     folderContents.className = 'folder-contents';
 
     const trees = items.filter(item => item.type === 'tree');
-    const blobs = items.filter(item => item.type === 'blob');    trees.forEach(item => {
+    const blobs = items.filter(item => item.type === 'blob');
+
+    trees.forEach(item => {
+      // Skip creating a details tag if the folder path is in filterFolders
+      if (filterFolders.includes(item.path)) {
+        return;
+      }
+
       const details = document.createElement('details');
       const summary = document.createElement('summary');
 
@@ -124,7 +131,7 @@ async function fetchGitHubRepoContents(user, repo) {
       return !ignoreFiles.includes(item.path);
     } else {
       // Folders
-      return !filterFolders.includes(item.path);
+      return item; //!filterFolders.includes(item.path);
     }
   });
 

@@ -58,6 +58,7 @@ function onHashChange() {
     divMainContent.innerHTML = `<iframe id=ifr class="iframe-resize" src="${COR.urlPathContent}${hash}" ></iframe>`
   }
 
+  // see github-tree-view.js
   setFileVisible();
 
 }

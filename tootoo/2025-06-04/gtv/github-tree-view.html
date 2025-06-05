@@ -93,16 +93,15 @@
     #main {
       border: 1px solid red;
       left: 25rem;
-      position:absolute;
+      position: absolute;
       top: 10rem;
     }
-
-
   </style>
 </head>
 
 <body>
 
+  <script src="../../config.js"></script>
   <script src="../main.js"></script>
   <script src="./github-tree-view.js"></script>
 
@@ -117,10 +116,10 @@
     <div id="divMainContent">location.hash</div>
 
     <br>
-    
+
     <div>
 
-      <button onclick=location.hash="" >Clear location.hash </button>
+      <button onclick=location.hash="">Clear location.hash </button>
 
     </div>
 
@@ -128,7 +127,7 @@
 
   <script>
 
-    COR.pathApps = "../"
+    COR.pathApps = "../";
 
     window.addEventListener("hashchange", onHashChange, false);
 
@@ -139,6 +138,7 @@
       divMainContent.innerHTML = "location.hash = " + location.hash
 
     }
+    
   </script>
 </body>
 

@@ -29,9 +29,9 @@
     }
 
     img {
-			max-width: 100%;
-			vertical-align: middle;
-		}
+      max-width: 100%;
+      vertical-align: middle;
+    }
 
     #divMainContent {
       border: 1px solid red;
@@ -76,10 +76,16 @@
 
 
 
+  <script src="../../config.js"></script>
   <script src="../main.js"></script>
   <script src="github-file-open.js"></script>
 
   <script>
+
+    // for testing
+
+    location.hash = "";
+
 
     if (location.protocol === "https:") {
 
@@ -102,9 +108,9 @@
 
     window.addEventListener("hashchange", onHashChange, false);
 
-
     location.hash = location.hash ? location.hash : COR.defaultFileEdit;
 
+    function setFileVisible() { };
 
   </script>
 
