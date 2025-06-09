@@ -4,8 +4,8 @@ const CONFIG = {
     repo: "heritage-happenings.github.io",
     branch: "master",
 
-    filterFolders: ["activities", "files", "history", "blog/images", "kiosk", "people", "residents-council", "tootoo"],
-    ignoreFiles: ["404.html", "favicon.ico", "index.html", "readme.html", "test.md"],
+    filterFolders: ["activities", "files", "history", "Blog/images", "kiosk", "people", "residents-council", "tootoo"],
+    ignoreFiles: ["404.html", "favicon.ico", "index.html", "print.html", "readme.html", "test.md"],
 
     defaultFile: "HOME.md",
     defaultFileEdit: "@@README.md",
