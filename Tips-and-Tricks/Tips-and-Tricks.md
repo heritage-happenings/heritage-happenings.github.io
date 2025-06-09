@@ -1,6 +1,6 @@
 # Tips and Tricks
 
-## Use your cursor keys yo open pages quickly
+## Use your cursor keys to open pages quickly
 
 To open a another page in the menu quickly, you can use the up and down cursor keys.
 
