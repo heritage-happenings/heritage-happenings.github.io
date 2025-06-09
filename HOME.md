@@ -4,7 +4,7 @@
 These web pages complement the _Heritage Happenings_ a monthly publication published by residents of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
 
-<img src=https://heritage-happenings.github.io/photos/images/heritage-front.jpg width=100% >
+<img src=https://heritage-happenings.github.io/Photos/images/heritage-front.jpg width=100% >
 
 Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the Heritage Happenings ads PDF files or glance at our menus.
 
@@ -23,7 +23,9 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 ***
 
-<a href="https://heritage-happenings.github.io/#photos/2020-heritage/2020-08-05-cottage-cropped.jpg" target="_top" ><img src=https://heritage-happenings.github.io/photos/images/cottage-cropped.jpg width=30% style=margin:1%;></a> <a href="https://heritage-happenings.github.io/#photos/2020-heritage/2020-09-16-marina-sunset.jpg" target="_top" ><img src=https://heritage-happenings.github.io/photos/images/marina-sunset.jpg width=30% style=margin:1%;></a> <a href="https://heritage-happenings.github.io/#images/people.jpg" target="_top" ><img src=https://heritage-happenings.github.io/photos/images/people.jpg width=30% style=margin:1%;></a>
+[![Cottage Cropped](https://heritage-happenings.github.io/Photos/images/cottage-cropped.jpg)](https://heritage-happenings.github.io/#Photos/2020-heritage/2020-08-05-cottage-cropped.jpg)
+[![Marina Sunset](https://heritage-happenings.github.io/Photos/images/marina-sunset.jpg)](https://heritage-happenings.github.io/#Photos/2020-heritage/2020-09-16-marina-sunset.jpg)
+[![People](https://heritage-happenings.github.io/Photos/images/people.jpg)](https://heritage-happenings.github.io/#images/people.jpg)
 
 ### Opinion Disclaimer
 
