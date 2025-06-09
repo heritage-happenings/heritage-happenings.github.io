@@ -138,7 +138,7 @@ async function fetchGitHubRepoContents(user, repo) {
 
       const readmeLink = document.createElement('a');
       readmeLink.innerHTML = COR.iconExternalLink;
-      readmeLink.href = `${COR.pathApps}readme.html#${COR.pathContent}${item.path}`;
+      readmeLink.href = `${COR.pathApps}print.html#${COR.pathContent}${item.path}`;
       readmeLink.target = '_blank';
 
       const fileContainer = document.createElement('p');
