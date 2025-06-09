@@ -1,6 +1,6 @@
 # 2025-05-28
 
-![](https://photos.fife.usercontent.google.com/pw/AP1GczNqsQHlRKrjHMh-4et1k32ZQ-pb_s3X8o2abhMIXMnda-H_AJVf0XpoNQ=w1080-h846-s-no-gm?authuser=0 )
+![](https://lh3.googleusercontent.com/pw/AP1GczPhMdigkaXMPMMkn2i8BBygEa7VapunHV6wCY9TR_FXTT4iwWfCWZEvlIix7h334ATz3Im8h-Ef1dzVS2DOtKlSkfxHginCVUNl1PVeQQFl4lXRLwOO=w2400)
 
 Courtesy of the Hindes family, on May 28, Heritage on the Marina too delivery of the van. It seats eight passengers, has a smoother ride and entry is bty a ramp - which is much less likely to break down than the elevator on the old van. 
 

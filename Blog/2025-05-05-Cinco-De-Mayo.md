@@ -1,9 +1,11 @@
 # 2025-05-05 Cinco-De-Mayo
 
-![Mariachi San Francisco ]( https://photos.fife.usercontent.google.com/pw/AP1GczNZDdsLL3kpBo48f240hlXYmobDbIMwEMpGNaUnjHUQbvpjjiyKd6lk1w=w846-h846-s-no-gm?authuser=0 )
+![Mariachi San Francisco ]( https://lh3.googleusercontent.com/pw/AP1GczMQxqdo12gA7AITaQU3I6F5s1oWd929KMLJPUGqJO5XMtHTf53jUhANTLXF_QkxT0gqZqz-YGKxbgYAkifa5wcB486DZZVF-9Y89jmdRFpu_Mij47iq=w2400 )
+
+
 Once again Mariachi San Francisco graced our dining room
 
-It's a rare mariachi wwith female performers.
+It's a rare mariachi band with female performers.
 
 Here is a link to an album of photos
 
