@@ -34,7 +34,12 @@ I'm grateful for the opportunity to serve our community this way, but I believe 
 * There will be problems. 
 * I want to to do the writing and the graphic design. 
 * I don't want to be the one doing the printing and distributing.
-* Feel free to contact me with any questions, comments, or suggestions. To help
+* Feel free to contact me with any questions, comments, or suggestions.
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+
 
 
 
