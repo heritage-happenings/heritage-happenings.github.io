@@ -111,7 +111,7 @@
 
       document.title = COR.menuTitle;
       aTitle.innerText = COR.menuTitle;
-      document.getElementById("aSource").href = COR.urlSource;
+      aSource.href = COR.urlSource + location.hash.slice(1);
       divMessage.title = document.querySelector("[ name=version ]").content;
 
       loadTextScale(); //main.js
