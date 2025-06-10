@@ -1,6 +1,7 @@
 # Heritage Happenings Website Soft Opening
 
-![Heritage Happenings Website]( https://lh3.googleusercontent.com/pw/AP1GczNkYmk45BtONdC_IAbm3fs6qrT-SOVUZC0XFGDNMk3ilzc8SXw930JDFer8iJOj6lwyZ7FEAZAn8FZnmGU68qk1lb3mK69vCWDzX1Y8jdWAHxxcoA=w2400 )
+![Heritage Happenings Website]( https://lh3.googleusercontent.com/pw/AP1GczPOhDMtl9C4u7LN4MaYajOT26hO38BRT_p9nMFGoMpbRaVYTOLylRFTsyyoFUr2FxPUh1o8ZgjzAZrtYLtJfbS7Zbp2DgxcOik5UVDGhkdSQDwibw=w2400 )
+_Heritage Happenings website on a computer_
 
 You are invited to have a look at this new reincarnation of the _Heritage Happenings_ website.
 
@@ -24,7 +25,12 @@ I look forward to hearing your comments and suggestions.
 
 Theo Armour
 
-![HH Website on phone ]( https://lh3.googleusercontent.com/pw/AP1GczPjcIfyjFPnFXWErn3F5O8bwvi5lFgNdLMG_w-KZtrycqj66S_a8m497vDBf4ikBE5NgIzphd4i78cx59vOjwohMtLTj9p38pfwioq8Vh1duMnoVPtt=w2400)
+***
+
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPjcIfyjFPnFXWErn3F5O8bwvi5lFgNdLMG_w-KZtrycqj66S_a8m497vDBf4ikBE5NgIzphd4i78cx59vOjwohMtLTj9p38pfwioq8Vh1duMnoVPtt=w2400" width=200>
+
+_Heritage Happenings website on phone_
 
 ***
 
