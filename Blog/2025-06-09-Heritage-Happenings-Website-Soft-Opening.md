@@ -1,5 +1,7 @@
 # Heritage Happenings Website Soft Opening
 
+![Heritage Happenings Website]( https://lh3.googleusercontent.com/pw/AP1GczNkYmk45BtONdC_IAbm3fs6qrT-SOVUZC0XFGDNMk3ilzc8SXw930JDFer8iJOj6lwyZ7FEAZAn8FZnmGU68qk1lb3mK69vCWDzX1Y8jdWAHxxcoA=w2400 )
+
 You are invited to have a look at this new reincarnation of the _Heritage Happenings_ website.
 
 You are asked to consider and comment on the usability and suitability of the current implementation for an audience of elderly people.
@@ -16,11 +18,13 @@ A particular aspects the the ease of use of the "Hamburger Menu" (☰) that appe
 
 At his stage, the actual content is still very much a work in progress. The general idea is that each post will have an image followed by text of one or two hundred words. From time to time there will be longer posts with up to five hundred words. The current set of posts are more or less placeholders in order to help you explore the usability.
 
+The image above is a screen shot on my computer. Below is an image on my phone. Are you seeing what I am seeing?
+
 I look forward to hearing your comments and suggestions.
 
 Theo Armour
 
-
+![HH Website on phone ]( https://lh3.googleusercontent.com/pw/AP1GczPjcIfyjFPnFXWErn3F5O8bwvi5lFgNdLMG_w-KZtrycqj66S_a8m497vDBf4ikBE5NgIzphd4i78cx59vOjwohMtLTj9p38pfwioq8Vh1duMnoVPtt=w2400)
 
 ***
 
