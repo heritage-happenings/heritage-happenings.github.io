@@ -1,14 +1,14 @@
 # Heritage Happenings Website Soft Opening
 
-A few people are being invited to have a look at this new reincarnation of the Heritage Happenings website.
+You are invited to have a look at this new reincarnation of the _Heritage Happenings_ website.
 
-You are invited to consider and comment on the usability and suitability of the current implementation for an audience of elderly people.
+You are asked to consider and comment on the usability and suitability of the current implementation for an audience of elderly people.
 
-Matter to consider at this stage:
+Matters to consider at this stage:
 
 * The audience is made of of people with highly varying physical and cognitive abilities
 * They will access this site from all manner of devices ranging from flip phones to TV room monitors accessed with Windows and Apple operating systems
-* It needs to be attractive enough to build up a corp of regular users and contributors
+* The site must be attractive enough to build up a core of regular users and contributors
 
 The most helpful comments at this stage are errors and fails on specific devices. For example I have not tested the site on actual Apple products, but only on simulated Apple products.
 
