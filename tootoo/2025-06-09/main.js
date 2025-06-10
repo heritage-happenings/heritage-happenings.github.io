@@ -1,29 +1,29 @@
-const folder = CONFIG.repo.includes( "github.io") ? "" : CONFIG.repo;
+const folder = CONFIG.repo.includes("github.io") ? "" : CONFIG.repo + "/";
 
 const COR = {
-  
-  version: "2025-06-07",
+
+  version: "2025-06-09",
 
   // Used by GTV ~ github tree view
   user: CONFIG.user,
   repo: CONFIG.repo, //"tootoo-2025",
   branch: CONFIG.branch, //"main",
-  
+
   menuTitle: CONFIG.menuTitle, //"TooToo 2025",
   menuTitleEdit: CONFIG.menuTitleEdit, //"TooToo Edit",
 
   // Used by GFO ~ github file open
   defaultFile: CONFIG.defaultFile, //"README.md",
   defaultFileEdit: CONFIG.defaultFileEdit, //"@@README.md",
-  
+
   filterFolders: CONFIG.filterFolders, //[], //[ "tootoo"],
   ignoreFiles: CONFIG.ignoreFiles, //[], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
 
   urlBaseAPI: `https://api.github.com/repos/${CONFIG.user}/${CONFIG.repo}/contents/`,
-  urlSource: `https://github.com/${CONFIG.user}/${CONFIG.repo}/tree/main/${folder}/`,
+  urlSource: `https://github.com/${CONFIG.user}/${CONFIG.repo}/`,
   urlPathApps: `https://${CONFIG.user}.github.io/${folder}/tootoo/`,
-  urlPathContent: `https://${CONFIG.user}.github.io/${folder}/`,
-  urlPushPath: `https://${CONFIG.user}.github.io/${folder}/`,
+  urlPathContent: `https://${CONFIG.user}.github.io/${folder}`,
+  urlPushPath: `https://${CONFIG.user}.github.io/${folder}`,
 
   iconExternalLink: "<img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >",
   iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg" width=16 >`,
@@ -49,7 +49,7 @@ if (location.protocol === "https:") {
 /* 0 to 360 10=red 120=green 240=blue */
 let r = document.querySelector(':root');
 r.style.setProperty('--main-hue', CONFIG.mainHue);
-r.style.setProperty('--mnu-width', CONFIG.baseMenuWidth + 'rem' );
+r.style.setProperty('--mnu-width', CONFIG.baseMenuWidth + 'rem');
 
 // move below to separate .js file?
 
@@ -173,20 +173,31 @@ function saveTextScale() {
 
 // onButton
 
-    function onButton() {
-      pencil.style.display = "block";
+function onButton() {
+  pencil.style.display = "block";
 
-      if (COR.accessToken) {
-        divNavTreeView.innerHTML = "";
-        COR.accessToken = null;
-        fetchGitHubRepoContents(user, repo);
+  if (COR.accessToken) {
+    divNavTreeView.innerHTML = "";
+    COR.accessToken = null;
+    fetchGitHubRepoContents(user, repo);
 
-      } else {
-        COR.accessToken = localStorage.getItem("githubAccessToken") || "";
-        divNavTreeView.innerHTML = "";
-        fetchGitHubRepoContents(user, repo);
-      }
-    }
+  } else {
+    COR.accessToken = localStorage.getItem("githubAccessToken") || "";
+    divNavTreeView.innerHTML = "";
+    fetchGitHubRepoContents(user, repo);
+  }
+}
+
+function delgat() { localStorage.setItem("githubAccessToken", "");}
+
+function setgat() {
+
+				COR.accessToken = prompt("Enter GitHub Personal Access Token");
+
+				localStorage.setItem("githubAccessToken", COR.accessToken);
+
+}
+
 
 // Breadcrumb Navigation Functions
 function updateBreadcrumb(filePath) {
@@ -207,7 +218,7 @@ function updateBreadcrumb(filePath) {
   for (let i = 0; i < pathParts.length; i++) {
     currentPath += (i > 0 ? '/' : '') + pathParts[i];
     breadcrumbHTML += '<span class="breadcrumb-separator">›</span>';
-    
+
     if (i === pathParts.length - 1) {
       // Current file - not clickable
       const fileName = pathParts[i];
