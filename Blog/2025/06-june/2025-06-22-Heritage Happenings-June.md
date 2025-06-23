@@ -3,7 +3,7 @@ Hello Residents
 
 Here is the "Front Page" of the June issue of _Heritage Happenings_
 
-![2025-june-hh-cover](image/2025-06-22-hh-june/2025-june-hh-cover.png)
+![](https://heritage-happenings.github.io/Blog/2025/06-june/image/2025-06-22-hh-june/2025-june-hh-cover.png)
 
 I'm sorry it's taken so long to get this issue out.  I hope to do better in July.
 
