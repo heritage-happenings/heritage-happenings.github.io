@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang=en>
+
+<head>
+	<title></title>
+	<meta charset=utf-8 />
+</head>
+
+<body style="font: bold 12pt monospace;">
+
+	<h1><a href="">Gardner's Book Sleuth Thingy ~ R2 ~ 2021-01-05</a></h1>
+
+	<p>Enter or copy & paste ISBN numbers into the expandable box below (one ISBN per line):</p>
+
+	<textarea id=txtIsbn rows="15" cols="20" style="float:left;margin:0 1rem;"></textarea>
+
+	<!-- <input id=inpISBN placeholder="Enter ISBN" onclick=getBookDetails(this.value) oninput=getBookDetails(this.value)></p> -->
+
+
+
+	<p>Click any of these buttons for sample ISBN numbers</p>
+
+	<p></p><button onclick=txtIsbn.value="0451522907" ;inpISBN.click()>"Flatland" ISBN</button> <p>
+
+	<p><button onclick=txtIsbn.value="9781451648546" ;inpISBN.click()>Steve Jobs Book ISBN</button></p>
+
+	<p><button  onclick=txtIsbn.value=getlListGardner() >Gardner's list of ten</button></p>
+
+	<hr>
+
+	<p>Click this button to display title and author:</p>
+
+	<p><button onclick=getBookDetails(txtIsbn.value)>Search for <s>meaning in life</s> title & author </button></p>
+
+<br>
+
+	<div id=divInfo style=clear:both ></div>
+
+
+	<script>
+
+		// https://www.labnol.org/code/20020-query-book-by-isbn
+
+		isbn = "9781451648546"; // Steve Jobs book
+
+		//inpISBN.value = isbn
+
+
+		//getBookDetails( isbn )
+
+		function getlListGardner() {
+
+			list =
+`9780393292558
+9780739490617
+9787777531432
+9781400068128
+9780316417235
+9781400043453
+9780061348112
+9780385539289
+9780743290814
+9780385517089`;
+
+			return list;
+
+		}
+
+		function getBookDetails( isbn ) {
+
+			// Query the book database by ISBN code.
+			isbn = isbn || "9781451648546"; // Steve Jobs book
+
+			console.log( "isbn", isbn );
+
+			items = isbn.split( "\n")
+
+			console.log( "items", items );
+
+			items.forEach( isbn =>  {
+
+				const url = "https://www.googleapis.com/books/v1/volumes?q=isbn:" + isbn;
+				requestFile( url, onLoadJson, isbn )
+
+			}	);
+
+		}
+
+
+		function requestFile( url, callback, isbn ) {
+
+			const xhr = new XMLHttpRequest();
+			xhr.open( 'GET', url, true );
+			xhr.responseType = "json";
+			xhr.onerror = ( xhr ) => console.log( 'error:', xhr );
+			xhr.onprogress = ( xhr ) => console.log( 'bytes loaded:', xhr.loaded );
+			xhr.onload = ( xhr ) => callback( xhr.target.response, isbn );
+			xhr.send( null );
+
+		}
+
+		function onLoadJson( j, isbn ) {
+
+			json = j
+
+			console.log( "json", json, j );
+
+			if ( json.totalItems ) {
+
+				// There'll be only 1 book per ISBN
+				var book = json.items[ 0 ];
+
+				var title = ( book[ "volumeInfo" ][ "title" ] );
+				var subtitle = ( book[ "volumeInfo" ][ "subtitle" ] );
+				var authors = ( book[ "volumeInfo" ][ "authors" ] );
+				var printType = ( book[ "volumeInfo" ][ "printType" ] );
+				var pageCount = ( book[ "volumeInfo" ][ "pageCount" ] );
+				var publisher = ( book[ "volumeInfo" ][ "publisher" ] );
+				var publishedDate = ( book[ "volumeInfo" ][ "publishedDate" ] );
+				var webReaderLink = ( book[ "accessInfo" ][ "webReaderLink" ] );
+
+				htm = `
+<div>
+	ISBN: ${ isbn } Title: <i>${ title }</i> ~ Author: ${ authors }<br>
+</div><br>
+			`;
+
+				divInfo.innerHTML += htm;
+
+			} else {
+
+				divInfo.innerHTML += `<div>ISBN: ${ isbn } not found</div><br>`;
+			}
+
+		}
+	</script>
+</body>
+
+</html>
