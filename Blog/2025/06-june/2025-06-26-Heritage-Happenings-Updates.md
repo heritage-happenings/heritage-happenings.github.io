@@ -1,12 +1,12 @@
-# 2025-06-26 Heritage Happenings Updates
+# 2025-06-26<br>Heritage Happenings Updates
 
 Dear Residents
 
-The process of upgradsing Heritage Happenings from a "paper-first" to a "digital-first" publication is taking longer than I anticipated or wanted. The issue about the issues is, of course, me. I cannot seem to stop finding new things to think about, new tricks to learn and intriguing complexities I had not considered:
+The process of upgrading _Heritage Happenings_ from a "paper-first" to a "digital-first" publication is taking longer than I anticipated or wanted. The issue about the issues is, of course, me. I cannot seem to stop finding new things to think about, new tricks to learn and intriguing complexities I had not considered. Here are a few items:
 
 * A new email address
 * An updated website
-* Writing email and buiding webpages
+* Writing email and building webpages
 * Establishing project management for all the above
 
 ## Email address
