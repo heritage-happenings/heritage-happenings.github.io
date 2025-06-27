@@ -19,12 +19,13 @@ A Gmail account enables access a gamut of Google porgrams. So it should be easie
 
 
 ## SF Chronic Ad
+![]( https://heritage-happenings.github.io/#Blog/2025/06-june/image/2025-06-22-hotm-ad.jpg)
 
 In the Senior Life section of San Francisco Chronicle of Sunday July 22, 2025, there was a full page ad for Heritage on the Marina. Many residents did not see the ad.
 
 Here is a link to the ad:
 
-xxx
+[Heritage on the Marina Achieves Landmark Status]( https://heritage-happenings.github.io/#Blog/2025/06-june/2025-06-22-hotm-ad.pdf)
 
 if you have a look you cannot fail to note the handsome selfie of yours truly.
 
