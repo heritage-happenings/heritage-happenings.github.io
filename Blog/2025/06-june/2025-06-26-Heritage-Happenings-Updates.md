@@ -26,7 +26,7 @@ In the Senior Life section of San Francisco Chronicle of Sunday July 22, 2025, t
 
 Here is a link to the ad:
 
-[Heritage on the Marina Achieves Landmark Status]( https://heritage-happenings.github.io/#Blog/2025/06-june/2025-06-22-hotm-ad.pdf)
+[Heritage on the Marina Achieves Landmark Status]( https://heritage-happenings.github.io/Blog/2025/06-june/2025-06-22-hotm-ad.pdf)
 
 if you have a look you cannot fail to note the handsome selfie of yours truly.
 
