@@ -19,4 +19,3 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-1-organizations-re
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-2-software\0-software-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-3-hardware\0-hardware-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-4-qdata-apps-journal\0-qdata-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\06
