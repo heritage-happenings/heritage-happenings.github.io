@@ -5,6 +5,7 @@
 *By Jane Standing*
 
 ![]( https://heritage-happenings.github.io/Blog/2025/06-june/image/tim-sarah-standing.jpg )
+
 *Green card photos of Tim and Sarah Standing*
 
 This is how we came to America.
@@ -43,9 +44,9 @@ We'd made it. Barry and I, our young children, and my mother — all of us toget
 
 ## Theo's Comments
 
-_The American Dream is the belief that anyone, regardless of their background, can achieve success and upward mobility through hard work and determination in the United States. An oft-repeated and essential part of this narrative is that special and particular journey to the destination where the Dream comes true._
+The American Dream is the belief that anyone, regardless of their background, can achieve success and upward mobility through hard work and determination in the United States. An oft-repeated and essential part of this narrative is that special and particular journey to the destination where the Dream comes true.
 
-_Jane's telling of her journey is complete in itself. We have no need to enquire further. From her writing — observant, engaged and lively — we "know" that Jane's American Dream will eventually come true._
+Jane's telling of her journey is complete in itself. We have no need to enquire further. From her writing — observant, engaged and lively — we "know" that Jane's American Dream will eventually come true.
 
 ## Claude's Comments
 
