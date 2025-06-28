@@ -26,7 +26,7 @@ We drove to Sarnia, Ontario, a border town, in our green ‘53 Pontiac to stay w
 
 Next day on 2/22/62 we crossed the border again, presented our papers and officially emigrated to the United States. Even the inclement weather and our daughter’s cold did not stop us. We were on our way to San Francisco.
 
-![]( )
+![]( image/tim-sarah-standing.jpg )
 
 My mother was a very English. She’d been to Toronto before but thought San Francisco sounded much more appealing. The children were so good. We tried to make it an adventure for them but of course it was for us all.
 
