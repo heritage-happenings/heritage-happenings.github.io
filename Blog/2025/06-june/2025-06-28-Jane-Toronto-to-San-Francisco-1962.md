@@ -4,15 +4,7 @@
 
 *By Jane Standing*
 
-***
-
-_The American Dream is the belief that anyone, regardless of their background, can achieve success and upward mobility through hard work and determination in the United States. An oft-repeated and essential part of this narrative is that special and particular journey to the destination where the Dream comes true._
-
-_Jane's telling of her journey is complete in itself. We have no need to enquire further. From her writing — observant, engaged and lively — we "know" that Jane's American Dream will eventually come true._
-
-***
-
-![]( https://heritage-happenings.github.io/#Blog/2025/06-june/image/image/tim-sarah-standing.jpg )
+![]( https://heritage-happenings.github.io/Blog/2025/06-june/image/tim-sarah-standing.jpg )
 *Green card photos of Tim and Sarah Standing*
 
 This is how we came to America.
@@ -25,7 +17,7 @@ After much preparation, we were set to leave but hit a snag. My mother needed th
 
 We drove to Sarnia, Ontario, a border town, in our green ‘53 Pontiac to stay with friends we'd met on the ship coming from England four years before. Our car had almost given up so next day Barry and I crossed the border to Port Huron, returning with a new silvery-blue Pontiac Tempest with a white roof We had no address or jobs, but wanted it financed. The dealer looked doubtful but returned smiling and said, You’ve got your car.”
 
-![Pontiac-Tempest 1961](https://heritage-happenings.github.io/#Blog/2025/06-june/image/pontiac-tempest-61.jpg)
+![Pontiac-Tempest 1961](https://heritage-happenings.github.io/Blog/2025/06-june/image/pontiac-tempest-61.jpg)
 
 Next day on 2/22/62 we crossed the border again, presented our papers and officially emigrated to the United States. Even the inclement weather and our daughter’s cold did not stop us. We were on our way to San Francisco.
 
@@ -47,10 +39,17 @@ The city sparkled white under a brilliant blue sky. As we rounded what I now kno
 
 We'd made it. Barry and I, our young children, and my mother — all of us together in this magnificent city. Time for us to settle in and make our new life here.
 
+<hr>
 
-***
+## Theo's Comments
 
-The Claude artificial intelligence (AI) has this:
+_The American Dream is the belief that anyone, regardless of their background, can achieve success and upward mobility through hard work and determination in the United States. An oft-repeated and essential part of this narrative is that special and particular journey to the destination where the Dream comes true._
+
+_Jane's telling of her journey is complete in itself. We have no need to enquire further. From her writing — observant, engaged and lively — we "know" that Jane's American Dream will eventually come true._
+
+## Claude's Comments
+
+The Claude artificial intelligence (AI) program has this to say:
 
 Here are three particularly interesting aspects of Jane's story:
 
