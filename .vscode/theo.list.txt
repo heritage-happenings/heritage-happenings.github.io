@@ -1,0 +1,39 @@
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin\0-admin-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin-personal\0-admin-personal-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-health\0-health-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-notes.md
+|> people
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\alix.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\cynthia.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\eloise.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-family\alix-paine.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-peeps\phyllis-wedvick.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-0-entities\0-sacsem\0-wix-tips.md
+|> heritage
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\0-heritage-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\0-heritage-journal.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\accounts-it\0-accounts-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\activities\0-activities-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\admin\0-admin-hr.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\dining\0-dining-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\health\0-health-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\maintenance-housekeeping\0-maintenance-housekeeping-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\marketing-sales\0-marketing-sales-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\residents\0-residents-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-2-heritage-happenings\06-June-agenda.md
+| projects
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-0-projects\0-projects-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-1-organizations-repos\0-organizations-repos.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-2-software\0-software-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-3-hardware\0-hardware-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-4-qdata-apps-journal\0-qdata-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\06
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\months-of-the-year\2025\2025-06-june
+|> apps
+c:\Users\tarmo\AppData\Roaming\Code\User\settings.json
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\apps\newww-tab\2024-01-05\new-tab-content.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people-notable\agnes-callard\2025-agnes-callard-open-socrates.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-ai-artificial-intelligence\0-ai-journal.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\prompts\0-theo-tips.md
