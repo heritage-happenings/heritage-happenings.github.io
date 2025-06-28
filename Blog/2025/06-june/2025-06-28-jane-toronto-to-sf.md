@@ -12,6 +12,9 @@ _Jane's telling of her journey is complete in itself. We have no need to enquire
 
 ***
 
+![]( https://heritage-happenings.github.io/#Blog/2025/06-june/image/image/tim-sarah-standing.jpg )
+*Green card photos of Tim and Sarah Standing*
+
 This is how we came to America.
 
 We’d been living in Toronto, enduring the intense cold of winter and sweltering summers which we didn’t care for. When our children came along, it felt even harder. A friend of my husband’s who’d travelled to the States, told us, “There’s only one place to go: San Francisco.” I’d studied America in high school. San Francisco with streets so steep they needed cable cars, the Great Lakes, and the coalfields of Pennsylvania.
@@ -25,8 +28,6 @@ We drove to Sarnia, Ontario, a border town, in our green ‘53 Pontiac to stay w
 ![Pontiac-Tempest 1961](https://heritage-happenings.github.io/#Blog/2025/06-june/image/pontiac-tempest-61.jpg)
 
 Next day on 2/22/62 we crossed the border again, presented our papers and officially emigrated to the United States. Even the inclement weather and our daughter’s cold did not stop us. We were on our way to San Francisco.
-
-![]( image/tim-sarah-standing.jpg )
 
 My mother was a very English. She’d been to Toronto before but thought San Francisco sounded much more appealing. The children were so good. We tried to make it an adventure for them but of course it was for us all.
 
