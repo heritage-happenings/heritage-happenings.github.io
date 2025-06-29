@@ -8,7 +8,6 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\alix.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\cynthia.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\eloise.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-family\alix-paine.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-peeps\phyllis-wedvick.md
 |> Entities
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-0-entities\0-sacsem\0-wix-tips.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\06
@@ -19,3 +18,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\apps\newww-tab\2024-0
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people-notable\agnes-callard\2025-agnes-callard-open-socrates.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-ai-artificial-intelligence\0-ai-journal.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-3-peeps-folders\phyllis-wedvick.md
