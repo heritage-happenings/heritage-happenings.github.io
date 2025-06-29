@@ -5,8 +5,10 @@
 *By Jane Standing*
 
 ![]( https://heritage-happenings.github.io/Blog/2025/06-june/image/tim-sarah-standing.jpg )
-
+<br>
 *Green card photos of Tim and Sarah Standing*
+
+<br>
 
 This is how we came to America.
 
@@ -24,7 +26,7 @@ Next day on 2/22/62 we crossed the border again, presented our papers and offici
 
 My mother was a very English. She’d been to Toronto before but thought San Francisco sounded much more appealing. The children were so good. We tried to make it an adventure for them but of course it was for us all.
 
-My husband Barry was the only driver, and I sat next to him with maps and snacks. My mother sat in the back with our cooler, so we could make breakfasts and lunches while Tim, three and Sarah, twenty-one months played and napped in the far back of the station wagon with blankets, an old car seat and their favorite toys There were no seatbelts or kids car seats back then. That night, we stopped at a motel on the outskirts of Chicago, Barry and I venturing through a complete whiteout looking for dinner. Thankfully we made it back alive with pizza in hand.
+My husband Barry was the only driver, and I sat next to him with maps and snacks. My mother sat in the back with our cooler, so we could make breakfasts and lunches while Tim, (three) and Sarah (twenty-one months) played and napped in the far back of the station wagon with blankets, an old car seat and their favorite toys There were no seatbelts or kids car seats back then. That night, we stopped at a motel on the outskirts of Chicago, Barry and I venturing through a complete whiteout looking for dinner. Thankfully we made it back alive with pizza in hand.
 
 The next morning, on our way to Tulsa, we caught brilliant sunshine and blue sky but there were many trucks jackknifed at the side of the road We drove on Route 66, heading south to avoid snow. We passed through St Louis along the river as they were building the iconic Gateway Arch.
 
@@ -35,6 +37,8 @@ We set off again, this time for Albuquerque, the land of pink and purple sunsets
 Albuquerque was different from anything we’d experienced before. People spoke Spanish and the food was quite different. We stayed two nights as it was time for our car to have its first service. I will never forget the pink and purple mountains at sunset. On to Flagstaff which surprised us with snow! - because we were so high up.
 
 At last, we crossed into California with its green hills rolling out like folding linen. Signs for Death Valley suggest not crossing in the summer because of the extreme high temperatures. Unbelievable as it was warm and sunny at that time. We stopped for ice cream in Barstow, then made our final push on I think route 99 through a series of sleepy towns spending our last night in Salinas so we could arrive in San Francisco fresh next morning.
+
+![](image/marina-motel.webp)
 
 The city sparkled white under a brilliant blue sky. As we rounded what I now know is Hospital Curve the city was laid out before us. There were no high rises then, just the Ferry Building and Coit Tower, standing prominent against the landscape. We found our motel in the Marina at the end of Lombard Street, with painted bougainvillea on the walls. It is still there, and Sarah stayed a few nights on her last visit.
 
