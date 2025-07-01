@@ -5,9 +5,7 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-health\0-health-ag
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-notes.md
 |> people
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\alix.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\cynthia.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-ace-it\eloise.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-family\alix-paine.md
 |> Entities
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-0-entities\0-sacsem\0-wix-tips.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\06
@@ -19,3 +17,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-ai-artificial-intelligence\0-ai-journal.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-3-peeps-folders\phyllis-wedvick.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-2-family\alix-paine.md
