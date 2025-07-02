@@ -11,7 +11,6 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-2-family\alix-pain
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-3-peeps-folders\phyllis-wedvick.md
 |> Entities
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-4-entities\0-sacsem\0-wix-tips.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\06
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\months-of-the-year\2025\2025-06-june
 |> apps
 c:\Users\tarmo\AppData\Roaming\Code\User\settings.json
@@ -20,3 +19,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-ai-artificial-intelligence\0-ai-journal.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\prompts\0-theo-ai-tips.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\07
