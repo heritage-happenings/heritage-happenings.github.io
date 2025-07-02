@@ -19,3 +19,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\apps\newww-tab\2024-0
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people-notable\agnes-callard\2025-agnes-callard-open-socrates.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-ai-artificial-intelligence\0-ai-journal.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\prompts\0-theo-ai-tips.md
