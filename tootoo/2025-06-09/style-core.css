@@ -5,7 +5,7 @@
 :root {
   font-size: 100%;
   /* updated at run time ~ see config.sys */
-  --mnu-width: 20rem; 
+  --mnu-width: 20rem;
   /*  updated at run time ~ 0 to 360 10=red 120=green 240=blue */
   --main-hue: 10;
   --margin: 0.5rem;
@@ -70,7 +70,7 @@ header h1 .title-link {
   cursor: pointer;
   margin-top: 8px;
   margin-bottom: 12px;
-  padding: 8px 12px; 
+  padding: 8px 12px;
   text-decoration: none;
   transition: all 0.3s ease;
 }
@@ -235,43 +235,6 @@ div div>.folder-contents>details>summary:hover {
   position: absolute;
   top: 0;
   width: calc(100% - var(--mnu-width) - 2rem);
-}
-
-/* Breadcrumb Navigation */
-#divMessage {
-  background-color: var(--color-4-background);
-  border-left: 3px solid var(--color-2-text);
-  border-radius: 4px;
-  font-size: 0.9rem;
-  margin-bottom: 1rem;
-  padding: 0.5rem 0.75rem;
-}
-
-.breadcrumb {
-  color: var(--color-2-text);
-  display: inline-block;
-}
-
-.breadcrumb-separator {
-  color: var(--color-3-text);
-  margin: 0 0.5rem;
-}
-
-.breadcrumb-link {
-  color: var(--color-2-text);
-  cursor: pointer;
-  text-decoration: none;
-  transition: all 0.2s ease;
-}
-
-.breadcrumb-link:hover {
-  background-color: var(--color-active);
-  text-decoration: underline;
-}
-
-.breadcrumb-current {
-  color: var(--color-1-text);
-  font-weight: bold;
 }
 
 /* scroll bars */

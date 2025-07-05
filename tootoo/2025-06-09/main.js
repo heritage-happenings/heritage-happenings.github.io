@@ -130,23 +130,23 @@ function scaleTreeViewElements() {
         div div>.folder-contents>details>summary {
           font-size: ${baseSizes.topLevel * currentScale}pt !important;
         }
-        
+
         .folder-contents>details>.folder-contents>details>summary {
           font-size: ${baseSizes.firstLevel * currentScale}pt !important;
         }
-        
+
         .folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
           font-size: ${baseSizes.secondLevel * currentScale}pt !important;
         }
-        
+
         .folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
           font-size: ${baseSizes.thirdLevel * currentScale}pt !important;
         }
-        
+
         .folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>.folder-contents>details>summary {
           font-size: ${baseSizes.fourthLevel * currentScale}pt !important;
         }
-        
+
         /* Scale other text elements */
         .aDingbat {
           font-size: ${2 * currentScale}rem !important;
@@ -197,69 +197,3 @@ function setgat() {
 				localStorage.setItem("githubAccessToken", COR.accessToken);
 
 }
-
-
-// Breadcrumb Navigation Functions
-function updateBreadcrumb(filePath) {
-  const divMessage = document.getElementById('divMessage');
-  if (!filePath || filePath === COR.defaultFile) {
-    divMessage.innerHTML = `<span class="breadcrumb">📁 ${COR.repo}</span>`;
-    return;
-  }
-
-  const pathParts = filePath.split('/');
-  let breadcrumbHTML = '<span class="breadcrumb">📁</span>';
-  let currentPath = '';
-
-  // Add repo root
-  breadcrumbHTML += `<a class="breadcrumb-link" onclick="navigateToPath('')" title="Go to repository root">${COR.repo}</a>`;
-
-  // Add path segments
-  for (let i = 0; i < pathParts.length; i++) {
-    currentPath += (i > 0 ? '/' : '') + pathParts[i];
-    breadcrumbHTML += '<span class="breadcrumb-separator">›</span>';
-
-    if (i === pathParts.length - 1) {
-      // Current file - not clickable
-      const fileName = pathParts[i];
-      const fileIcon = getFileIcon(fileName);
-      breadcrumbHTML += `<span class="breadcrumb-current">${fileIcon} ${fileName}</span>`;
-    } else {
-      // Folder - clickable
-      breadcrumbHTML += `<a class="breadcrumb-link" onclick="navigateToPath('${currentPath}')" title="Go to ${pathParts[i]} folder">📁 ${pathParts[i]}</a>`;
-    }
-  }
-
-  divMessage.innerHTML = breadcrumbHTML;
-}
-
-function getFileIcon(fileName) {
-  const extension = fileName.split('.').pop().toLowerCase();
-  const iconMap = {
-    'md': '📝',
-    'js': '📜',
-    'css': '🎨',
-    'html': '🌐',
-    'json': '📋',
-    'txt': '📄',
-    'png': '🖼️',
-    'jpg': '🖼️',
-    'jpeg': '🖼️',
-    'gif': '🖼️',
-    'svg': '🖼️',
-    'pdf': '📕',
-    'zip': '📦'
-  };
-  return iconMap[extension] || '📄';
-}
-
-function navigateToPath(path) {
-  if (!path) {
-    location.hash = COR.defaultFile;
-  } else {
-    // Navigate to the folder by opening the first file in it or showing folder contents
-    location.hash = path + '/';
-  }
-}
-
-
