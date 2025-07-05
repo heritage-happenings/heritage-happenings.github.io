@@ -20,3 +20,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\prompts\0-theo-ai-tips.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\07
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\artificial-intelligence\0-ai-journal.md
