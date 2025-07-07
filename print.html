@@ -26,7 +26,7 @@
 
 
         a {
-            color: var(--color-light);
+            color: var(--color);
         }
 
         a:hover,
@@ -211,7 +211,14 @@
 
     <!-- Font scaling controls -->
     <div class="font-controls" role="toolbar" aria-label="Font size controls">
-        <span class="font-controls-title">Heritage Happenings</span>
+        <a href="" class="font-controls-title">Heritage Happenings</a>
+
+        <button class="font-btn file-list-toggle" onclick="toggleFileList()" aria-label="Toggle file list"
+            aria-expanded="false" aria-controls="file-list-panel">
+            📁Posts
+            <span class="sr-only">Show or hide file list</span>
+        </button>
+
         <button class="font-btn" onclick="decreaseFontSize()" aria-label="Decrease font size">
             A-
             <span class="sr-only">Make text smaller</span>
@@ -224,11 +231,7 @@
             A+
             <span class="sr-only">Make text larger</span>
         </button>
-        <button class="font-btn file-list-toggle" onclick="toggleFileList()" aria-label="Toggle file list"
-            aria-expanded="false" aria-controls="file-list-panel">
-            📁Posts
-            <span class="sr-only">Show or hide file list</span>
-        </button>
+
     </div>
 
     <!-- File list panel -->
