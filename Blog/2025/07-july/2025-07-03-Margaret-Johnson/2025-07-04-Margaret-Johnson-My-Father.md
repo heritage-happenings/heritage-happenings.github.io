@@ -2,11 +2,13 @@
 <br>
 
 ![Bernard Aubry Hilliard]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-03-Margaret-Johnson/ba-hilliard_000-cropped.jpg )
-_Bernard Aubry Hilliard_<br>
+
+_Bernard Aubry Hilliard (1885-1972)_
 
 My father was the youngest of five children in a Quaker family in a southern New Jersey small town. I don’t think I can write about him without writing about his family. He and his three brothers lived together on the top floor of the house in the middle of Salem amid the accumulation of young men at the turn of the century — a treasure trove to my sister and me after they all moved on. There was a bicycle with a huge front wheel and a small rear wheel hanging on one wall. I always wondered how one could get on it, let alone ride it. There were fencing foils and Indian bows and arrows and paint pots left behind by the _Lenni Lenape_ who had lived in the area. A collapsible top hat for the dandies.
 
 ![House in Salem NJ]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-03-Margaret-Johnson/ba-hilliard_001-crop.jpg )
+
 _House in Salem NJ_
 
 My grandfather and his brother founded one of the two banks in town and my father worked in it all his life in one capacity or another — from errand boy and janitor to President and Chairman of the Board.
@@ -62,5 +64,3 @@ Here are three particularly interesting aspects of Margaret's "My Father" story:
 **The poignant late-life love story and its tragic aftermath** - Both Margaret's father and his future wife were 39 when they met and married (quite late for that era), and they had a very happy marriage until she died of cancer. The story then takes a darker turn when he's targeted by a "predatory widow" who assumed he had money from banking, and when she discovered he didn't, she made his remaining years difficult.
 
 The story beautifully captures both the sweep of American history and the intimate details of one man's life within it.
-
-❧

@@ -11,9 +11,22 @@ https: //github.com/yzane/vscode-markdown-pdf/tree/master
 	font: 100% verdana, arial, sans-serif;
 }
 
+a {
+	color: crimson;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+em {
+	font-style: italic;
+}
+
 h1 {
-	font-size: 1.5rem;
-	margin: 0 0 1rem 0;
+	font-size: 1.75rem;
+	margin: 0 0 1.5rem 0;
 }
 
 h2 {
@@ -38,7 +51,8 @@ img {
 }
 
 p {
-	color: #f00;
+	color: #000;
+	line-height: 1.75rem;
 	font-size: 14pt;
 	margin: 0 0 1.2rem 0;
 	/* padding: 0; */
@@ -62,22 +76,8 @@ ul {
 	padding-top: -1em;
 }
 
-a {
-	color: crimson;
-	text-decoration: underline;
-}
 
-a:hover {
-	text-decoration: underline;
-}
 
-em {
-	font-style: italic;
-}
-
-img {
-	max-width: 100%;
-}
 
 title {
 	text-decoration: none;
