@@ -3,7 +3,7 @@
 
 _By Martha Nell Beatty with Candy Naughton_
 
-![candy-jim-portrait]( candy-jim-portrait.jpg )
+![candy-jim-portrait]( candy-jim-portrait-crop.jpg )
 
 Candy and Jim met in the sixth grade in Cherry Hill, NJ, started dating in their junior year in high school, and married after graduating college. They did go their separate ways for college, however. Candy studied at Juniata College in Pennsylvania, spending her Junior Year Abroad at the Universidad de Valencia in Valencia, Spain. Jim attended Dartmouth College and Harvard for undergraduate and medical school.
 
