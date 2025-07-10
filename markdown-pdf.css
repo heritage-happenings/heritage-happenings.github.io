@@ -6,7 +6,6 @@ https: //github.com/yzane/vscode-markdown-pdf/tree/master
 
 */
 
-
 :root {
 	font: 100% verdana, arial, sans-serif;
 }
@@ -40,6 +39,7 @@ h3 {
 h1,
 h2,
 h3 {
+	border-width: 0;
 	color: #880000;
 	margin: 0;
 	padding: 0;
@@ -58,7 +58,6 @@ p {
 	/* padding: 0; */
 }
 
-
 li {
 	font-size: 14pt;
 	margin-top: 0em;
@@ -75,9 +74,6 @@ ul {
 	margin: 0 0 1.2rem 0;
 	padding-top: -1em;
 }
-
-
-
 
 title {
 	text-decoration: none;
