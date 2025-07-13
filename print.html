@@ -3,12 +3,13 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
     <title>Document</title>
     <meta name="description"
         content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
     <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-    <meta name="version" content="2025-07-06">
+    <meta name="version" content="2025-07-12">
 
     <style>
         /* Copyright 2025 Theo Armour. MIT License */
@@ -210,7 +211,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
 
     <!-- Font scaling controls -->
+
     <div class="font-controls" role="toolbar" aria-label="Font size controls">
+
         <a href="" class="font-controls-title">Heritage Happenings</a>
 
         <button class="font-btn file-list-toggle" onclick="toggleFileList()" aria-label="Toggle file list"
@@ -231,6 +234,7 @@
             A+
             <span class="sr-only">Make text larger</span>
         </button>
+
 
     </div>
 
@@ -255,6 +259,9 @@
 
         // Sample file list - you can modify this array or fetch from server
         const availableFiles = [
+            //{name: "", path: ""},
+            { name: "French Wine and Cheese Tasting: The Menu", path: "" },
+            { name: "Candy and Jim Naughton", path: "https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-08-candy-and-jim-naughton/2025-07-08-Candy-and-Jim-Naughton.md" },
             { name: "Wines & Cheeses from France", path: "https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-04-French-Wine-and-Cheese/French-Wine-and-Cheese-Flyer.md" },
             { name: "Margaret Johnson: My Father", path: "https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-03-Margaret-Johnson/2025-07-04-Margaret-Johnson-My-Father.md" },
             { name: "Community Apps Superpower", path: "https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-02-community-apps-superpower/2025-07-02-community-apps-superpower.md" },
