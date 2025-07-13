@@ -1,6 +1,8 @@
 # Heritage Happenings July 1025
 
-This is the homepage. Click on the words "Heritage Happenings" up above to come back here.
+![2025-07-07-cover-image]( https://heritage-happenings.github.io/Blog/2025/07/2025-07-07-cover-image.png )
+
+This is the homepage. Click on the words "Heritage Happenings" up above to return here.
 
 Click on the word "Posts" to see this month's articles.
 
@@ -15,4 +17,3 @@ The views and opinions expressed in this publication are those of the authors an
 &copy; 2025 Heritage Happenings authors
 
 No rights reserved. Public Domain
-
