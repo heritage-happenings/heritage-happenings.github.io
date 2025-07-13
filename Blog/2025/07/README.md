@@ -1,0 +1,18 @@
+# Heritage Happenings July 1025
+
+This is the homepage. Click on the words "Heritage Happenings" up above to come back here.
+
+Click on the word "Posts" to see this month's articles.
+
+Click on the letters "A-" and "A+" to enlarge or reduce the size of the text.
+
+_Heritage Happenings_ is published by the residents of Heritage on the Marina, San Francisco.
+
+Email us at heritage-happenings-sf at gmail dot com.
+
+The views and opinions expressed in this publication are those of the authors and do not necessarily reflect the official policy or position of Heritage on the Marina.
+
+&copy; 2025 Heritage Happenings authors
+
+No rights reserved. Public Domain
+
