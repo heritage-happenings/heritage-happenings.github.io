@@ -19,3 +19,5 @@ The views and opinions expressed in this publication are those of the authors an
 No rights reserved. Public Domain
 
 Revision: 2025-07-13
+
+<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
