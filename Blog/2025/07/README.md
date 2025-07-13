@@ -16,6 +16,6 @@ The views and opinions expressed in this publication are those of the authors an
 
 &copy; 2025 Heritage Happenings authors
 
-Revision: 2025-07-13
-
 No rights reserved. Public Domain
+
+Revision: 2025-07-13
