@@ -17,6 +17,7 @@
             font-size: 200%;
             --color: #880000;
             --color-light: crimson;
+            --controls-height: 50px;
         }
 
         * {
@@ -60,6 +61,10 @@
 
             width: 100%;
             max-width: 500px;
+        }
+
+        main {
+            margin-top: calc(var(--controls-height, 50px) + 10px);
         }
 
         /* Font scale controls */
@@ -191,7 +196,7 @@
         }
 
         #main {
-            overflow-y:auto;
+            overflow-y: auto;
         }
 
         /* Mobile responsive */
@@ -256,7 +261,7 @@
     </div>
 
     <main id="main">
-        <div id="divContent" style="margin-top: 60px; padding: 20px;">
+        <div id="divContent">
         </div>
     </main>
 
