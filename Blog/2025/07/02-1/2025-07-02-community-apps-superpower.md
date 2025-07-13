@@ -7,7 +7,7 @@ Hello Residents
 
 Did you know that you can use Community Apps to phone, text or email every Heritage resident and team member. In other words, you don't need to enter any of us in your address book on your phone; all our details are already on your phone and ready to click!
 
-<img src="https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-02-community-apps-superpower/Screenshot_Community_Apps.jpg" width=150><br>
+<img src="https://heritage-happenings.github.io/Blog/2025/07/02/Screenshot_Community_Apps.jpg" width=150><br>
 ​
 Here is a​ snapshot of my details in the Resident Directory. You can see that my phone number and email address are in blue. This means you can click them. When you tap on the phone number you start a phone call. When you tap an email address, you open your email app with the "To" already filled in.
 

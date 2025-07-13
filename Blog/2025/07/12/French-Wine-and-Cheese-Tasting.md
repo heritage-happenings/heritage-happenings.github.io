@@ -2,7 +2,7 @@
 
 * Wednesday, July 16 at 3:00 in Friendship Hall
 
-![french-wine-and-cheese]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-12-French-Wine-and-Cheese-Tasting/french-wine-and-cheese.jpg)<br>
+![french-wine-and-cheese]( https://heritage-happenings.github.io/Blog/2025/07/12/french-wine-and-cheese.jpg)<br>
 Left to right: Brillat-Savarin, Bucherondin, Beaufort, Bleu d’Auvergne with _cornichons_, _saucisse_ and _confit de figues_
 
 **Special Bonus!!** Your $20 donations will be your donations to the Employee Appreciation Fund!

@@ -1,13 +1,13 @@
 # Margaret Johnson ~ My Father
 <br>
 
-![Bernard Aubry Hilliard]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-03-Margaret-Johnson/ba-hilliard_000-cropped.jpg )
+![Bernard Aubry Hilliard]( https://heritage-happenings.github.io/Blog/2025/07/03/ba-hilliard_000-cropped.jpg )
 
 _Bernard Aubry Hilliard (1885-1972)_
 
 My father was the youngest of five children in a Quaker family in a southern New Jersey small town. I don’t think I can write about him without writing about his family. He and his three brothers lived together on the top floor of the house in the middle of Salem amid the accumulation of young men at the turn of the century — a treasure trove to my sister and me after they all moved on. There was a bicycle with a huge front wheel and a small rear wheel hanging on one wall. I always wondered how one could get on it, let alone ride it. There were fencing foils and Indian bows and arrows and paint pots left behind by the _Lenni Lenape_ who had lived in the area. A collapsible top hat for the dandies.
 
-![House in Salem NJ]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-03-Margaret-Johnson/ba-hilliard_001-crop.jpg )
+![House in Salem NJ]( https://heritage-happenings.github.io/Blog/2025/07/03/ba-hilliard_001-crop.jpg )
 
 _House in Salem NJ_
 
