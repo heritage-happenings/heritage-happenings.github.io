@@ -2,11 +2,16 @@
 
 * Wednesday, July 16 at 3:00 in Friendship Hall
 
-![french-wine-and-cheese]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-12-French-Wine-and-Cheese-Tasting/french-wine-and-cheese.jpg)
+![french-wine-and-cheese]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-12-French-Wine-and-Cheese-Tasting/french-wine-and-cheese.jpg)<br>
+Left to right: Brillat-Savarin, Bucherondin, Beaufort, Bleu d’Auvergne with _cornichons_, _saucisse_ and _confit de figues_
 
 **Special Bonus!!** Your $20 donations will be your donations to the Employee Appreciation Fund!
 
-**Guest Speaker** Dylan Dylan, founder and owner of La Fromagerie on _Cheesenut Street_ will stop by around 3:15 to tell us about the pairings and answer your questions.
+**Guest Speaker** Dylan-Madison Fraioli, founder and owner of La Fromagerie on _Cheesenut Street_ will stop by around 3:15 to tell us about the pairings and answer your questions.
+
+***
+
+Here are the pairings...
 
 ## Appetizer ~ Bubbles and Cream
 
@@ -55,3 +60,5 @@ This golden Sauternes from Bordeaux is a mellow, elegant dessert wine. Crafted f
 ### Exotic Cheese: Bleu d’Auvergne
 
 This exotic blue cheese from the Auvergne region is a soft, creamy delight with a gentle kick. Made from cow’s milk, Bleu d’Auvergne features delicate blue veins that lend a mild, spicy edge balanced by a rich, buttery texture. Notes of wet stone and subtle grassiness add intrigue, making it both approachable and exciting. Its understated complexity pairs beautifully with a sweet dessert wine, offering a harmonious finale that invites you to linger over its unique, inviting character, crafted with traditional French care.
+
+Theo Armour, Editor and Taster
