@@ -303,6 +303,13 @@
 
             // Update controls height on resize
             window.addEventListener('resize', updateControlsHeight);
+
+            if (location.protocol === "https:") {
+
+                window.history.pushState("", "", "../../" + location.hash);
+
+            }
+
         };
 
         const delhash = () => { location.hash = ""; };

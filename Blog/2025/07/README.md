@@ -1,4 +1,4 @@
-# Heritage Happenings July 1025
+# Heritage Happenings July 2025
 
 ![2025-07-07-cover-image]( https://heritage-happenings.github.io/Blog/2025/07/2025-07-07-cover-image.png )
 
