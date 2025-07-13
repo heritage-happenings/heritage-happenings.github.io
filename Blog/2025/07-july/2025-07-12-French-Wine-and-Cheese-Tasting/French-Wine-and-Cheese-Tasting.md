@@ -2,7 +2,7 @@
 
 * Wednesday, July 16 at 3:00 in Friendship Hall
 
-![french-wine-and-cheese]( french-wine-and-cheese.jpg)
+![french-wine-and-cheese]( https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-12-French-Wine-and-Cheese-Tasting/french-wine-and-cheese.jpg)
 
 **Special Bonus!!** Your $20 donations will be your donations to the Employee Appreciation Fund!
 
