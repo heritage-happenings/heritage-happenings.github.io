@@ -266,11 +266,7 @@
     </main>
 
     <script>
-        let currentFontSize = 200;
-        let defaultFile = "https://heritage-happenings.github.io/Blog/2025/07-july/README.md";
-        let isFileListVisible = false;
 
-        // Sample file list - you can modify this array or fetch from server
         const availableFiles = [
             //{name: "", path: ""},
             { name: "French Wine and Cheese Tasting: The Menu", path: "https://heritage-happenings.github.io/Blog/2025-07-12-French-Wine-and-Cheese-Tasting/French-Wine-and-Cheese-Tasting-1.md" },
@@ -280,6 +276,13 @@
             { name: "Community Apps Superpower", path: "https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-02-community-apps-superpower/2025-07-02-community-apps-superpower.md" },
             { name: "Heritage Happenings July", path: "https://heritage-happenings.github.io/Blog/2025/07-july/README.md" }
         ];
+        
+        let currentFontSize = 200;
+        let defaultFile = "https://heritage-happenings.github.io/Blog/2025/07-july/README.md";
+        let isFileListVisible = false;
+
+        // Sample file list - you can modify this array or fetch from server
+
 
         const init = () => {
             showdown.setFlavor("github");
