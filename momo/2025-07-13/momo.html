@@ -269,18 +269,18 @@
 
         const availableFiles = [
             //{ name: "", path: ""},
-            { name: "French Wine and Cheese Tasting: The Menu", path: "https://heritage-happenings.github.io/Blog/2025/07/French-Wine-and-Cheese-Tasting.md" },
-            { name: "Candy and Jim Naughton", path: "https://heritage-happenings.github.io/Blog/2025/07/08/Candy-and-Jim-Naughton.md" },
-            { name: "Wines & Cheeses from France", path: "https://heritage-happenings.github.io/Blog/2025/07/04-French-Wine-and-Cheese/French-Wine-and-Cheese-Flyer.md" },
-            { name: "Margaret Johnson: My Father", path: "https://heritage-happenings.github.io/Blog/2025/07/03-Margaret-Johnson/04-Margaret-Johnson-My-Father.md" },
-            { name: "Community Apps Superpower", path: "https://heritage-happenings.github.io/Blog/2025/07/02-community-apps-superpower/02-community-apps-superpower.md" },
-            { name: "Today in Porter Garden", path: "https://heritage-happenings.github.io/Blog/2025/07/02-Today-in-Porter-Garden/Today-in-Porter-Garden.md"},
-            { name: "Love is in the Air, er, the Pavement", path: "https://heritage-happenings.github.io/Blog/2025/07/01-Love-is-in-the-Air/Love-is-in-the-Air.md"},
-            { name: "Heritage Happenings July", path: "https://heritage-happenings.github.io/Blog/2025/07/README.md" }
+            { name: "French Wine and Cheese Tasting: The Menu", path: "2025/07/12/French-Wine-and-Cheese-Tasting.md" },
+            { name: "Candy and Jim Naughton", path: "2025/07/08/Candy-and-Jim-Naughton.md" },
+            { name: "Wines & Cheeses from France", path: "2025/07/04/French-Wine-and-Cheese-Flyer.md" },
+            { name: "Margaret Johnson: My Father", path: "2025/07/03/Margaret-Johnson-My-Father.md" },
+            { name: "Community Apps Superpower", path: "2025/07/02ity-apps-superpower/02-community-apps-superpower.md" },
+            { name: "Today in Porter Garden", path: "2025/07/02-Today-in-Porter-Garden/Today-in-Porter-Garden.md"},
+            { name: "Love is in the Air, er, the Pavement", path: "2025/07/01-Love-is-in-the-Air/Love-is-in-the-Air.md"},
+            { name: "Heritage Happenings July", path: "2025/07/README.md" }
         ];
 
         let currentFontSize = 200;
-        let defaultFile = "https://heritage-happenings.github.io/Blog/2025/07/README.md";
+        let defaultFile = "2025/07/README.md";
         let isFileListVisible = false;
 
         // Sample file list - you can modify this array or fetch from server
@@ -363,7 +363,7 @@
         const onHashChange = () => {
             if (!location.hash.includes(".")) { return; }
 
-            const url = location.hash.slice(1);
+            const url = "https://heritage-happenings.github.io/Blog/" + location.hash.slice(1);
             const txt = url.split("/").pop();
             const title = txt
                 .split("-")
