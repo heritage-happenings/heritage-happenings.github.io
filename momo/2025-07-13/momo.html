@@ -70,8 +70,8 @@
         /* Font scale controls */
         .font-controls {
             position: fixed;
-            top: 10px;
-            left: 10px;
+            top: 0px;
+            left: 0px;
             z-index: 1001;
             display: flex;
             align-items: center;
@@ -79,7 +79,7 @@
             background: rgba(255, 255, 255, 0.9);
             padding: 5px 10px;
             border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
         }
 
         .font-controls-title {
@@ -154,8 +154,9 @@
         }
 
         .file-list {
-            padding: 0;
+            font-weight: 600;
             margin: 0;
+            padding: 0;
             list-style: none;
         }
 
@@ -202,6 +203,7 @@
         }
 
         #main {
+            overflow-x: hidden;
             overflow-y: auto;
         }
 
@@ -267,13 +269,14 @@
             <!-- Files will be populated by JavaScript -->
         </ul>
 
-        <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
+        <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:file-list-panel.scrollTo(0,0);"> ❦ </a></center>
 
     </div>
 
     <main id="main">
-        <div id="divContent">
-        </div>
+
+        <div id="divContent"></div>
+
     </main>
 
     <script>
