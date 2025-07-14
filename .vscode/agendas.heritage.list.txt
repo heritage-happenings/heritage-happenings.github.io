@@ -2,15 +2,9 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\0-herit
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\0-heritage-journal.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\accounts-it\0-accounts-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\activities\0-activities-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\admin\0-admin-hr.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\admin-hr\0-admin-hr.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\dining\0-dining-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\health\0-health-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\maintenance-housekeeping\0-maintenance-housekeeping-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\marketing-sales\0-marketing-sales-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-1-heritage\residents\0-residents-agenda.md
-|>>> Heritage Happenings
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-2-heritage-happenings\2025\07-july-hh\07-july-hh-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-2-heritage-happenings\0-heritage-happenings-journal.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-2-heritage-happenings\0-heritage-happenings-agenda.md
-|>>> SFLPRS
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-3-sflprs\0-sfplrs-agenda.md
