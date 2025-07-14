@@ -6,7 +6,9 @@ The _Heritage Happenings_ is built using two websites.
 
 ### Desktop Site
 
-To be described at a later date
+* Designed for large screen use
+* Standard Left menu + Right main
+* Two modes: All Files & Curated Selection
 
 ### Mobile Site
 
