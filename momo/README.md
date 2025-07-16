@@ -19,16 +19,22 @@ The _Heritage Happenings_ is built using two websites.
 
 ## Road Map
 
+* Swipe to go to next and previous article
 * Add June to Posts under a details tag
 * Add automatic search for files
 * Button to have the article read out loud
-* Button to go to the desktop version of the website
+* Update pushstate so plain URL appears with no location hash
+
 
 ## Issues
 
 * Class names need updating
 
 ## Change Log
+
+## 2025-07-15
+
+* Button to go to the desktop version of the website
 
 ### 2025-07-13
 
