@@ -21,3 +21,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\months-of-the
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\vscode\extensions\vscode-markdown-pdf.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-schedule-daily.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-schedule-weekly.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-health\reference\2-pt-exercise-routines-daily.md

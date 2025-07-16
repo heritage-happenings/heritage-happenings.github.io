@@ -9,7 +9,7 @@
     <meta name="description"
         content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
     <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-    <meta name="version" content="2025-07-13">
+    <meta name="version" content="2025-07-15">
 
     <style>
         /* Copyright 2025 Theo Armour. MIT License */
@@ -58,7 +58,6 @@
         }
 
         img {
-
             width: 100%;
             max-width: 500px;
         }
@@ -69,17 +68,17 @@
 
         /* Font scale controls */
         .font-controls {
-            position: fixed;
-            top: 0px;
-            left: 0px;
-            z-index: 1001;
-            display: flex;
             align-items: center;
-            gap: 10px;
             background: rgba(255, 255, 255, 0.9);
-            padding: 5px 10px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+            display: flex;
+            gap: 10px;
+            left: 0px;
+            padding: 5px 10px;
+            position: fixed;
+            top: 0px;
+            z-index: 1001;
         }
 
         .font-controls-title {
@@ -384,7 +383,10 @@
         const onHashChange = () => {
             if (!location.hash.includes(".")) { return; }
 
-            const url = "https://heritage-happenings.github.io/Blog/" + location.hash.slice(1);
+            //const url = "https://heritage-happenings.github.io/Blog/" + location.hash.slice(1);
+            const url = "../../Blog/" + location.hash.slice(1);
+
+            console.log( "url", url );
             const txt = url.split("/").pop();
             const title = txt
                 .split("-")
