@@ -10,6 +10,10 @@ https: //github.com/yzane/vscode-markdown-pdf/tree/master
 	font: 100% verdana, arial, sans-serif;
 }
 
+body {
+	max-width: 30rem;
+}
+
 a {
 	color: crimson;
 	text-decoration: underline;
@@ -31,12 +35,10 @@ h1 {
 }
 
 h2 {
-font-size: 100%;
+	font-size: 100%;
 }
 
-h3 {
-
-}
+h3 {}
 
 h2,
 h3 {
@@ -81,10 +83,6 @@ ul {
 		background: #fff !important;
 	}
 
-	a {
-
-	}
-
 	h1 {
 		font-size: 200%;
 		margin: 0 0 1rem 0;
@@ -120,6 +118,6 @@ ul {
 
 	.aDingbat {
 
-	text-decoration: none;
-}
+		text-decoration: none;
+	}
 }
