@@ -4,7 +4,7 @@ _By Tom King and Val Szigeti_
 
 Last month, we went to New York City to watch our older son, Ryan, ring the bell at the stock exchange as the company he co-founded with his business partner Chris Britt 13 years ago, went public.
 
-Ryan’s Executive Assistant, Melissa Parker, made all the arrangements for us, including travel by private jet, hotel accommodations (right across from the NYC Public Library), private car with driver, access to the NASDAQ, dinner reservations and much more – we were pampered!
+Ryan’s Executive Assistant, Melissa Parker, made all the arrangements for us, including travel by private jet, hotel accommodations, private car with driver, access to the NASDAQ, dinner reservations and much more – we were pampered!
 
 ![Chime at NASDAQ](https://heritage-happenings.github.io/Blog/2025/07/17/ChimeAtNASDAQ.JPG)
 
