@@ -385,7 +385,7 @@
             //const url = "https://heritage-happenings.github.io/Blog/" + location.hash.slice(1);
             const url = "../../Blog/" + location.hash.slice(1);
 
-            console.log( "url", url );
+            //console.log( "url", url );
             const txt = url.split("/").pop();
             const title = txt
                 .split("-")
@@ -418,7 +418,7 @@
                 window.scrollTo(0, 0);
             };
             xhr.onerror = () => {
-                console.log( "xhr", xhr);
+                console.log( "error", xhrresponseText);
             }
             xhr.send(null);
         };
