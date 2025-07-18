@@ -1,4 +1,4 @@
-# Ringing the Bell ~ 7/5/2025
+# Ringing the Bell ~ 6/12/2025
 
 _By Tom King and Val Szigeti_
 
@@ -14,16 +14,20 @@ When you travel by private jet, you don’t have to get to the executive termina
 
 ![Private Jet](https://heritage-happenings.github.io/Blog/2025/07/17/PrivateJet.png)
 
-We arrived at Teeterboro Executive Airport on Tuesday and were taken by van to our hotel in mid-town Manhattan, right across from the NYC Public Library. Wednesday was a free day although we had to fill out some electronic forms to get passes into NASDAQ for the next day.
+We arrived at Teterboro Executive Airport on Tuesday and were taken by van to our hotel in mid-town Manhattan, right across from the NYC Public Library. Wednesday was a free day although we had to fill out some electronic forms to get passes into NASDAQ for the next day.
 
-<img src="NASDAQ_Pass.jpg" width="100" >
+<div style="width: 200px;">
+<img src="https://heritage-happenings.github.io/Blog/2025/07/17/NASDAQ_Pass.jpg">
+</div>
 
 We had dinner with Val’s brother, Kal, and one of his sons; they came over from Long Island. Melissa made the reservations of course.
 
-Thursday was the ringing of the bell as all the electronic display boards around Times Square were lit up with Chime ads. The event was broadcast from inside the NASDAQ stock exchange and live-streamed to the many gatherings of Chime employees around the country including San Francisco. Here’s a link to Ryan’s speech (we call it "The King’s Speech"):
+Thursday was the ringing of the bell as all the electronic display boards around Times Square were lit up with Chime ads. The event was broadcast from inside the NASDAQ stock exchange and live-streamed to the many gatherings of Chime employees around the country including San Francisco. Here’s a link to Ryan’s speech:
 
-[The King's Speech]( https://www.dropbox.com/scl/fi/fkbtvetxphdxwo3tzat9r/RyanAtNASDAQ250612.MOV?rlkey=vn6k5mbm2rzcis4anxa7t8cem&e=1&st=itsnd5t3&dl=0 )
+[The King’s Speech]( https://www.dropbox.com/scl/fi/fkbtvetxphdxwo3tzat9r/RyanAtNASDAQ250612.MOV?rlkey=vn6k5mbm2rzcis4anxa7t8cem&e=1&st=itsnd5t3&dl=0 )
 
 There was a big party on Thursday evening at Cipriani’s at 55 Wall Street, then back to San Francisco on Friday.
+
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>

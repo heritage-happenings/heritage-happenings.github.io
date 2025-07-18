@@ -24,19 +24,20 @@ em {
 }
 
 h1 {
-	font-size: 1.75rem;
-	margin: 0 0 1.5rem 0;
+	color: #880000;
+	border-width: 0;
+	font-size: 120%;
+	margin: 0 0 2rem 0;
 }
 
 h2 {
-	font-size: 1.5rem;
+font-size: 100%;
 }
 
 h3 {
-	font-size: 1.1rem;
+
 }
 
-h1,
 h2,
 h3 {
 	border-width: 0;
@@ -46,24 +47,19 @@ h3 {
 }
 
 img {
-	max-width: 500px;
+	max-width: 400px;
 	width: 100%;
 }
 
 p {
 	color: #000;
-	line-height: 1.75rem;
-	font-size: 14pt;
+	line-height: 150%;
 	margin: 0 0 1.2rem 0;
-	/* padding: 0; */
 }
 
 li {
-	font-size: 14pt;
-	margin-top: 0em;
-	padding-top: 0em;
-	margin-bottom: 0;
-	padding-bottom: 0;
+	margin: 0;
+	padding-top: 0;
 }
 
 mark {
@@ -75,6 +71,55 @@ ul {
 	padding-top: -1em;
 }
 
-title {
+.aDingbat {
+
+	font-size: 300%;
+}
+
+@media print {
+	body {
+		background: #fff !important;
+	}
+
+	a {
+
+	}
+
+	h1 {
+		font-size: 200%;
+		margin: 0 0 1rem 0;
+	}
+
+	h2 {
+		font-size: 20%;
+		margin: 0 0 0 0;
+	}
+
+	h1,
+	h2,
+	h3 {
+		page-break-after: avoid;
+	}
+
+	img {
+		max-width: 500px;
+		width: 100%;
+	}
+
+	nav,
+	.sidebar,
+	.footer,
+	.no-print {
+		display: none !important;
+	}
+
+	p,
+	li {
+		font-size: 150%;
+	}
+
+	.aDingbat {
+
 	text-decoration: none;
+}
 }
