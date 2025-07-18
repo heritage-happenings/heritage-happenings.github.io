@@ -12,11 +12,11 @@ Julia King (David’s wife), Alana King (14), Tom, Jennifer King (Ryan’s wife)
 
 When you travel by private jet, you don’t have to get to the executive terminal hours ahead of time, you don’t have to go through security, the pilot loads your luggage, and when everyone’s onboard, you take off. Cabin pressure is such that your ears don’t pop, you travel at 45,000 – 50,000 feet, flying time is shorter, you can turn your chair 360 degrees, and there’s even a bed to sleep on. Your pre-ordered meal is served on white tablecloths — we decided we could get used to this.
 
-![](PrivateJet.jpg)
+![](https://heritage-happenings.github.io/momo/2025-07-17/PrivateJet.jpg)
 
 We arrived at Teeterboro Executive Airport on Tuesday and were taken by van to our hotel in mid-town Manhattan, right across from the NYC Public Library. Wednesday was a free day although we had to fill out some electronic forms to get passes into NASDAQ for the next day.
 
-![](NASDAQ_Pass.jpg)
+![](https://heritage-happenings.github.io/momo/2025-07-17/NASDAQ_Pass.jpg)
 
 We had dinner with Val’s brother, Kal, and one of his sons; they came over from Long Island. Melissa made the reservations of course.
 

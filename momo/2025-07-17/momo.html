@@ -414,12 +414,11 @@
             xhr.open("get", url, true);
             xhr.onload = () => {
                 const txt = xhr.responseText;
-                console.log( "txt", txt );
                 document.getElementById('divContent').innerHTML = new showdown.Converter(options).makeHtml(txt);
                 window.scrollTo(0, 0);
             };
             xhr.onerror = () => {
-                console.log( "txt", xhr.responseText );
+                console.log( "xhr", xhr);
             }
             xhr.send(null);
         };
