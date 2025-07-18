@@ -16,7 +16,7 @@ When you travel by private jet, you don’t have to get to the executive termina
 
 We arrived at Teeterboro Executive Airport on Tuesday and were taken by van to our hotel in mid-town Manhattan, right across from the NYC Public Library. Wednesday was a free day although we had to fill out some electronic forms to get passes into NASDAQ for the next day.
 
-![NASDAQ Pass](https://heritage-happenings.github.io/Blog/2025/07/17/NASDAQ_Pass.jpg)
+<img src="NASDAQ_Pass.jpg" width="100" >
 
 We had dinner with Val’s brother, Kal, and one of his sons; they came over from Long Island. Melissa made the reservations of course.
 
