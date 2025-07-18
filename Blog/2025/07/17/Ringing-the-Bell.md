@@ -12,7 +12,7 @@ Julia King (David’s wife), Alana King (14), Tom, Jennifer King (Ryan’s wife)
 
 When you travel by private jet, you don’t have to get to the executive terminal hours ahead of time, you don’t have to go through security, the pilot loads your luggage, and when everyone’s onboard, you take off. Cabin pressure is such that your ears don’t pop, you travel at 45,000 – 50,000 feet, flying time is shorter, you can turn your chair 360 degrees, and there’s even a bed to sleep on. Your pre-ordered meal is served on white tablecloths — we decided we could get used to this.
 
-![Private Jet](https://heritage-happenings.github.io/Blog/2025/07/17/PrivateJet.jpg)
+![Private Jet](https://heritage-happenings.github.io/Blog/2025/07/17/PrivateJet.png)
 
 We arrived at Teeterboro Executive Airport on Tuesday and were taken by van to our hotel in mid-town Manhattan, right across from the NYC Public Library. Wednesday was a free day although we had to fill out some electronic forms to get passes into NASDAQ for the next day.
 
@@ -25,3 +25,5 @@ Thursday was the ringing of the bell as all the electronic display boards around
 [The King's Speech]( https://www.dropbox.com/scl/fi/fkbtvetxphdxwo3tzat9r/RyanAtNASDAQ250612.MOV?rlkey=vn6k5mbm2rzcis4anxa7t8cem&e=1&st=itsnd5t3&dl=0 )
 
 There was a big party on Thursday evening at Cipriani’s at 55 Wall Street, then back to San Francisco on Friday.
+
+<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
