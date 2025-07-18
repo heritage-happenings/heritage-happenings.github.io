@@ -73,7 +73,7 @@ ul {
 }
 
 .aDingbat {
-	font-size: 300%;
+	font-size: 200%;
 	text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ ul {
 	}
 
 	h1 {
-		font-size: 200%;
+		font-size: 150%;
 		margin: 0 0 1rem 0;
 	}
 
@@ -112,11 +112,7 @@ ul {
 
 	p,
 	li {
-		font-size: 150%;
+		/* font-size: 150%; */
 	}
 
-	.aDingbat {
-
-		text-decoration: none;
-	}
 }
