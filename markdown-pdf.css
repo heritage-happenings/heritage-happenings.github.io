@@ -70,12 +70,12 @@ mark {
 
 ul {
 	margin: 0 0 1.2rem 0;
-	padding-top: -1em;
+	padding-top: -1rem;
 }
 
 .aDingbat {
-
 	font-size: 300%;
+	text-decoration: none;
 }
 
 @media print {
