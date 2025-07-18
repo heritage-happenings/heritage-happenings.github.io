@@ -7,7 +7,7 @@ https: //github.com/yzane/vscode-markdown-pdf/tree/master
 */
 
 :root {
-	font: 100% verdana, arial, sans-serif;
+	font: 200% verdana, arial, sans-serif;
 }
 
 body {
@@ -30,7 +30,7 @@ em {
 h1 {
 	color: #880000;
 	border-width: 0;
-	font-size: 120%;
+	font-size: 200%;
 	margin: 0 0 2rem 0;
 }
 
@@ -42,7 +42,6 @@ h3 {}
 
 h2,
 h3 {
-	border-width: 0;
 	color: #880000;
 	margin: 0;
 	padding: 0;
