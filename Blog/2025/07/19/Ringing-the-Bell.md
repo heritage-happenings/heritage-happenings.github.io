@@ -2,7 +2,7 @@
 
 _By Tom King and Val Szigeti_
 
-Last month, we went to New York City to watch our older son, Ryan, ring the bell at the stock exchange as the company he co-founded with his business partner Chris Britt 13 years ago, [Chime]( https://www.chime.com/), went public.
+Last month, we went to New York City to watch our older son, Ryan, ring the bell at the stock exchange as [Chime]( https://www.chime.com/), the company he co-founded with his business partner Chris Britt 13 years ago, went public.
 
 Ryan’s Executive Assistant, Melissa Parker, made all the arrangements for us, including travel by private jet, hotel accommodations, private car with driver, access to the NASDAQ stock exchange, dinner reservations and much more – we were pampered!
 

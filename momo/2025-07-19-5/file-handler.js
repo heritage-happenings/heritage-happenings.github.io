@@ -60,10 +60,8 @@ FL.populateFileList = async () => {
 		link.className = 'file-list__link';
 		link.textContent = file.name.replace( /\.md$/, '' ).replace( /-/g, ' ' );
 		link.addEventListener( 'click', () => {
-			// On smaller screens, close panel when file is selected
-			if ( window.innerWidth < 768 ) {
-				FL.toggleFileList();
-			}
+			// Close panel when a file is selected
+			FL.toggleFileList();
 		} );
 
 		listItem.appendChild( link );
@@ -113,12 +111,6 @@ FL.onHashChange = async () => {
 		.map( ( x ) => ( x.charAt( 0 ).toUpperCase() + x.slice( 1 ) ) )
 		.join( " " );
 	document.title = "HH: " + title;
-
-	// Display the current file name in the header
-	const currentFileDisplay = document.getElementById( 'current-file' );
-	if ( currentFileDisplay ) {
-		currentFileDisplay.textContent = title;
-	}
 
 	const options = {
 		backslashEscapesHTMLTags: true,

@@ -103,16 +103,6 @@ main {
 	background: #004080;
 }
 
-.app-header__current-file {
-	font-weight: bold;
-	text-align: center;
-	flex-grow: 1;
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	padding: 0 1rem;
-}
-
 .font-controls {
 	display: flex;
 	gap: 5px;
