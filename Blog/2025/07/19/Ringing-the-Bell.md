@@ -2,9 +2,9 @@
 
 _By Tom King and Val Szigeti_
 
-Last month, we went to New York City to watch our older son, Ryan, ring the bell at the stock exchange as the company he co-founded with his business partner Chris Britt 13 years ago, went public.
+Last month, we went to New York City to watch our older son, Ryan, ring the bell at the stock exchange as the company he co-founded with his business partner Chris Britt 13 years ago, [Chime]( https://www.chime.com/), went public.
 
-Ryan’s Executive Assistant, Melissa Parker, made all the arrangements for us, including travel by private jet, hotel accommodations, private car with driver, access to the NASDAQ, dinner reservations and much more – we were pampered!
+Ryan’s Executive Assistant, Melissa Parker, made all the arrangements for us, including travel by private jet, hotel accommodations, private car with driver, access to the NASDAQ stock exchange, dinner reservations and much more – we were pampered!
 
 ![Chime at NASDAQ](https://heritage-happenings.github.io/Blog/2025/07/17/ChimeAtNASDAQ.JPG)
 
@@ -26,7 +26,7 @@ Thursday was the ringing of the bell as all the electronic display boards around
 
 [The King’s Speech]( https://www.dropbox.com/scl/fi/fkbtvetxphdxwo3tzat9r/RyanAtNASDAQ250612.MOV?rlkey=vn6k5mbm2rzcis4anxa7t8cem&e=1&st=itsnd5t3&dl=0 )
 
-There was a big party on Thursday evening at Cipriani’s at 55 Wall Street, then back to San Francisco on Friday.
+There was a big party on Thursday evening at [Cipriani]( https://ciprianievents.com/venue/new-york-cipriani-wall-street/ ) at 55 Wall Street, then back to San Francisco on Friday.
 
 ***
 
