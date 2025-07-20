@@ -1,7 +1,7 @@
-// SPDX-FileCopyrightText: 2025 Theo Armour
-// SPDX-License-Identifier: MIT
+// Copyright 2025 Theo Armour. MIT License
 
 const TTS = {};
+window.TTS = TTS; // Make TTS globally accessible
 
 TTS.init = () => {
 	const readAloudButton = document.getElementById( 'read-aloud-button' );

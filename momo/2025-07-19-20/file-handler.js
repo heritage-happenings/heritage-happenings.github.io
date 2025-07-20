@@ -1,5 +1,4 @@
-// SPDX-FileCopyrightText: 2025 Theo Armour
-// SPDX-License-Identifier: MIT
+// Copyright 2025 Theo Armour. MIT License
 
 const FL = {};
 window.FL = FL; // Make FL globally accessible

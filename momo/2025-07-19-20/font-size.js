@@ -1,7 +1,7 @@
-// SPDX-FileCopyrightText: 2025 Theo Armour
-// SPDX-License-Identifier: MIT
+// Copyright 2025 Theo Armour. MIT License
 
 const FSM = {};
+window.FSM = FSM; // Make FSM globally accessible
 
 FSM.currentFontSize = 200;
 FSM.pinchThreshold = 30; // Minimum pixel change to trigger zoom

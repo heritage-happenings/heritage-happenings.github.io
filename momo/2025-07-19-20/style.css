@@ -1,4 +1,5 @@
 /* Copyright 2025 Theo Armour. MIT License */
+
 :root {
 	font-size: 200%;
 	--color: #880000;
@@ -196,7 +197,7 @@ main {
 }
 
 /* read me footer */
-.aDingbat {
+.a-dingbat {
 	text-decoration: none;
 	font-size: 200%;
 }

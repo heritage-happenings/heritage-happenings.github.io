@@ -2,12 +2,14 @@
 <html lang="en">
 
 <head>
+	<!-- Copyright 2025 Theo Armour. MIT License -->
+
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 	<title>Heritage Happenings</title>
 	<meta name="description"
-		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+		content="Explore collections of stories about history and culture written by residents of Heritage on the Marina, San Francisco.">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
 	<meta name="version" content="2025-07-20">
 
@@ -53,13 +55,13 @@
 
 	<!-- File list panel -->
 	<aside id="file-list-panel" class="file-list-panel" role="region" aria-label="Available files">
-		<div id="fileListHeader" class="file-list-header">July Stories</div>
+		<div id="file-list-header" class="file-list-header">July Stories</div>
 		<ul id="file-list" class="file-list" role="list">
 			<!-- Files will be populated by JavaScript -->
 		</ul>
 
-		<div class="dingbat-container" title="Hello! Click me to go up to the top"><a class="aDingbat"
-				href="javascript:fileListHeader.scrollIntoView();"> ❦ </a></div>
+		<div class="dingbat-container" title="Hello! Click me to go up to the top"><a class="a-dingbat"
+				href="javascript:document.getElementById( 'file-list-header' ).scrollIntoView();"> ❦ </a></div>
 
 	</aside>
 
