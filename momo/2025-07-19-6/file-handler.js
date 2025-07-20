@@ -41,25 +41,27 @@ FL.init = async () => {
 FL.populateFileList = async () => {
 
 	const response = await fetch( "./posts.json" );
-	const files = await response.json();
+	const allFiles = await response.json();
 
-	FL.files = files;
+	FL.files = allFiles; // Keep all files for next/prev navigation
 
 	const fileList = document.getElementById( 'file-list' );
 	fileList.innerHTML = '';
 
-	files.forEach( file => {
+	// Filter for July 2025 posts and create list items
+	const julyFiles = allFiles.filter( file => file.path.startsWith( "2025/07" ) );
+
+	julyFiles.forEach( file => {
 		const listItem = document.createElement( 'li' );
-		listItem.className = 'file-item';
-		listItem.setAttribute( 'role', 'listitem' );
+		listItem.className = 'file-list__item';
 
 		const link = document.createElement( 'a' );
 		link.href = `#${ file.path }`;
-		link.className = 'file-link';
-		link.textContent = file.name;
-		link.setAttribute( 'role', 'link' );
+		link.className = 'file-list__link';
+		link.textContent = file.name.replace( /\.md$/, '' ).replace( /-/g, ' ' );
 		link.addEventListener( 'click', () => {
-			FL.toggleFileList(); // Close panel when file is selected
+			// On smaller screens, close panel when file is selected
+			FL.toggleFileList();
 		} );
 
 		listItem.appendChild( link );
@@ -79,6 +81,14 @@ FL.toggleFileList = () => {
 	if ( FL.isFileListVisible ) {
 		panel.classList.add( 'visible' );
 		toggleButton.setAttribute( 'aria-expanded', 'true' );
+
+		// Ensure the panel is rendered before scrolling
+		requestAnimationFrame( () => {
+			const activeLink = document.querySelector( '.file-list__link--active' );
+			if ( activeLink ) {
+				activeLink.scrollIntoView( { block: 'nearest', behavior: 'smooth' } );
+			}
+		} );
 	} else {
 		panel.classList.remove( 'visible' );
 		toggleButton.setAttribute( 'aria-expanded', 'false' );
@@ -95,6 +105,7 @@ FL.onHashChange = async () => {
 
 	const txt = url.split( "/" ).pop();
 	const title = txt
+		.replace( /\.md$/i, '' )
 		.split( "-" )
 		.filter( x => x.length > 0 )
 		.map( ( x ) => ( x.charAt( 0 ).toUpperCase() + x.slice( 1 ) ) )
@@ -126,6 +137,7 @@ FL.onHashChange = async () => {
 		const converter = new showdown.Converter( options );
 		document.getElementById( 'main' ).innerHTML = converter.makeHtml( txt );
 		window.scrollTo( 0, 0 );
+		FL.updateActiveLink(); // Highlight the new active link
 	} catch ( error ) {
 		console.error( "Fetch error:", error );
 		document.getElementById( 'main' ).innerHTML = `<p>Sorry, the content could not be loaded. Please try another link.</p>`;
@@ -149,6 +161,22 @@ FL.onClick = ( e ) => {
 
 	if ( FL.isFileListVisible && !panel.contains( e.target ) && !toggleButton.contains( e.target ) ) {
 		FL.toggleFileList();
+	}
+};
+
+
+
+FL.updateActiveLink = () => {
+	// Remove active state from the previous link
+	const currentActive = document.querySelector( '.file-list__link--active' );
+	if ( currentActive ) {
+		currentActive.classList.remove( 'file-list__link--active' );
+	}
+
+	// Add active state to the current link
+	const newActive = document.querySelector( `.file-list__link[href="${ location.hash }"]` );
+	if ( newActive ) {
+		newActive.classList.add( 'file-list__link--active' );
 	}
 };
 
