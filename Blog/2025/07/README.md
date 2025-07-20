@@ -4,9 +4,9 @@
 
 This is the homepage. At any time, click on the words "Heritage Happenings" up above to return here.
 
-Click on the word "Posts" to see this month's articles.
+Click on the word "Posts" to see this month's articles. You can also swipe one finger on the screen to go to the next or previous article.
 
-Click on the letters "A-" and "A+" to enlarge or reduce the size of the text.
+Click on the letters "A-" and "A+" to enlarge or reduce the size of the text. Or "zoom" with your fingers.
 
 Desktop computer website: [https://heritage-happenings.github.io/tootoo/](https://heritage-happenings.github.io/tootoo/)
 
@@ -20,6 +20,6 @@ The views and opinions expressed in this publication are those of the authors an
 
 No rights reserved. Public Domain
 
-Revision: 2025-07-17
+Revision: 2025-07-19
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
