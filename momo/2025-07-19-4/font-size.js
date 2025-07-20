@@ -71,7 +71,7 @@ FSM.update = () => {
 
 FSM.updateControlsHeight = () => {
 
-	const controls = document.querySelector( '.font-controls' );
+	const controls = document.querySelector( '.app-header' );
 
 	if ( controls ) {
 		const height = controls.offsetHeight;
