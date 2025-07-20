@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Heritage Happenings - July 2025</title>
+    <meta name="description"
+        content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+    <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+    <meta name="version" content="2025-07-19">
+
+    <style>
+        /* Copyright 2025 Theo Armour. MIT License */
+        :root {
+            font-size: 200%;
+            --color: #880000;
+            --color-light: crimson;
+            --controls-height: 50px;
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            scroll-behavior: smooth;
+        }
+
+        body {
+            max-width: 30rem;
+        }
+
+        a {
+            color: var(--color);
+        }
+
+        a:hover,
+        a:focus,
+        a:active {
+            color: var(--color-light);
+            text-decoration: underline;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: var(--color);
+        }
+
+        h1,
+        h2 {
+            margin: 0.5rem 0 0.25rem 0;
+        }
+
+        h3 {
+            margin: 0.8rem 0 0 0;
+        }
+
+        h4 {
+            margin: 0;
+        }
+
+        img {
+            width: 100%;
+            max-width: 500px;
+        }
+
+        main {
+            margin-top: calc(var(--controls-height, 50px) + 10px);
+        }
+
+        /* Font scale controls */
+        .font-controls {
+            align-items: center;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+            display: flex;
+            gap: 10px;
+            left: 0px;
+            padding: 5px 10px;
+            position: fixed;
+            top: 0px;
+            z-index: 1001;
+        }
+
+        .font-controls-title {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        .font-btn {
+            background: #007acc;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-family: monospace;
+            font-size: 1rem;
+            transition: background-color 0.2s;
+        }
+
+        .font-btn:hover {
+            background: #005a9e;
+        }
+
+        .font-btn:focus {
+            outline: 2px solid #ffd700;
+            outline-offset: 2px;
+        }
+
+        .font-btn:active {
+            background: #004080;
+        }
+
+        /* File list toggle */
+        .file-list-toggle {
+            background: #28a745;
+        }
+
+        .file-list-toggle:hover {
+            background: #218838;
+        }
+
+        .file-list-toggle:active {
+            background: #1e7e34;
+        }
+
+        /* File list panel */
+        .file-list-panel {
+            position: fixed;
+            top: calc(10px + var(--controls-height, 50px) + 10px);
+            left: 10px;
+            max-width: 60vw;
+            max-height: 80vh;
+            background: rgba(255, 255, 255, 0.95);
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            z-index: 999;
+            overflow-y: auto;
+            display: none;
+        }
+
+        .file-list-panel.visible {
+            display: block;
+        }
+
+        .file-list-header {
+            padding: 10px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #dee2e6;
+            font-weight: bold;
+            border-radius: 5px 5px 0 0;
+        }
+
+        .file-list {
+            font-weight: 600;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .file-item {
+            border-bottom: 1px solid #eee;
+        }
+
+        .file-link {
+            display: block;
+            padding: 8px 12px;
+            text-decoration: none;
+            color: #000055;
+            transition: background-color 0.2s;
+        }
+
+        .file-link:hover {
+            background: #f8f9fa;
+            color: #005a9e;
+        }
+
+        .file-link:focus {
+            outline: 2px solid #ffd700;
+            outline-offset: -2px;
+            background: #e3f2fd;
+        }
+
+        /* read me footer */
+		.aDingbat {
+			text-decoration: none;
+			font-size: 200%;
+		}
+
+        #main {
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            :root {
+                font-size: 150%;
+            }
+
+            body {
+                max-width: 95vw;
+                margin: 0 auto;
+                padding: 0 2.5vw;
+            }
+
+            .font-controls {
+                flex-wrap: wrap;
+                gap: 5px;
+                max-width: calc(100vw - 20px);
+                left: 10px;
+                right: 10px;
+            }
+
+            .font-btn {
+                padding: 6px 10px;
+                font-size: 0.9rem;
+            }
+
+            .file-list-panel {
+                width: calc(100vw - 20px);
+                max-width: 85vw;
+                left: 10px;
+                right: 10px;
+                max-height: 70vh;
+                top: calc(10px + var(--controls-height, 70px) + 10px);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <script src="fontSizeManager.js"></script>
+
+    <!-- Font scaling controls -->
+
+    <div class="font-controls" role="toolbar" aria-label="Font size controls">
+
+
+            <a href="" class="font-controls-title" title="Home Page">Heritage Happenings</a>
+
+            <button class="font-btn file-list-toggle" onclick="toggleFileList()" aria-label="Toggle file list"
+                aria-expanded="false" aria-controls="file-list-panel">
+                📁Posts
+            </button>
+
+        <span>
+
+            <button class="font-btn" onclick="FontSizeManager.decrease()" aria-label="Decrease font size">
+                A-
+            </button>
+            <!--
+            <button class="font-btn" onclick="FontSizeManager.reset()" aria-label="Reset font size to default">
+                A
+            </button>
+            -->
+            <button class="font-btn" onclick="FontSizeManager.increase()" aria-label="Increase font size">
+                A+
+            </button>
+
+        </span>
+    </div>
+
+    <!-- File list panel -->
+    <div id="fileList" class="file-list-panel" role="region" aria-label="Available files" style="display: none;">
+        <div id="fileListHeader" class="file-list-header">July Files</div>
+        <ul id="file-list" class="file-list" role="list">
+            <!-- Files will be populated by JavaScript -->
+        </ul>
+
+        <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:fileListHeader.scrollIntoView();"> ❦ </a></center>
+
+    </div>
+
+    <main id="main">
+
+        <div id="contents"></div>
+
+    </main>
+
+    <script>
+        // Initialize showdown converter
+        const converter = new showdown.Converter({
+            backslashEscapesHTMLTags: true,
+            emoji: true,
+            ghMention: true,
+            simpleLineBreaks: true,
+            strikethrough: true,
+            tasklists: true
+        });
+
+        // Simple onHashChange function
+        function onHashChange() {
+            const hash = window.location.hash || "#2025/07/README.md";
+            const fileName = hash.slice(1);
+            const url = `../${fileName}`;
+
+            const xhr = new XMLHttpRequest();
+            xhr.open("GET", url);
+            xhr.onload = function () {
+                if (xhr.status === 200) {
+                    document.getElementById("contents").innerHTML = converter.makeHtml(xhr.responseText);
+                } else {
+                    document.getElementById("contents").innerHTML =
+                        `<div>Could not load: ${fileName}<br />Error: ${xhr.status}</div>`;
+                }
+            };
+            xhr.onerror = function () {
+                document.getElementById("contents").innerHTML =
+                    `<div>Could not load: ${fileName}<br />Network Error</div>`;
+            };
+            xhr.send();
+
+            document.title = fileName.split('/').pop();
+        }
+
+        // File list toggle functionality
+        function toggleFileList() {
+            const fileList = document.getElementById('fileList');
+            const isVisible = fileList.style.display === 'block';
+            fileList.style.display = isVisible ? 'none' : 'block';
+        }
+
+        // Populate file list with available files
+        function populateFileList() {
+            const fileList = document.getElementById('file-list');
+            const files = [
+                { name: "Ringing the Bell", path: "2025/07/17/Ringing-the-Bell.md"},
+                { name: "French Wine and Cheese Tasting: The Menu", path: "2025/07/12/French-Wine-and-Cheese-Tasting.md" },
+                { name: "Candy and Jim Naughton", path: "2025/07/08/Candy-and-Jim-Naughton.md" },
+                { name: "Wines & Cheeses from France", path: "2025/07/04/French-Wine-and-Cheese-Flyer.md" },
+                { name: "Margaret Johnson: My Father", path: "2025/07/03/Margaret-Johnson-My-Father.md" },
+                { name: "Community Apps Superpower", path: "2025/07/02-1/community-apps-superpower.md" },
+                { name: "Today in Porter Garden", path: "2025/07/02-2/Today-in-Porter-Garden.md" },
+                { name: "Love is in the Air, er, the Pavement", path: "2025/07/01/Love-is-in-the-Air.md" },
+                { name: "Heritage Happenings July", path: "2025/07/README.md" }
+            ];
+
+            fileList.innerHTML = '';
+            files.forEach(file => {
+                const li = document.createElement('li');
+                li.className = 'file-item';
+                const a = document.createElement('a');
+                a.className = 'file-link';
+                a.href = `#${file.path}`;
+                a.textContent = file.name;
+                li.appendChild(a);
+                fileList.appendChild(li);
+            });
+        }
+
+        // Simple initialization
+        window.onload = function () {
+            // Initialize font size manager
+            FontSizeManager.init();
+
+            // Populate file list
+            populateFileList();
+
+            // Handle initial load
+            onHashChange();
+
+            // Set up event listeners
+            window.addEventListener("hashchange", onHashChange, false);
+
+            // Handle HTTPS redirects
+            if (location.protocol === "https:") {
+                window.history.pushState("", "", "../../" + location.hash);
+            }
+        };
+    </script>
+</body>
+
+</html>

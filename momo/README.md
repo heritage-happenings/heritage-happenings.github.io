@@ -32,6 +32,21 @@ The _Heritage Happenings_ is built using two websites.
 
 ## Change Log
 
+
+## 2025-07-19
+
+### Prompts
+
+Transfer all the set font size code to a separate JavaScript file. Edit the code, so it's in its own namespace. Remove any screen reader code and keyboard shortcuts.
+
+* Gemini Pro 2.5 Preview dis a much simpler job than Claude
+
+Can you suggest, but not carry out, any further improvements?
+
+Can you make anything better??
+
+Can you create a "Heritage Happenings" favicon?
+
 ## 2025-07-15
 
 * Button to go to the desktop version of the website
