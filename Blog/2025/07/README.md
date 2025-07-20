@@ -6,7 +6,9 @@ This is the homepage. At any time, click on the words "Heritage Happenings" up a
 
 Click on the word "Posts" to see this month's articles. You can also swipe one finger on the screen to go to the next or previous article.
 
-Click on the letters "A-" and "A+" to enlarge or reduce the size of the text. Or "zoom" with your fingers.
+Click the microphone icon to have the current story read out loud,
+
+Click on the letters "A-" and "A+" to enlarge or reduce the size of the text. Or "zoom" with your fingers to update the size of the text.
 
 Desktop computer website: [https://heritage-happenings.github.io/tootoo/](https://heritage-happenings.github.io/tootoo/)
 
