@@ -6,18 +6,18 @@ Last month, we went to New York City to watch our older son, Ryan, ring the bell
 
 Ryan’s Executive Assistant, Melissa Parker, made all the arrangements for us, including travel by private jet, hotel accommodations, private car with driver, access to the NASDAQ stock exchange, dinner reservations and much more – we were pampered!
 
-![Chime at NASDAQ](https://heritage-happenings.github.io/Blog/2025/07/19/ChimeAtNASDAQ.JPG)
+![Chime at NASDAQ](https://heritage-happenings.github.io/Blog/2025/07/20/ChimeAtNASDAQ.JPG)
 
 Julia King (David’s wife), Alana King (14), Tom, Jennifer King (Ryan’s wife), Melina King (11), Ryan, Val, David King
 
 When you travel by private jet, you don’t have to get to the executive terminal hours ahead of time, you don’t have to go through security, the pilot loads your luggage, and when everyone’s onboard, you take off. Cabin pressure is such that your ears don’t pop, you travel at 45,000 – 50,000 feet, flying time is shorter, you can turn your chair 360 degrees, and there’s even a bed to sleep on. Your pre-ordered meal is served on white tablecloths — we decided we could get used to this.
 
-![Private Jet](https://heritage-happenings.github.io/Blog/2025/07/19/PrivateJet.png)
+![Private Jet](https://heritage-happenings.github.io/Blog/2025/07/20/PrivateJet.png)
 
 We arrived at Teterboro Executive Airport on Tuesday and were taken by van to our hotel in mid-town Manhattan, right across from the NYC Public Library. Wednesday was a free day although we had to fill out some electronic forms to get passes into NASDAQ for the next day.
 
 <div style="width: 200px;">
-<img src="https://heritage-happenings.github.io/Blog/2025/07/19/NASDAQ_Pass.jpg">
+<img src="https://heritage-happenings.github.io/Blog/2025/07/20/NASDAQ_Pass.jpg">
 </div>
 
 We had dinner with Val’s brother, Kal, and one of his sons; they came over from Long Island. Melissa made the reservations of course.
