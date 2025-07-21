@@ -239,7 +239,7 @@ body::-webkit-scrollbar-thumb,
   border: none;
 }
 
-/* Mobile & Small height screens */
+/* Mobile & Small height screens
 
 @media all and (max-width: 600px),
 all and (max-height: 500px) {
@@ -269,3 +269,5 @@ all and (max-height: 500px) {
     z-index: 1;
   }
 }
+
+*/
