@@ -194,16 +194,16 @@ function navigateToPath(path) {
   }
 }
 
-function handleMenuToggleForWindowSize() {
+// function handleMenuToggleForWindowSize() {
 
-  if (window.innerWidth < 600 || window.innerHeight < 500) {
+//   if (window.innerWidth < 600 || window.innerHeight < 500) {
 
-    detNavMenu.open = false;
+//     detNavMenu.open = false;
 
-  } else {
+//   } else {
 
-    detNavMenu.open = true;
+//     detNavMenu.open = true;
 
-  }
+//   }
 
-}
+// }
