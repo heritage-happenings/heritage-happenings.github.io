@@ -1,14 +1,10 @@
 # [Heritage Happenings]( https://heritage-happenings.github.io/ "Home page" )
 
-
 These web pages complement the _Heritage Happenings_ a monthly publication published by residents of the [Heritage on the Marina]( https://heritageonthemarina.org/ ) - a quite dazzling senior community in San Francisco, California.
 
-
-<img src=https://heritage-happenings.github.io/Photos/images/heritage-front.jpg width=100% >
+<img src=https://heritage-happenings.github.io/Photos/2021/heritage-front.jpg width=100% >
 
 Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the Heritage Happenings ads PDF files or glance at our menus.
-
-
 
 ***
 
