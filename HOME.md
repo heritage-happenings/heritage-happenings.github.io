@@ -4,6 +4,12 @@ These web pages complement the _Heritage Happenings_ a monthly publication publi
 
 <img src=https://heritage-happenings.github.io/Photos/2021/heritage-front.jpg width=100% >
 
+This website is under construction.
+
+In the meantime, and if you are on a tablet or mobile, please use this site.
+
+https://heritage-happenings.github.io/momo
+
 Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the Heritage Happenings ads PDF files or glance at our menus.
 
 ***
