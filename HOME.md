@@ -6,11 +6,11 @@ These web pages complement the _Heritage Happenings_ a monthly publication publi
 
 This website is under construction.
 
-In the meantime, and if you are on a tablet or mobile, please use this site.
+In the meantime, and especially if you are on a tablet or mobile device, please use this app.
 
-https://heritage-happenings.github.io/momo
+## [Heritage Happenings Tablet App](https://heritage-happenings.github.io/momo)
 
-Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the Heritage Happenings ads PDF files or glance at our menus.
+Use the menu on the left to browse the contents of this site. For example, you may view recent issues of the _Heritage Happenings_ as PDF files or glance at our menus.
 
 ***
 

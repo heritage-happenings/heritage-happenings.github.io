@@ -1,26 +1,13 @@
 # Blog Read Me
 
-Placeholder file
+# Blog
 
-## Cover Page
+This folder archives blog posts created over the past five years.
 
-### Prompt 1
+The current focus is on content from **July 2025**.
 
-Create image
+For an optimized viewing experience, especially on mobile and tablet devices, we recommend using our new web app for tablets and mobile devices:
 
-Title text: "Heritage Happenings"
-Title format: Two lines of one word each, left justified, near top middle
-Textbox 1: "July 2025"
-Textbox 2: "The newsletter published by residents of Heritage on the Marina in San Francisco"
-Textbox 3: "Country of the Month: France"
-Textbox 4: "Wellness topic: Financial Fitness"
-Textbox 5: "Celebrating Independence Day and Bastille Day"
+## [Heritage Happenings Tablet App](https://heritage-happenings.github.io/momo)
 
-Text boxes are scattered around
-
-On the left, US flag and depictions of American life,
-blending into the right: French flag and Depictions of French life
-
-Style: Norman Rockwell, Grant Wood
-
-Format: Letter size
+The app allows you to switch between desktop and mobile views. Your preference will be saved for your next visit.
