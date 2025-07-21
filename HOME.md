@@ -19,9 +19,9 @@ To do: make the size of the text adjustable. Establish high priority items neede
 
 ***
 
-[![Cottage Cropped](https://heritage-happenings.github.io/Photos/images/cottage-cropped.jpg)](https://heritage-happenings.github.io/#Photos/2020-heritage/2020-08-05-cottage-cropped.jpg)
-[![Marina Sunset](https://heritage-happenings.github.io/Photos/images/marina-sunset.jpg)](https://heritage-happenings.github.io/#Photos/2020-heritage/2020-09-16-marina-sunset.jpg)
-[![People](https://heritage-happenings.github.io/Photos/images/people.jpg)](https://heritage-happenings.github.io/#images/people.jpg)
+[![Cottage Cropped](https://heritage-happenings.github.io/Photos/2021/cottage-cropped.jpg)](https://heritage-happenings.github.io/#Photos/2020-heritage/2020-08-05-cottage-cropped.jpg)
+[![Marina Sunset](https://heritage-happenings.github.io/Photos/2021/marina-sunset.jpg)](https://heritage-happenings.github.io/#Photos/2020-heritage/2020-09-16-marina-sunset.jpg)
+[![People](https://heritage-happenings.github.io/Photos/2021/people.jpg)](https://heritage-happenings.github.io/#images/people.jpg)
 
 ### Opinion Disclaimer
 
