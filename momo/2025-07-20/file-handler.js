@@ -17,6 +17,8 @@ FL.init = async () => {
 		location.hash = FL.defaultFile;
 	}
 
+	if ( location.hash === "#Home") { location.hash = ""; }
+
 	FL.onHashChange();
 
 	window.addEventListener( "hashchange", FL.onHashChange, false );
