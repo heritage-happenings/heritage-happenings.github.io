@@ -30,4 +30,4 @@ Stephen looks forward to building on the strong foundation of those who came bef
 
 ***
 
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+<center title="Hello! Click me to go up to the top" ><a class=a-dingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

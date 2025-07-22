@@ -2,7 +2,7 @@
 
 ![2025-07-07-cover-image](https://heritage-happenings.github.io/Blog/2025/07/2025-07-07-cover-image.png)
 
-Welcome! This is the homepage for the July edition of Heritage Happenings. To return here at any time, just click the **"Heritage Happenings"** title at the top of the screen.
+Welcome! This is the homepage for the July edition of _Heritage Happenings_. To return here at any time, just click the **"_Heritage Happenings_"** title at the top of the screen.
 
 ## How to Use This Site
 
@@ -24,6 +24,6 @@ The views and opinions expressed in this publication are those of the authors an
 
 &copy; 2025 _Heritage Happenings_ authors. No rights reserved. Public Domain.
 
-_Revision: 2025-07-20_
+_Revision: 2025-07-21_
 
 <center title="Scroll to top"><a class="a-dingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
