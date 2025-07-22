@@ -2,15 +2,8 @@
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin\0-admin-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin-personal\0-admin-personal-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-health\0-health-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-simplicity\0-simplicity-agenda.md
-|# people
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-1-ace-it\0-ace-it-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-2-family\0-family-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-3-peeps-folders\0-peeps-agenda.md
-| # entities
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-4-entities\0-entities-agenda.md
-| projects
+|# projects
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-0-projects\0-projects-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-1-organizations-repos\0-organizations-repos.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-2-software\0-software-agenda.md

@@ -30,12 +30,12 @@ em {
 h1 {
 	color: #880000;
 	border-width: 0;
-	font-size: 200%;
+	font-size: 150%;
 	margin: 0 0 2rem 0;
 }
 
 h2 {
-	font-size: 100%;
+	font-size: 120%;
 }
 
 h3 {}
@@ -88,7 +88,7 @@ ul {
 	}
 
 	h2 {
-		font-size: 20%;
+		font-size: 120%;
 		margin: 0 0 0 0;
 	}
 

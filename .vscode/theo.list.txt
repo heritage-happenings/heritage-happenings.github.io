@@ -1,25 +1,12 @@
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-2-heritage-happenings\2025\07-july\07-july-hh-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin-personal\0-admin-personal-agenda.md
-|> People
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-1-ace-it\alix.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-1-ace-it\cynthia.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-1-ace-it\eloise.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-2-family\alix-paine.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\2-3-peeps-folders\phyllis-wedvick.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people-notable\agnes-callard\2025-agnes-callard-open-socrates.md
-|> Entities
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-4-entities\0-sacsem\0-wix-tips.md
 |> Apps
 c:\Users\tarmo\AppData\Roaming\Code\User\settings.json
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\apps\newww-tab\2024-01-05\new-tab-content.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\artificial-intelligence\0-ai-journal.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\prompts\0-theo-ai-tips.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\vscode\extensions\vscode-markdown-pdf.md
+|### Folders
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\07
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\months-of-the-year\2025\2025-07-july
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\vscode\extensions\vscode-markdown-pdf.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-schedule-daily.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-schedule-weekly.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-health\reference\2-pt-exercise-routines-daily.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\09-people-self\people-notable\agnes-callard\2025-agnes-callard-open-socrates-definitions.md
