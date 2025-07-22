@@ -1,5 +1,7 @@
 # New: Resident, Books and Password
 
+_2025-07-21_
+
 Happy Monday, Everyone
 
 ## New Resident: George Sawyer
