@@ -2,7 +2,7 @@
 
 On Wednesday, July 23 2035 at 3 pm in Friendship Hall, we will welcome Supervisor Stephen Sherrill to Heritage on the Marina. This is a great opportunity to meet the Supervisor and hear about his vision for San Francisco's District 2.
 
-![Headshot of Supervisor Stephen Sherrill](image/Welcome-Supervisor-Stephen-Sherrill/Stephen-Sherrill.png)
+![Headshot of Supervisor Stephen Sherrill](https://heritage-happenings.github.io/Blog/2025/07/22/image/Welcome-Supervisor-Stephen-Sherrill/Stephen-Sherrill.png)
 
 ## Biography
 
