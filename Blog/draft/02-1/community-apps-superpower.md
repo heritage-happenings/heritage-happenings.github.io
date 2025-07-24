@@ -16,11 +16,13 @@ There are many other interesting features available in the Community Apps. For e
 Here's another trick. The usual way to look at all the slides that are on the Corridor TV monitors is to click on "Announcements" on the home page. Loading all the announcements can take a number of seconds to complete. But when you click on "Feed" at the bottom of the page, just the pages for the current day load and and they load quite a bit faster.
 
 ## Getting Started
+
 On your computer, go to: https://www.residentapps.com
 
 On your phone app store, search for: Uniguest Community Apps
 
 ## Logging in
+
 Your user name is in this format:
 hotm:firstInitialLastname
 
