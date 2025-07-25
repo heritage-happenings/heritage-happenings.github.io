@@ -23,7 +23,17 @@ The _Heritage Happenings_ is built using two websites.
 * Add June to Posts under a details tag
 * Add automatic search for files
 * Button to have the article read out loud
-* Update pushstate so plain URL appears with no location hash
+* Update push-state so plain URL appears with no location hash
+
+### Read Aloud
+
+* 2025-07-24 ~ better start and stop indication
+* 2025-07-24 ~ choose the voice, use system voice
+* 2025-07-24 ~ Start Read Aloud from current Cursor position
+
+### Voice Commends
+
+* 2025-07-24 Add voice commanads
 
 
 ## Issues
