@@ -6,7 +6,6 @@ function onHashChange() {
   COR.hash = hash;
 
   divContent = COR.divContent;
-
   //console.log( "div", divContent );
 
   // Validate hash to prevent potential security issues
