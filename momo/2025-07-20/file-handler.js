@@ -25,11 +25,8 @@ FL.init = async () => {
 	window.addEventListener( "keydown", FL.onKeydown );
 	document.body.addEventListener( "click", FL.onClick );
 
-
 	if ( location.protocol === "https:" ) {
-
 		window.history.pushState( "", "", "../../" + location.hash );
-
 	}
 
 	const toggle = document.querySelector( ".file-list-toggle" );
