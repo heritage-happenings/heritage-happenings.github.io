@@ -25,6 +25,13 @@ FL.init = async () => {
 	window.addEventListener( "keydown", FL.onKeydown );
 	document.body.addEventListener( "click", FL.onClick );
 
+	const main = document.getElementById( "main" );
+	main.addEventListener( "touchstart", FL.handleTouchStart, { passive: true } );
+	main.addEventListener( "touchend", FL.handleTouchEnd, { passive: true } );
+	main.addEventListener( "mousedown", FL.handleMouseDown, { passive: true } );
+	main.addEventListener( "mouseup", FL.handleMouseUp, { passive: true } );
+	main.addEventListener( "mouseleave", FL.handleMouseLeave, { passive: true } );
+
 	if ( location.hash.slice( 1 ) === FL.defaultFile) { console.log( "bbb", 23 );location.hash = ""; }
 
 	if ( location.protocol === "https:" ) {
@@ -183,10 +190,73 @@ FL.updateActiveLink = () => {
 };
 
 
+FL.touchStartX = 0;
+FL.touchEndX = 0;
+FL.mouseStartX = 0;
+FL.isDragging = false;
+
+FL.handleTouchStart = ( e ) => {
+	FL.touchStartX = e.changedTouches[ 0 ].screenX;
+};
+
+FL.handleTouchEnd = ( e ) => {
+	FL.touchEndX = e.changedTouches[ 0 ].screenX;
+	FL.handleTouchSwipe();
+};
+
+FL.handleTouchSwipe = () => {
+	const deltaX = FL.touchEndX - FL.touchStartX;
+	if ( Math.abs( deltaX ) > 50 ) { // Swipe threshold
+		if ( deltaX > 0 ) {
+			// Swipe Right
+			FL.loadAdjacentFile( -1 );
+		} else {
+			// Swipe Left
+			FL.loadAdjacentFile( 1 );
+		}
+	}
+};
+
+FL.handleMouseDown = ( e ) => {
+	FL.isDragging = true;
+	FL.mouseStartX = e.screenX;
+	// Prevent text selection while dragging
+	e.preventDefault();
+};
+
+FL.handleMouseUp = ( e ) => {
+	if ( !FL.isDragging ) return;
+	FL.isDragging = false;
+	const mouseEndX = e.screenX;
+	FL.handleMouseSwipe( mouseEndX );
+};
+
+FL.handleMouseLeave = ( e ) => {
+	if ( FL.isDragging ) {
+		FL.handleMouseUp( e );
+	}
+};
+
+FL.handleMouseSwipe = ( mouseEndX ) => {
+	const deltaX = mouseEndX - FL.mouseStartX;
+	if ( Math.abs( deltaX ) > 50 ) { // Swipe threshold
+		if ( deltaX > 0 ) {
+			// Swipe Right
+			FL.loadAdjacentFile( -1 );
+		} else {
+			// Swipe Left
+			FL.loadAdjacentFile( 1 );
+		}
+	}
+};
+
 
 FL.loadAdjacentFile = ( direction ) => {
 
-	const currentHash = location.hash.slice( 1 );
+	let currentHash = location.hash.slice( 1 );
+	if ( currentHash === "" ) {
+		currentHash = FL.defaultFile;
+	}
 	const currentIndex = FL.files.findIndex( file => file.path === currentHash );
 
 	if ( currentIndex !== -1 ) {
@@ -202,7 +272,6 @@ FL.loadAdjacentFile = ( direction ) => {
 		location.hash = newPath;
 	}
 };
-
 
 
 window.addEventListener( "load", FL.init );

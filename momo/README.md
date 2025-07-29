@@ -19,12 +19,12 @@ The _Heritage Happenings_ is built using two websites.
 
 ## Road Map
 
+* 2025-07-28 ~ Add page use tracking
 * Add June to Posts under a details tag
 * Add automatic search for files
 * Update push-state so plain URL appears with no location hash
 
 ### Read Aloud
-
 
 * 2025-07-24 ~ choose the voice, use system voice
 * 2025-07-24 ~ Start Read Aloud from current Cursor position
@@ -60,6 +60,10 @@ The _Heritage Happenings_ is built using two websites.
 ### Readability
 
 * Header font sizes have been reduced slightly to make a more consistent text size in each post.
+
+### URL handling
+
+* Homepage now displays with clean URL
 
 ### Done
 
