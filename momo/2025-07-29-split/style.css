@@ -1,0 +1,252 @@
+/* Copyright 2025 Theo Armour. MIT License */
+
+:root {
+	font-size: 200%;
+	--color: #880000;
+	--color-light: crimson;
+	--controls-height: 50px;
+}
+
+* {
+	box-sizing: border-box;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	scroll-behavior: smooth;
+}
+
+body {
+	max-width: 30rem;
+}
+
+a {
+	color: var(--color);
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: var(--color-light);
+	text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+	color: var(--color);
+}
+
+h1 {
+	font-size: 1.8em;
+}
+
+h2 {
+
+	font-size: 1.3em;
+
+}
+
+h1,
+h2 {
+	margin: 0.5rem 0 0 0;
+}
+
+h3 {
+	margin: 0.5rem 0 0 0;
+}
+
+h4 {
+	margin: 0;
+}
+
+img {
+	width: 100%;
+	max-width: 500px;
+}
+
+main {
+	margin-top: calc(var(--controls-height, 50px) + 10px);
+}
+
+/* Header and Controls */
+.app-header {
+	align-items: center;
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+	display: flex;
+	gap: 10px;
+	justify-content: space-between;
+	left: 0px;
+	padding: 5px 10px;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index: 1001;
+}
+
+.app-header__title {
+	font-weight: bold;
+	margin-right: auto;
+	text-decoration: none;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.app-header__actions {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	flex-shrink: 0;
+}
+
+.app-header__button {
+	background: #007acc;
+	color: white;
+	border: none;
+	padding: 8px 12px;
+	border-radius: 3px;
+	cursor: pointer;
+	font-family: monospace;
+	font-size: 1.5rem;
+	transition: background-color 0.2s;
+}
+
+.app-header__button:hover {
+	background: #005a9e;
+}
+
+.app-header__button:focus {
+	outline: 2px solid #ffd700;
+	outline-offset: 2px;
+}
+
+.app-header__button:active {
+	background: #004080;
+}
+
+#read-aloud-button {
+	font-size: 1.3rem;
+}
+
+.font-controls {
+	display: flex;
+	gap: 5px;
+}
+
+/* File list toggle */
+.file-list-toggle {
+	background: #28a745;
+}
+
+.file-list-toggle:hover {
+	background: #218838;
+}
+
+.file-list-toggle:active {
+	background: #1e7e34;
+}
+
+/* File list panel */
+.file-list-panel {
+	position: fixed;
+	top: calc(10px + var(--controls-height, 50px) + 10px);
+	left: 10px;
+	max-width: 60vw;
+	max-height: 80vh;
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+	z-index: 999;
+	overflow-y: auto;
+	display: none;
+}
+
+.file-list-panel.visible {
+	display: block;
+}
+
+.file-list-header {
+	padding: 10px;
+	background: #f8f9fa;
+	border-bottom: 1px solid #dee2e6;
+	font-weight: bold;
+	border-radius: 5px 5px 0 0;
+}
+
+.file-list {
+	font-weight: 600;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.file-list__item {
+	border-bottom: 1px solid #eee;
+}
+
+.file-list__link {
+	display: block;
+	padding: 8px 12px;
+	text-decoration: none;
+	color: #000055;
+	transition: background-color 0.2s;
+}
+
+.file-list__link:hover {
+	background: #f8f9fa;
+	color: #005a9e;
+}
+
+.file-list__link:focus {
+	outline: 2px solid #ffd700;
+	outline-offset: -2px;
+	background: #e3f2fd;
+}
+
+.file-list__link--active {
+	background-color: var(--color); /* Use the main theme color */
+	color: white; /* Ensure text is readable */
+	font-weight: bold;
+}
+
+.app-header__current-file {
+	font-weight: bold;
+	text-align: center;
+	flex-grow: 1;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding: 0 1rem;
+}
+
+/* read me footer */
+.a-dingbat {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.dingbat-container {
+	text-align: center;
+}
+
+#main {
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+	.font-controls {
+		flex-wrap: wrap;
+		gap: 5px;
+		max-width: calc(100vw - 20px);
+	}
+
+	.file-list-panel {
+		width: calc(100vw - 20px);
+		max-width: 70vw;
+		top: calc(10px + var(--controls-height, 70px) + 10px);
+	}
+}
+}

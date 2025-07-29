@@ -47,7 +47,7 @@ FL.init = async () => {
 	document.querySelector(".a-dingbat").addEventListener("click", (e) => {
 		e.preventDefault();
 		document.getElementById('file-list-header').scrollIntoView();
-	})
+	} )
 
 };
 
@@ -133,10 +133,7 @@ FL.onHashChange = async () => {
 		FL.updateActiveLink(); // Highlight the new active link
 
 		const newUrl = hash === FL.defaultFile ? location.pathname : `#${hash}`;
-
-		if (location.protocol === "https:") {
-			window.history.pushState("", "", "../../" + newUrl);
-		}
+		window.history.pushState("", "../../", newUrl);
 
 	} catch (error) {
 		console.error("Fetch error:", error);
