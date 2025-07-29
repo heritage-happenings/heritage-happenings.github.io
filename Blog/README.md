@@ -1,6 +1,6 @@
 # Blog Read Me
 
-# Blog
+## Blog
 
 This folder archives blog posts created over the past five years.
 
