@@ -137,7 +137,7 @@ FL.onHashChange = async () => {
 		if (location.protocol === "https:") {
 			const newUrl = hash === FL.defaultFile ? "" : `#${hash}`;
 			const baseUrl = location.href.split('/momo/')[0];
-			window.history.replaceState("", "", `${baseUrl}/momo/2025-07-28/${newUrl}`);
+			window.history.replaceState("", "", `${baseUrl}/${newUrl}`);
 		}
 
 	} catch (error) {
