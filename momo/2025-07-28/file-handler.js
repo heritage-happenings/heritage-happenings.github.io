@@ -13,12 +13,6 @@ FL.init = async () => {
 
 	await FL.populateFileList();
 
-	if ( !location.hash ) {
-		location.hash = FL.defaultFile;
-	}
-
-	if ( location.hash === "#Home") { location.hash = ""; }
-
 	FL.onHashChange();
 
 	window.addEventListener( "hashchange", FL.onHashChange, false );
@@ -28,23 +22,14 @@ FL.init = async () => {
 	const main = document.getElementById( "main" );
 	main.addEventListener( "touchstart", FL.handleTouchStart, { passive: true } );
 	main.addEventListener( "touchend", FL.handleTouchEnd, { passive: true } );
-	main.addEventListener( "mousedown", FL.handleMouseDown, { passive: true } );
+	main.addEventListener( "mousedown", FL.handleMouseDown );
 	main.addEventListener( "mouseup", FL.handleMouseUp, { passive: true } );
 	main.addEventListener( "mouseleave", FL.handleMouseLeave, { passive: true } );
-
-	if ( location.hash.slice( 1 ) === FL.defaultFile) { console.log( "bbb", 23 );location.hash = ""; }
-
-	if ( location.protocol === "https:" ) {
-
-		window.history.pushState( "", "", "../../" + location.hash );
-
-	}
 
 	const toggle = document.querySelector( ".file-list-toggle" );
 	toggle.addEventListener( "click", FL.toggleFileList );
 
 };
-
 
 
 FL.populateFileList = async () => {
@@ -108,9 +93,8 @@ FL.toggleFileList = () => {
 
 FL.onHashChange = async () => {
 
-	if ( !location.hash.includes( "." ) ) { return; }
-
-	const url = "../../Blog/" + location.hash.slice( 1 );
+	const hash = location.hash ? location.hash.slice( 1 ) : FL.defaultFile;
+	const url = `../../Blog/${ hash }`;
 
 	const txt = url.split( "/" ).pop();
 	const title = txt
@@ -147,6 +131,13 @@ FL.onHashChange = async () => {
 		document.getElementById( 'main' ).innerHTML = converter.makeHtml( txt );
 		window.scrollTo( 0, 0 );
 		FL.updateActiveLink(); // Highlight the new active link
+
+		if ( location.protocol === "https:" ) {
+			const newUrl = hash === FL.defaultFile ? "" : `#${ hash }`;
+			const baseUrl = location.href.split( '/momo/' )[ 0 ];
+			window.history.replaceState( "", "", `${ baseUrl }/momo/2025-07-28/${ newUrl }` );
+		}
+
 	} catch ( error ) {
 		console.error( "Fetch error:", error );
 		document.getElementById( 'main' ).innerHTML = `<p>Sorry, the content could not be loaded. Please try another link.</p>`;
