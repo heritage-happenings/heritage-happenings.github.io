@@ -131,7 +131,7 @@ FL.onHashChange = async () => {
 		document.getElementById('main').innerHTML = converter.makeHtml(txt);
 		window.scrollTo(0, 0);
 		FL.updateActiveLink(); // Highlight the new active link
-
+console.log( "",  );
 		const newUrl = hash === FL.defaultFile ? location.pathname : `#${hash}`;
 		if (location.protocol === "https:") {
 			window.history.pushState("", "", url);
