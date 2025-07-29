@@ -27,61 +27,63 @@ TTS.init = () => {
 };
 
 TTS.handleContentChange = () => {
-	if ( TTS.isSpeaking ) {
-		TTS.restartSpeech();
+	if (TTS.isSpeaking) {
+		TTS.speechSynthesis.cancel();
+		// A brief delay to allow the previous utterance to fully cancel
+		setTimeout(() => TTS.speak(document.getElementById('main').innerText), 50);
 	}
 };
 
 
+TTS.speak = (text) => {
+	if (text.trim() === '') return;
+
+	const utterance = new SpeechSynthesisUtterance(text);
+	const readAloudButton = document.getElementById('read-aloud-button');
+
+	utterance.onstart = () => {
+		TTS.isSpeaking = true;
+		readAloudButton.textContent = '🔇';
+	};
+
+	utterance.onend = () => {
+		const wasSpeaking = TTS.isSpeaking;
+		TTS.isSpeaking = false;
+		readAloudButton.textContent = '🔊';
+		if (wasSpeaking && document.getElementById('main').innerText !== utterance.text) {
+			// If speech was cancelled to restart, speak new content
+			setTimeout(() => TTS.speak(document.getElementById('main').innerText), 50);
+		}
+	};
+
+	TTS.speechSynthesis.speak(utterance);
+};
+
+
 TTS.restartSpeech = () => {
-	TTS.speechSynthesis.cancel(); // Will trigger onend, which sets isSpeaking to false.
-	const mainContent = document.getElementById( 'main' );
-	if ( mainContent ) {
-		const textToSpeak = mainContent.innerText;
-		if ( textToSpeak.trim() === '' ) return;
-
-		const utterance = new SpeechSynthesisUtterance( textToSpeak );
-		const readAloudButton = document.getElementById( 'read-aloud-button' );
-
-		utterance.onstart = () => {
-			TTS.isSpeaking = true;
-			readAloudButton.textContent = '🔇';
-		};
-
-		utterance.onend = () => {
-			TTS.isSpeaking = false;
-			readAloudButton.textContent = '🔊';
-		};
-
-		TTS.speechSynthesis.speak( utterance );
+	if (TTS.isSpeaking) {
+		TTS.speechSynthesis.cancel();
+	} else {
+		// If not speaking, just speak the new content
+		const mainContent = document.getElementById('main');
+		if (mainContent) {
+			TTS.speak(mainContent.innerText);
+		}
 	}
 };
 
 
 TTS.toggleSpeech = () => {
-	const readAloudButton = document.getElementById( 'read-aloud-button' );
+	const readAloudButton = document.getElementById('read-aloud-button');
 
-	if ( TTS.isSpeaking ) {
+	if (TTS.isSpeaking) {
 		TTS.speechSynthesis.cancel();
 		TTS.isSpeaking = false;
 		readAloudButton.textContent = '🔊';
 	} else {
-		const mainContent = document.getElementById( 'main' );
-		if ( mainContent ) {
-			const textToSpeak = mainContent.innerText;
-			const utterance = new SpeechSynthesisUtterance( textToSpeak );
-
-			utterance.onstart = () => {
-				TTS.isSpeaking = true;
-				readAloudButton.textContent = '🔇';
-			};
-
-			utterance.onend = () => {
-				TTS.isSpeaking = false;
-				readAloudButton.textContent = '🔊';
-			};
-
-			TTS.speechSynthesis.speak( utterance );
+		const mainContent = document.getElementById('main');
+		if (mainContent) {
+			TTS.speak(mainContent.innerText);
 		}
 	}
 };
