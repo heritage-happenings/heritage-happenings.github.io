@@ -134,11 +134,8 @@ FL.onHashChange = async () => {
 		window.scrollTo(0, 0);
 		FL.updateActiveLink(); // Highlight the new active link
 
-		if (location.protocol === "https:") {
-			const newUrl = hash === FL.defaultFile ? "" : `#${hash}`;
-			const baseUrl = location.href.split('/momo/')[0];
-			window.history.replaceState("", "", `${baseUrl}/${newUrl}`);
-		}
+		const newUrl = hash === FL.defaultFile ? location.pathname : `#${hash}`;
+		window.history.replaceState("", "", newUrl);
 
 	} catch (error) {
 		console.error("Fetch error:", error);
@@ -194,18 +191,16 @@ FL.handleTouchStart = (e) => {
 
 FL.handleTouchEnd = (e) => {
 	FL.touchEndX = e.changedTouches[0].screenX;
-	FL.handleSwipe();
+	FL.handleTouchSwipe();
 };
 
-FL.handleSwipe = () => {
+FL.handleTouchSwipe = () => {
 	const deltaX = FL.touchEndX - FL.touchStartX;
 	if (Math.abs(deltaX) > 50) { // Swipe threshold
 		if (deltaX > 0) {
-			// Swipe Right
-			FL.loadAdjacentFile(-1);
+			FL.loadAdjacentFile(-1); // Swipe Right
 		} else {
-			// Swipe Left
-			FL.loadAdjacentFile(1);
+			FL.loadAdjacentFile(1); // Swipe Left
 		}
 	}
 };
@@ -213,21 +208,30 @@ FL.handleSwipe = () => {
 FL.handleMouseDown = (e) => {
 	FL.isDragging = true;
 	FL.mouseStartX = e.screenX;
-	// Prevent text selection while dragging
 	e.preventDefault();
 };
 
 FL.handleMouseUp = (e) => {
 	if (!FL.isDragging) return;
 	FL.isDragging = false;
-	FL.touchEndX = e.screenX;
-	FL.touchStartX = FL.mouseStartX;
-	FL.handleSwipe();
+	const mouseEndX = e.screenX;
+	FL.handleMouseSwipe(mouseEndX);
 };
 
 FL.handleMouseLeave = (e) => {
 	if (FL.isDragging) {
 		FL.handleMouseUp(e);
+	}
+};
+
+FL.handleMouseSwipe = (mouseEndX) => {
+	const deltaX = mouseEndX - FL.mouseStartX;
+	if (Math.abs(deltaX) > 50) { // Swipe threshold
+		if (deltaX > 0) {
+			FL.loadAdjacentFile(-1); // Swipe Right
+		} else {
+			FL.loadAdjacentFile(1); // Swipe Left
+		}
 	}
 };
 
