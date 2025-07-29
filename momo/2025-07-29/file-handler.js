@@ -135,7 +135,7 @@ FL.onHashChange = async () => {
 		FL.updateActiveLink(); // Highlight the new active link
 
 		const newUrl = hash === FL.defaultFile ? location.pathname : `#${hash}`;
-		window.history.replaceState("", "../../", newUrl);
+		window.history.pushState("", "../../", newUrl);
 
 	} catch (error) {
 		console.error("Fetch error:", error);
