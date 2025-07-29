@@ -19,26 +19,21 @@ The _Heritage Happenings_ is built using two websites.
 
 ## Road Map
 
-* Swipe to go to next and previous article
 * Add June to Posts under a details tag
 * Add automatic search for files
-* Button to have the article read out loud
 * Update push-state so plain URL appears with no location hash
 
 ### Read Aloud
 
-* 2025-07-24 ~ better start and stop indication
+
 * 2025-07-24 ~ choose the voice, use system voice
 * 2025-07-24 ~ Start Read Aloud from current Cursor position
 
 ### Voice Commends
 
-* 2025-07-24 Add voice commanads
-
+* 2025-07-24 Add voice commands
 
 ## Issues
-
-* Class names need updating
 
 ## Change Log
 
@@ -66,7 +61,12 @@ The _Heritage Happenings_ is built using two websites.
 
 * Header font sizes have been reduced slightly to make a more consistent text size in each post.
 
+### Done
 
+* 2025-07-24 ~ better start and stop indication
+* Swipe to go to next and previous article
+* Button to have the article read out loud
+* Class names need updating
 
 ## 2025-07-19
 

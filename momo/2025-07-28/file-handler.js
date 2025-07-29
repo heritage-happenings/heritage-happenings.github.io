@@ -25,6 +25,7 @@ FL.init = async () => {
 	window.addEventListener( "keydown", FL.onKeydown );
 	document.body.addEventListener( "click", FL.onClick );
 
+	if ( location.hash.slice( 1 ) === FL.defaultFile) { console.log( "bbb", 23 );location.hash = ""; }
 
 	if ( location.protocol === "https:" ) {
 
