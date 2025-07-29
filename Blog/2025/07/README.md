@@ -24,6 +24,6 @@ The views and opinions expressed in this publication are those of the authors an
 
 &copy; 2025 _Heritage Happenings_ authors. No rights reserved. Public Domain.
 
-_Revision: 2025-07-21_
+_Revision: 2025-07-28_
 
 <center title="Scroll to top"><a class="a-dingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
