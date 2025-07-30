@@ -1,91 +1,70 @@
 // Copyright 2025 Theo Armour. MIT License
 
-const TTS = {};
-window.TTS = TTS; // Make TTS globally accessible
-
-TTS.isSpeaking = false;
-
-TTS.init = () => {
-	const readAloudButton = document.getElementById( 'read-aloud-button' );
-	if ( !readAloudButton ) {
-		return;
-	}
-
-	if ( 'speechSynthesis' in window ) {
-		TTS.speechSynthesis = window.speechSynthesis;
-		readAloudButton.addEventListener( 'click', TTS.toggleSpeech );
-
-		const mainContent = document.getElementById( 'main' );
-		if ( mainContent ) {
-			const observer = new MutationObserver( TTS.handleContentChange );
-			observer.observe( mainContent, { childList: true, subtree: true } );
-		}
-
-	} else {
-		readAloudButton.style.display = 'none';
-	}
+const TTS = {
+    isSpeaking: false,
+    speechSynthesis: null,
+    observer: null
 };
 
-TTS.handleContentChange = () => {
-	if (TTS.isSpeaking) {
-		TTS.speechSynthesis.cancel();
-		// A brief delay to allow the previous utterance to fully cancel
-		setTimeout(() => TTS.speak(document.getElementById('main').innerText), 50);
-	}
+
+TTS.init = () => {
+    const button = document.getElementById('read-aloud-button');
+    if (!button || !('speechSynthesis' in window)) {
+        button?.style.setProperty('display', 'none');
+        return;
+    }
+
+    TTS.speechSynthesis = window.speechSynthesis;
+    button.addEventListener('click', TTS.toggle);
+
+    const main = document.getElementById('main');
+    if (main) {
+        TTS.observer = new MutationObserver(() => {
+            if (TTS.isSpeaking) {
+                TTS.cancel();
+                setTimeout(() => TTS.speak(main.innerText), 50);
+            }
+        });
+        TTS.observer.observe(main, { childList: true, subtree: true });
+    }
 };
 
 
 TTS.speak = (text) => {
-	if (text.trim() === '') return;
+    if (!text?.trim()) return;
 
-	const utterance = new SpeechSynthesisUtterance(text);
-	const readAloudButton = document.getElementById('read-aloud-button');
+    const utterance = new SpeechSynthesisUtterance(text);
+    const button = document.getElementById('read-aloud-button');
 
-	utterance.onstart = () => {
-		TTS.isSpeaking = true;
-		readAloudButton.textContent = '🔇';
-	};
+    utterance.onstart = () => TTS.updateState(true, button);
+    utterance.onend = () => TTS.updateState(false, button);
+    utterance.onerror = () => TTS.updateState(false, button);
 
-	utterance.onend = () => {
-		const wasSpeaking = TTS.isSpeaking;
-		TTS.isSpeaking = false;
-		readAloudButton.textContent = '🔊';
-		if (wasSpeaking && document.getElementById('main').innerText !== utterance.text) {
-			// If speech was cancelled to restart, speak new content
-			setTimeout(() => TTS.speak(document.getElementById('main').innerText), 50);
-		}
-	};
-
-	TTS.speechSynthesis.speak(utterance);
+    TTS.speechSynthesis.speak(utterance);
 };
 
 
-TTS.restartSpeech = () => {
-	if (TTS.isSpeaking) {
-		TTS.speechSynthesis.cancel();
-	} else {
-		// If not speaking, just speak the new content
-		const mainContent = document.getElementById('main');
-		if (mainContent) {
-			TTS.speak(mainContent.innerText);
-		}
-	}
+TTS.updateState = (speaking, button) => {
+    TTS.isSpeaking = speaking;
+    if (button) {
+        button.textContent = speaking ? '🔇' : '🔊';
+   }
 };
 
 
-TTS.toggleSpeech = () => {
-	const readAloudButton = document.getElementById('read-aloud-button');
-
-	if (TTS.isSpeaking) {
-		TTS.speechSynthesis.cancel();
-		TTS.isSpeaking = false;
-		readAloudButton.textContent = '🔊';
-	} else {
-		const mainContent = document.getElementById('main');
-		if (mainContent) {
-			TTS.speak(mainContent.innerText);
-		}
-	}
+TTS.cancel = () => {
+    TTS.speechSynthesis?.cancel();
+    TTS.updateState(false, document.getElementById('read-aloud-button'));
 };
 
-window.addEventListener( 'load', TTS.init );
+
+TTS.toggle = () => {
+    if (TTS.isSpeaking) {
+        TTS.cancel();
+    } else {
+        const main = document.getElementById('main');
+        if (main) TTS.speak(main.innerText);
+    }
+};
+
+window.addEventListener('load', TTS.init);

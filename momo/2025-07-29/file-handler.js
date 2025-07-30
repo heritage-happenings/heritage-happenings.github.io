@@ -1,122 +1,121 @@
 // Copyright 2025 Theo Armour. MIT License
 
-const FL = {};
-window.FL = FL; // Make FL globally accessible
+const FH = {};
+window.FH = FH; // Make FH globally accessible
 
-FL.files = [];
-FL.defaultFile = "2025/07/README.md";
-FL.showdownOptions = {
-	backslashEscapesHTMLTags: true,
-	completeHTMLDocument: false,
-	disableForced4SpacesIndentedSublists: true,
-	emoji: true,
-	excludeTrailingPunctuationFromURLs: true,
-	ghMention: true,
-	noHeaderId: true,
-	openLinksInNewWindow: false,
-	simplifiedAutoLink: true,
-	simpleLineBreaks: true,
-	smoothLivePreview: true,
-	strikethrough: true,
-	tasklists: true,
-};
+FH.defaultFile = "2025/07/README.md";
 
 
-FL.init = async () => {
+FH.init = () => {
 
-	showdown.setFlavor("github");
-
-	const response = await fetch("./posts.json");
-	FL.files = await response.json();
-
-	FLT.init(FL.files);
+	showdown.setFlavor( "github" );
 
 	if ( !location.hash ) {
-		location.hash = FL.defaultFile;
+		location.hash = FH.defaultFile;
 	}
 
-	if ( location.hash === "#Home") { location.hash = ""; }
+	if ( location.hash === "#Home") { location.hash = ""; } // load TooToo
 
-	FL.onHashChange();
+	FH.onHashChange();
 
-	window.addEventListener("hashchange", FL.onHashChange, false);
+	window.addEventListener( "hashchange", FH.onHashChange, false );
+
+	if ( location.hash.slice(1) === FH.defaultFile ) {
+		location.hash = "";
+	} else {
+		location.hash = FH.defaultFile;
+	}
 
 	if ( location.protocol === "https:" ) {
 		window.history.pushState( "", "", "../../" + location.hash );
 	}
 
-	const main = document.getElementById("main");
-	SWIPE.init(main);
-	main.addEventListener('swipe-left', () => FL.loadAdjacentFile(1));
-	main.addEventListener('swipe-right', () => FL.loadAdjacentFile(-1));
-
 };
 
 
-FL.onHashChange = async () => {
-
-	//const hash = location.hash ? location.hash.slice(1) : FL.defaultFile;
-	//const url = `../../Blog/${hash}`;
+FH.onHashChange = async () => {
 
 	if ( !location.hash.includes( "." ) ) { return; }
 
-	const url = "../../Blog/" + location.hash.slice( 1 );
+	const hash = location.hash.slice( 1 );
+	const url = "../../Blog/" + hash;
 
-	const fileName = url.split("/").pop();
-	const title = fileName
-		.replace(/\.md$/i, '')
-		.split("-")
-		.filter(x => x.length > 0)
-		.map((x) => (x.charAt(0).toUpperCase() + x.slice(1)))
-		.join(" ");
+	const txt = hash.split( "/" ).pop();
+	const title = txt
+		.replace( /\.md$/i, '' )
+		.split( "-" )
+		.filter( x => x.length > 0 )
+		.map( ( x ) => ( x.charAt( 0 ).toUpperCase() + x.slice( 1 ) ) )
+		.join( " " );
 	document.title = "HH: " + title;
 
+	const options = {
+		backslashEscapesHTMLTags: true,
+		completeHTMLDocument: false,
+		disableForced4SpacesIndentedSublists: true,
+		emoji: true,
+		excludeTrailingPunctuationFromURLs: true,
+		ghMention: true,
+		noHeaderId: true,
+		openLinksInNewWindow: false,
+		simplifiedAutoLink: true,
+		simpleLineBreaks: true,
+		smoothLivePreview: true,
+		strikethrough: true,
+		tasklists: true,
+	};
 
 	try {
-		const response = await fetch(url);
-		if (!response.ok) {
-			throw new Error(`HTTP error! status: ${response.status}`);
+		const response = await fetch( url );
+		if ( !response.ok ) {
+			throw new Error( `HTTP error! status: ${ response.status }` );
 		}
 		const txt = await response.text();
-		const converter = new showdown.Converter(FL.showdownOptions);
-		document.getElementById('main').innerHTML = converter.makeHtml(txt);
-		window.scrollTo(0, 0);
-		FLT.updateActiveLink(); // Highlight the new active link
-
-		// const newUrl = hash === FL.defaultFile ? location.pathname : `#${hash}`;
-
-		// if (location.protocol === "https:") {
-		// 	window.history.pushState("", "", "../../" + newUrl);
-		// }
-
-	} catch (error) {
-	console.error("Fetch error:", error);
-	document.getElementById('main').innerHTML = `<p>Sorry, the content could not be loaded. Please try another link.</p>`;
-}
+		const converter = new showdown.Converter( options );
+		document.getElementById( 'main' ).innerHTML = converter.makeHtml( txt );
+		window.scrollTo( 0, 0 );
+		FH.updateActiveLink(); // Highlight the new active link
+	} catch ( error ) {
+		console.error( "Fetch error:", error );
+		document.getElementById( 'main' ).innerHTML = `<p>Sorry, the content could not be loaded. Please try another link.</p>`;
+	}
 
 };
 
-FL.loadAdjacentFile = (direction) => {
 
-	let currentHash = location.hash.slice(1);
-	if (currentHash === "") {
-		currentHash = FL.defaultFile;
+FH.updateActiveLink = () => {
+	// Remove active state from the previous link
+	const currentActive = document.querySelector( '.file-list__link--active' );
+	if ( currentActive ) {
+		currentActive.classList.remove( 'file-list__link--active' );
 	}
-	const currentIndex = FL.files.findIndex(file => file.path === currentHash);
 
-	if (currentIndex !== -1) {
+	// Add active state to the current link
+	const newActive = document.querySelector( `.file-list__link[href="${ location.hash }"]` );
+	if ( newActive ) {
+		newActive.classList.add( 'file-list__link--active' );
+	}
+};
+
+
+FH.loadAdjacentFile = ( direction ) => {
+
+	const currentHash = location.hash.slice( 1 );
+	const currentIndex = FH.files.findIndex( file => file.path === currentHash );
+
+	if ( currentIndex !== -1 ) {
 		let newIndex = currentIndex + direction;
 
-		if (newIndex < 0) {
-			newIndex = FL.files.length - 1;
-		} else if (newIndex >= FL.files.length) {
+		if ( newIndex < 0 ) {
+			newIndex = FH.files.length - 1;
+		} else if ( newIndex >= FH.files.length ) {
 			newIndex = 0;
 		}
 
-		const newPath = FL.files[newIndex].path;
+		const newPath = FH.files[ newIndex ].path;
 		location.hash = newPath;
 	}
 };
 
 
-window.addEventListener("load", FL.init);
+window.addEventListener( "load", FH.init );

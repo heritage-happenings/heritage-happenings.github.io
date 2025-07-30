@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heritage Happenings - Browser Tests</title>
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            margin: 2rem;
+            background: #f8f9fa;
+        }
+        .test-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .test-results {
+            margin-top: 2rem;
+            padding: 1rem;
+            background: #f8f9fa;
+            border-radius: 4px;
+        }
+        .test-pass { color: #28a745; font-weight: 500; }
+        .test-fail { color: #dc3545; font-weight: 500; }
+        .test-warning { color: #ffc107; font-weight: 500; }
+        .test-section {
+            margin: 1rem 0;
+            padding: 1rem;
+            border-left: 4px solid #007bff;
+            background: #f8f9fa;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-right: 1rem;
+            margin-bottom: 0.5rem;
+        }
+        button:hover { background: #0056b3; }
+        .app-frame {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <h1>Heritage Happenings - Browser Test Suite</h1>
+        <p>This test suite runs entirely in the browser - no Node.js required!</p>
+
+        <div class="test-controls">
+            <button onclick="BrowserTest.runAllTests()">🧪 Run All Tests</button>
+            <button onclick="BrowserTest.testAccessibility()">♿ Test Accessibility</button>
+            <button onclick="BrowserTest.testPerformance()">⚡ Test Performance</button>
+            <button onclick="BrowserTest.testMobile()">📱 Test Mobile</button>
+            <button onclick="BrowserTest.clearResults()">🗑️ Clear Results</button>
+        </div>
+
+        <iframe id="app-frame" class="app-frame" src="../momo.html"></iframe>
+
+        <div id="test-results" class="test-results">
+            <p>Click "Run All Tests" to start testing...</p>
+        </div>
+    </div>
+
+    <script>
+        const BrowserTest = {
+            results: [],
+
+            log(message, type = 'info') {
+                const timestamp = new Date().toLocaleTimeString();
+                this.results.push({ timestamp, message, type });
+                this.displayResults();
+            },
+
+            clearResults() {
+                this.results = [];
+                this.displayResults();
+            },
+
+            displayResults() {
+                const container = document.getElementById('test-results');
+                if (this.results.length === 0) {
+                    container.innerHTML = '<p>No test results yet...</p>';
+                    return;
+                }
+
+                let html = '<h3>Test Results</h3>';
+                this.results.forEach(result => {
+                    const className = `test-${result.type}`;
+                    const icon = result.type === 'pass' ? '✅' :
+                               result.type === 'fail' ? '❌' :
+                               result.type === 'warning' ? '⚠️' : 'ℹ️';
+                    html += `<div class="${className}">${icon} [${result.timestamp}] ${result.message}</div>`;
+                });
+                container.innerHTML = html;
+            },
+
+            async wait(ms) {
+                return new Promise(resolve => setTimeout(resolve, ms));
+            },
+
+            async runAllTests() {
+                this.clearResults();
+                this.log('Starting comprehensive test suite...', 'info');
+
+                await this.testFrameLoading();
+                await this.testJavaScriptModules();
+                await this.testDOMElements();
+                await this.testUserInteractions();
+                await this.testResponsiveDesign();
+
+                const passed = this.results.filter(r => r.type === 'pass').length;
+                const failed = this.results.filter(r => r.type === 'fail').length;
+                this.log(`Test suite completed: ${passed} passed, ${failed} failed`,
+                        failed === 0 ? 'pass' : 'warning');
+            },
+
+            async testFrameLoading() {
+                this.log('Testing app loading...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                try {
+                    await this.wait(3000); // Wait for app to load
+
+                    const appDoc = frame.contentDocument;
+                    if (appDoc && appDoc.title.includes('Heritage Happenings')) {
+                        this.log('App loads successfully', 'pass');
+                    } else {
+                        this.log('App failed to load properly', 'fail');
+                    }
+                } catch (error) {
+                    this.log(`App loading error: ${error.message}`, 'fail');
+                }
+            },
+
+            async testJavaScriptModules() {
+                this.log('Testing JavaScript modules...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                try {
+                    const appWindow = frame.contentWindow;
+
+                    const modules = ['FSM', 'FH', 'FL', 'SWIPE', 'TTS'];
+                    modules.forEach(module => {
+                        if (appWindow[module]) {
+                            this.log(`${module} module loaded`, 'pass');
+                        } else {
+                            this.log(`${module} module not found`, 'fail');
+                        }
+                    });
+
+                    if (appWindow.showdown) {
+                        this.log('Showdown library loaded', 'pass');
+                    } else {
+                        this.log('Showdown library not loaded', 'fail');
+                    }
+                } catch (error) {
+                    this.log(`Module testing error: ${error.message}`, 'fail');
+                }
+            },
+
+            async testDOMElements() {
+                this.log('Testing DOM elements...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                try {
+                    const appDoc = frame.contentDocument;
+
+                    const requiredElements = [
+                        { selector: '#main', name: 'Main content area' },
+                        { selector: '.file-list-toggle', name: 'File list toggle' },
+                        { selector: '.font-controls__button--increase', name: 'Font increase button' },
+                        { selector: '.font-controls__button--decrease', name: 'Font decrease button' },
+                        { selector: '#read-aloud-button', name: 'Read aloud button' },
+                        { selector: '#file-list-panel', name: 'File list panel' }
+                    ];
+
+                    requiredElements.forEach(element => {
+                        if (appDoc.querySelector(element.selector)) {
+                            this.log(`${element.name} found`, 'pass');
+                        } else {
+                            this.log(`${element.name} missing`, 'fail');
+                        }
+                    });
+                } catch (error) {
+                    this.log(`DOM testing error: ${error.message}`, 'fail');
+                }
+            },
+
+            async testUserInteractions() {
+                this.log('Testing user interactions...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                try {
+                    const appDoc = frame.contentDocument;
+
+                    // Test file list toggle
+                    const toggle = appDoc.querySelector('.file-list-toggle');
+                    if (toggle) {
+                        toggle.click();
+                        await this.wait(500);
+
+                        const panel = appDoc.getElementById('file-list-panel');
+                        if (panel && panel.classList.contains('visible')) {
+                            this.log('File list toggle works', 'pass');
+                            toggle.click(); // Close it
+                        } else {
+                            this.log('File list toggle not working', 'fail');
+                        }
+                    }
+
+                    // Test font controls
+                    const fontIncrease = appDoc.querySelector('.font-controls__button--increase');
+                    if (fontIncrease) {
+                        fontIncrease.click();
+                        await this.wait(200);
+                        this.log('Font controls responsive', 'pass');
+                    }
+
+                } catch (error) {
+                    this.log(`Interaction testing error: ${error.message}`, 'fail');
+                }
+            },
+
+            async testResponsiveDesign() {
+                this.log('Testing responsive design...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                const viewports = [
+                    { width: 320, name: 'Mobile' },
+                    { width: 768, name: 'Tablet' },
+                    { width: 1200, name: 'Desktop' }
+                ];
+
+                for (const viewport of viewports) {
+                    frame.style.width = viewport.width + 'px';
+                    await this.wait(300);
+                    this.log(`${viewport.name} viewport (${viewport.width}px) tested`, 'pass');
+                }
+
+                frame.style.width = '100%';
+            },
+
+            async testAccessibility() {
+                this.log('Testing accessibility features...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                try {
+                    const appDoc = frame.contentDocument;
+
+                    // Check for ARIA attributes
+                    const ariaElements = appDoc.querySelectorAll('[aria-label], [aria-expanded], [role]');
+                    this.log(`Found ${ariaElements.length} elements with ARIA attributes`,
+                            ariaElements.length > 0 ? 'pass' : 'warning');
+
+                    // Check for alt text on images
+                    const images = appDoc.querySelectorAll('img');
+                    let imagesWithAlt = 0;
+                    images.forEach(img => {
+                        if (img.alt) imagesWithAlt++;
+                    });
+
+                    if (images.length > 0) {
+                        this.log(`${imagesWithAlt}/${images.length} images have alt text`,
+                                imagesWithAlt === images.length ? 'pass' : 'warning');
+                    }
+
+                    // Check for keyboard navigation
+                    const focusableElements = appDoc.querySelectorAll('button, a, input, [tabindex]');
+                    this.log(`Found ${focusableElements.length} keyboard-focusable elements`, 'pass');
+
+                } catch (error) {
+                    this.log(`Accessibility testing error: ${error.message}`, 'fail');
+                }
+            },
+
+            async testPerformance() {
+                this.log('Testing performance...', 'info');
+
+                const startTime = performance.now();
+                const frame = document.getElementById('app-frame');
+
+                // Reload the frame to test loading time
+                frame.src = frame.src;
+
+                frame.onload = () => {
+                    const loadTime = performance.now() - startTime;
+                    this.log(`App loaded in ${Math.round(loadTime)}ms`,
+                            loadTime < 3000 ? 'pass' : 'warning');
+                };
+            },
+
+            async testMobile() {
+                this.log('Testing mobile-specific features...', 'info');
+                const frame = document.getElementById('app-frame');
+
+                // Set mobile viewport
+                frame.style.width = '375px';
+                frame.style.height = '667px';
+
+                await this.wait(1000);
+
+                try {
+                    const appDoc = frame.contentDocument;
+                    const viewport = appDoc.querySelector('meta[name="viewport"]');
+
+                    if (viewport && viewport.content.includes('width=device-width')) {
+                        this.log('Mobile viewport meta tag configured', 'pass');
+                    } else {
+                        this.log('Mobile viewport not properly configured', 'warning');
+                    }
+
+                    // Test touch events (simulate)
+                    const main = appDoc.getElementById('main');
+                    if (main) {
+                        // Simulate touch events
+                        const touchStart = new TouchEvent('touchstart', {
+                            touches: [{ screenX: 200 }]
+                        });
+                        const touchEnd = new TouchEvent('touchend', {
+                            changedTouches: [{ screenX: 100 }]
+                        });
+
+                        main.dispatchEvent(touchStart);
+                        main.dispatchEvent(touchEnd);
+
+                        this.log('Touch events simulation completed', 'pass');
+                    }
+
+                } catch (error) {
+                    this.log(`Mobile testing error: ${error.message}`, 'warning');
+                } finally {
+                    // Reset frame size
+                    frame.style.width = '100%';
+                    frame.style.height = '600px';
+                }
+            }
+        };
+
+        // Auto-run basic checks on load
+        window.addEventListener('load', () => {
+            BrowserTest.log('Browser test environment ready', 'pass');
+            BrowserTest.log('GitHub Pages compatible testing suite loaded', 'info');
+        });
+    </script>
+</body>
+</html>

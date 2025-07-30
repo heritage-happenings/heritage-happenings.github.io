@@ -1,90 +1,93 @@
 // Copyright 2025 Theo Armour. MIT License
 
-const FLT = {
-	isPanelVisible: false,
+const FL = {};
+window.FL = FL; // Make FL globally accessible
 
-	init(files) {
-		this.populate(files);
+FL.isFileListVisible = false;
 
-		const toggle = document.querySelector(".file-list-toggle");
-		toggle.addEventListener("click", () => this.toggle());
 
-		document.querySelector(".a-dingbat").addEventListener("click", (e) => {
-			e.preventDefault();
-			document.getElementById('file-list-header').scrollIntoView({ behavior: 'smooth' });
+FL.init = async () => {
+
+	await FL.populateFileList();
+
+	window.addEventListener("keydown", FL.onKeydown);
+	document.body.addEventListener("click", FL.onClick);
+
+	const toggle = document.querySelector(".file-list-toggle");
+	toggle.addEventListener("click", FL.toggleFileList);
+
+};
+
+
+FL.populateFileList = async () => {
+
+	const response = await fetch("./posts.json");
+	const allFiles = await response.json();
+
+	FL.files = allFiles; // Keep all files for next/prev navigation
+
+	const fileList = document.getElementById('file-list');
+	fileList.innerHTML = '';
+
+	// Filter for July 2025 posts and create list items
+	const julyFiles = allFiles.filter(file => file.path.startsWith("2025/07"));
+
+	julyFiles.forEach(file => {
+		const listItem = document.createElement('li');
+		listItem.className = 'file-list__item';
+
+		const link = document.createElement('a');
+		link.href = `#${file.path}`;
+		link.className = 'file-list__link';
+		link.textContent = file.name.replace(/\.md$/, '').replace(/-/g, ' ');
+		link.addEventListener('click', () => {
+			// Close panel when a file is selected
+			FL.toggleFileList();
 		});
 
-		window.addEventListener("keydown", (e) => this.onKeydown(e));
-		document.body.addEventListener("click", (e) => this.onClick(e));
-		window.addEventListener("hashchange", () => this.updateActiveLink());
-	},
+		listItem.appendChild(link);
+		fileList.appendChild(listItem);
+	});
+};
 
-	populate(files) {
-		const fileList = document.getElementById('file-list');
-		fileList.innerHTML = '';
 
-		const julyFiles = files.filter(file => file.path.startsWith("2025/07"));
+FL.toggleFileList = () => {
 
-		julyFiles.forEach(file => {
-			const listItem = document.createElement('li');
-			listItem.className = 'file-list__item';
+	const panel = document.getElementById('file-list-panel');
+	const toggleButton = document.querySelector('.file-list-toggle');
 
-			const link = document.createElement('a');
-			link.href = `#${file.path}`;
-			link.className = 'file-list__link';
-			link.textContent = file.name.replace(/\.md$/, '').replace(/-/g, ' ');
-			link.addEventListener('click', () => {
-				if (this.isPanelVisible) {
-					this.toggle();
-				}
-			});
+	FL.isFileListVisible = !FL.isFileListVisible;
 
-			listItem.appendChild(link);
-			fileList.appendChild(listItem);
-		});
-	},
+	if (FL.isFileListVisible) {
+		panel.classList.add('visible');
 
-	toggle() {
-		const panel = document.getElementById('file-list-panel');
-		const toggleButton = document.querySelector('.file-list-toggle');
-
-		this.isPanelVisible = !this.isPanelVisible;
-		panel.classList.toggle('visible');
-		toggleButton.setAttribute('aria-expanded', this.isPanelVisible);
-
-		if (this.isPanelVisible) {
-			requestAnimationFrame(() => {
-				const activeLink = document.querySelector('.file-list__link--active');
-				if (activeLink) {
-					activeLink.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-				}
-			});
-		}
-	},
-
-	updateActiveLink() {
-		const currentActive = document.querySelector('.file-list__link--active');
-		if (currentActive) {
-			currentActive.classList.remove('file-list__link--active');
+		const activeLink = document.querySelector('.file-list__link--active');
+		if (activeLink) {
+			activeLink.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
 		}
 
-		const newActive = document.querySelector(`.file-list__link[href="${location.hash}"]`);
-		if (newActive) {
-			newActive.classList.add('file-list__link--active');
-		}
-	},
-
-	onKeydown(e) {
-		if (e.key === 'Escape' && this.isPanelVisible) {
-			this.toggle();
-		}
-	},
-
-	onClick(e) {
-		const panel = document.getElementById('file-list-panel');
-		const toggleButton = document.querySelector('.file-list-toggle');
-		if (this.isPanelVisible && !panel.contains(e.target) && !toggleButton.contains(e.target)) {
-			this.toggle();
-		}
+	} else {
+		panel.classList.remove('visible');
 	}
 };
+
+
+FL.onKeydown = (e) => {
+
+	if (e.key === 'Escape' && FL.isFileListVisible) {
+		FL.toggleFileList();
+	}
+};
+
+
+FL.onClick = (e) => {
+
+	const panel = document.getElementById('file-list-panel');
+	const toggleButton = document.querySelector('.file-list-toggle');
+
+	if (FL.isFileListVisible && !panel.contains(e.target) && !toggleButton.contains(e.target)) {
+		FL.toggleFileList();
+	}
+};
+
+window.addEventListener("load", FL.init);

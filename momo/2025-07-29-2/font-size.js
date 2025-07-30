@@ -11,6 +11,7 @@ FSM.init = () => {
 	FSM.increaseButton = document.querySelector( ".font-controls__button--increase" );
 
 	FSM.load();
+	FSM.updateControlsHeight();
 
 	FSM.decreaseButton.addEventListener( "click", FSM.decrease );
 	FSM.increaseButton.addEventListener( "click", FSM.increase );
@@ -33,6 +34,7 @@ FSM.load = () => {
 FSM.save = () => {
 
 	localStorage.setItem( 'heritageHappeningsFontSize', FSM.currentFontSize.toString() );
+	requestAnimationFrame( FSM.updateControlsHeight );
 
 };
 
@@ -61,6 +63,7 @@ FSM.update = () => {
 
 	document.documentElement.style.fontSize = `${ FSM.currentFontSize }%`;
 	FSM.updateButtonStates();
+	requestAnimationFrame( FSM.updateControlsHeight );
 
 };
 
@@ -70,6 +73,17 @@ FSM.updateButtonStates = () => {
 	FSM.decreaseButton.disabled = FSM.currentFontSize <= 100;
 	FSM.increaseButton.disabled = FSM.currentFontSize >= 500;
 
+};
+
+
+FSM.updateControlsHeight = () => {
+
+	const controls = document.querySelector( '.app-header' );
+
+	if ( controls ) {
+		const height = controls.offsetHeight;
+		document.documentElement.style.setProperty( '--controls-height', `${ height }px` );
+	}
 };
 
 

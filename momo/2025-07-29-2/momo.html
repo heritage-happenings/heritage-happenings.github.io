@@ -16,18 +16,19 @@
 	<link rel="icon" href="favicon.ico">
 	<link rel="stylesheet" href="style.css">
 
-</head>
-
-<body>
-
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js" defer></script>
 	<script src="./font-size.js" defer></script>
 	<script src="./file-list.js" defer></script>
 	<script src="./file-handler.js" defer></script>
 	<script src="./swipe-handler.js" defer></script>
 	<script src="./speech.js" defer></script>
-	
+
+</head>
+
+<body>
+
 	<header class="app-header">
+
 
 		<a href="" class="app-header__title" title="Home Page">Heritage Happenings</a>
 
@@ -35,21 +36,22 @@
 
 			<span class="font-controls">
 
-				<button class="app-header__button font-controls__button--decrease">
+				<button class="app-header__button font-controls__button--decrease" aria-label="Decrease font size">
 					A-
 				</button>
 
-				<button class="app-header__button font-controls__button--increase">
+				<button class="app-header__button font-controls__button--increase" aria-label="Increase font size">
 					A+
 				</button>
 
 			</span>
 
-			<button class="app-header__button file-list-toggle">
+			<button class="app-header__button file-list-toggle" aria-label="Toggle file list" aria-expanded="false"
+				aria-controls="file-list-panel">
 				stories
 			</button>
 
-			<button id="read-aloud-button" class="app-header__button">
+			<button id="read-aloud-button" class="app-header__button" aria-label="Read content aloud">
 				🔊
 			</button>
 
@@ -63,9 +65,8 @@
 			<!-- Files will be populated by JavaScript -->
 		</ul>
 
-		<div class="dingbat-container" title="Hello! Click me to go up to the top">
-			<a class="a-dingbat" href="#file-list-header"> ❦ </a>
-		</div>
+		<div class="dingbat-container" title="Hello! Click me to go up to the top"><a class="a-dingbat"
+				href="#file-list-header"> ❦ </a></div>
 
 	</aside>
 
