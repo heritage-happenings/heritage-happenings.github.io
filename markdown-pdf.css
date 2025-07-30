@@ -31,14 +31,17 @@ h1 {
 	color: #880000;
 	border-width: 0;
 	font-size: 150%;
-	margin: 0 0 2rem 0;
+	margin: 0 0 1rem 0;
 }
 
 h2 {
 	font-size: 120%;
 }
 
-h3 {}
+h3 {
+
+	font-size: 100%;
+}
 
 h2,
 h3 {
@@ -84,7 +87,7 @@ ul {
 
 	h1 {
 		font-size: 150%;
-		margin: 0 0 1rem 0;
+		margin: 0 0 0.5rem 0;
 	}
 
 	h2 {
@@ -92,6 +95,10 @@ ul {
 		margin: 0 0 0 0;
 	}
 
+	h3 {
+		font-size: 100%;
+		margin: 0 0 0 0;
+	}
 	h1,
 	h2,
 	h3 {
