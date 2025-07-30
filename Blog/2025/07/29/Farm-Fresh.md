@@ -4,7 +4,7 @@
 
 By Jennifer
 
-![Baker]( 040919-Baker.jpg )
+![Baker]( https://heritage-happenings.github.io/Blog/2025-07-29/040919-Baker.jpg )
 
 The hand-written sign above the cage in the bird store on Fillmore Street said “farm fresh.” By that I understood that he was just a baby parakeet, and the juvenile’s black-and-white stripes across his head attested to his youth. I took him home and named him Baker.
 
@@ -23,4 +23,3 @@ Along the way, we had a few stumbles. Until the day he died, he persisted in say
 While Baker will always be special to me, I do not believe that his ability or his accomplishments were remarkable. With patience and a hefty dose of persistence, anyone can teach a male parakeet to talk (the females are perversely unlikely to speak). I did not kid myself that he knew the meaning of anything he said. Nevertheless, it was delightful to enter a room and hear a little voice say “Hi, sweetie. I love you so much!”
 
 ![Baker]( 060305-Baker-04.jpg )
-
