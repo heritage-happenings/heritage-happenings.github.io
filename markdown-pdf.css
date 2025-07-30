@@ -31,7 +31,8 @@ h1 {
 	color: #880000;
 	border-width: 0;
 	font-size: 150%;
-	margin: 0 0 1rem 0;
+	margin: 0 0 0rem 0;
+		padding: 0;
 }
 
 h2 {
@@ -39,7 +40,6 @@ h2 {
 }
 
 h3 {
-
 	font-size: 100%;
 }
 
@@ -75,7 +75,7 @@ ul {
 	padding-top: -1rem;
 }
 
-.aDingbat {
+.a-dingbat {
 	font-size: 200%;
 	text-decoration: none;
 }
