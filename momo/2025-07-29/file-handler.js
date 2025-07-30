@@ -23,7 +23,7 @@ FH.init = () => {
 	if ( location.hash.slice(1) === FH.defaultFile ) {
 		location.hash = "";
 	} else {
-		location.hash = FH.defaultFile;
+		//location.hash = FH.defaultFile;
 	}
 
 	if ( location.protocol === "https:" ) {
