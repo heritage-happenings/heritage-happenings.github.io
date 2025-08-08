@@ -8,5 +8,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\prompts\0-
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\vscode\extensions\vscode-markdown-pdf.md
 |### Folders
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\07
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\months-of-the-year\2025\2025-07-july
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\08
