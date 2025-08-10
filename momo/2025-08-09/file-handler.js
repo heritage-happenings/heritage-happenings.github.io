@@ -26,9 +26,9 @@ FH.init = () => {
 		//location.hash = FH.defaultFile;
 	}
 
-	if ( location.protocol === "https:" ) {
-		window.history.replaceState( "", "", "../../" + location.hash );
-	}
+	// if ( location.protocol === "https:" ) {
+	// 	window.history.replaceState( "", "", "../../" + location.hash );
+	// }
 
 };
 
