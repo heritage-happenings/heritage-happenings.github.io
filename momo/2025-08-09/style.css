@@ -149,12 +149,12 @@ main {
 /* File list panel */
 .file-list-panel {
 	position: fixed;
-	top: calc(10px + var(--controls-height, 50px) + 10px);
-	left: 10px;
+	top: calc(10px + var(--controls-height, 50px) + 20px);
+	right: 10px;
 	max-width: 60vw;
 	max-height: 80vh;
 	background: white;
-	border: 1px solid #ccc;
+	border: 3px solid #888;
 	border-radius: 5px;
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 	z-index: 999;
