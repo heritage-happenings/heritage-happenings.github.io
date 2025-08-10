@@ -24,3 +24,7 @@ Overuse of digital gadgets harms teenagers, research suggests. But ubiquitous te
 Here is a link to a New York Times article The reports on a number of studies indicating that "use of everyday digital technology has been associated with reduced risk of cognitive impairment and dementia."
 
 [Technology Cognition Older People](https://www.nytimes.com/2025/08/09/health/technology-cognition-older-people.html?unlocked_article_code=1.dE8.IsXS.K9f6lsk3_id0&smid=url-share)
+
+***
+
+<center title="Hello! Click me to go up to the top"><a class="a-dingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
