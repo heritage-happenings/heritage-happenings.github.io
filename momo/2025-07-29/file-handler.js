@@ -3,7 +3,7 @@
 const FH = {};
 window.FH = FH; // Make FH globally accessible
 
-FH.defaultFile = "2025/07/README.md";
+FH.defaultFile = "2025/08/README.md";
 
 
 FH.init = () => {
@@ -20,15 +20,15 @@ FH.init = () => {
 
 	window.addEventListener( "hashchange", FH.onHashChange, false );
 
-	if ( location.hash.slice(1) === FH.defaultFile ) {
-		location.hash = "";
-	} else {
-		//location.hash = FH.defaultFile;
-	}
+	// if ( location.hash.slice(1) === FH.defaultFile ) {
+	// 	location.hash = "";
+	// } else {
+	// 	//location.hash = FH.defaultFile;
+	// }
 
-	if ( location.protocol === "https:" ) {
-		window.history.pushState( "", "", "../../" + location.hash );
-	}
+	// if ( location.protocol === "https:" ) {
+	// 	window.history.pushState( "", "", "../../" + location.hash );
+	// }
 
 };
 
