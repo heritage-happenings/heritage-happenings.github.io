@@ -29,10 +29,7 @@ FL.populateFileList = async () => {
 	const fileList = document.getElementById('file-list');
 	fileList.innerHTML = '';
 
-	// Filter for July 2025 posts and create list items
-	const julyFiles = allFiles.filter(file => file.path.startsWith("2025/07"));
-
-	julyFiles.forEach(file => {
+	allFiles.forEach(file => {
 		const listItem = document.createElement('li');
 		listItem.className = 'file-list__item';
 
@@ -47,7 +44,8 @@ FL.populateFileList = async () => {
 
 		listItem.appendChild(link);
 		fileList.appendChild(listItem);
-	});
+  } );
+
 };
 
 
@@ -72,7 +70,7 @@ FL.toggleFileList = () => {
 };
 
 
-FL.onKeydown = (e) => {
+FL.onKeydown = ( e ) => {
 
 	if (e.key === 'Escape' && FL.isFileListVisible) {
 		FL.toggleFileList();
