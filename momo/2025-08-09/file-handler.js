@@ -27,7 +27,7 @@ FH.init = () => {
 	}
 
 	if ( location.protocol === "https:" ) {
-		window.history.pushState( "", "", "../../" + location.hash );
+		window.history.replaceState( "", "", "../../" + location.hash );
 	}
 
 };
