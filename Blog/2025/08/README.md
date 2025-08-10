@@ -2,7 +2,7 @@
 
 ![2025-08 Cover Image](https://heritage-happenings.github.io/Blog/2025/08/08-august-cover.jpg)
 
-Welcome! This is the homepage for the July edition of _Heritage Happenings_. To return here at any time, just click the **"_Heritage Happenings_"** title at the top of the screen.
+Welcome! This is the homepage for the August edition of _Heritage Happenings_. To return here at any time, just click the **"_Heritage Happenings_"** title at the top of the screen.
 
 ## About the August Issue
 
