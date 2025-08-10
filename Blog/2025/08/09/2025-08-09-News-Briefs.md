@@ -1,4 +1,4 @@
-# 2025-08-09 News Briefs
+# News Briefs for August 9
 
 
 The Quick Brown Fox Jumps Over The Lazy Dog
