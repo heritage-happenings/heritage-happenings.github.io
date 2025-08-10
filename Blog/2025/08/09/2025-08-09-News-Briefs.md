@@ -8,6 +8,22 @@ For a variety of reasons, we are switching over to a new address: heritage.happe
 
 If you are having any problems with receiving links to this newsletter in your email, please let Theo know.
 
+## Protecting Resident Privacy
+
+The _Heritage Happenings_ has been a moderately public document. The newsletter is distributed freely to residents, staff, family, friends, prospective residents and others.
+
+The _Heritage Happenings_ Resident Directory, Floor Plans and Calendar have only been distributed to residents and staff.
+
+As the publication moves into an increasingly online environment, it is worth considering what further protections of resident privacy might be taken.
+
+### Privacy Policy Updates
+
+Starting with the July articles:
+
+* Articles will only refer to first names and family names will be omitted
+* Photographs will not include and names
+
+If you have any further suggestions, please let the editorial committee know about it.
 
 ## Tom: Walking from Heritage on the Marina over to Francisco Park and back, July 2025
 

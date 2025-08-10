@@ -38,6 +38,13 @@ The _Heritage Happenings_ is built using two websites.
 
 ## Change Log
 
+## 2025-08-10
+
+Getting the homepage to update to the right page was a struggle, but it was my error in forgetting to update the index file correctly.
+
+A folder for August with a readme has been added.
+
+File list updated to show both August and July stories with August up at the top.
 
 ## 2025-07-28
 
@@ -105,4 +112,4 @@ Can you create a "Heritage Happenings" favicon?
 
 ***
 
-<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
+<center title="Hello! Click me to go up to the top"><a class="a-dingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>

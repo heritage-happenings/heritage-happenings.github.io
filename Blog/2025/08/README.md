@@ -8,7 +8,7 @@ Welcome! This is the homepage for the August edition of _Heritage Happenings_. T
 
 The country of the month is Lebanon. The front page cover shows a typical cafe in a village in Lebanon with people playing backgammon, a national pastime.
 
-The country of the month's meal, featuring Lebanese food, will be on August 15. The country of the month is _Caramel_, which has already been shown.
+The meal for the country of the month, featuring Lebanese food, will be on August 15. The country of the month movie is _Caramel_, which has already been shown.
 
 The wellness topic of the month is Advanced Planning. Advanced planning for elders is the proactive process of organizing medical, legal, financial, housing, and social decisions before a crisis. It clarifies values and goals; names decision-makers; and documents instructions through advance health care directives, powers of attorney, wills, and care preferences. Fingers crossed all or some of these topics, get covered in his story in the coming weeks.
 
@@ -22,5 +22,7 @@ The views and opinions expressed in this publication are those of the authors an
 &copy; 2025 _Heritage Happenings_ authors. No rights reserved. Public Domain.
 
 _Revision: 2025-08-09_
+
+***
 
 <center title="Scroll to top"><a class="a-dingbat" href="javascript:window.scrollTo(0,0);"> ❦ </a></center>
