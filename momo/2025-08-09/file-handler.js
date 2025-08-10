@@ -3,7 +3,7 @@
 const FH = {};
 window.FH = FH; // Make FH globally accessible
 
-FH.defaultFile = "2025/07/README.md";
+FH.defaultFile = "2025/08/README.md";
 
 
 FH.init = () => {
