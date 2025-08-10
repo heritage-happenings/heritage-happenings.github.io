@@ -21,7 +21,7 @@ FH.init = () => {
 	window.addEventListener( "hashchange", FH.onHashChange, false );
 
 	if ( location.hash.slice(1) === FH.defaultFile ) {
-		location.hash = "";
+		//location.hash = "";
 	} else {
 		//location.hash = FH.defaultFile;
 	}
