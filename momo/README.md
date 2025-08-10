@@ -26,11 +26,11 @@ The _Heritage Happenings_ is built using two websites.
 
 ### Read Aloud
 
-* 2025-07-28 ~ Highlight the current text being read  aloud.
+* 2025-07-28 ~ Highlight the current text being read aloud.
 * 2025-07-24 ~ choose the voice, use system voice
 * 2025-07-24 ~ Start Read Aloud from current Cursor position
 
-### Voice Commends
+### Voice Commands
 
 * 2025-07-24 Add voice commands
 
