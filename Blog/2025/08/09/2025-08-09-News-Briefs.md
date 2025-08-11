@@ -1,4 +1,6 @@
-# News Briefs for August 9
+# First August News Briefs
+
+At last! You are reading the first article of the August _Heritage Happenings_. See also the [Cover Page](https://heritage-happenings.github.io/#2025/08/README.md). There are quite a few articles in the pipeline, so check back often!
 
 ## New Email Address
 
@@ -21,7 +23,7 @@ As the publication moves into an increasingly online environment, it is worth co
 Starting with the July articles:
 
 * Articles will only refer to first names and family names will be omitted
-* Photographs will not include and names
+* Photographs will not include names
 
 If you have any further suggestions, please let the editorial committee know about it.
 
@@ -29,7 +31,7 @@ If you have any further suggestions, please let the editorial committee know abo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3GvNLyIai3w?si=QGQR8iR_6aQ_omEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tom shot a video walking from our house up to Fort Mason.The video runs about 15 minutes and he narrates things of interest.
+Tom shot a video walking from our house up to Francisco Park. The loop went from Heritage up Francisco to Francisco Park, then west on Bay Street to Fort Mason, through Fort Mason past the Commanding General's house, and back to Heritage. The video runs about 15 minutes and Tom narrates points of interest. Tom's video reminds us of how much live in such a pleasant location. Where will Tom explore next time?
 
 ***
 
