@@ -1,4 +1,4 @@
-# First August News Briefs
+# News Briefs for August 9th
 
 At last! You are reading the first article of the August _Heritage Happenings_. See also the [Cover Page](https://heritage-happenings.github.io/#2025/08/README.md). There are quite a few articles in the pipeline, so check back often!
 
