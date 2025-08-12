@@ -27,13 +27,6 @@ Starting with the July articles:
 
 If you have any further suggestions, please let the editorial committee know about it.
 
-## Tom: Walking from Heritage on the Marina over to Francisco Park and back, July 2025
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3GvNLyIai3w?si=QGQR8iR_6aQ_omEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Tom shot a video walking from our house up to Francisco Park. The loop went from Heritage up Francisco to Francisco Park, then west on Bay Street to Fort Mason, through Fort Mason past the Commanding General's house, and back to Heritage. The video runs about 15 minutes and Tom narrates points of interest. Tom's video reminds us of how much live in such a pleasant location. Where will Tom explore next time?
-
-***
 
 ## How Older People Are Reaping Brain Benefits From New Tech
 

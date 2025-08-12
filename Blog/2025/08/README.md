@@ -17,11 +17,13 @@ The wellness topic of the month is Advanced Planning. Advanced planning for elde
 
 _Heritage Happenings_ is published by the residents of Heritage on the Marina, San Francisco.
 
+Unsigned articles are by Theo Armour. Please send comments on the newsletter to this address: heritage.happenings.sf@gmail.com
+
 The views and opinions expressed in this publication are those of the authors and do not necessarily reflect the official policy or position of Heritage on the Marina.
 
 &copy; 2025 _Heritage Happenings_ authors. No rights reserved. Public Domain.
 
-_Revision: 2025-08-09_
+_Revision: 2025-08-11_
 
 ***
 
