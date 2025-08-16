@@ -1,12 +1,16 @@
 [
+    {
+      "name": "French Wine and Cheese Tasting",
+      "path": "2025/08/French-Wine-and-Cheese-Tasting.md"
+    },
   {
     "name": "Heritage Happenings August",
     "path": "2025/08/README.md"
   },
-    {
-      "name": "Heritage Walks",
-      "path": "2025/08/12/Heritage-Walks.md"
-    },
+  {
+    "name": "Heritage Walks",
+    "path": "2025/08/12/Heritage-Walks.md"
+  },
   {
     "name": "News Briefs for August 9th",
     "path": "2025/08/09/2025-08-09-News-Briefs.md"
