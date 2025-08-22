@@ -12,9 +12,6 @@ In the meantime, kindly note the following details for our very pleasant new res
 
 * George D Sawyer
 * Apartment 305P
-* Home phone: (415)885-4583
-* Cell phone:  (415) 813-9973
-* Email:  georgesawyer@att.net
 * Date of Birth:  August 23
 
 ## New Books: Library Corner May 2025
