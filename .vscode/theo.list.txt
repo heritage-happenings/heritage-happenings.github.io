@@ -8,6 +8,8 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\apps\newww-tab\2024-0
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\vscode\extensions\vscode-markdown-pdf.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\markdown-pdf.css
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\obsidian\obsidian.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-simplicity\genealogy\0-genealogy-agenda.md
+|###
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\08
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-snippets
