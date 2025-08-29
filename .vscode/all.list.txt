@@ -2,7 +2,7 @@
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin\0-admin-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin-personal\0-admin-personal-agenda.md
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-simplicity\0-simplicity-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-3-simplicity\0-simplicity-agenda.md
 |    📽️ ### projects
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-0-projects\0-projects-agenda.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-1-organizations-repos\0-organizations-repos.md
