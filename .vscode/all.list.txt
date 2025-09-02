@@ -72,3 +72,4 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\3-3-sflprs\strategic
 C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\artificial-intelligence\0-ai-tips.md
 C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\artificial-intelligence\0-ai-agenda.md
 C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\artificial-intelligence\0-ai-journal.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\word-count.md
