@@ -1,8 +1,10 @@
 # Sheila's Trip to Lebanon ~ Jun 6 to 23 1967
 
-My friend Sheila would work for two or three years, save up $2,000, and then travel for two years. She was born in England and ended up in San Francisco in the 60s. She kept meticulous records of her travels, sent these to her family, and has preserved them in albums. Here is the first story from the trip she started in June of 1967.
+My friend Sheila had a unique approach to life: she would work for two or three years as a secretary and save every penny. When she had accumulated $6,500 she would quit her romming house and then travel for two years. Born in England, she eventually settled in San Francisco during the 1960s. She kept meticulous records of her travels, sent detailed accounts to her family, and has preserved them all in albums.
 
-This is also the first story of what I hope is will a long series of stories that are what I call "homespun writing". There's nothing fancy. It's the normal writing of people sending letters to home.
+Here is the first story from the trip she started in June of 1967, during the Israeli 6-Day War
+
+This is also the first story in what I hope will be a long series that showcases what I call “homespun writing” — nothing fancy, just the authentic voices of people writing letters home.
 
 Dear Family:
 Well you know, right after I wrote you that the Syrian/Lebanese border was closed, I heard a hawker yelling for a taxi going to Beruit. I had to pay three times the normal price, but decided to gamble on being able to get through. Even the Police had told me the borders were closed. I was so relieved when Lebanon admitted me. They gave me a two week transit visa - which is only academic as it could be difficult to leave.
