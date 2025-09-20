@@ -9,7 +9,7 @@ c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-simplicity\genealo
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\vscode\extensions\vscode-markdown-pdf.md
 c:\Users\tarmo\OneDrive\Documents\GitHub\markdown-pdf.css
 |###
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
-c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\08
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-snippets
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software|pages software
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-qdata\journal\days-of-year\09
 c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\00-commons\artificial-intelligence
