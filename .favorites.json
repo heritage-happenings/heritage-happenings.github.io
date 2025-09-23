@@ -127,15 +127,6 @@
     },
     {
         "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\0-health-journal.md",
-        "parent_id": "AgaB9Mz4b2fD5hp0",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\0-health-journal.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "jpo7GR4MIYrmBxC1"
-    },
-    {
-        "type": "File",
         "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\pine-park-health\\0-pine-park-health-agenda.md",
         "parent_id": "AgaB9Mz4b2fD5hp0",
         "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\pine-park-health\\0-pine-park-health-agenda.md",
@@ -540,5 +531,47 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "ubf1rmNqvg4k6oVl"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\quincy-childs\\0-quincy-childs-agenda.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\quincy-childs\\0-quincy-childs-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "QdtExLcyJNG814nf"
+    },
+    {
+        "type": "Group",
+        "name": "4-projects",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fHJ3qbIUDACdOulL"
+    },
+    {
+        "type": "Group",
+        "name": "1-health",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "MP6tCedsHfn8NiYh"
+    },
+    {
+        "type": "Group",
+        "name": "0-admin",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LzFpqZaeg6ksc1K2"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-0-projects\\0-projects-agenda.md",
+        "parent_id": "fHJ3qbIUDACdOulL",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-0-projects\\0-projects-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "A9UFsW8hYDTmPiLz"
     }
 ]
