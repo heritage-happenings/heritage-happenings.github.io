@@ -486,59 +486,5 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "ahCWyuYL0m1etBKJ"
-    },
-    {
-        "type": "Directory",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-inspirations",
-        "parent_id": "BaLrUzZFRDNC45gV",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-inspirations",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "l9P0BeihEOVmH2FJ"
-    },
-    {
-        "type": "Directory",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-commons\\artificial-intelligence\\prompts-theo",
-        "parent_id": "BaLrUzZFRDNC45gV",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-commons\\artificial-intelligence\\prompts-theo",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "ZoYdS2Ok0NBrVupx"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\aqsa-choudry\\aqsa-choudry.md",
-        "parent_id": "gSxZztWdvcsmhbu1",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\aqsa-choudry\\aqsa-choudry.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "WHmZa0i24sSdJFxg"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\admin-hr\\leadership\\0-leadership-agenda.md",
-        "parent_id": "FDxQCo7gXebmu1Lv",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\admin-hr\\leadership\\0-leadership-agenda.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "CklBbr3SoA0Z86ax"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\residents\\0-residents-agenda.md",
-        "parent_id": "hs54DpWeLgz3xoTm",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\residents\\0-residents-agenda.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "fIcVKdweZ9tTv4NE"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\residents\\karl-leichum\\0-karl-leichum-agenda.md",
-        "parent_id": "hs54DpWeLgz3xoTm",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\residents\\karl-leichum\\0-karl-leichum-agenda.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "ubf1rmNqvg4k6oVl"
     }
 ]
