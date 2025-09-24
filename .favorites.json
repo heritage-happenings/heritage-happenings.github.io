@@ -1,7 +1,7 @@
 [
     {
         "type": "Group",
-        "name": "folders",
+        "name": "+++",
         "parent_id": null,
         "workspaceRoot": null,
         "workspacePath": null,
@@ -429,7 +429,7 @@
     },
     {
         "type": "Group",
-        "name": "00-heritage-happenings",
+        "name": "+-heitage-happenings",
         "parent_id": null,
         "workspaceRoot": null,
         "workspacePath": null,
@@ -541,5 +541,14 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "A9UFsW8hYDTmPiLz"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\resident-council\\0-resident-council-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\resident-council\\0-resident-council-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "izdftqjlY62CTkNG"
     }
 ]
