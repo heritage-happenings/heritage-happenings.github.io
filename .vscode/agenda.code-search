@@ -1,7 +1,7 @@
 # Query: ## Agenda
 # Flags: IgnoreExcludeSettings
 # Including: ./agenda
-# Excluding: */archive,*/2024,*/2023,.ai
+# Excluding: */archive,*/2024,*/2023,*.ai
 
 53 results - 53 files
 
