@@ -9,7 +9,7 @@
     },
     {
         "type": "Group",
-        "name": "1-health",
+        "name": "1-1-health",
         "parent_id": null,
         "workspaceRoot": null,
         "workspacePath": null,
@@ -151,15 +151,6 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "aBMqyVg1uTlU0fjk"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\0-simplicity-agenda.md",
-        "parent_id": "AgaB9Mz4b2fD5hp0",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\0-simplicity-agenda.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "U3Ol6kJ9oVGNHLEe"
     },
     {
         "type": "File",
@@ -376,24 +367,6 @@
         "id": "aDkw3Nl2KYI8Ssiy"
     },
     {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\genealogy\\0-genealogy-agenda.md",
-        "parent_id": "AgaB9Mz4b2fD5hp0",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\genealogy\\0-genealogy-agenda.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "cGJo5WIdkCm9Pfr8"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\archiving\\0-archiving-agenda.md",
-        "parent_id": "AgaB9Mz4b2fD5hp0",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\archiving\\0-archiving-agenda.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "18vdxoOR7WQP9DpF"
-    },
-    {
         "type": "Group",
         "name": "pages",
         "parent_id": null,
@@ -550,5 +523,67 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "izdftqjlY62CTkNG"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "q2BSZgvIXlKku7nQ"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor\\microsoft\\vscode\\extensions\\vscode-favorites-bookmarks\\scrapbook-vscode.md",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor\\microsoft\\vscode\\extensions\\vscode-favorites-bookmarks\\scrapbook-vscode.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LzxNyvpSnflb5kdD"
+    },
+    {
+        "type": "Group",
+        "name": "1-3-simplicity",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fKHFJ0OnxIwv4UWe"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\0-simplicity-agenda.md",
+        "parent_id": "fKHFJ0OnxIwv4UWe",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\0-simplicity-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "vPY82bOhjqZWRdTu"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\archiving\\0-archiving-agenda.md",
+        "parent_id": "fKHFJ0OnxIwv4UWe",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\archiving\\0-archiving-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Ohr1K09UQX8VtaHP"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\genealogy\\0-genealogy-agenda.md",
+        "parent_id": "fKHFJ0OnxIwv4UWe",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\genealogy\\0-genealogy-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "buHaEUWFX65sIpZi"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\.vscode\\agenda.code-search",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\.vscode\\agenda.code-search",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "T9QgWhGMkpb1FtvY"
     }
 ]
