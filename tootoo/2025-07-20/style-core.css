@@ -127,7 +127,7 @@ img {
 
 /* Main content to the right of navMenu */
 #main {
-  left: calc(var(--mnu-width) + 5%);
+  left: calc(var(--mnu-width) + 15%);
   max-width: 30rem;
   padding: var(--margin);
   position: absolute;
