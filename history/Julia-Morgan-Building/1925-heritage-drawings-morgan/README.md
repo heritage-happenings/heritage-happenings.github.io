@@ -1,12 +1,12 @@
 # Scans / 1925 Heritage Drawings Morgan Read Me
 
 
-<div style=overflow:hidden;width:100%;resize:both; ><img src=https://heritage-happenings.github.io/scans/1925-heritage-drawings-morgan/elevation-west.jpg height=100% width=100%></div>
+<div style=overflow:hidden;width:100%;resize:both; ><img src=https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-west.jpg height=100% width=100%></div>
 
 _1925 ~ Julia Morgan Front Elevation_
 
 
-## Full Screen: [Front Elevation]( https://heritage-happenings.github.io/scans/1925-heritage-drawings-morgan/elevation-west.jpg )
+## Full Screen: [Front Elevation]( https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-west.jpg )
 
 Select the scan to view from the menu on the left.
 
