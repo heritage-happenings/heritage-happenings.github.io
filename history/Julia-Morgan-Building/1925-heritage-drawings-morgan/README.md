@@ -12,6 +12,23 @@ Select the scan to view from the menu on the left.
 
 Use the right-click menu to view the scan full screen
 
+
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-west.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/details-service-lavatory.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/details-window.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-east.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-north-entrance-front.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-north.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-section-north.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-south.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevation-west.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/elevations-interior-living-dining.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/plan-first-floor.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/plan-second-floor.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/plan-structural-foundation.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/plan-third-floor.jpg
+* https://heritage-happenings.github.io/history/Julia-Morgan-Building/1925-heritage-drawings-morgan/sections-stairs.jpg
+
 ## Concept
 
 The files in this folder are scans of what appears to be paper prints from microfilm negatives of faded and damaged blueprints of the original drawings.

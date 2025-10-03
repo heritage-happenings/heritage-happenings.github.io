@@ -392,15 +392,6 @@
         "id": "kv0ci7qfMzKbVFLN"
     },
     {
-        "type": "Directory",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year\\09",
-        "parent_id": "w9TPXBt7HIvLbY8n",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year\\09",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "v159zPtELUN0xKpG"
-    },
-    {
         "type": "Group",
         "name": "+-heritage-happenings",
         "parent_id": null,
@@ -585,5 +576,14 @@
         "workspaceRoot": null,
         "workspacePath": null,
         "id": "T9QgWhGMkpb1FtvY"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year\\10",
+        "parent_id": "w9TPXBt7HIvLbY8n",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year\\10",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "e9yZl0o8ONaxkjiI"
     }
 ]
