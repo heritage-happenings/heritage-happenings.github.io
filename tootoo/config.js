@@ -4,7 +4,7 @@ const CONFIG = {
     repo: "heritage-happenings.github.io",
     branch: "master",
 
-    filterFolders: [".vscode", "history", "Blog/draft", "Blog/image", "kiosk", "momo", "people", "residents-council", "tootoo"],
+  filterFolders: [ ".vscode", ".favorites.json", "scraps.json", "Blog/draft", "Blog/image", "kiosk", "momo", "people", "residents-council", "tootoo"],
     ignoreFiles: [".gitignore", "404.html", "favicon.ico", "index.html", "markdown-pdf.css", "print.html", "readme.html", "README.md", "test.md", "Tips-and-Tricks/index.html"],
 
     defaultFile: "HOME.md",
