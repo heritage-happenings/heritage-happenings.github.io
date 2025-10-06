@@ -1,4 +1,8 @@
-Ode to The Red Chair
+## Ode to The Red Chair
+
+By Jane Standing
+
+![The Red Chair](./the-red-chair.png)
 
 I leave my apartment with Jonathan to walk slowly to the end of the corridor. My goal is The Red Chair. I sink gratefully into it with its open arms and welcoming wings. Where next? To the garden [Oh bliss] or to the flowers filled balcony overlooking Francisco Street or just to lunch. Either way I am reluctant to leave your faded plush.
 
@@ -10,12 +14,16 @@ Love,
 
 Jane
 
-***
+## Addendum
 
-Jane is not alone in her affection for The Red Chair. I have noticed that many people gravitate to it - including myself. Ob Tuesday mornings, I set in the Red CHair after breakfast while Leonore finishes her weekly efforts to keep me clean and tidy.
+By Theo
 
-Tony reads the newspaper on the table while he is waiting for Linda to come down. June sits in The Red Chair while she waits for the elevator to arrive.
+Jane is not alone in her affection for The Red Chair. I have noticed that many people gravitate to it — including myself. On Tuesday mornings, I sit in The Red Chair after breakfast while Leonore finishes her weekly efforts to keep my apartment clean and tidy.
 
-I have, however, noticed that Kay will sometimes sit in The **Other** Red Chair because her concentration is so intense that she does not want to be distracted by the comings and goings in the corridor.
+Tony reads the newspaper on the table while waiting for Linda to come down. June sits in The Red Chair while she waits for the elevator to arrive.
 
+What about The **Other** Red Chair? I have noticed that Kay will sometimes choose it instead, as her concentration is so intense that she may prefer to avoid the distractions of comings and goings in the corridor.
 
+I find observations like Jane's remarkable. They reveal how attached we can become to inanimate objects — and more deeply, they express gratitude for the small pleasures in life.
+
+And so, to The Red Chair, I say thank you for being there for us!
