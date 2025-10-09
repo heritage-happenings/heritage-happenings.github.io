@@ -7,7 +7,6 @@
 ## Cover image
 
 
-
 Create image
 
 ## Text Boxes
