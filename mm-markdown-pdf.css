@@ -105,6 +105,7 @@ ul {
 	h2,
 	h3 {
 		page-break-after: avoid;
+    text-decoration: none;
 	}
 
 	img {
