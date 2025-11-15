@@ -11,8 +11,7 @@ https: //github.com/yzane/vscode-markdown-pdf/tree/master
 }
 
 body {
-  max-width: 30rem;
-  /* font-size: 14pt; */
+	max-width: 30rem;
 }
 
 a {
@@ -74,9 +73,8 @@ li {
 
 /*
 ul {
-	/* margin: 0;
+	/* margin: 0;*/
 }
-*/
 
 .a-dingbat {
   font-size: 200%;
@@ -85,16 +83,16 @@ ul {
 
 @media print {
 
-  body {
-    background: #fff !important;
-    max-width: 100%;
-  }
+body {
+  background: #fff !important;
+  max-width: 100%;
+}
 
-  h1,
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
+h1,
+h2,
+h3 {
+  page-break-after: avoid;
+}
 
 /* h1 {
   color: yellow;
@@ -131,6 +129,7 @@ nav,
 p,
 li {
   margin-top: 0;
-} */
+}
+*/
 
 }
