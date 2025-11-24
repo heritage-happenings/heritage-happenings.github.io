@@ -606,11 +606,20 @@
     },
     {
         "type": "File",
-        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\vscode\\vscode-copilot.md",
-        "parent_id": "S5TauPl0Oh8jEJAw",
-        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\vscode\\vscode-copilot.md",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\vscode\\vscode-copilot-reference.md",
+        "parent_id": "fHJ3qbIUDACdOulL",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\vscode\\vscode-copilot-reference.md",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "mxF279wnHOPqzvNC"
+        "id": "zptG8wLQ6sMPdCI9"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\apps\\newww-tab\\0-newww-tab-agenda",
+        "parent_id": "w9TPXBt7HIvLbY8n",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\apps\\newww-tab\\0-newww-tab-agenda",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xi0FKLJEjzHs4WY2"
     }
 ]
