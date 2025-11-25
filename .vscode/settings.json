@@ -24,4 +24,5 @@
   // pdf only. Print background graphics.
   "markdown-pdf.printBackground": false,
   // pdf only. Paper width, accepts values labeled with units(mm, cm, in, px). If it is set, it overrides the markdown-pdf.format option.
-  "markdown-pdf.width": ""}
+  "markdown-pdf.width": ""
+}
