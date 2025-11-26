@@ -68,4 +68,10 @@ Artist Jennifer provides a hands-on demonstration and discussion about creating 
     - Jennifer is self-taught, learning from YouTube videos (e.g., by Fiona Able-Smith), Facebook groups, and books.
     - Inspiration can come from anywhere, such as a pattern on a blouse.
 
+## Links of Interest
 
+* https://www.arthurassociates.net/clay-art.html
+* http://www.fionaabel-smith.co.uk/
+* https://en.wikipedia.org/wiki/Polymer_clay
+* https://en.wikipedia.org/wiki/Sculpey
+* https://www.pinterest.com/flamingdrake/polymer-clay-ideas/
