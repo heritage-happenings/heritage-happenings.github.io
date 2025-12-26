@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" >
+<head>
+  <title>index</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <script>
+
+    const preferredScript = localStorage.getItem( "preferredScript" );
+
+    if ( preferredScript === "tootoo" ) {
+
+      window.location.href = "./tootoo/index.html" + location.hash;
+
+    } else {
+
+      window.location.href = "./momo/2025-08-09/momo.html" + location.hash;
+
+    }
+
+  </script>
+</body>
+
+</html>

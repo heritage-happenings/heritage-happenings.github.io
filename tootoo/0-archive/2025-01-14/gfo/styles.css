@@ -1,0 +1,85 @@
+
+:root {
+  font: 100% monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 50rem;
+}
+
+a {
+  color: #880000;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+  text-decoration: underline;
+}
+
+aside {
+  border: 1px solid lightgray;
+  margin-top: 15px;
+  padding: 2px;
+}
+
+button,
+input[type=button] {
+  background-color: #eee;
+  border: 2px #eee solid;
+  color: #888;
+}
+
+blockquote {
+  background-color: #ddd;
+  padding: 1rem;
+}
+
+code {
+  background-color: #eee;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+pre {
+  background-color: #eee;
+  padding: 0.5rem;
+}
+
+summary {
+  cursor: pointer;
+  font-size: 1.5rem;
+  font-weight: bold;
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  background: #333;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #880000;
+}
+
+/* read me footer */
+.aDingbat {
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.iframe-resize {
+  height: 400px;
+  overflow: hidden;
+  padding: 0.5rem;
+  resize: both;
+  width: 100%;
+}

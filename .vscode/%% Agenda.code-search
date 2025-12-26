@@ -1,0 +1,78 @@
+# Query: %% 
+# Flags: IgnoreExcludeSettings
+# Including: ./agenda
+# Excluding: */archive,*/2024,*/2023,*.ai
+# ContextLines: 1
+
+16 results - 13 files
+
+agenda • .github\copilot-instructions.md:
+  14  
+  15: - **Pinning**: Use `%%` to "pin" items for easy search retrieval (e.g., `%% Important Item`).
+  16  - **Linking**:
+
+agenda • 0-✎-admin\0-admin-agenda.md:
+  5  * ?
+  6: * %% Block: why refunds?
+  7  * Josh: money to ace
+
+agenda • 0-✎-admin\taxes\2025-taxes\0-2026-taxes-2025-agenda.md:
+  4  
+  5: * %% HR Block: Carmen: Did not need
+  6  * Business form Schedule C or schedule E or
+
+agenda • 1-1-✚-health\empower-speech-therapy\0-empowerme-agenda.md:
+  4  
+  5: * %% EmpowerMe 360: start: Resident/POA EMW360 Wellness Plan
+  6  * Carolyn: muscle groups I need help with
+
+agenda • 1-1-✚-health\speech-therapy\0-speech-therapy-agenda.md:
+  5  * Weekly Report: prepare draft
+  6: * %% Claire: article
+  7  * Claire: coaches
+
+agenda • 1-3-simplicity\archiving\0-archiving-agenda.md:
+  3  * ?
+  4: * %% Archivist RFP
+  5  * Contact Gus
+
+agenda • 1-3-simplicity\genealogy\0-genealogy-agenda.md:
+  5  
+  6: * %% Jeff: communicate
+  7  * TAGenealogy: web page
+
+agenda • 2-3-peeps-folders\jack-ohman\0-jack-ohman.md:
+  48  
+  49: * %% JackO: $$$ + (wea)pens
+  50  * JackO: Sherrill? IA?
+
+agenda • 3-1-☎-entities\0-sps\0-sps-agenda.md:
+  3  * ++
+  4: * %% Jeffwheelwright.com
+  5  * John Rice
+
+agenda • 3-1-☗-heritage\accounts-it\0-accounts-agenda.md:
+   2  
+   3: * %% HotM: EAF my payments
+   4  
+
+  10  
+  11: * %% Jon: rent cafe ~ yardi ~ touchtown EHR?
+  12: * %% email on multiple transactions
+  13  * ptc & blackbaud > me ocr?
+
+agenda • 3-1-☗-heritage\marketing-sales\0-marketing-sales-agenda.md:
+  2  
+  3: * %% Holly
+  4: * %% Bob: Christmas window
+  5  
+
+agenda • 3-2-heritage-happenings\0-heritage-happenings-agenda.md:
+  2  
+  3: * %% HH article on Claire
+  4  * Sara MacVey: Interview
+
+agenda • 4-0-projects\0-projects-agenda.md:
+  4  
+  5: * %% Look here!
+  6  * GH: Inkubatr

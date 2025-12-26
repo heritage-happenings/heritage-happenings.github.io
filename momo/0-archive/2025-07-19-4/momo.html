@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<title>Heritage Happenings</title>
+	<meta name="description"
+		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+	<meta name="version" content="2025-07-19">
+
+	<link rel="icon" href="favicon.svg">
+	<link rel="stylesheet" href="style.css">
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js" defer></script>
+	<script src="./font-size.js" defer></script>
+	<script src="./file-handler.js" defer></script>
+	<script src="./swipe-nav.js" defer></script>
+
+</head>
+
+<body>
+
+	<header class="app-header">
+
+
+		<a href="" class="app-header__title" title="Home Page">Heritage Happenings</a>
+
+		<button class="app-header__button file-list-toggle" aria-label="Toggle file list" aria-expanded="false"
+			aria-controls="file-list-panel">
+			📁Posts
+		</button>
+
+		<span class="font-controls">
+
+			<button class="app-header__button font-controls__button--decrease" aria-label="Decrease font size">
+				A-
+			</button>
+
+			<button class="app-header__button font-controls__button--increase" aria-label="Increase font size">
+				A+
+			</button>
+
+		</span>
+	</header>
+
+	<!-- File list panel -->
+	<aside id="file-list-panel" class="file-list-panel" role="region" aria-label="Available files">
+		<div id="fileListHeader" class="file-list-header">July Stories</div>
+		<ul id="file-list" class="file-list" role="list">
+			<!-- Files will be populated by JavaScript -->
+		</ul>
+
+		<div class="dingbat-container" title="Hello! Click me to go up to the top"><a class="aDingbat"
+				href="javascript:fileListHeader.scrollIntoView();"> ❦ </a></div>
+
+	</aside>
+
+	<main id="main">
+
+	</main>
+
+</body>
+
+</html>

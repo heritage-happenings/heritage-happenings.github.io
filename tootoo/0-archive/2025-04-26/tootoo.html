@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Heritage Happenings</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description"
+    content="TooToo 2025 uses the GitHub API to provide access to all the current files in a repository hosted with GitHub Pages.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-04-26">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025/">
+
+  <!-- Copyright 2025 Theo Armour. MIT license -->
+
+  <link id=CORstyle rel="stylesheet" href="style-core.css">
+
+  <style>
+    :root {
+      /* --mnu-width: 20rem; */
+      --main-hue: 10;
+      /* 0 to 360 0=red 120=green 240=blue */
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+
+  <script>
+
+    const COR = {
+
+      // Used by GFO ~ github file open
+      defaultFile: "HOME.md",
+      pathContent: "../../",
+
+      // Used by GTV ~ github tree view
+      user: "heritage-happenings",
+      repo: "heritage-happenings.github.io",
+      branch: "master",
+
+      urlSource: "https://github.com/heritage-happenings/",
+
+      filterFolders: ["activities", "code", "files", "people", "residents-council"], //[ "code"],
+
+      ignoreFiles: [ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
+    }
+
+  </script>
+
+  <script src="gfo/github-file-open.js"></script>
+  <script src="gtv/github-tree-view.js"></script>
+
+
+  <div id=divShowHide>
+
+    <details id=detNavMenu class="gmd-4" open>
+
+      <summary id=sumNavMenu class="summary-nav gmd-1" title="click to view or hide menu">
+        ☰
+      </summary>
+
+      <nav id="navMenu" class="gmd-4">
+
+        <div id=divHeader>
+
+          <header>
+
+            <h1>
+              <a id=aSource href="" target="_top" title="Click to go to the source code on GitHub"><img id="imgGitHub" src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg"></a>
+
+              <a href="" title="Click this title to reload this page">
+                <span id=spnTitle>Heritage Happenings</span>
+                <span id=spnVersion></span>
+              </a>
+
+            </h1>
+
+          </header>
+          
+        </div>
+
+        <div id=divExtras>
+          <button onclick="document.body.style.fontSize='80%'; sumNavMenu.style.width='10rem'; document.getElementById('imgGitHub').style.width='16px';"
+            style="font-size:80%;">A</button>
+          <button onclick="document.body.style.fontSize='100%'; sumNavMenu.style.width='13rem'; document.getElementById('imgGitHub').style.width='20px';"
+            style="font-size:100%;">A</button>
+          <button onclick="document.body.style.fontSize='150%'; sumNavMenu.style.width='20rem'; document.getElementById('imgGitHub').style.width='30px';"
+            style="font-size:150%;">A</button>
+
+        </div>
+
+        <hr>
+
+        <div id=divContent></div>
+
+        <div id=divFooter>
+
+          <footer>
+
+            <div id=divLog></div>
+
+            <hr>
+
+            <center>
+              <a id=aIcon class=aDingbat href="javascript:spnTitle.scrollIntoView();" title="Scroll to top">
+                ❦
+              </a>
+            </center>
+
+          </footer>
+        </div>
+
+      </nav>
+
+    </details>
+
+  </div>
+
+
+  <main id=main>
+
+    <div id="divMainContent"></div>
+
+  </main>
+
+
+  <script>
+
+    init();
+
+    function init () {
+
+      document.getElementById("aSource").href = COR.urlSource;
+
+      if ( location.protocol === "https:" ) {
+
+        window.history.pushState( "", "", "./" + location.hash );
+
+      }
+
+
+      if ( window.innerWidth < 800 || window.innerHeight < 500 ) {
+
+        //document.documentElement.style.setProperty( "--mnu-width", "35%" );
+        //console.log( "bb", 23 );
+        sumNavMenu.hidden = false;
+        detNavMenu.open = false;
+
+      } else {
+
+        const value = window.getComputedStyle( document.documentElement ).getPropertyValue( '--mnu-width' ); // #999999
+        //console.log( "value", value );
+        detNavMenu.style.width = value;
+        detNavMenu.style.maxWidth = "50%";
+        detNavMenu.open = true;
+        //navMenu.hidden = false;
+        sumNavMenu.hidden = true;
+
+      }
+
+      GFO.onHashChange();
+
+    }
+
+  </script>
+
+</body>
+
+</html>

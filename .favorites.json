@@ -1,0 +1,625 @@
+[
+    {
+        "type": "Group",
+        "name": "+++",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "S5TauPl0Oh8jEJAw"
+    },
+    {
+        "type": "Group",
+        "name": "1-1-health",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "AgaB9Mz4b2fD5hp0",
+        "iconColor": "rgb(0, 128, 0)"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\0-health-agenda.md",
+        "parent_id": "AgaB9Mz4b2fD5hp0",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\0-health-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "XO1jwqS34Umgp62R"
+    },
+    {
+        "type": "Group",
+        "name": "2-people",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "gSxZztWdvcsmhbu1",
+        "iconColor": "rgb(255, 0, 0)"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\0-peeps-agenda.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\0-peeps-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lgfXkI2b17xE3u0i",
+        "label": null
+    },
+    {
+        "type": "Group",
+        "name": "0-admin",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "FDxQCo7gXebmu1Lv",
+        "iconColor": "rgb(192, 192, 192)"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-agenda.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4ialZ7pAIbTk8n6t"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-reminders.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-reminders.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "TVsLbJyD6EilfRB7"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-agenda-agenda.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-agenda-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "E4IlyqaAZi9fNLvb"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-schedule-weekly.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-schedule-weekly.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "XoN7fTxIPhZAMkJB"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-agenda.md",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "1DiRvaT8BpVMy3wS"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-notes.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-notes.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Cz6oU7YQlDIfnEgp"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-schedule-daily.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-schedule-daily.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "P4QDRwLEfIBVh1qm"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-admin-personal\\0-admin-personal-agenda.md",
+        "parent_id": "FDxQCo7gXebmu1Lv",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\0-admin-personal\\0-admin-personal-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lmDNQhbHGnVTRYdo"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\pine-park-health\\0-pine-park-health-agenda.md",
+        "parent_id": "AgaB9Mz4b2fD5hp0",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\pine-park-health\\0-pine-park-health-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "2uMt34WaCelHG1Uv"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\empower-speech-therapy\\0-empowerme-agenda.md",
+        "parent_id": "AgaB9Mz4b2fD5hp0",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-1-health\\empower-speech-therapy\\0-empowerme-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "DLcFutZ3UArbexfd"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-2-fitness\\0-fitness-agenda.md",
+        "parent_id": "AgaB9Mz4b2fD5hp0",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-2-fitness\\0-fitness-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "aBMqyVg1uTlU0fjk"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\0-ace-it-agenda.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\0-ace-it-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "1FuexyPjLz3AKIXW"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\eloise.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\eloise.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "2itC0RW9dgSQxGbw"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\cynthia.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\cynthia.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "esZK3tyJ7vmwAj4n"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\alix.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-1-ace-it\\alix.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "VaSNyCtDik3frhws"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-2-family\\0-family-agenda.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-2-family\\0-family-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Ns8XM1rxRj5ytfSm"
+    },
+    {
+        "type": "Group",
+        "name": "3-1-entities",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "edrboQAqux61BV93"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-entities-agenda.md",
+        "parent_id": "edrboQAqux61BV93",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-entities-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "wS8cTrat7O9LzVYp"
+    },
+    {
+        "type": "Group",
+        "name": "3-1-heritage",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "hs54DpWeLgz3xoTm",
+        "iconColor": "rgb(136, 0, 0)"
+    },
+    {
+        "type": "Group",
+        "name": "3-1-heritage-happenings",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "W1MU98plFBC0jJR7"
+    },
+    {
+        "type": "Group",
+        "name": "3-1-sflp&rs",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lMkiA47YFDPERUHt",
+        "iconColor": "rgb(255, 215, 0)"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-next-village\\0-next-village-agenda.md",
+        "parent_id": "edrboQAqux61BV93",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-next-village\\0-next-village-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "I1n3camVshkBK2Ny"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-internet-archive\\0-internet-archive-agenda.md",
+        "parent_id": "edrboQAqux61BV93",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-internet-archive\\0-internet-archive-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "3VydpQCn6bq7te4h"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-sps\\0-sps-agenda.md",
+        "parent_id": "edrboQAqux61BV93",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-sps\\0-sps-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "hrQiL3WuPqoODIvU"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\tgd\\0-tgd-agenda.md",
+        "parent_id": "edrboQAqux61BV93",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\tgd\\0-tgd-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "U4hJvmZ0Lgap2fWH"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\accounts-it\\0-accounts-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\accounts-it\\0-accounts-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "cBti2uFhZ7rg5KYL"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\activities\\0-activities-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\activities\\0-activities-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "zNTdLvVbMoXmhcg4"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\admin-hr\\0-admin-hr.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\admin-hr\\0-admin-hr.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "k8EWLZ7clD4AMfbB"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\dining\\0-dining-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\dining\\0-dining-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "PKnjLE9IS7dXszxw"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-2-heritage-happenings\\0-heritage-happenings-agenda.md",
+        "parent_id": "W1MU98plFBC0jJR7",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-2-heritage-happenings\\0-heritage-happenings-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "i03RAXCr1xLn8cEo"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-3-sflprs\\0-sflprs-agenda.md",
+        "parent_id": "lMkiA47YFDPERUHt",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-3-sflprs\\0-sflprs-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "CYsELBxzct9W4lDJ"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\!0-heritage-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\!0-heritage-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "z2WEh5CUdVK79ig3"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-2-family\\alix-paine.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-2-family\\alix-paine.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "dxn1o6RgbKySf7Nr"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-sacsem\\0-wix-tips.md",
+        "parent_id": "edrboQAqux61BV93",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-☎-entities\\0-sacsem\\0-wix-tips.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "KjFERdTgpW0AxZiI"
+    },
+    {
+        "type": "Group",
+        "name": "pages",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "BaLrUzZFRDNC45gV"
+    },
+    {
+        "type": "Group",
+        "name": "qdata",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "w9TPXBt7HIvLbY8n"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year",
+        "parent_id": "w9TPXBt7HIvLbY8n",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "kv0ci7qfMzKbVFLN"
+    },
+    {
+        "type": "Group",
+        "name": "+-heritage-happenings",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "nlQvfr67sypA0mEN"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\markdown-pdf.css",
+        "parent_id": "nlQvfr67sypA0mEN",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\markdown-pdf.css",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "W5pzEFtMXfRjID6L"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\.favorites.json",
+        "parent_id": "nlQvfr67sypA0mEN",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\.favorites.json",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "DmIgPLlshHCx7auw"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-snippets",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-snippets",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ahCWyuYL0m1etBKJ"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-inspirations",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-inspirations",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "l9P0BeihEOVmH2FJ"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-commons\\artificial-intelligence\\prompts-theo",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\00-commons\\artificial-intelligence\\prompts-theo",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ZoYdS2Ok0NBrVupx"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\aqsa-choudry\\aqsa-choudry.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\aqsa-choudry\\aqsa-choudry.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "WHmZa0i24sSdJFxg"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\residents\\0-residents-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\residents\\0-residents-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fIcVKdweZ9tTv4NE"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\quincy-childs\\0-quincy-childs-agenda.md",
+        "parent_id": "gSxZztWdvcsmhbu1",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\2-3-peeps-folders\\quincy-childs\\0-quincy-childs-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "QdtExLcyJNG814nf"
+    },
+    {
+        "type": "Group",
+        "name": "4-projects",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fHJ3qbIUDACdOulL"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-0-projects\\0-projects-agenda.md",
+        "parent_id": "fHJ3qbIUDACdOulL",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-0-projects\\0-projects-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "A9UFsW8hYDTmPiLz"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\resident-council\\0-resident-council-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\resident-council\\0-resident-council-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "izdftqjlY62CTkNG"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "q2BSZgvIXlKku7nQ"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor\\microsoft\\vscode\\extensions\\vscode-favorites-bookmarks\\scrapbook-vscode.md",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\13-technology-applied-sciences\\computing-software\\software-by-vendor\\microsoft\\vscode\\extensions\\vscode-favorites-bookmarks\\scrapbook-vscode.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LzxNyvpSnflb5kdD"
+    },
+    {
+        "type": "Group",
+        "name": "1-3-simplicity",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fKHFJ0OnxIwv4UWe"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\0-simplicity-agenda.md",
+        "parent_id": "fKHFJ0OnxIwv4UWe",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\0-simplicity-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "vPY82bOhjqZWRdTu"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\archiving\\0-archiving-agenda.md",
+        "parent_id": "fKHFJ0OnxIwv4UWe",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\archiving\\0-archiving-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Ohr1K09UQX8VtaHP"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\genealogy\\0-genealogy-agenda.md",
+        "parent_id": "fKHFJ0OnxIwv4UWe",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\1-3-simplicity\\genealogy\\0-genealogy-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "buHaEUWFX65sIpZi"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\.vscode\\agenda.code-search",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\heritage-happenings.github.io\\.vscode\\agenda.code-search",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "T9QgWhGMkpb1FtvY"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\maintenance-housekeeping\\0-maintenance-housekeeping-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\maintenance-housekeeping\\0-maintenance-housekeeping-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "9pklydAhcTmzGMVB"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\marketing-sales\\0-marketing-sales-agenda.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\marketing-sales\\0-marketing-sales-agenda.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "fZNjwCrxnmUv5PY9"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year\\11",
+        "parent_id": "w9TPXBt7HIvLbY8n",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\journal\\days-of-year\\11",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "b7zdlvH6o2w185r0"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\admin-hr\\2025-11-18-mary-meeting.md",
+        "parent_id": "hs54DpWeLgz3xoTm",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\3-1-heritage\\admin-hr\\2025-11-18-mary-meeting.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LKJEXvHuqjyzeMNf"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\vscode\\vscode-copilot-reference.md",
+        "parent_id": "fHJ3qbIUDACdOulL",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\vscode\\vscode-copilot-reference.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "zptG8wLQ6sMPdCI9"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\apps\\newww-tab\\0-newww-tab-agenda",
+        "parent_id": "w9TPXBt7HIvLbY8n",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-qdata\\apps\\newww-tab\\0-newww-tab-agenda",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xi0FKLJEjzHs4WY2"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\windows-tips.md",
+        "parent_id": "fHJ3qbIUDACdOulL",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-agenda\\4-2-software\\windows-tips.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ehHFUamsTb4vW5k6"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\09-people-self\\people-notable\\Shigehiro-Oishi.md",
+        "parent_id": "BaLrUzZFRDNC45gV",
+        "fsPath": "c:\\Users\\tarmo\\OneDrive\\Documents\\GitHub\\theo-armour-pages\\09-people-self\\people-notable\\Shigehiro-Oishi.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "yYpHfFza9uQDSnqR"
+    }
+]

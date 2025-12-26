@@ -1,0 +1,13 @@
+|### Admin Theo
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin\0-admin-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin-personal\0-admin-personal-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\1-simplicity\0-simplicity-agenda.md
+|### projects
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-0-projects\0-projects-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-1-organizations-repos\0-organizations-repos.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-2-software\0-software-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-3-hardware\0-hardware-agenda.md
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\4-4-qdata-apps-journal\0-qdata-agenda.md
+|### Current
+c:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-agenda\0-admin\taxes\0-2024-taxes-agenda.md

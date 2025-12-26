@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Open Index or Markdown</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
+  <meta name="description" content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
+  <meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
+  <meta name="version" content="2025-04-26">
+  <meta name="author" content="Theo Armour">
+  <meta name="creator" content="https://github.com/pushme-pullyou/tootoo-2025">
+
+  <link rel="stylesheet" href="../style.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0.5em;
+      color: #333;
+      line-height: 1.5;
+    }
+    
+    #divMainContent {
+      max-width: 100%;
+      margin: 0 auto;
+    }
+    
+    .loading {
+      padding: 1em;
+      text-align: center;
+      color: #666;
+      font-style: italic;
+      background-color: #f8f9fa;
+      border-radius: 4px;
+      margin: 1em 0;
+      position: relative;
+    }
+    
+    .loading::after {
+      content: "...";
+      display: inline-block;
+      animation: dots 1.5s infinite;
+    }
+    
+    img {
+      transition: opacity 0.3s ease;
+    }
+    
+    @keyframes dots {
+      0% { content: "."; }
+      33% { content: ".."; }
+      66% { content: "..."; }
+    }
+    
+    pre {
+      background-color: #f6f8fa;
+      border-radius: 3px;
+      font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      font-size: 85%;
+      padding: 16px;
+      overflow-x: auto;
+    }
+    
+    code {
+      background-color: #f6f8fa;
+      border-radius: 3px;
+      font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+      font-size: 85%;
+      padding: 0.2em 0.4em;
+    }
+    
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    table th, table td {
+      border: 1px solid #dfe2e5;
+      padding: 6px 13px;
+    }
+    
+    table tr {
+      background-color: #fff;
+      border-top: 1px solid #c6cbd1;
+    }
+    
+    table tr:nth-child(2n) {
+      background-color: #f6f8fa;
+    }
+    
+    blockquote {
+      border-left: 0.25em solid #dfe2e5;
+      color: #6a737d;
+      padding: 0 1em;
+      margin: 0;
+    }
+    
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+      }
+      
+      pre, code {
+        background-color: #161b22;
+      }
+      
+      a {
+        color: #58a6ff;
+      }
+      
+      .loading {
+        background-color: #161b22;
+        color: #8b949e;
+      }
+      
+      table tr {
+        background-color: #0d1117;
+        border-top: 1px solid #30363d;
+      }
+      
+      table tr:nth-child(2n) {
+        background-color: #161b22;
+      }
+      
+      table th, table td {
+        border: 1px solid #30363d;
+      }
+      
+      blockquote {
+        border-left: 0.25em solid #30363d;
+        color: #8b949e;
+      }
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <!-- https://github.com/showdownjs/showdown -->
+  <!-- https://showdownjs.com/docs/available-options/ -->
+
+  <div id=divMainContent></div>
+
+  <script>
+
+    COR = {
+
+      defaultFile: "README.md",
+      pathContent: "../../",
+
+    };
+
+  </script>
+
+  <script src="github-file-open.js"></script>
+
+  <script>
+
+    GFO.onHashChange();
+
+  </script>
+
+</body>
+
+</html>

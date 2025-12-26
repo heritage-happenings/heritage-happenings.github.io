@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang=en>
+
+<head>
+	<title></title>
+	<meta charset=utf-8 />
+</head>
+
+<body style="font: bold 12pt monospace;">
+
+	<h1><a href="">Gardner's Book Sleuth Thingy</a></h1>
+
+	<p>ISBN number <input id=inpISBN placeholder="Enter ISBN" onclick=getBookDetails(this.value) oninput=getBookDetails(this.value)></p>
+
+	<p>
+
+		<button onclick=inpISBN.value="0451522907";inpISBN.click() >"Flatland" ISBN</button>
+
+		<button onclick=inpISBN.value="9781451648546";inpISBN.click() >Steve Jobs Book ISBN</button>
+
+	</p>
+
+	<div id=divInfo></div>
+
+
+	<script>
+
+// https://www.labnol.org/code/20020-query-book-by-isbn
+
+		isbn = "9781451648546"; // Steve Jobs book
+
+		//inpISBN.value = isbn
+
+
+		//getBookDetails( isbn )
+
+		function getBookDetails( isbn ) {
+
+			console.log( "isbn", isbn );
+			// Query the book database by ISBN code.
+			isbn = isbn || "9781451648546"; // Steve Jobs book
+
+			var url = "https://www.googleapis.com/books/v1/volumes?q=isbn:" + isbn;
+
+			requestFile( url, onLoadJson )
+
+		}
+
+
+		function requestFile( url, callback ) {
+
+			const xhr = new XMLHttpRequest();
+			xhr.open( 'GET', url, true );
+			xhr.responseType = "json";
+			xhr.onerror = ( xhr ) => console.log( 'error:', xhr );
+			xhr.onprogress = ( xhr ) => console.log( 'bytes loaded:', xhr.loaded );
+			xhr.onload = ( xhr ) => callback( xhr.target.response );
+			xhr.send( null );
+
+		}
+
+		function onLoadJson( j ) {
+
+			json = j
+
+			console.log( "json", json, json.totalItems );
+
+			if ( json.totalItems ) {
+
+				// There'll be only 1 book per ISBN
+				var book = json.items[ 0 ];
+
+				var title = ( book[ "volumeInfo" ][ "title" ] );
+				var subtitle = ( book[ "volumeInfo" ][ "subtitle" ] );
+				var authors = ( book[ "volumeInfo" ][ "authors" ] );
+				var printType = ( book[ "volumeInfo" ][ "printType" ] );
+				var pageCount = ( book[ "volumeInfo" ][ "pageCount" ] );
+				var publisher = ( book[ "volumeInfo" ][ "publisher" ] );
+				var publishedDate = ( book[ "volumeInfo" ][ "publishedDate" ] );
+				var webReaderLink = ( book[ "accessInfo" ][ "webReaderLink" ] );
+
+				htm = `
+<div>
+	Title: ${ title }<br>
+	Subtitle: ${ subtitle }<br>
+	Authors: ${ authors }<br>
+	printType: ${ printType }<br>
+	Page Count: ${ pageCount }<br>
+	Publisher: ${ publisher }<br>
+	Published Date: ${ publishedDate }<br>
+	text: ${ json.items[ 0 ].searchInfo.textSnippet }<br>
+</div>
+			`;
+
+				divInfo.innerHTML = htm;
+
+			} else {
+
+				divInfo.innerHTML = "";
+			}
+
+		}
+	</script>
+</body>
+
+</html>

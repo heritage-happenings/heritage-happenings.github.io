@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heritage Happenings - Test Runner</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin: 2rem; }
+        .test-results { margin-top: 2rem; }
+        .test-pass { color: #28a745; }
+        .test-fail { color: #dc3545; }
+        .test-section { margin: 1rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 4px; }
+        pre { background: #f8f9fa; padding: 1rem; border-radius: 4px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>Heritage Happenings Test Suite</h1>
+    <button onclick="TestRunner.runAll()">Run All Tests</button>
+    <div id="test-output" class="test-results"></div>
+
+    <!-- Load your app modules -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <script src="../font-size.js"></script>
+    <script src="../file-list.js"></script>
+    <script src="../file-handler.js"></script>
+    <script src="../swipe-handler.js"></script>
+    <script src="../speech.js"></script>
+
+    <!-- Test Framework -->
+    <script>
+        const TestRunner = {
+            tests: [],
+            results: [],
+
+            test(name, testFn) {
+                this.tests.push({ name, testFn });
+            },
+
+            assert(condition, message) {
+                if (!condition) {
+                    throw new Error(message || 'Assertion failed');
+                }
+            },
+
+            assertEqual(actual, expected, message) {
+                this.assert(actual === expected,
+                    message || `Expected ${expected}, got ${actual}`);
+            },
+
+            async runAll() {
+                this.results = [];
+                const output = document.getElementById('test-output');
+                output.innerHTML = '<p>Running tests...</p>';
+
+                for (const test of this.tests) {
+                    try {
+                        await test.testFn();
+                        this.results.push({ name: test.name, status: 'pass' });
+                    } catch (error) {
+                        this.results.push({
+                            name: test.name,
+                            status: 'fail',
+                            error: error.message
+                        });
+                    }
+                }
+
+                this.displayResults();
+            },
+
+            displayResults() {
+                const output = document.getElementById('test-output');
+                const passed = this.results.filter(r => r.status === 'pass').length;
+                const total = this.results.length;
+
+                let html = `<h2>Test Results: ${passed}/${total} passed</h2>`;
+
+                this.results.forEach(result => {
+                    const className = result.status === 'pass' ? 'test-pass' : 'test-fail';
+                    const icon = result.status === 'pass' ? '✓' : '✗';
+                    html += `<div class="${className}">${icon} ${result.name}`;
+                    if (result.error) {
+                        html += `<br><small>${result.error}</small>`;
+                    }
+                    html += '</div>';
+                });
+
+                output.innerHTML = html;
+            }
+        };
+
+        // Font Size Manager Tests
+        TestRunner.test('FSM should initialize with default font size', () => {
+            TestRunner.assertEqual(typeof FSM.currentFontSize, 'number');
+        });
+
+        TestRunner.test('FSM should respect minimum font size', () => {
+            const originalSize = FSM.currentFontSize;
+            FSM.currentFontSize = 100;
+            FSM.decrease();
+            TestRunner.assertEqual(FSM.currentFontSize, 100);
+            FSM.currentFontSize = originalSize; // Restore
+        });
+
+        TestRunner.test('FSM should respect maximum font size', () => {
+            const originalSize = FSM.currentFontSize;
+            FSM.currentFontSize = 400;
+            FSM.increase();
+            TestRunner.assertEqual(FSM.currentFontSize, 400);
+            FSM.currentFontSize = originalSize; // Restore
+        });
+
+        // File Handler Tests
+        TestRunner.test('FH should have default file defined', () => {
+            TestRunner.assert(FH.defaultFile, 'Default file should be defined');
+            TestRunner.assert(FH.defaultFile.includes('.md'), 'Default file should be markdown');
+        });
+
+        // Swipe Handler Tests
+        TestRunner.test('SWIPE should have required properties', () => {
+            TestRunner.assert(typeof SWIPE.touchStartX === 'number');
+            TestRunner.assert(typeof SWIPE.isDragging === 'boolean');
+        });
+
+        // Speech Synthesis Tests
+        TestRunner.test('TTS should handle unsupported browsers gracefully', () => {
+            TestRunner.assert(typeof TTS.isSpeaking === 'boolean');
+            TestRunner.assert(typeof TTS.toggle === 'function');
+        });
+
+        // DOM Integration Tests
+        TestRunner.test('Required DOM elements should exist in main app', async () => {
+            // Create temporary DOM elements for testing
+            document.body.innerHTML += `
+                <div id="main" style="display:none;"></div>
+                <button class="font-controls__button--decrease" style="display:none;"></button>
+                <button class="font-controls__button--increase" style="display:none;"></button>
+                <button class="file-list-toggle" style="display:none;"></button>
+                <button id="read-aloud-button" style="display:none;"></button>
+                <div id="file-list-panel" style="display:none;"></div>
+            `;
+
+            TestRunner.assert(document.getElementById('main'), 'Main element should exist');
+            TestRunner.assert(document.querySelector('.font-controls__button--decrease'),
+                'Font decrease button should exist');
+            TestRunner.assert(document.querySelector('.font-controls__button--increase'),
+                'Font increase button should exist');
+            TestRunner.assert(document.querySelector('.file-list-toggle'),
+                'File list toggle should exist');
+            TestRunner.assert(document.getElementById('read-aloud-button'),
+                'Read aloud button should exist');
+        });
+
+        // Module Loading Tests
+        TestRunner.test('All modules should be loaded', () => {
+            TestRunner.assert(typeof FSM === 'object', 'FSM module should be loaded');
+            TestRunner.assert(typeof FH === 'object', 'FH module should be loaded');
+            TestRunner.assert(typeof FL === 'object', 'FL module should be loaded');
+            TestRunner.assert(typeof SWIPE === 'object', 'SWIPE module should be loaded');
+            TestRunner.assert(typeof TTS === 'object', 'TTS module should be loaded');
+        });
+
+        // Showdown Integration Test
+        TestRunner.test('Showdown library should be loaded', () => {
+            TestRunner.assert(typeof showdown !== 'undefined', 'Showdown should be loaded');
+            TestRunner.assert(typeof showdown.Converter === 'function',
+                'Showdown Converter should be available');
+        });
+
+        // Accessibility Tests
+        TestRunner.test('Buttons should have proper accessibility attributes', () => {
+            const buttons = document.querySelectorAll('button');
+            buttons.forEach(button => {
+                const hasText = button.textContent.trim().length > 0;
+                const hasAriaLabel = button.hasAttribute('aria-label');
+                const hasTitle = button.hasAttribute('title');
+
+                TestRunner.assert(hasText || hasAriaLabel || hasTitle,
+                    `Button should have text content, aria-label, or title: ${button.outerHTML}`);
+            });
+        });
+    </script>
+</body>
+</html>

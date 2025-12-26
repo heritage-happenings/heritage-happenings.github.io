@@ -1,0 +1,135 @@
+/*
+
+See also https: //github.com/yzane/vscode-markdown-pdf/blob/master/styles/markdown.css
+
+https: //github.com/yzane/vscode-markdown-pdf/tree/master
+
+*/
+
+:root {
+  font: 100% verdana, arial, sans-serif;
+}
+
+body {
+	max-width: 30rem;
+}
+
+a {
+  color: crimson;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  font-style: italic;
+}
+
+h1 {
+  color: #880000;
+  border-width: 0;
+  font-size: 200%;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 120%;
+}
+
+h3 {
+  font-size: 100%;
+}
+
+h2,
+h3 {
+  color: #880000;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 400px;
+  width: 100%;
+}
+
+p {
+  font-size: 14pt;
+  color: #000;
+  line-height: 150%; */
+	margin: 0 0 1.2rem 0; */
+}
+
+li {
+  margin: 0;
+  padding-top: 0;
+}
+
+*/ mark {
+  background-color: #ff0;
+}
+
+/*
+ul {
+	/* margin: 0;*/
+}
+
+.a-dingbat {
+  font-size: 200%;
+  text-decoration: none;
+}
+
+@media print {
+
+body {
+  background: #fff !important;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  page-break-after: avoid;
+}
+
+/* h1 {
+  color: yellow;
+  text-decoration: none;
+  text-decoration-thickness: 0px;
+  font-size: 150%;
+  margin: 0 0 0.5rem 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 120%;
+  margin: 0 0 0 0;
+  padding: 0;
+}
+
+h3 {
+  font-size: 110%;
+  margin: 0 0 0 0;
+}
+
+img {
+  max-width: 400px;
+  width: 100%;
+}
+
+nav,
+.sidebar,
+.footer,
+.no-print {
+  display: none !important;
+}
+
+p,
+li {
+  margin-top: 0;
+}
+*/
+
+}
