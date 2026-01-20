@@ -67,11 +67,10 @@ li {
   padding-top: 0;
 }
 
-*/ mark {
+mark {
   background-color: #ff0;
 }
 
-/*
 ul {
 	/* margin: 0;*/
 }
@@ -130,6 +129,6 @@ p,
 li {
   margin-top: 0;
 }
-*/
 
+*/
 }
