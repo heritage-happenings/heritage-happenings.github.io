@@ -45,6 +45,7 @@ h3 {
 
 h2,
 h3 {
+  border-width: 0;
   color: #880000;
   margin: 0;
   padding: 0;
