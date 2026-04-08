@@ -6,16 +6,16 @@
   // pdf only. Paper format [Letter, Legal, Tabloid, Ledger, A0, A1, A2, A3, A4, A5, A6].
   "markdown-pdf.format": "Letter",
   // pdf only. HTML template for the print header.
-  "markdown-pdf.headerTemplate": "<div style=\"color:#880000;font-size: 12pt; margin-left: 0.5in; \"> <span><i>Heritage Happenings</i></span></div> <div style=\"color:#880000;font-size: 12pt; margin-left: auto; margin-right: 0.8in;\" class='date'></div>",
+  "markdown-pdf.headerTemplate": "<div style=\"color:#880000;font-size: 12pt; margin-left: 0.5in; \"> <span><i>HotM Tech Support</i></span></div> <div style=\"color:#880000;font-size: 12pt; margin-left: auto; margin-right: 0.5in;\" class='date'></div>",
   // pdf only. Paper height, accepts values labeled with units(mm, cm, in, px). If it is set, it overrides the markdown-pdf.format option.
   "markdown-pdf.height": "",
   "markdown-pdf.includeDefaultStyles": false,
   // Page Option. Border bottom. units: mm, cm, in, px
   "markdown-pdf.margin.bottom": "0.5in",
   // Page Option. Border left. units: mm, cm, in, px
-  "markdown-pdf.margin.left": "1in",
+  "markdown-pdf.margin.left": "0.75in",
   // Page Option. Border right. units: mm, cm, in, px
-  "markdown-pdf.margin.right": "1in",
+  "markdown-pdf.margin.right": "0.75in",
   // Page Option. Border Top. units: mm, cm, in, px
   "markdown-pdf.margin.top": "0.5in",
   // pdf only. Paper orientation. portrait or landscape.
@@ -25,5 +25,8 @@
   // pdf only. Print background graphics.
   "markdown-pdf.printBackground": false,
   // pdf only. Paper width, accepts values labeled with units(mm, cm, in, px). If it is set, it overrides the markdown-pdf.format option.
-  "markdown-pdf.width": ""
+  "markdown-pdf.width": "",
+  "markdown.preview.breaks": false,
+  "markdown.preview.openMarkdownLinks": "inEditor",
+  //"markdown.styles": "..\.vscode\\markdown-pdf.css",
 }
