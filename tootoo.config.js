@@ -8,4 +8,5 @@ window.TOOTOO_CONFIG = {
   subtitle: '',
   faviconLetters: 'HH',
   faviconColor: '#8B6914',
+  faviconFile: 'favicon.ico',
 };
